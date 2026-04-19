@@ -1,5 +1,5 @@
-import QueryDashboardServer from "./query-dashboard-server";
+import FinalWorkingDashboardServer from "./final-working-dashboard-server";
 
 export default function Home() {
-  return <QueryDashboardServer />;
+  return <FinalWorkingDashboardServer />;
 }

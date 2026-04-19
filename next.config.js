@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
+  // Убрали output: 'export' для поддержки динамических параметров
   images: {
     unoptimized: true,
   },

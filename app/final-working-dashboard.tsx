@@ -1,7 +1,6 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { useRouter, useSearchParams } from "next/navigation";
 import dynamic from "next/dynamic";
 import type { SiteData } from "./types";
 
@@ -41,17 +40,14 @@ const EMOJIS: Record<string, string> = {
   "Vittoria": "🍕",
 };
 
-interface QueryDashboardProps {
+interface FinalWorkingDashboardProps {
   initialSites: Record<string, SiteData>;
   initialAllSites: Record<string, SiteData>;
 }
 
-export default function QueryDashboard({ initialSites, initialAllSites }: QueryDashboardProps) {
-  const router = useRouter();
-  const searchParams = useSearchParams();
+export default function FinalWorkingDashboard({ initialSites, initialAllSites }: FinalWorkingDashboardProps) {
+  const [selectedSite, setSelectedSite] = useState<string | null>(null);
   const [chartsReady, setChartsReady] = useState(false);
-
-  const selectedSite = searchParams.get("site");
 
   useEffect(() => {
     // Загружаем и регистрируем Chart.js только на клиенте
@@ -64,22 +60,6 @@ export default function QueryDashboard({ initialSites, initialAllSites }: QueryD
   const sites = Object.values(initialSites);
   const allSites = Object.values(initialAllSites);
   const active = selectedSite ? initialAllSites[selectedSite] : null;
-
-  const handleSiteClick = (siteName: string) => {
-    const params = new URLSearchParams(searchParams.toString());
-    if (selectedSite === siteName) {
-      params.delete("site");
-    } else {
-      params.set("site", siteName);
-    }
-    router.push(`?${params.toString()}`, { scroll: false });
-  };
-
-  const handleClearSelection = () => {
-    const params = new URLSearchParams(searchParams.toString());
-    params.delete("site");
-    router.push(`?${params.toString()}`, { scroll: false });
-  };
 
   // Подготовка данных для графика
   const trendDates = active
@@ -148,6 +128,18 @@ export default function QueryDashboard({ initialSites, initialAllSites }: QueryD
     return n.toLocaleString();
   }
 
+  const handleSiteClick = (siteName: string, e: React.MouseEvent) => {
+    e.preventDefault();
+    e.stopPropagation();
+    setSelectedSite(selectedSite === siteName ? null : siteName);
+  };
+
+  const handleClearSelection = (e: React.MouseEvent) => {
+    e.preventDefault();
+    e.stopPropagation();
+    setSelectedSite(null);
+  };
+
   return (
     <div className="max-w-7xl mx-auto px-4 py-8">
       {/* Header */}
@@ -178,7 +170,7 @@ export default function QueryDashboard({ initialSites, initialAllSites }: QueryD
             <button
               type="button"
               key={site.name}
-              onClick={() => handleSiteClick(site.name)}
+              onClick={(e) => handleSiteClick(site.name, e)}
               className={`text-left p-4 rounded-xl border transition-all ${
                 isSelected
                   ? "border-zinc-500 bg-zinc-900"
@@ -316,7 +308,7 @@ export default function QueryDashboard({ initialSites, initialAllSites }: QueryD
                 <button
                   type="button"
                   key={site.name}
-                  onClick={() => handleSiteClick(site.name)}
+                  onClick={(e) => handleSiteClick(site.name, e)}
                   className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs border transition ${
                     isSelected
                       ? "border-zinc-500 bg-zinc-800 text-zinc-200"
