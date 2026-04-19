@@ -1,5 +1,5 @@
-import Dashboard from "./dashboard";
+import DashboardServer from "./dashboard-server";
 
 export default function Home() {
-  return <Dashboard />;
+  return <DashboardServer />;
 }

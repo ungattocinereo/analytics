@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import {
   Chart as ChartJS,
   CategoryScale,
@@ -51,21 +51,17 @@ const EMOJIS: Record<string, string> = {
   "Vittoria": "🍕",
 };
 
-export default function Dashboard() {
-  const [data, setData] = useState<Record<string, SiteData> | null>(null);
-  const [allData, setAllData] = useState<Record<string, SiteData> | null>(null);
+interface DashboardClientProps {
+  initialSites: Record<string, SiteData>;
+  initialAllSites: Record<string, SiteData>;
+}
+
+export default function DashboardClient({ initialSites, initialAllSites }: DashboardClientProps) {
   const [selectedSite, setSelectedSite] = useState<string | null>(null);
 
-  useEffect(() => {
-    fetch("/data/sites.json").then(r => r.json()).then(setData);
-    fetch("/data/all-sites.json").then(r => r.json()).then(setAllData);
-  }, []);
-
-  if (!data || !allData) return <div className="flex items-center justify-center min-h-screen text-zinc-500">Loading...</div>;
-
-  const sites = Object.values(data);
-  const allSites = Object.values(allData);
-  const active = selectedSite ? allData[selectedSite] : null;
+  const sites = Object.values(initialSites);
+  const allSites = Object.values(initialAllSites);
+  const active = selectedSite ? initialAllSites[selectedSite] : null;
 
   // Combined overview chart
   const trendDates = active
