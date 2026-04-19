@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
+import { useRouter, useSearchParams } from "next/navigation";
 import dynamic from "next/dynamic";
 import type { SiteData } from "./types";
 
@@ -40,14 +41,17 @@ const EMOJIS: Record<string, string> = {
   "Vittoria": "🍕",
 };
 
-interface FinalDashboardProps {
+interface QueryDashboardProps {
   initialSites: Record<string, SiteData>;
   initialAllSites: Record<string, SiteData>;
 }
 
-export default function FinalDashboard({ initialSites, initialAllSites }: FinalDashboardProps) {
-  const [selectedSite, setSelectedSite] = useState<string | null>(null);
+export default function QueryDashboard({ initialSites, initialAllSites }: QueryDashboardProps) {
+  const router = useRouter();
+  const searchParams = useSearchParams();
   const [chartsReady, setChartsReady] = useState(false);
+
+  const selectedSite = searchParams.get("site");
 
   useEffect(() => {
     // Загружаем и регистрируем Chart.js только на клиенте
@@ -60,6 +64,22 @@ export default function FinalDashboard({ initialSites, initialAllSites }: FinalD
   const sites = Object.values(initialSites);
   const allSites = Object.values(initialAllSites);
   const active = selectedSite ? initialAllSites[selectedSite] : null;
+
+  const handleSiteClick = (siteName: string) => {
+    const params = new URLSearchParams(searchParams.toString());
+    if (selectedSite === siteName) {
+      params.delete("site");
+    } else {
+      params.set("site", siteName);
+    }
+    router.push(`?${params.toString()}`, { scroll: false });
+  };
+
+  const handleClearSelection = () => {
+    const params = new URLSearchParams(searchParams.toString());
+    params.delete("site");
+    router.push(`?${params.toString()}`, { scroll: false });
+  };
 
   // Подготовка данных для графика
   const trendDates = active
@@ -140,7 +160,7 @@ export default function FinalDashboard({ initialSites, initialAllSites }: FinalD
         </div>
         <button
           type="button"
-          onClick={() => setSelectedSite(null)}
+          onClick={handleClearSelection}
           disabled={!selectedSite}
           className="text-sm text-zinc-400 hover:text-zinc-200 disabled:opacity-30 disabled:cursor-default transition"
         >
@@ -158,7 +178,7 @@ export default function FinalDashboard({ initialSites, initialAllSites }: FinalD
             <button
               type="button"
               key={site.name}
-              onClick={() => setSelectedSite(isSelected ? null : site.name)}
+              onClick={() => handleSiteClick(site.name)}
               className={`text-left p-4 rounded-xl border transition-all ${
                 isSelected
                   ? "border-zinc-500 bg-zinc-900"
@@ -296,7 +316,7 @@ export default function FinalDashboard({ initialSites, initialAllSites }: FinalD
                 <button
                   type="button"
                   key={site.name}
-                  onClick={() => setSelectedSite(isSelected ? null : site.name)}
+                  onClick={() => handleSiteClick(site.name)}
                   className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs border transition ${
                     isSelected
                       ? "border-zinc-500 bg-zinc-800 text-zinc-200"
