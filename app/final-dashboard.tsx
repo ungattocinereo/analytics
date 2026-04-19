@@ -1,23 +1,12 @@
 "use client";
 
-import { useState } from "react";
-import {
-  Chart as ChartJS,
-  CategoryScale,
-  LinearScale,
-  PointElement,
-  LineElement,
-  BarElement,
-  ArcElement,
-  Title,
-  Tooltip,
-  Legend,
-  Filler,
-} from "chart.js";
-import { Line, Doughnut } from "react-chartjs-2";
+import { useState, useEffect } from "react";
+import dynamic from "next/dynamic";
 import type { SiteData } from "./types";
 
-ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, BarElement, ArcElement, Title, Tooltip, Legend, Filler);
+// Динамически импортируем Chart.js только на клиенте
+const Line = dynamic(() => import("react-chartjs-2").then(mod => mod.Line), { ssr: false });
+const Doughnut = dynamic(() => import("react-chartjs-2").then(mod => mod.Doughnut), { ssr: false });
 
 const COLORS: Record<string, { bg: string; border: string }> = {
   "Atrani.ru": { bg: "rgba(239, 68, 68, 0.15)", border: "rgb(239, 68, 68)" },
@@ -51,19 +40,28 @@ const EMOJIS: Record<string, string> = {
   "Vittoria": "🍕",
 };
 
-interface DashboardClientProps {
+interface FinalDashboardProps {
   initialSites: Record<string, SiteData>;
   initialAllSites: Record<string, SiteData>;
 }
 
-export default function DashboardClient({ initialSites, initialAllSites }: DashboardClientProps) {
+export default function FinalDashboard({ initialSites, initialAllSites }: FinalDashboardProps) {
   const [selectedSite, setSelectedSite] = useState<string | null>(null);
+  const [chartsReady, setChartsReady] = useState(false);
+
+  useEffect(() => {
+    // Загружаем и регистрируем Chart.js только на клиенте
+    import("chart.js").then(({ Chart, registerables }) => {
+      Chart.register(...registerables);
+      setChartsReady(true);
+    });
+  }, []);
 
   const sites = Object.values(initialSites);
   const allSites = Object.values(initialAllSites);
   const active = selectedSite ? initialAllSites[selectedSite] : null;
 
-  // Combined overview chart
+  // Подготовка данных для графика
   const trendDates = active
     ? active.trend.map(r => {
         const d = r.dimensions[0];
@@ -182,14 +180,16 @@ export default function DashboardClient({ initialSites, initialAllSites }: Dashb
       </div>
 
       {/* Trend chart */}
-      <div className="bg-zinc-900/50 border border-zinc-800 rounded-xl p-5 mb-8">
-        <h2 className="text-sm font-medium text-zinc-400 mb-4">
-          {active ? `${active.name} — Sessions (30d)` : "Sessions Overview (30d)"}
-        </h2>
-        <div className="h-[280px]">
-          <Line data={overviewChartData} options={chartOptions} />
+      {chartsReady && (
+        <div className="bg-zinc-900/50 border border-zinc-800 rounded-xl p-5 mb-8">
+          <h2 className="text-sm font-medium text-zinc-400 mb-4">
+            {active ? `${active.name} — Sessions (30d)` : "Sessions Overview (30d)"}
+          </h2>
+          <div className="h-[280px]">
+            <Line data={overviewChartData} options={chartOptions} />
+          </div>
         </div>
-      </div>
+      )}
 
       {/* Detail panels for selected site */}
       {active && (
@@ -228,9 +228,9 @@ export default function DashboardClient({ initialSites, initialAllSites }: Dashb
           </div>
 
           {/* Countries */}
-          <div className="bg-zinc-900/50 border border-zinc-800 rounded-xl p-5">
-            <h3 className="text-sm font-medium text-zinc-400 mb-4">Countries (7d)</h3>
-            {active.countries.length > 0 ? (
+          {chartsReady && active.countries.length > 0 && (
+            <div className="bg-zinc-900/50 border border-zinc-800 rounded-xl p-5">
+              <h3 className="text-sm font-medium text-zinc-400 mb-4">Countries (7d)</h3>
               <div className="flex items-center gap-4">
                 <div className="w-36 h-36">
                   <Doughnut
@@ -265,10 +265,8 @@ export default function DashboardClient({ initialSites, initialAllSites }: Dashb
                   ))}
                 </div>
               </div>
-            ) : (
-              <p className="text-zinc-600 text-sm">No data</p>
-            )}
-          </div>
+            </div>
+          )}
 
           {/* Top Pages */}
           <div className="bg-zinc-900/50 border border-zinc-800 rounded-xl p-5 md:col-span-2">
