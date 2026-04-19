@@ -3,10 +3,10 @@ export interface SiteData {
   propertyId: string;
   updatedAt: string;
   error?: string;
-  trend: { dimensions: string[]; metrics: string[] }[];
-  topPages: { dimensions: string[]; metrics: string[] }[];
-  sources: { dimensions: string[]; metrics: string[] }[];
-  countries: { dimensions: string[]; metrics: string[] }[];
+  trend?: { dimensions: string[]; metrics: string[] }[];
+  topPages?: { dimensions: string[]; metrics: string[] }[];
+  sources?: { dimensions: string[]; metrics: string[] }[];
+  countries?: { dimensions: string[]; metrics: string[] }[];
   summary7d: {
     sessions: number;
     users: number;

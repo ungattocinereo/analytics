@@ -59,26 +59,36 @@ export default function FinalWorkingDashboard({ initialSites, initialAllSites }:
 
   const sites = Object.values(initialSites);
   const allSites = Object.values(initialAllSites);
-  const active = selectedSite ? initialAllSites[selectedSite] : null;
+  const active = selectedSite
+    ? (initialSites[selectedSite] ?? initialAllSites[selectedSite] ?? null)
+    : null;
+
+  const activeTrend = active && Array.isArray(active.trend) ? active.trend : [];
+  const activeTopPages = active && Array.isArray(active.topPages) ? active.topPages : [];
+  const activeSources = active && Array.isArray(active.sources) ? active.sources : [];
+  const activeCountries = active && Array.isArray(active.countries) ? active.countries : [];
+  const hasTrendData = activeTrend.length > 0;
 
   // Подготовка данных для графика
-  const trendDates = active
-    ? active.trend.map(r => {
+  const defaultTrendDates = Array.from({ length: 30 }, (_, i) => {
+    const d = new Date(Date.now() - (29 - i) * 86400000);
+    return `${String(d.getDate()).padStart(2, "0")}/${String(d.getMonth() + 1).padStart(2, "0")}`;
+  });
+
+  const trendDates = hasTrendData
+    ? activeTrend.map(r => {
         const d = r.dimensions[0];
         return `${d.slice(6, 8)}/${d.slice(4, 6)}`;
       })
-    : Array.from({ length: 30 }, (_, i) => {
-        const d = new Date(Date.now() - (29 - i) * 86400000);
-        return `${String(d.getDate()).padStart(2, "0")}/${String(d.getMonth() + 1).padStart(2, "0")}`;
-      });
+    : defaultTrendDates;
 
-  const overviewChartData = active
+  const overviewChartData = active && hasTrendData
     ? {
         labels: trendDates,
         datasets: [
           {
             label: "Sessions",
-            data: active.trend.map(r => parseInt(r.metrics[0])),
+            data: activeTrend.map(r => parseInt(r.metrics[0])),
             borderColor: COLORS[active.name]?.border || "rgb(59,130,246)",
             backgroundColor: COLORS[active.name]?.bg || "rgba(59,130,246,0.15)",
             fill: true,
@@ -89,12 +99,12 @@ export default function FinalWorkingDashboard({ initialSites, initialAllSites }:
         ],
       }
     : {
-        labels: trendDates,
+        labels: defaultTrendDates,
         datasets: sites
-          .filter(s => s.trend.length > 0)
+          .filter(s => Array.isArray(s.trend) && s.trend.length > 0)
           .map(site => ({
             label: site.name,
-            data: site.trend.map(r => parseInt(r.metrics[0])),
+            data: (site.trend ?? []).map(r => parseInt(r.metrics[0])),
             borderColor: COLORS[site.name]?.border,
             backgroundColor: COLORS[site.name]?.bg,
             fill: false,
@@ -195,7 +205,7 @@ export default function FinalWorkingDashboard({ initialSites, initialAllSites }:
       {chartsReady && (
         <div className="bg-zinc-900/50 border border-zinc-800 rounded-xl p-5 mb-8">
           <h2 className="text-sm font-medium text-zinc-400 mb-4">
-            {active ? `${active.name} — Sessions (30d)` : "Sessions Overview (30d)"}
+            {active && hasTrendData ? `${active.name} — Sessions (30d)` : "Sessions Overview (30d)"}
           </h2>
           <div className="h-[280px]">
             <Line data={overviewChartData} options={chartOptions} />
@@ -229,27 +239,27 @@ export default function FinalWorkingDashboard({ initialSites, initialAllSites }:
           <div className="bg-zinc-900/50 border border-zinc-800 rounded-xl p-5">
             <h3 className="text-sm font-medium text-zinc-400 mb-4">Top Sources (7d)</h3>
             <div className="space-y-2">
-              {active.sources.map((s, i) => (
+              {activeSources.map((s, i) => (
                 <div key={i} className="flex justify-between items-center">
                   <span className="text-sm truncate mr-2">{s.dimensions[0]}</span>
                   <span className="text-sm text-zinc-400 whitespace-nowrap">{formatNumber(parseInt(s.metrics[0]))}</span>
                 </div>
               ))}
-              {active.sources.length === 0 && <p className="text-zinc-600 text-sm">No data</p>}
+              {activeSources.length === 0 && <p className="text-zinc-600 text-sm">No data</p>}
             </div>
           </div>
 
           {/* Countries */}
-          {chartsReady && active.countries.length > 0 && (
+          {chartsReady && activeCountries.length > 0 && (
             <div className="bg-zinc-900/50 border border-zinc-800 rounded-xl p-5">
               <h3 className="text-sm font-medium text-zinc-400 mb-4">Countries (7d)</h3>
               <div className="flex items-center gap-4">
                 <div className="w-36 h-36">
                   <Doughnut
                     data={{
-                      labels: active.countries.map(c => c.dimensions[0]),
+                      labels: activeCountries.map(c => c.dimensions[0]),
                       datasets: [{
-                        data: active.countries.map(c => parseInt(c.metrics[0])),
+                        data: activeCountries.map(c => parseInt(c.metrics[0])),
                         backgroundColor: [
                           "rgb(239,68,68)", "rgb(59,130,246)", "rgb(34,197,94)", "rgb(251,191,36)",
                           "rgb(168,85,247)", "rgb(236,72,153)", "rgb(20,184,166)", "rgb(249,115,22)",
@@ -269,7 +279,7 @@ export default function FinalWorkingDashboard({ initialSites, initialAllSites }:
                   />
                 </div>
                 <div className="flex-1 space-y-1.5">
-                  {active.countries.map((c, i) => (
+                  {activeCountries.map((c, i) => (
                     <div key={i} className="flex justify-between text-sm">
                       <span className="text-zinc-400">{c.dimensions[0]}</span>
                       <span>{formatNumber(parseInt(c.metrics[0]))}</span>
@@ -284,13 +294,13 @@ export default function FinalWorkingDashboard({ initialSites, initialAllSites }:
           <div className="bg-zinc-900/50 border border-zinc-800 rounded-xl p-5 md:col-span-2">
             <h3 className="text-sm font-medium text-zinc-400 mb-4">Top Pages (7d)</h3>
             <div className="space-y-2">
-              {active.topPages.map((p, i) => (
+              {activeTopPages.map((p, i) => (
                 <div key={i} className="flex justify-between items-center">
                   <span className="text-sm font-mono text-zinc-400 truncate mr-4">{p.dimensions[0]}</span>
                   <span className="text-sm whitespace-nowrap">{formatNumber(parseInt(p.metrics[0]))} views</span>
                 </div>
               ))}
-              {active.topPages.length === 0 && <p className="text-zinc-600 text-sm">No data</p>}
+              {activeTopPages.length === 0 && <p className="text-zinc-600 text-sm">No data</p>}
             </div>
           </div>
         </div>
