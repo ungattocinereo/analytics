@@ -1,0 +1,283 @@
+{
+  "name": "find.amalfi.day",
+  "propertyId": "properties/531159837",
+  "updatedAt": "2026-04-19T17:24:05.031Z",
+  "trend": [
+    {
+      "dimensions": [
+        "20260417"
+      ],
+      "metrics": [
+        "21",
+        "16",
+        "103"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260413"
+      ],
+      "metrics": [
+        "12",
+        "9",
+        "54"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260414"
+      ],
+      "metrics": [
+        "8",
+        "5",
+        "16"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260405"
+      ],
+      "metrics": [
+        "6",
+        "3",
+        "13"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260403"
+      ],
+      "metrics": [
+        "3",
+        "3",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260404"
+      ],
+      "metrics": [
+        "3",
+        "2",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260408"
+      ],
+      "metrics": [
+        "3",
+        "1",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260409"
+      ],
+      "metrics": [
+        "3",
+        "2",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260407"
+      ],
+      "metrics": [
+        "2",
+        "1",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260416"
+      ],
+      "metrics": [
+        "2",
+        "2",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260406"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260415"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260419"
+      ],
+      "metrics": [
+        "1",
+        "0",
+        "1"
+      ]
+    }
+  ],
+  "topPages": [
+    {
+      "dimensions": [
+        "/"
+      ],
+      "metrics": [
+        "113",
+        "38"
+      ]
+    },
+    {
+      "dimensions": [
+        "/route/amalfi-house.html"
+      ],
+      "metrics": [
+        "28",
+        "22"
+      ]
+    },
+    {
+      "dimensions": [
+        "/a"
+      ],
+      "metrics": [
+        "23",
+        "10"
+      ]
+    },
+    {
+      "dimensions": [
+        "/route/atrani-house.html"
+      ],
+      "metrics": [
+        "12",
+        "10"
+      ]
+    },
+    {
+      "dimensions": [
+        "/route/amalfi-awesome.html"
+      ],
+      "metrics": [
+        "7",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/a/"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "dimensions": [
+        "(direct)"
+      ],
+      "metrics": [
+        "36",
+        "24"
+      ]
+    },
+    {
+      "dimensions": [
+        "vercel.com"
+      ],
+      "metrics": [
+        "5",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "airbnb.it"
+      ],
+      "metrics": [
+        "4",
+        "1"
+      ]
+    }
+  ],
+  "countries": [
+    {
+      "dimensions": [
+        "Italy"
+      ],
+      "metrics": [
+        "34",
+        "22"
+      ]
+    },
+    {
+      "dimensions": [
+        "North Macedonia"
+      ],
+      "metrics": [
+        "4",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "United Kingdom"
+      ],
+      "metrics": [
+        "4",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Spain"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Poland"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    }
+  ],
+  "summary7d": {
+    "sessions": 45,
+    "users": 26,
+    "pageViews": 185,
+    "avgSessionDuration": 454,
+    "bounceRate": 0.3
+  },
+  "summary30d": {
+    "sessions": 66,
+    "users": 33,
+    "pageViews": 227,
+    "avgSessionDuration": 377,
+    "bounceRate": 0.3
+  }
+}

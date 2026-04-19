@@ -1,0 +1,598 @@
+{
+  "name": "amalfi.day",
+  "propertyId": "properties/306713351",
+  "updatedAt": "2026-04-19T17:24:03.183Z",
+  "trend": [
+    {
+      "dimensions": [
+        "20260403"
+      ],
+      "metrics": [
+        "33",
+        "20",
+        "42"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260404"
+      ],
+      "metrics": [
+        "22",
+        "16",
+        "28"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260402"
+      ],
+      "metrics": [
+        "20",
+        "8",
+        "22"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260409"
+      ],
+      "metrics": [
+        "15",
+        "8",
+        "42"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260322"
+      ],
+      "metrics": [
+        "13",
+        "6",
+        "15"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260401"
+      ],
+      "metrics": [
+        "13",
+        "7",
+        "14"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260412"
+      ],
+      "metrics": [
+        "13",
+        "10",
+        "21"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260413"
+      ],
+      "metrics": [
+        "13",
+        "7",
+        "16"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260328"
+      ],
+      "metrics": [
+        "12",
+        "7",
+        "31"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260331"
+      ],
+      "metrics": [
+        "12",
+        "9",
+        "19"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260405"
+      ],
+      "metrics": [
+        "12",
+        "9",
+        "15"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260414"
+      ],
+      "metrics": [
+        "12",
+        "7",
+        "20"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260418"
+      ],
+      "metrics": [
+        "12",
+        "7",
+        "14"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260330"
+      ],
+      "metrics": [
+        "10",
+        "6",
+        "11"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260327"
+      ],
+      "metrics": [
+        "9",
+        "6",
+        "24"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260325"
+      ],
+      "metrics": [
+        "8",
+        "2",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260410"
+      ],
+      "metrics": [
+        "8",
+        "5",
+        "27"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260326"
+      ],
+      "metrics": [
+        "7",
+        "5",
+        "11"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260408"
+      ],
+      "metrics": [
+        "7",
+        "2",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260415"
+      ],
+      "metrics": [
+        "7",
+        "6",
+        "12"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260321"
+      ],
+      "metrics": [
+        "6",
+        "5",
+        "15"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260323"
+      ],
+      "metrics": [
+        "6",
+        "5",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260407"
+      ],
+      "metrics": [
+        "6",
+        "4",
+        "10"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260411"
+      ],
+      "metrics": [
+        "6",
+        "6",
+        "13"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260320"
+      ],
+      "metrics": [
+        "5",
+        "3",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260324"
+      ],
+      "metrics": [
+        "5",
+        "3",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260329"
+      ],
+      "metrics": [
+        "5",
+        "4",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260406"
+      ],
+      "metrics": [
+        "5",
+        "4",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260416"
+      ],
+      "metrics": [
+        "5",
+        "3",
+        "12"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260419"
+      ],
+      "metrics": [
+        "5",
+        "3",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260417"
+      ],
+      "metrics": [
+        "4",
+        "3",
+        "6"
+      ]
+    }
+  ],
+  "topPages": [
+    {
+      "dimensions": [
+        "/parking/"
+      ],
+      "metrics": [
+        "19",
+        "20"
+      ]
+    },
+    {
+      "dimensions": [
+        "/timetables/"
+      ],
+      "metrics": [
+        "19",
+        "15"
+      ]
+    },
+    {
+      "dimensions": [
+        "/"
+      ],
+      "metrics": [
+        "18",
+        "15"
+      ]
+    },
+    {
+      "dimensions": [
+        "/directions/"
+      ],
+      "metrics": [
+        "12",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/timetables"
+      ],
+      "metrics": [
+        "9",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photoshootings"
+      ],
+      "metrics": [
+        "7",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/apartments"
+      ],
+      "metrics": [
+        "4",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/experience"
+      ],
+      "metrics": [
+        "4",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/experience/car-tours"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/coppa-della-primavera-returns-april-18-19-slalom-racing-on-the-amalfi-coast"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/coppa-della-primavera-returns-april-18-19-slalom-racing-on-the-amalfi-coast/"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/easter-in-amalfi-2026-torchlit-processions-sacred-music-and-ancient-rituals"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/the-52nd-gran-carnevale-di-maiori-2026-dreams-floats-fireworks-on-the-amalfi-coast/"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/why-off-season-in-amalfi-is-actually-the-best-time-to-come/"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "dimensions": [
+        "google"
+      ],
+      "metrics": [
+        "39",
+        "28"
+      ]
+    },
+    {
+      "dimensions": [
+        "(direct)"
+      ],
+      "metrics": [
+        "21",
+        "11"
+      ]
+    },
+    {
+      "dimensions": [
+        "ads.google.com"
+      ],
+      "metrics": [
+        "9",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "chatgpt.com"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    }
+  ],
+  "countries": [
+    {
+      "dimensions": [
+        "Italy"
+      ],
+      "metrics": [
+        "35",
+        "21"
+      ]
+    },
+    {
+      "dimensions": [
+        "United Kingdom"
+      ],
+      "metrics": [
+        "7",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "Canada"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "Germany"
+      ],
+      "metrics": [
+        "4",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "Hong Kong"
+      ],
+      "metrics": [
+        "4",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Netherlands"
+      ],
+      "metrics": [
+        "4",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "North Macedonia"
+      ],
+      "metrics": [
+        "4",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Greece"
+      ],
+      "metrics": [
+        "3",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Belgium"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "France"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    }
+  ],
+  "summary7d": {
+    "sessions": 71,
+    "users": 42,
+    "pageViews": 108,
+    "avgSessionDuration": 231,
+    "bounceRate": 0.6
+  },
+  "summary30d": {
+    "sessions": 316,
+    "users": 167,
+    "pageViews": 497,
+    "avgSessionDuration": 228,
+    "bounceRate": 0.5
+  }
+}

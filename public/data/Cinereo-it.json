@@ -1,0 +1,213 @@
+{
+  "name": "Cinereo.it",
+  "propertyId": "properties/362803366",
+  "updatedAt": "2026-04-19T17:24:02.097Z",
+  "trend": [
+    {
+      "dimensions": [
+        "20260411"
+      ],
+      "metrics": [
+        "4",
+        "1",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260410"
+      ],
+      "metrics": [
+        "3",
+        "1",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260413"
+      ],
+      "metrics": [
+        "3",
+        "1",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260416"
+      ],
+      "metrics": [
+        "3",
+        "1",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260330"
+      ],
+      "metrics": [
+        "2",
+        "1",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260331"
+      ],
+      "metrics": [
+        "2",
+        "2",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260403"
+      ],
+      "metrics": [
+        "2",
+        "1",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260404"
+      ],
+      "metrics": [
+        "2",
+        "1",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260414"
+      ],
+      "metrics": [
+        "2",
+        "1",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260320"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260327"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260402"
+      ],
+      "metrics": [
+        "1",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260409"
+      ],
+      "metrics": [
+        "1",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260417"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260418"
+      ],
+      "metrics": [
+        "1",
+        "0",
+        "0"
+      ]
+    }
+  ],
+  "topPages": [
+    {
+      "dimensions": [
+        "/"
+      ],
+      "metrics": [
+        "12",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photography"
+      ],
+      "metrics": [
+        "0",
+        "1"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "dimensions": [
+        "(direct)"
+      ],
+      "metrics": [
+        "10",
+        "1"
+      ]
+    }
+  ],
+  "countries": [
+    {
+      "dimensions": [
+        "Italy"
+      ],
+      "metrics": [
+        "10",
+        "1"
+      ]
+    }
+  ],
+  "summary7d": {
+    "sessions": 10,
+    "users": 1,
+    "pageViews": 12,
+    "avgSessionDuration": 116,
+    "bounceRate": 0.6
+  },
+  "summary30d": {
+    "sessions": 29,
+    "users": 5,
+    "pageViews": 37,
+    "avgSessionDuration": 211,
+    "bounceRate": 0.5
+  }
+}

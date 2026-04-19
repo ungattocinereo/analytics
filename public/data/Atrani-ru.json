@@ -1,0 +1,625 @@
+{
+  "name": "Atrani.ru",
+  "propertyId": "properties/353046676",
+  "updatedAt": "2026-04-19T17:24:01.432Z",
+  "trend": [
+    {
+      "dimensions": [
+        "20260323"
+      ],
+      "metrics": [
+        "25",
+        "25",
+        "25"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260404"
+      ],
+      "metrics": [
+        "25",
+        "25",
+        "26"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260402"
+      ],
+      "metrics": [
+        "24",
+        "24",
+        "26"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260320"
+      ],
+      "metrics": [
+        "22",
+        "22",
+        "27"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260322"
+      ],
+      "metrics": [
+        "22",
+        "22",
+        "22"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260329"
+      ],
+      "metrics": [
+        "22",
+        "22",
+        "22"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260327"
+      ],
+      "metrics": [
+        "21",
+        "21",
+        "21"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260330"
+      ],
+      "metrics": [
+        "20",
+        "20",
+        "24"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260403"
+      ],
+      "metrics": [
+        "20",
+        "20",
+        "20"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260414"
+      ],
+      "metrics": [
+        "20",
+        "19",
+        "19"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260412"
+      ],
+      "metrics": [
+        "19",
+        "19",
+        "19"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260325"
+      ],
+      "metrics": [
+        "18",
+        "18",
+        "19"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260401"
+      ],
+      "metrics": [
+        "18",
+        "18",
+        "18"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260326"
+      ],
+      "metrics": [
+        "17",
+        "17",
+        "17"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260416"
+      ],
+      "metrics": [
+        "16",
+        "16",
+        "16"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260415"
+      ],
+      "metrics": [
+        "15",
+        "15",
+        "20"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260321"
+      ],
+      "metrics": [
+        "14",
+        "14",
+        "19"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260324"
+      ],
+      "metrics": [
+        "14",
+        "14",
+        "14"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260331"
+      ],
+      "metrics": [
+        "14",
+        "14",
+        "14"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260417"
+      ],
+      "metrics": [
+        "13",
+        "12",
+        "13"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260328"
+      ],
+      "metrics": [
+        "12",
+        "11",
+        "11"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260411"
+      ],
+      "metrics": [
+        "11",
+        "9",
+        "13"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260413"
+      ],
+      "metrics": [
+        "11",
+        "11",
+        "11"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260419"
+      ],
+      "metrics": [
+        "11",
+        "11",
+        "11"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260405"
+      ],
+      "metrics": [
+        "9",
+        "9",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260409"
+      ],
+      "metrics": [
+        "9",
+        "9",
+        "12"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260418"
+      ],
+      "metrics": [
+        "9",
+        "8",
+        "17"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260406"
+      ],
+      "metrics": [
+        "8",
+        "8",
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260407"
+      ],
+      "metrics": [
+        "8",
+        "8",
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260410"
+      ],
+      "metrics": [
+        "6",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260408"
+      ],
+      "metrics": [
+        "5",
+        "5",
+        "5"
+      ]
+    }
+  ],
+  "topPages": [
+    {
+      "dimensions": [
+        "/"
+      ],
+      "metrics": [
+        "73",
+        "74"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/"
+      ],
+      "metrics": [
+        "10",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/experience/"
+      ],
+      "metrics": [
+        "9",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
+        "/apartments"
+      ],
+      "metrics": [
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/experience"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "//checkout/"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/2018-10-25-sunset-in-salerno/"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/2018-4-28/"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/2019-3-24-danger-road-amalfi"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/8-businessman-amalfi-interview"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/atrani-morning-and-evening"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/atrani-samyi-siekrietnyi-ugholok-amalfitanskogho-pobieriezhia"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/cimiteri-di-ravelo"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/how-to-get-to-amalfi/"
+      ],
+      "metrics": [
+        "1",
+        "2"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "dimensions": [
+        "(direct)"
+      ],
+      "metrics": [
+        "87",
+        "87"
+      ]
+    },
+    {
+      "dimensions": [
+        "(not set)"
+      ],
+      "metrics": [
+        "17",
+        "17"
+      ]
+    },
+    {
+      "dimensions": [
+        "google"
+      ],
+      "metrics": [
+        "6",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "facebook.com"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "google.com"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "loyal-market.ru"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "m.facebook.com"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    }
+  ],
+  "countries": [
+    {
+      "dimensions": [
+        "Russia"
+      ],
+      "metrics": [
+        "43",
+        "43"
+      ]
+    },
+    {
+      "dimensions": [
+        "Singapore"
+      ],
+      "metrics": [
+        "26",
+        "26"
+      ]
+    },
+    {
+      "dimensions": [
+        "United Kingdom"
+      ],
+      "metrics": [
+        "19",
+        "19"
+      ]
+    },
+    {
+      "dimensions": [
+        "(not set)"
+      ],
+      "metrics": [
+        "7",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "6",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "Italy"
+      ],
+      "metrics": [
+        "5",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "Canada"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "Israel"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        ""
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Netherlands"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    }
+  ],
+  "summary7d": {
+    "sessions": 114,
+    "users": 111,
+    "pageViews": 126,
+    "avgSessionDuration": 5,
+    "bounceRate": 0.8
+  },
+  "summary30d": {
+    "sessions": 479,
+    "users": 466,
+    "pageViews": 510,
+    "avgSessionDuration": 11,
+    "bounceRate": 0.8
+  }
+}
