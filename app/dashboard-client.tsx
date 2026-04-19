@@ -141,10 +141,8 @@ export default function DashboardClient({ initialSites, initialAllSites }: Dashb
           </p>
         </div>
         <button
-          onClick={(e) => {
-            e.preventDefault();
-            setSelectedSite(null);
-          }}
+          type="button"
+          onClick={() => setSelectedSite(null)}
           disabled={!selectedSite}
           className="text-sm text-zinc-400 hover:text-zinc-200 disabled:opacity-30 disabled:cursor-default transition"
         >
@@ -160,11 +158,9 @@ export default function DashboardClient({ initialSites, initialAllSites }: Dashb
           const isSelected = selectedSite === site.name;
           return (
             <button
+              type="button"
               key={site.name}
-              onClick={(e) => {
-                e.preventDefault();
-                setSelectedSite(isSelected ? null : site.name);
-              }}
+              onClick={() => setSelectedSite(isSelected ? null : site.name)}
               className={`text-left p-4 rounded-xl border transition-all ${
                 isSelected
                   ? "border-zinc-500 bg-zinc-900"
@@ -300,11 +296,9 @@ export default function DashboardClient({ initialSites, initialAllSites }: Dashb
               const isSelected = selectedSite === site.name;
               return (
                 <button
+                  type="button"
                   key={site.name}
-                  onClick={(e) => {
-                    e.preventDefault();
-                    setSelectedSite(isSelected ? null : site.name);
-                  }}
+                  onClick={() => setSelectedSite(isSelected ? null : site.name)}
                   className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs border transition ${
                     isSelected
                       ? "border-zinc-500 bg-zinc-800 text-zinc-200"
