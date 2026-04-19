@@ -25,6 +25,14 @@ const COLORS: Record<string, { bg: string; border: string }> = {
   "amalfi.day": { bg: "rgba(59, 130, 246, 0.15)", border: "rgb(59, 130, 246)" },
   "guide.amalfi.day": { bg: "rgba(34, 197, 94, 0.15)", border: "rgb(34, 197, 94)" },
   "find.amalfi.day": { bg: "rgba(251, 191, 36, 0.15)", border: "rgb(251, 191, 36)" },
+  "Ceramiche Da Mario": { bg: "rgba(236, 72, 153, 0.15)", border: "rgb(236, 72, 153)" },
+  "Moto Excursions": { bg: "rgba(20, 184, 166, 0.15)", border: "rgb(20, 184, 166)" },
+  "Katerina": { bg: "rgba(249, 115, 22, 0.15)", border: "rgb(249, 115, 22)" },
+  "Masha": { bg: "rgba(99, 102, 241, 0.15)", border: "rgb(99, 102, 241)" },
+  "Landing (menu.band)": { bg: "rgba(163, 230, 53, 0.15)", border: "rgb(163, 230, 53)" },
+  "Le Palme": { bg: "rgba(190, 18, 60, 0.15)", border: "rgb(190, 18, 60)" },
+  "Birecto": { bg: "rgba(6, 182, 212, 0.15)", border: "rgb(6, 182, 212)" },
+  "Vittoria": { bg: "rgba(217, 119, 6, 0.15)", border: "rgb(217, 119, 6)" },
 };
 
 const EMOJIS: Record<string, string> = {
@@ -33,20 +41,31 @@ const EMOJIS: Record<string, string> = {
   "amalfi.day": "🌊",
   "guide.amalfi.day": "📖",
   "find.amalfi.day": "🔍",
+  "Ceramiche Da Mario": "🏺",
+  "Moto Excursions": "🏍️",
+  "Katerina": "👤",
+  "Masha": "👤",
+  "Landing (menu.band)": "📄",
+  "Le Palme": "🍕",
+  "Birecto": "🍕",
+  "Vittoria": "🍕",
 };
 
 export default function Dashboard() {
   const [data, setData] = useState<Record<string, SiteData> | null>(null);
+  const [allData, setAllData] = useState<Record<string, SiteData> | null>(null);
   const [selectedSite, setSelectedSite] = useState<string | null>(null);
 
   useEffect(() => {
     fetch("/data/sites.json").then(r => r.json()).then(setData);
+    fetch("/data/all-sites.json").then(r => r.json()).then(setAllData);
   }, []);
 
-  if (!data) return <div className="flex items-center justify-center min-h-screen text-zinc-500">Loading...</div>;
+  if (!data || !allData) return <div className="flex items-center justify-center min-h-screen text-zinc-500">Loading...</div>;
 
   const sites = Object.values(data);
-  const active = selectedSite ? data[selectedSite] : null;
+  const allSites = Object.values(allData);
+  const active = selectedSite ? allData[selectedSite] : null;
 
   // Combined overview chart
   const trendDates = active
@@ -269,8 +288,35 @@ export default function Dashboard() {
         </div>
       )}
 
+      {/* Additional sites as small pills */}
+      <div className="mt-12">
+        <h3 className="text-sm font-medium text-zinc-500 mb-3">Other projects</h3>
+        <div className="flex flex-wrap gap-2">
+          {allSites
+            .filter(s => !sites.map(s => s.name).includes(s.name))
+            .map(site => {
+              const isSelected = selectedSite === site.name;
+              return (
+                <button
+                  key={site.name}
+                  onClick={() => setSelectedSite(isSelected ? null : site.name)}
+                  className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs border transition ${
+                    isSelected
+                      ? "border-zinc-500 bg-zinc-800 text-zinc-200"
+                      : "border-zinc-800 bg-zinc-900/50 text-zinc-400 hover:bg-zinc-800 hover:text-zinc-300"
+                  }`}
+                >
+                  <span>{EMOJIS[site.name] || "•"}</span>
+                  <span>{site.name}</span>
+                  <span className="text-zinc-500">({site.summary7d.sessions})</span>
+                </button>
+              );
+            })}
+        </div>
+      </div>
+
       {/* Footer */}
-      <div className="text-center text-xs text-zinc-600 mt-12 pb-8">
+      <div className="text-center text-xs text-zinc-600 mt-8 pb-8">
         Updated daily via GitHub Actions · Data from Google Analytics 4
       </div>
     </div>

@@ -21,10 +21,15 @@ jobs:
 
       - run: npm ci
 
-      - name: Fetch GA data
+      - name: Fetch GA data (main sites)
         env:
           GA_SERVICE_ACCOUNT: ${{ secrets.GA_SERVICE_ACCOUNT }}
         run: node scripts/fetch-ga-data.mjs
+
+      - name: Fetch GA data (all sites)
+        env:
+          GA_SERVICE_ACCOUNT: ${{ secrets.GA_SERVICE_ACCOUNT }}
+        run: node scripts/fetch-all-ga-data.mjs
 
       - name: Commit if changed
         run: |
