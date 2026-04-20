@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-04-19T17:59:54.664Z",
+  "updatedAt": "2026-04-20T07:19:18.621Z",
   "trend": [
     {
       "dimensions": [
@@ -31,16 +31,6 @@
         "24",
         "24",
         "26"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260320"
-      ],
-      "metrics": [
-        "22",
-        "22",
-        "27"
       ]
     },
     {
@@ -155,6 +145,16 @@
     },
     {
       "dimensions": [
+        "20260419"
+      ],
+      "metrics": [
+        "16",
+        "16",
+        "16"
+      ]
+    },
+    {
+      "dimensions": [
         "20260415"
       ],
       "metrics": [
@@ -235,16 +235,6 @@
     },
     {
       "dimensions": [
-        "20260419"
-      ],
-      "metrics": [
-        "11",
-        "11",
-        "11"
-      ]
-    },
-    {
-      "dimensions": [
         "20260405"
       ],
       "metrics": [
@@ -312,6 +302,16 @@
         "5",
         "5"
       ]
+    },
+    {
+      "dimensions": [
+        "20260420"
+      ],
+      "metrics": [
+        "5",
+        "5",
+        "5"
+      ]
     }
   ],
   "topPages": [
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "73",
-        "74"
+        "66",
+        "67"
       ]
     },
     {
@@ -338,8 +338,8 @@
         "/experience/"
       ],
       "metrics": [
-        "9",
-        "9"
+        "8",
+        "8"
       ]
     },
     {
@@ -347,8 +347,8 @@
         "/apartments"
       ],
       "metrics": [
-        "5",
-        "5"
+        "4",
+        "4"
       ]
     },
     {
@@ -398,25 +398,7 @@
     },
     {
       "dimensions": [
-        "/blog/2019-3-24-danger-road-amalfi"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/8-businessman-amalfi-interview"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/atrani-morning-and-evening"
+        "/blog/amalfi-coast-winter"
       ],
       "metrics": [
         "1",
@@ -443,11 +425,29 @@
     },
     {
       "dimensions": [
+        "/blog/eng-atrani"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "/blog/how-to-get-to-amalfi/"
       ],
       "metrics": [
         "1",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/hudozhnik-amalfi/"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     }
   ],
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "87",
-        "87"
+        "78",
+        "78"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "google"
       ],
       "metrics": [
-        "6",
-        "3"
+        "7",
+        "4"
       ]
     },
     {
@@ -499,15 +499,6 @@
     },
     {
       "dimensions": [
-        "loyal-market.ru"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "m.facebook.com"
       ],
       "metrics": [
@@ -522,8 +513,8 @@
         "Russia"
       ],
       "metrics": [
-        "43",
-        "43"
+        "36",
+        "36"
       ]
     },
     {
@@ -531,8 +522,8 @@
         "Singapore"
       ],
       "metrics": [
-        "26",
-        "26"
+        "24",
+        "24"
       ]
     },
     {
@@ -546,7 +537,7 @@
     },
     {
       "dimensions": [
-        "(not set)"
+        "United States"
       ],
       "metrics": [
         "7",
@@ -555,20 +546,11 @@
     },
     {
       "dimensions": [
-        "United States"
+        "(not set)"
       ],
       "metrics": [
         "6",
         "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "Italy"
-      ],
-      "metrics": [
-        "5",
-        "3"
       ]
     },
     {
@@ -582,11 +564,11 @@
     },
     {
       "dimensions": [
-        "Israel"
+        "Italy"
       ],
       "metrics": [
-        "2",
-        "1"
+        "4",
+        "2"
       ]
     },
     {
@@ -594,7 +576,16 @@
         ""
       ],
       "metrics": [
-        "1",
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Israel"
+      ],
+      "metrics": [
+        "2",
         "1"
       ]
     },
@@ -609,16 +600,16 @@
     }
   ],
   "summary7d": {
-    "sessions": 114,
-    "users": 111,
-    "pageViews": 126,
-    "avgSessionDuration": 5,
+    "sessions": 105,
+    "users": 102,
+    "pageViews": 117,
+    "avgSessionDuration": 6,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 479,
-    "users": 466,
-    "pageViews": 510,
+    "sessions": 467,
+    "users": 454,
+    "pageViews": 493,
     "avgSessionDuration": 11,
     "bounceRate": 0.8
   }

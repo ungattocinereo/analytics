@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-04-19T17:59:55.602Z",
+  "updatedAt": "2026-04-20T07:19:19.903Z",
   "trend": [
     {
       "dimensions": [
@@ -80,6 +80,16 @@
       "metrics": [
         "13",
         "7",
+        "16"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260419"
+      ],
+      "metrics": [
+        "13",
+        "6",
         "16"
       ]
     },
@@ -245,16 +255,6 @@
     },
     {
       "dimensions": [
-        "20260320"
-      ],
-      "metrics": [
-        "5",
-        "3",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
         "20260324"
       ],
       "metrics": [
@@ -295,16 +295,6 @@
     },
     {
       "dimensions": [
-        "20260419"
-      ],
-      "metrics": [
-        "5",
-        "3",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
         "20260417"
       ],
       "metrics": [
@@ -317,11 +307,20 @@
   "topPages": [
     {
       "dimensions": [
+        "/"
+      ],
+      "metrics": [
+        "17",
+        "14"
+      ]
+    },
+    {
+      "dimensions": [
         "/parking/"
       ],
       "metrics": [
-        "19",
-        "20"
+        "16",
+        "17"
       ]
     },
     {
@@ -329,16 +328,7 @@
         "/timetables/"
       ],
       "metrics": [
-        "19",
-        "15"
-      ]
-    },
-    {
-      "dimensions": [
-        "/"
-      ],
-      "metrics": [
-        "18",
+        "16",
         "15"
       ]
     },
@@ -347,8 +337,8 @@
         "/directions/"
       ],
       "metrics": [
-        "12",
-        "6"
+        "14",
+        "8"
       ]
     },
     {
@@ -371,15 +361,6 @@
     },
     {
       "dimensions": [
-        "/apartments"
-      ],
-      "metrics": [
-        "4",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
         "/experience"
       ],
       "metrics": [
@@ -389,20 +370,11 @@
     },
     {
       "dimensions": [
-        "/experience/car-tours"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog"
+        "/apartments"
       ],
       "metrics": [
         "2",
-        "2"
+        "1"
       ]
     },
     {
@@ -449,6 +421,24 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "/experience/car-tours"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/experience/scooter"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "sources": [
@@ -457,8 +447,8 @@
         "google"
       ],
       "metrics": [
-        "39",
-        "28"
+        "36",
+        "25"
       ]
     },
     {
@@ -467,7 +457,7 @@
       ],
       "metrics": [
         "21",
-        "11"
+        "12"
       ]
     },
     {
@@ -475,7 +465,7 @@
         "ads.google.com"
       ],
       "metrics": [
-        "9",
+        "8",
         "1"
       ]
     },
@@ -484,8 +474,8 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "2",
-        "2"
+        "1",
+        "1"
       ]
     }
   ],
@@ -495,8 +485,8 @@
         "Italy"
       ],
       "metrics": [
-        "35",
-        "21"
+        "34",
+        "18"
       ]
     },
     {
@@ -519,33 +509,6 @@
     },
     {
       "dimensions": [
-        "Germany"
-      ],
-      "metrics": [
-        "4",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "Hong Kong"
-      ],
-      "metrics": [
-        "4",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "Netherlands"
-      ],
-      "metrics": [
-        "4",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "North Macedonia"
       ],
       "metrics": [
@@ -555,7 +518,25 @@
     },
     {
       "dimensions": [
-        "Greece"
+        "Germany"
+      ],
+      "metrics": [
+        "3",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Hong Kong"
+      ],
+      "metrics": [
+        "3",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Netherlands"
       ],
       "metrics": [
         "3",
@@ -579,20 +560,29 @@
         "2",
         "2"
       ]
+    },
+    {
+      "dimensions": [
+        "Denmark"
+      ],
+      "metrics": [
+        "1",
+        "0"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 71,
-    "users": 42,
-    "pageViews": 108,
-    "avgSessionDuration": 231,
+    "sessions": 66,
+    "users": 39,
+    "pageViews": 96,
+    "avgSessionDuration": 230,
     "bounceRate": 0.6
   },
   "summary30d": {
-    "sessions": 316,
+    "sessions": 319,
     "users": 167,
-    "pageViews": 497,
-    "avgSessionDuration": 228,
+    "pageViews": 499,
+    "avgSessionDuration": 226,
     "bounceRate": 0.5
   }
 }
