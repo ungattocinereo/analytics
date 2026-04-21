@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-04-20T07:19:18.621Z",
+  "updatedAt": "2026-04-21T07:00:01.989Z",
   "trend": [
     {
       "dimensions": [
@@ -165,16 +165,6 @@
     },
     {
       "dimensions": [
-        "20260321"
-      ],
-      "metrics": [
-        "14",
-        "14",
-        "19"
-      ]
-    },
-    {
-      "dimensions": [
         "20260324"
       ],
       "metrics": [
@@ -230,6 +220,16 @@
       "metrics": [
         "11",
         "11",
+        "11"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260420"
+      ],
+      "metrics": [
+        "11",
+        "10",
         "11"
       ]
     },
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260420"
+        "20260421"
       ],
       "metrics": [
-        "5",
-        "5",
-        "5"
+        "2",
+        "2",
+        "2"
       ]
     }
   ],
@@ -362,15 +362,6 @@
     },
     {
       "dimensions": [
-        "//checkout/"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog"
       ],
       "metrics": [
@@ -416,15 +407,6 @@
     },
     {
       "dimensions": [
-        "/blog/cimiteri-di-ravelo"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/eng-atrani"
       ],
       "metrics": [
@@ -449,6 +431,24 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "/blog/lutshie-skritie-mesta-v-amalfi"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/napoli-jizn-na-mopede"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "sources": [
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "78",
-        "78"
+        "75",
+        "75"
       ]
     },
     {
@@ -475,31 +475,22 @@
         "google"
       ],
       "metrics": [
-        "7",
+        "8",
         "4"
       ]
     },
     {
       "dimensions": [
-        "facebook.com"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "google.com"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "m.facebook.com"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "yandex.ru"
       ],
       "metrics": [
         "1",
@@ -513,8 +504,8 @@
         "Russia"
       ],
       "metrics": [
-        "36",
-        "36"
+        "37",
+        "37"
       ]
     },
     {
@@ -522,8 +513,8 @@
         "Singapore"
       ],
       "metrics": [
-        "24",
-        "24"
+        "20",
+        "20"
       ]
     },
     {
@@ -537,15 +528,6 @@
     },
     {
       "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "7",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
         "(not set)"
       ],
       "metrics": [
@@ -555,11 +537,11 @@
     },
     {
       "dimensions": [
-        "Canada"
+        "United States"
       ],
       "metrics": [
-        "4",
-        "4"
+        "6",
+        "6"
       ]
     },
     {
@@ -567,8 +549,17 @@
         "Italy"
       ],
       "metrics": [
-        "4",
+        "5",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Canada"
+      ],
+      "metrics": [
+        "4",
+        "4"
       ]
     },
     {
@@ -600,16 +591,16 @@
     }
   ],
   "summary7d": {
-    "sessions": 105,
-    "users": 102,
-    "pageViews": 117,
+    "sessions": 102,
+    "users": 98,
+    "pageViews": 114,
     "avgSessionDuration": 6,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 467,
-    "users": 454,
-    "pageViews": 493,
+    "sessions": 461,
+    "users": 448,
+    "pageViews": 482,
     "avgSessionDuration": 11,
     "bounceRate": 0.8
   }
