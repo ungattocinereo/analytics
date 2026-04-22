@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-04-21T07:00:03.330Z",
+  "updatedAt": "2026-04-22T06:59:24.125Z",
   "trend": [
     {
       "dimensions": [
@@ -41,16 +41,6 @@
         "15",
         "8",
         "42"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260322"
-      ],
-      "metrics": [
-        "13",
-        "6",
-        "15"
       ]
     },
     {
@@ -295,6 +285,16 @@
     },
     {
       "dimensions": [
+        "20260421"
+      ],
+      "metrics": [
+        "5",
+        "5",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
         "20260417"
       ],
       "metrics": [
@@ -305,7 +305,7 @@
     },
     {
       "dimensions": [
-        "20260421"
+        "20260422"
       ],
       "metrics": [
         "1",
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "21",
-        "16"
+        "19",
+        "14"
       ]
     },
     {
@@ -329,8 +329,8 @@
         "/parking/"
       ],
       "metrics": [
-        "16",
-        "16"
+        "15",
+        "14"
       ]
     },
     {
@@ -339,7 +339,7 @@
       ],
       "metrics": [
         "15",
-        "13"
+        "14"
       ]
     },
     {
@@ -347,8 +347,8 @@
         "/timetables"
       ],
       "metrics": [
-        "10",
-        "8"
+        "6",
+        "6"
       ]
     },
     {
@@ -356,17 +356,8 @@
         "/directions/"
       ],
       "metrics": [
-        "8",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photoshootings"
-      ],
-      "metrics": [
-        "6",
-        "3"
+        "5",
+        "4"
       ]
     },
     {
@@ -399,6 +390,15 @@
     {
       "dimensions": [
         "/blog/coppa-della-primavera-returns-april-18-19-slalom-racing-on-the-amalfi-coast/"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/how-to-get"
       ],
       "metrics": [
         "2",
@@ -458,7 +458,7 @@
       ],
       "metrics": [
         "34",
-        "22"
+        "23"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "(direct)"
       ],
       "metrics": [
-        "22",
-        "14"
+        "19",
+        "12"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "ads.google.com"
       ],
       "metrics": [
-        "6",
-        "1"
+        "2",
+        "0"
       ]
     },
     {
@@ -495,8 +495,8 @@
         "Italy"
       ],
       "metrics": [
-        "25",
-        "14"
+        "17",
+        "10"
       ]
     },
     {
@@ -506,15 +506,6 @@
       "metrics": [
         "7",
         "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "Germany"
-      ],
-      "metrics": [
-        "3",
-        "2"
       ]
     },
     {
@@ -555,6 +546,15 @@
     },
     {
       "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
         "Belgium"
       ],
       "metrics": [
@@ -582,17 +582,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 63,
-    "users": 38,
-    "pageViews": 96,
-    "avgSessionDuration": 151,
+    "sessions": 56,
+    "users": 36,
+    "pageViews": 83,
+    "avgSessionDuration": 144,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 323,
-    "users": 170,
-    "pageViews": 500,
-    "avgSessionDuration": 227,
+    "sessions": 315,
+    "users": 169,
+    "pageViews": 492,
+    "avgSessionDuration": 236,
     "bounceRate": 0.5
   }
 }

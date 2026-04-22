@@ -1,7 +1,7 @@
 {
   "name": "Cinereo.it",
   "propertyId": "properties/362803366",
-  "updatedAt": "2026-04-21T07:00:02.725Z",
+  "updatedAt": "2026-04-22T06:59:23.597Z",
   "trend": [
     {
       "dimensions": [
@@ -105,6 +105,16 @@
     },
     {
       "dimensions": [
+        "20260421"
+      ],
+      "metrics": [
+        "2",
+        "1",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "20260327"
       ],
       "metrics": [
@@ -152,6 +162,16 @@
         "0",
         "0"
       ]
+    },
+    {
+      "dimensions": [
+        "20260422"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "1"
+      ]
     }
   ],
   "topPages": [
@@ -161,7 +181,7 @@
       ],
       "metrics": [
         "11",
-        "8"
+        "9"
       ]
     },
     {
@@ -180,8 +200,8 @@
         "(direct)"
       ],
       "metrics": [
-        "9",
-        "1"
+        "10",
+        "2"
       ]
     }
   ],
@@ -194,20 +214,29 @@
         "9",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "Belarus"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 9,
-    "users": 1,
+    "sessions": 10,
+    "users": 2,
     "pageViews": 11,
-    "avgSessionDuration": 155,
+    "avgSessionDuration": 186,
     "bounceRate": 0.6
   },
   "summary30d": {
-    "sessions": 30,
-    "users": 4,
-    "pageViews": 39,
-    "avgSessionDuration": 211,
+    "sessions": 33,
+    "users": 5,
+    "pageViews": 42,
+    "avgSessionDuration": 240,
     "bounceRate": 0.5
   }
 }

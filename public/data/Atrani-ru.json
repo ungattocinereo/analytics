@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-04-21T07:00:01.989Z",
+  "updatedAt": "2026-04-22T06:59:22.941Z",
   "trend": [
     {
       "dimensions": [
@@ -31,16 +31,6 @@
         "24",
         "24",
         "26"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260322"
-      ],
-      "metrics": [
-        "22",
-        "22",
-        "22"
       ]
     },
     {
@@ -295,6 +285,16 @@
     },
     {
       "dimensions": [
+        "20260421"
+      ],
+      "metrics": [
+        "6",
+        "6",
+        "11"
+      ]
+    },
+    {
+      "dimensions": [
         "20260408"
       ],
       "metrics": [
@@ -305,7 +305,7 @@
     },
     {
       "dimensions": [
-        "20260421"
+        "20260422"
       ],
       "metrics": [
         "2",
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "66",
-        "67"
+        "52",
+        "53"
       ]
     },
     {
@@ -347,8 +347,8 @@
         "/apartments"
       ],
       "metrics": [
-        "4",
-        "4"
+        "5",
+        "5"
       ]
     },
     {
@@ -356,8 +356,8 @@
         "/experience"
       ],
       "metrics": [
-        "4",
-        "4"
+        "5",
+        "5"
       ]
     },
     {
@@ -372,15 +372,6 @@
     {
       "dimensions": [
         "/blog/2018-10-25-sunset-in-salerno/"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/2018-4-28/"
       ],
       "metrics": [
         "1",
@@ -416,11 +407,11 @@
     },
     {
       "dimensions": [
-        "/blog/how-to-get-to-amalfi/"
+        "/blog/how-to-get-to-amalfi"
       ],
       "metrics": [
         "1",
-        "2"
+        "1"
       ]
     },
     {
@@ -449,6 +440,15 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "/blog/opolzien-u-fuenti-dorogha-ss163-otkryvaietsia-na-dien-ranshie-sroka"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "sources": [
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "75",
-        "75"
+        "62",
+        "62"
       ]
     },
     {
@@ -475,8 +475,17 @@
         "google"
       ],
       "metrics": [
-        "8",
-        "4"
+        "6",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "bing"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     },
     {
@@ -504,13 +513,13 @@
         "Russia"
       ],
       "metrics": [
-        "37",
-        "37"
+        "23",
+        "23"
       ]
     },
     {
       "dimensions": [
-        "Singapore"
+        "United Kingdom"
       ],
       "metrics": [
         "20",
@@ -519,11 +528,20 @@
     },
     {
       "dimensions": [
-        "United Kingdom"
+        "Singapore"
       ],
       "metrics": [
         "19",
         "19"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "7",
+        "7"
       ]
     },
     {
@@ -537,11 +555,11 @@
     },
     {
       "dimensions": [
-        "United States"
+        "Canada"
       ],
       "metrics": [
-        "6",
-        "6"
+        "4",
+        "4"
       ]
     },
     {
@@ -549,17 +567,8 @@
         "Italy"
       ],
       "metrics": [
-        "5",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "Canada"
-      ],
-      "metrics": [
-        "4",
-        "4"
+        "3",
+        "1"
       ]
     },
     {
@@ -582,7 +591,7 @@
     },
     {
       "dimensions": [
-        "Netherlands"
+        "Germany"
       ],
       "metrics": [
         "1",
@@ -591,16 +600,16 @@
     }
   ],
   "summary7d": {
-    "sessions": 102,
-    "users": 98,
-    "pageViews": 114,
-    "avgSessionDuration": 6,
+    "sessions": 88,
+    "users": 85,
+    "pageViews": 106,
+    "avgSessionDuration": 7,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 461,
-    "users": 448,
-    "pageViews": 482,
+    "sessions": 445,
+    "users": 432,
+    "pageViews": 471,
     "avgSessionDuration": 11,
     "bounceRate": 0.8
   }
