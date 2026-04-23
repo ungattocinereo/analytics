@@ -1,7 +1,7 @@
 {
   "name": "find.amalfi.day",
   "propertyId": "properties/531159837",
-  "updatedAt": "2026-04-22T06:59:25.095Z",
+  "updatedAt": "2026-04-23T07:02:57.116Z",
   "trend": [
     {
       "dimensions": [
@@ -142,6 +142,16 @@
         "0",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "20260422"
+      ],
+      "metrics": [
+        "1",
+        "0",
+        "1"
+      ]
     }
   ],
   "topPages": [
@@ -150,7 +160,7 @@
         "/"
       ],
       "metrics": [
-        "68",
+        "67",
         "23"
       ]
     },
@@ -206,17 +216,17 @@
         "(direct)"
       ],
       "metrics": [
-        "21",
-        "16"
+        "20",
+        "15"
       ]
     },
     {
       "dimensions": [
-        "(not set)"
+        "airbnb.co.uk"
       ],
       "metrics": [
         "3",
-        "2"
+        "1"
       ]
     },
     {
@@ -236,15 +246,6 @@
         "2",
         "2"
       ]
-    },
-    {
-      "dimensions": [
-        "airbnb.co.uk"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "countries": [
@@ -254,7 +255,7 @@
       ],
       "metrics": [
         "18",
-        "16"
+        "15"
       ]
     },
     {
@@ -287,16 +288,16 @@
   ],
   "summary7d": {
     "sessions": 28,
-    "users": 20,
-    "pageViews": 122,
-    "avgSessionDuration": 542,
+    "users": 19,
+    "pageViews": 121,
+    "avgSessionDuration": 491,
     "bounceRate": 0.3
   },
   "summary30d": {
-    "sessions": 69,
+    "sessions": 70,
     "users": 34,
-    "pageViews": 234,
-    "avgSessionDuration": 393,
+    "pageViews": 235,
+    "avgSessionDuration": 387,
     "bounceRate": 0.3
   }
 }

@@ -1,18 +1,8 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-04-22T06:59:22.941Z",
+  "updatedAt": "2026-04-23T07:02:54.634Z",
   "trend": [
-    {
-      "dimensions": [
-        "20260323"
-      ],
-      "metrics": [
-        "25",
-        "25",
-        "25"
-      ]
-    },
     {
       "dimensions": [
         "20260404"
@@ -51,6 +41,16 @@
         "21",
         "21",
         "21"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260422"
+      ],
+      "metrics": [
+        "21",
+        "21",
+        "26"
       ]
     },
     {
@@ -305,7 +305,7 @@
     },
     {
       "dimensions": [
-        "20260422"
+        "20260423"
       ],
       "metrics": [
         "2",
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "52",
-        "53"
+        "59",
+        "59"
       ]
     },
     {
@@ -329,7 +329,7 @@
         "/blog/"
       ],
       "metrics": [
-        "10",
+        "9",
         "6"
       ]
     },
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "62",
-        "62"
+        "69",
+        "69"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "(not set)"
       ],
       "metrics": [
-        "17",
-        "17"
+        "16",
+        "16"
       ]
     },
     {
@@ -513,17 +513,8 @@
         "Russia"
       ],
       "metrics": [
-        "23",
-        "23"
-      ]
-    },
-    {
-      "dimensions": [
-        "United Kingdom"
-      ],
-      "metrics": [
-        "20",
-        "20"
+        "21",
+        "21"
       ]
     },
     {
@@ -537,11 +528,29 @@
     },
     {
       "dimensions": [
+        "United Kingdom"
+      ],
+      "metrics": [
+        "15",
+        "15"
+      ]
+    },
+    {
+      "dimensions": [
+        "Germany"
+      ],
+      "metrics": [
+        "13",
+        "13"
+      ]
+    },
+    {
+      "dimensions": [
         "United States"
       ],
       "metrics": [
-        "7",
-        "7"
+        "12",
+        "12"
       ]
     },
     {
@@ -551,15 +560,6 @@
       "metrics": [
         "6",
         "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "Canada"
-      ],
-      "metrics": [
-        "4",
-        "4"
       ]
     },
     {
@@ -591,7 +591,7 @@
     },
     {
       "dimensions": [
-        "Germany"
+        "Luxembourg"
       ],
       "metrics": [
         "1",
@@ -600,16 +600,16 @@
     }
   ],
   "summary7d": {
-    "sessions": 88,
-    "users": 85,
-    "pageViews": 106,
+    "sessions": 94,
+    "users": 91,
+    "pageViews": 112,
     "avgSessionDuration": 7,
-    "bounceRate": 0.8
+    "bounceRate": 0.9
   },
   "summary30d": {
-    "sessions": 445,
-    "users": 432,
-    "pageViews": 471,
+    "sessions": 441,
+    "users": 428,
+    "pageViews": 472,
     "avgSessionDuration": 11,
     "bounceRate": 0.8
   }
