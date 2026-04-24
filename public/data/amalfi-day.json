@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-04-23T07:02:56.073Z",
+  "updatedAt": "2026-04-24T07:05:48.375Z",
   "trend": [
     {
       "dimensions": [
@@ -145,6 +145,16 @@
     },
     {
       "dimensions": [
+        "20260423"
+      ],
+      "metrics": [
+        "10",
+        "8",
+        "16"
+      ]
+    },
+    {
+      "dimensions": [
         "20260327"
       ],
       "metrics": [
@@ -245,16 +255,6 @@
     },
     {
       "dimensions": [
-        "20260324"
-      ],
-      "metrics": [
-        "5",
-        "3",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
         "20260329"
       ],
       "metrics": [
@@ -307,20 +307,20 @@
   "topPages": [
     {
       "dimensions": [
-        "/"
+        "/parking/"
       ],
       "metrics": [
-        "20",
-        "15"
+        "26",
+        "20"
       ]
     },
     {
       "dimensions": [
-        "/parking/"
+        "/"
       ],
       "metrics": [
         "17",
-        "15"
+        "14"
       ]
     },
     {
@@ -329,16 +329,7 @@
       ],
       "metrics": [
         "13",
-        "12"
-      ]
-    },
-    {
-      "dimensions": [
-        "/timetables"
-      ],
-      "metrics": [
-        "7",
-        "7"
+        "11"
       ]
     },
     {
@@ -348,6 +339,24 @@
       "metrics": [
         "5",
         "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/timetables"
+      ],
+      "metrics": [
+        "5",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photoshootings"
+      ],
+      "metrics": [
+        "3",
+        "2"
       ]
     },
     {
@@ -430,15 +439,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "/blog/why-off-season-in-amalfi-is-actually-the-best-time-to-come/"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "sources": [
@@ -447,8 +447,8 @@
         "google"
       ],
       "metrics": [
-        "34",
-        "22"
+        "36",
+        "24"
       ]
     },
     {
@@ -456,8 +456,8 @@
         "(direct)"
       ],
       "metrics": [
-        "19",
-        "12"
+        "21",
+        "14"
       ]
     },
     {
@@ -465,7 +465,7 @@
         "ads.google.com"
       ],
       "metrics": [
-        "3",
+        "4",
         "1"
       ]
     }
@@ -476,8 +476,8 @@
         "Italy"
       ],
       "metrics": [
-        "20",
-        "12"
+        "22",
+        "13"
       ]
     },
     {
@@ -491,20 +491,20 @@
     },
     {
       "dimensions": [
+        "Netherlands"
+      ],
+      "metrics": [
+        "4",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
         "United States"
       ],
       "metrics": [
         "4",
         "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "Netherlands"
-      ],
-      "metrics": [
-        "3",
-        "3"
       ]
     },
     {
@@ -545,7 +545,7 @@
     },
     {
       "dimensions": [
-        "Romania"
+        "Greece"
       ],
       "metrics": [
         "2",
@@ -554,26 +554,26 @@
     },
     {
       "dimensions": [
-        "Argentina"
+        "Poland"
       ],
       "metrics": [
-        "1",
+        "2",
         "1"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 56,
-    "users": 35,
-    "pageViews": 79,
-    "avgSessionDuration": 131,
+    "sessions": 61,
+    "users": 39,
+    "pageViews": 83,
+    "avgSessionDuration": 168,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 316,
-    "users": 169,
-    "pageViews": 493,
-    "avgSessionDuration": 228,
+    "sessions": 321,
+    "users": 172,
+    "pageViews": 504,
+    "avgSessionDuration": 237,
     "bounceRate": 0.5
   }
 }

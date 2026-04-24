@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-04-23T07:02:54.634Z",
+  "updatedAt": "2026-04-24T07:05:46.354Z",
   "trend": [
     {
       "dimensions": [
@@ -85,6 +85,16 @@
     },
     {
       "dimensions": [
+        "20260423"
+      ],
+      "metrics": [
+        "20",
+        "15",
+        "34"
+      ]
+    },
+    {
+      "dimensions": [
         "20260412"
       ],
       "metrics": [
@@ -151,16 +161,6 @@
         "15",
         "15",
         "20"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260324"
-      ],
-      "metrics": [
-        "14",
-        "14",
-        "14"
       ]
     },
     {
@@ -275,6 +275,16 @@
     },
     {
       "dimensions": [
+        "20260424"
+      ],
+      "metrics": [
+        "7",
+        "7",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
         "20260410"
       ],
       "metrics": [
@@ -302,16 +312,6 @@
         "5",
         "5"
       ]
-    },
-    {
-      "dimensions": [
-        "20260423"
-      ],
-      "metrics": [
-        "2",
-        "2",
-        "2"
-      ]
     }
   ],
   "topPages": [
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "59",
-        "59"
+        "69",
+        "66"
       ]
     },
     {
@@ -347,8 +347,8 @@
         "/apartments"
       ],
       "metrics": [
-        "5",
-        "5"
+        "6",
+        "7"
       ]
     },
     {
@@ -356,22 +356,40 @@
         "/experience"
       ],
       "metrics": [
-        "5",
-        "5"
+        "6",
+        "6"
       ]
     },
     {
       "dimensions": [
-        "/blog"
+        "/photosessions"
       ],
       "metrics": [
-        "1",
+        "6",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/contacts"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/skala-25-aprielia-vozvrashchaietsia-prazdnik-santa-mariia-diei-monti-proghramma/"
+      ],
+      "metrics": [
+        "3",
         "1"
       ]
     },
     {
       "dimensions": [
-        "/blog/2018-10-25-sunset-in-salerno/"
+        "/blog"
       ],
       "metrics": [
         "1",
@@ -416,34 +434,16 @@
     },
     {
       "dimensions": [
+        "/blog/how-to-get-to-amalfi/"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "/blog/hudozhnik-amalfi/"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/lutshie-skritie-mesta-v-amalfi"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/napoli-jizn-na-mopede"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/opolzien-u-fuenti-dorogha-ss163-otkryvaietsia-na-dien-ranshie-sroka"
       ],
       "metrics": [
         "1",
@@ -457,17 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "69",
-        "69"
-      ]
-    },
-    {
-      "dimensions": [
-        "(not set)"
-      ],
-      "metrics": [
-        "16",
-        "16"
+        "85",
+        "84"
       ]
     },
     {
@@ -475,8 +466,17 @@
         "google"
       ],
       "metrics": [
-        "6",
-        "3"
+        "14",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "avtomir35.ru"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     },
     {
@@ -513,22 +513,22 @@
         "Russia"
       ],
       "metrics": [
-        "21",
-        "21"
+        "23",
+        "23"
+      ]
+    },
+    {
+      "dimensions": [
+        "Germany"
+      ],
+      "metrics": [
+        "18",
+        "18"
       ]
     },
     {
       "dimensions": [
         "Singapore"
-      ],
-      "metrics": [
-        "19",
-        "19"
-      ]
-    },
-    {
-      "dimensions": [
-        "United Kingdom"
       ],
       "metrics": [
         "15",
@@ -537,11 +537,11 @@
     },
     {
       "dimensions": [
-        "Germany"
+        "Italy"
       ],
       "metrics": [
         "13",
-        "13"
+        "5"
       ]
     },
     {
@@ -555,20 +555,20 @@
     },
     {
       "dimensions": [
+        "United Kingdom"
+      ],
+      "metrics": [
+        "11",
+        "11"
+      ]
+    },
+    {
+      "dimensions": [
         "(not set)"
       ],
       "metrics": [
         "6",
         "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "Italy"
-      ],
-      "metrics": [
-        "3",
-        "1"
       ]
     },
     {
@@ -600,17 +600,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 94,
-    "users": 91,
-    "pageViews": 112,
-    "avgSessionDuration": 7,
-    "bounceRate": 0.9
+    "sessions": 103,
+    "users": 94,
+    "pageViews": 137,
+    "avgSessionDuration": 53,
+    "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 441,
-    "users": 428,
-    "pageViews": 472,
-    "avgSessionDuration": 11,
+    "sessions": 452,
+    "users": 432,
+    "pageViews": 499,
+    "avgSessionDuration": 21,
     "bounceRate": 0.8
   }
 }
