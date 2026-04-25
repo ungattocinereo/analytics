@@ -1,8 +1,18 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-04-24T07:05:46.354Z",
+  "updatedAt": "2026-04-25T06:21:46.958Z",
   "trend": [
+    {
+      "dimensions": [
+        "20260424"
+      ],
+      "metrics": [
+        "30",
+        "23",
+        "90"
+      ]
+    },
     {
       "dimensions": [
         "20260404"
@@ -100,16 +110,6 @@
       "metrics": [
         "19",
         "19",
-        "19"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260325"
-      ],
-      "metrics": [
-        "18",
-        "18",
         "19"
       ]
     },
@@ -275,12 +275,12 @@
     },
     {
       "dimensions": [
-        "20260424"
+        "20260425"
       ],
       "metrics": [
         "7",
         "7",
-        "9"
+        "7"
       ]
     },
     {
@@ -320,8 +320,26 @@
         "/"
       ],
       "metrics": [
-        "69",
-        "66"
+        "91",
+        "79"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/a-room-with-a-view-kak-devid-iarrou-i-aliessandra-ambrosio-snimali-v-atrani-a-ia-ghotovil-im-pastu"
+      ],
+      "metrics": [
+        "20",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/apartments"
+      ],
+      "metrics": [
+        "15",
+        "10"
       ]
     },
     {
@@ -329,8 +347,26 @@
         "/blog/"
       ],
       "metrics": [
-        "9",
-        "6"
+        "10",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photosessions"
+      ],
+      "metrics": [
+        "10",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog"
+      ],
+      "metrics": [
+        "8",
+        "7"
       ]
     },
     {
@@ -344,29 +380,11 @@
     },
     {
       "dimensions": [
-        "/apartments"
-      ],
-      "metrics": [
-        "6",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
         "/experience"
       ],
       "metrics": [
-        "6",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photosessions"
-      ],
-      "metrics": [
-        "6",
-        "4"
+        "7",
+        "7"
       ]
     },
     {
@@ -374,8 +392,17 @@
         "/contacts"
       ],
       "metrics": [
-        "4",
-        "4"
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/atrani-samyi-siekrietnyi-ugholok-amalfitanskogho-pobieriezhia"
+      ],
+      "metrics": [
+        "3",
+        "3"
       ]
     },
     {
@@ -389,46 +416,19 @@
     },
     {
       "dimensions": [
-        "/blog"
+        "/photos"
       ],
       "metrics": [
-        "1",
-        "1"
+        "3",
+        "3"
       ]
     },
     {
       "dimensions": [
-        "/blog/amalfi-coast-winter"
+        "/photos/"
       ],
       "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/atrani-samyi-siekrietnyi-ugholok-amalfitanskogho-pobieriezhia"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/eng-atrani"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/how-to-get-to-amalfi"
-      ],
-      "metrics": [
-        "1",
+        "3",
         "1"
       ]
     },
@@ -437,17 +437,17 @@
         "/blog/how-to-get-to-amalfi/"
       ],
       "metrics": [
-        "1",
-        "1"
+        "2",
+        "2"
       ]
     },
     {
       "dimensions": [
-        "/blog/hudozhnik-amalfi/"
+        "/orel-i-reshka-amalfi/"
       ],
       "metrics": [
-        "1",
-        "1"
+        "2",
+        "2"
       ]
     }
   ],
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "85",
-        "84"
+        "90",
+        "89"
       ]
     },
     {
@@ -466,8 +466,17 @@
         "google"
       ],
       "metrics": [
-        "14",
-        "6"
+        "23",
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "ig"
+      ],
+      "metrics": [
+        "3",
+        "2"
       ]
     },
     {
@@ -513,8 +522,8 @@
         "Russia"
       ],
       "metrics": [
-        "23",
-        "23"
+        "27",
+        "26"
       ]
     },
     {
@@ -522,17 +531,8 @@
         "Germany"
       ],
       "metrics": [
-        "18",
-        "18"
-      ]
-    },
-    {
-      "dimensions": [
-        "Singapore"
-      ],
-      "metrics": [
-        "15",
-        "15"
+        "26",
+        "26"
       ]
     },
     {
@@ -540,8 +540,8 @@
         "Italy"
       ],
       "metrics": [
-        "13",
-        "5"
+        "21",
+        "7"
       ]
     },
     {
@@ -551,6 +551,15 @@
       "metrics": [
         "12",
         "12"
+      ]
+    },
+    {
+      "dimensions": [
+        "Singapore"
+      ],
+      "metrics": [
+        "11",
+        "11"
       ]
     },
     {
@@ -573,20 +582,20 @@
     },
     {
       "dimensions": [
+        "Israel"
+      ],
+      "metrics": [
+        "3",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         ""
       ],
       "metrics": [
         "2",
         "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "Israel"
-      ],
-      "metrics": [
-        "2",
-        "1"
       ]
     },
     {
@@ -600,17 +609,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 103,
-    "users": 94,
-    "pageViews": 137,
-    "avgSessionDuration": 53,
+    "sessions": 120,
+    "users": 103,
+    "pageViews": 212,
+    "avgSessionDuration": 119,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 452,
-    "users": 432,
-    "pageViews": 499,
-    "avgSessionDuration": 21,
+    "sessions": 464,
+    "users": 435,
+    "pageViews": 568,
+    "avgSessionDuration": 40,
     "bounceRate": 0.8
   }
 }

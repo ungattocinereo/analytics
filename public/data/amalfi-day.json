@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-04-24T07:05:48.375Z",
+  "updatedAt": "2026-04-25T06:21:48.216Z",
   "trend": [
     {
       "dimensions": [
@@ -175,16 +175,6 @@
     },
     {
       "dimensions": [
-        "20260325"
-      ],
-      "metrics": [
-        "8",
-        "2",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
         "20260410"
       ],
       "metrics": [
@@ -231,6 +221,16 @@
         "7",
         "6",
         "12"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260424"
+      ],
+      "metrics": [
+        "7",
+        "5",
+        "22"
       ]
     },
     {
@@ -310,8 +310,8 @@
         "/parking/"
       ],
       "metrics": [
-        "26",
-        "20"
+        "25",
+        "19"
       ]
     },
     {
@@ -319,8 +319,8 @@
         "/"
       ],
       "metrics": [
-        "17",
-        "14"
+        "21",
+        "16"
       ]
     },
     {
@@ -328,16 +328,16 @@
         "/timetables/"
       ],
       "metrics": [
-        "13",
-        "11"
+        "14",
+        "12"
       ]
     },
     {
       "dimensions": [
-        "/directions/"
+        "/apartments"
       ],
       "metrics": [
-        "5",
+        "11",
         "4"
       ]
     },
@@ -348,6 +348,15 @@
       "metrics": [
         "5",
         "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/directions/"
+      ],
+      "metrics": [
+        "3",
+        "3"
       ]
     },
     {
@@ -430,15 +439,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "/blog/the-52nd-gran-carnevale-di-maiori-2026-dreams-floats-fireworks-on-the-amalfi-coast/"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "sources": [
@@ -447,8 +447,8 @@
         "google"
       ],
       "metrics": [
-        "36",
-        "24"
+        "37",
+        "25"
       ]
     },
     {
@@ -457,7 +457,7 @@
       ],
       "metrics": [
         "21",
-        "14"
+        "13"
       ]
     },
     {
@@ -465,7 +465,7 @@
         "ads.google.com"
       ],
       "metrics": [
-        "4",
+        "6",
         "1"
       ]
     }
@@ -476,8 +476,8 @@
         "Italy"
       ],
       "metrics": [
-        "22",
-        "13"
+        "24",
+        "12"
       ]
     },
     {
@@ -485,8 +485,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "7",
-        "5"
+        "6",
+        "4"
       ]
     },
     {
@@ -494,8 +494,8 @@
         "Netherlands"
       ],
       "metrics": [
-        "4",
-        "3"
+        "5",
+        "4"
       ]
     },
     {
@@ -503,8 +503,8 @@
         "United States"
       ],
       "metrics": [
-        "4",
-        "4"
+        "5",
+        "5"
       ]
     },
     {
@@ -514,6 +514,15 @@
       "metrics": [
         "3",
         "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Romania"
+      ],
+      "metrics": [
+        "3",
+        "3"
       ]
     },
     {
@@ -551,29 +560,20 @@
         "2",
         "2"
       ]
-    },
-    {
-      "dimensions": [
-        "Poland"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 61,
+    "sessions": 64,
     "users": 39,
-    "pageViews": 83,
-    "avgSessionDuration": 168,
-    "bounceRate": 0.5
+    "pageViews": 99,
+    "avgSessionDuration": 215,
+    "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 321,
-    "users": 172,
-    "pageViews": 504,
-    "avgSessionDuration": 237,
+    "sessions": 320,
+    "users": 174,
+    "pageViews": 517,
+    "avgSessionDuration": 247,
     "bounceRate": 0.5
   }
 }
