@@ -1,7 +1,7 @@
 {
   "name": "find.amalfi.day",
   "propertyId": "properties/531159837",
-  "updatedAt": "2026-04-25T06:21:49.320Z",
+  "updatedAt": "2026-04-26T07:00:31.544Z",
   "trend": [
     {
       "dimensions": [
@@ -172,6 +172,16 @@
         "1",
         "2"
       ]
+    },
+    {
+      "dimensions": [
+        "20260425"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "5"
+      ]
     }
   ],
   "topPages": [
@@ -180,8 +190,8 @@
         "/"
       ],
       "metrics": [
-        "9",
-        "8"
+        "12",
+        "9"
       ]
     },
     {
@@ -195,20 +205,20 @@
     },
     {
       "dimensions": [
+        "/a"
+      ],
+      "metrics": [
+        "3",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "/route/amalfi-house.html"
       ],
       "metrics": [
         "3",
         "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/a"
-      ],
-      "metrics": [
-        "1",
-        "1"
       ]
     },
     {
@@ -251,20 +261,20 @@
     },
     {
       "dimensions": [
-        "(not set)"
+        "airbnb.it"
       ],
       "metrics": [
-        "1",
+        "2",
         "1"
       ]
     },
     {
       "dimensions": [
-        "airbnb.it"
+        "(not set)"
       ],
       "metrics": [
         "1",
-        "0"
+        "1"
       ]
     }
   ],
@@ -274,8 +284,8 @@
         "Italy"
       ],
       "metrics": [
-        "7",
-        "3"
+        "8",
+        "4"
       ]
     },
     {
@@ -298,17 +308,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 11,
-    "users": 4,
-    "pageViews": 18,
-    "avgSessionDuration": 208,
+    "sessions": 12,
+    "users": 5,
+    "pageViews": 23,
+    "avgSessionDuration": 194,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 76,
+    "sessions": 77,
     "users": 35,
-    "pageViews": 244,
-    "avgSessionDuration": 358,
+    "pageViews": 249,
+    "avgSessionDuration": 353,
     "bounceRate": 0.3
   }
 }

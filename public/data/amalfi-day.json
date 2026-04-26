@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-04-25T06:21:48.216Z",
+  "updatedAt": "2026-04-26T07:00:30.108Z",
   "trend": [
     {
       "dimensions": [
@@ -195,16 +195,6 @@
     },
     {
       "dimensions": [
-        "20260326"
-      ],
-      "metrics": [
-        "7",
-        "5",
-        "11"
-      ]
-    },
-    {
-      "dimensions": [
         "20260408"
       ],
       "metrics": [
@@ -231,6 +221,16 @@
         "7",
         "5",
         "22"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260425"
+      ],
+      "metrics": [
+        "7",
+        "5",
+        "12"
       ]
     },
     {
@@ -310,7 +310,7 @@
         "/parking/"
       ],
       "metrics": [
-        "25",
+        "24",
         "19"
       ]
     },
@@ -319,8 +319,8 @@
         "/"
       ],
       "metrics": [
-        "21",
-        "16"
+        "23",
+        "17"
       ]
     },
     {
@@ -328,7 +328,7 @@
         "/timetables/"
       ],
       "metrics": [
-        "14",
+        "13",
         "12"
       ]
     },
@@ -337,7 +337,16 @@
         "/apartments"
       ],
       "metrics": [
-        "11",
+        "12",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/directions/"
+      ],
+      "metrics": [
+        "7",
         "4"
       ]
     },
@@ -346,17 +355,8 @@
         "/timetables"
       ],
       "metrics": [
-        "5",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "/directions/"
-      ],
-      "metrics": [
-        "3",
-        "3"
+        "4",
+        "4"
       ]
     },
     {
@@ -370,29 +370,11 @@
     },
     {
       "dimensions": [
-        "/blog/coppa-della-primavera-returns-april-18-19-slalom-racing-on-the-amalfi-coast"
+        "/contact"
       ],
       "metrics": [
         "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/coppa-della-primavera-returns-april-18-19-slalom-racing-on-the-amalfi-coast/"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/experience"
-      ],
-      "metrics": [
-        "2",
-        "2"
+        "3"
       ]
     },
     {
@@ -433,7 +415,25 @@
     },
     {
       "dimensions": [
-        "/blog/easter-in-amalfi-2026-torchlit-processions-sacred-music-and-ancient-rituals"
+        "/blog/coppa-della-primavera-returns-april-18-19-slalom-racing-on-the-amalfi-coast"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/experience"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/experience/car-tours"
       ],
       "metrics": [
         "1",
@@ -447,8 +447,8 @@
         "google"
       ],
       "metrics": [
-        "37",
-        "25"
+        "36",
+        "24"
       ]
     },
     {
@@ -456,8 +456,8 @@
         "(direct)"
       ],
       "metrics": [
-        "21",
-        "13"
+        "16",
+        "12"
       ]
     },
     {
@@ -465,7 +465,7 @@
         "ads.google.com"
       ],
       "metrics": [
-        "6",
+        "7",
         "1"
       ]
     }
@@ -476,8 +476,8 @@
         "Italy"
       ],
       "metrics": [
-        "24",
-        "12"
+        "23",
+        "10"
       ]
     },
     {
@@ -485,17 +485,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "6",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "Netherlands"
-      ],
-      "metrics": [
         "5",
-        "4"
+        "3"
       ]
     },
     {
@@ -509,11 +500,20 @@
     },
     {
       "dimensions": [
-        "North Macedonia"
+        "Netherlands"
+      ],
+      "metrics": [
+        "4",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "Denmark"
       ],
       "metrics": [
         "3",
-        "1"
+        "2"
       ]
     },
     {
@@ -536,44 +536,44 @@
     },
     {
       "dimensions": [
-        "Denmark"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Germany"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "Greece"
       ],
       "metrics": [
         "2",
         "2"
       ]
+    },
+    {
+      "dimensions": [
+        "Luxembourg"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Poland"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 64,
-    "users": 39,
-    "pageViews": 99,
-    "avgSessionDuration": 215,
+    "sessions": 59,
+    "users": 37,
+    "pageViews": 97,
+    "avgSessionDuration": 216,
     "bounceRate": 0.4
   },
   "summary30d": {
     "sessions": 320,
-    "users": 174,
-    "pageViews": 517,
-    "avgSessionDuration": 247,
+    "users": 173,
+    "pageViews": 518,
+    "avgSessionDuration": 241,
     "bounceRate": 0.5
   }
 }
