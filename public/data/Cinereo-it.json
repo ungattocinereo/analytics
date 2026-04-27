@@ -1,7 +1,7 @@
 {
   "name": "Cinereo.it",
   "propertyId": "properties/362803366",
-  "updatedAt": "2026-04-26T07:00:29.409Z",
+  "updatedAt": "2026-04-27T07:36:28.761Z",
   "trend": [
     {
       "dimensions": [
@@ -71,6 +71,16 @@
         "3",
         "1",
         "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260426"
+      ],
+      "metrics": [
+        "3",
+        "1",
+        "8"
       ]
     },
     {
@@ -145,16 +155,6 @@
     },
     {
       "dimensions": [
-        "20260327"
-      ],
-      "metrics": [
-        "1",
-        "1",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "20260402"
       ],
       "metrics": [
@@ -210,8 +210,17 @@
         "/"
       ],
       "metrics": [
-        "21",
-        "17"
+        "28",
+        "20"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photography"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     }
   ],
@@ -221,7 +230,7 @@
         "(direct)"
       ],
       "metrics": [
-        "17",
+        "20",
         "3"
       ]
     }
@@ -232,7 +241,7 @@
         "Italy"
       ],
       "metrics": [
-        "15",
+        "18",
         "2"
       ]
     },
@@ -247,17 +256,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 17,
+    "sessions": 20,
     "users": 3,
-    "pageViews": 21,
-    "avgSessionDuration": 388,
+    "pageViews": 29,
+    "avgSessionDuration": 488,
     "bounceRate": 0.6
   },
   "summary30d": {
-    "sessions": 45,
-    "users": 6,
-    "pageViews": 57,
-    "avgSessionDuration": 282,
+    "sessions": 47,
+    "users": 5,
+    "pageViews": 63,
+    "avgSessionDuration": 336,
     "bounceRate": 0.6
   }
 }

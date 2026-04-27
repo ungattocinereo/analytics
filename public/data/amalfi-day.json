@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-04-26T07:00:30.108Z",
+  "updatedAt": "2026-04-27T07:36:29.260Z",
   "trend": [
     {
       "dimensions": [
@@ -41,6 +41,16 @@
         "15",
         "8",
         "42"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260426"
+      ],
+      "metrics": [
+        "15",
+        "8",
+        "20"
       ]
     },
     {
@@ -151,16 +161,6 @@
         "10",
         "8",
         "16"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260327"
-      ],
-      "metrics": [
-        "9",
-        "6",
-        "24"
       ]
     },
     {
@@ -302,25 +302,35 @@
         "3",
         "6"
       ]
+    },
+    {
+      "dimensions": [
+        "20260427"
+      ],
+      "metrics": [
+        "2",
+        "1",
+        "2"
+      ]
     }
   ],
   "topPages": [
     {
       "dimensions": [
-        "/parking/"
+        "/"
       ],
       "metrics": [
-        "24",
+        "26",
         "19"
       ]
     },
     {
       "dimensions": [
-        "/"
+        "/parking/"
       ],
       "metrics": [
         "23",
-        "17"
+        "18"
       ]
     },
     {
@@ -328,8 +338,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "13",
-        "12"
+        "14",
+        "13"
       ]
     },
     {
@@ -346,8 +356,8 @@
         "/directions/"
       ],
       "metrics": [
-        "7",
-        "4"
+        "8",
+        "5"
       ]
     },
     {
@@ -355,8 +365,8 @@
         "/timetables"
       ],
       "metrics": [
-        "4",
-        "4"
+        "5",
+        "5"
       ]
     },
     {
@@ -415,7 +425,16 @@
     },
     {
       "dimensions": [
-        "/blog/coppa-della-primavera-returns-april-18-19-slalom-racing-on-the-amalfi-coast"
+        "/blog/license-plate-restrictions-return-to-the-amalfi-coast-april-25-may-2-2"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/the-52nd-gran-carnevale-di-maiori-2026-dreams-floats-fireworks-on-the-amalfi-coast/"
       ],
       "metrics": [
         "1",
@@ -430,15 +449,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "/experience/car-tours"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "sources": [
@@ -447,8 +457,8 @@
         "google"
       ],
       "metrics": [
-        "36",
-        "24"
+        "34",
+        "25"
       ]
     },
     {
@@ -456,8 +466,8 @@
         "(direct)"
       ],
       "metrics": [
-        "16",
-        "12"
+        "19",
+        "14"
       ]
     },
     {
@@ -468,6 +478,24 @@
         "7",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "(not set)"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "chatgpt.com"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
     }
   ],
   "countries": [
@@ -476,8 +504,8 @@
         "Italy"
       ],
       "metrics": [
-        "23",
-        "10"
+        "22",
+        "11"
       ]
     },
     {
@@ -496,15 +524,6 @@
       "metrics": [
         "5",
         "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "Netherlands"
-      ],
-      "metrics": [
-        "4",
-        "3"
       ]
     },
     {
@@ -536,11 +555,20 @@
     },
     {
       "dimensions": [
-        "Greece"
+        "Argentina"
       ],
       "metrics": [
         "2",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Latvia"
+      ],
+      "metrics": [
+        "2",
+        "1"
       ]
     },
     {
@@ -554,7 +582,7 @@
     },
     {
       "dimensions": [
-        "Poland"
+        "Netherlands"
       ],
       "metrics": [
         "2",
@@ -563,17 +591,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 59,
-    "users": 37,
-    "pageViews": 97,
-    "avgSessionDuration": 216,
-    "bounceRate": 0.4
+    "sessions": 63,
+    "users": 41,
+    "pageViews": 103,
+    "avgSessionDuration": 228,
+    "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 320,
-    "users": 173,
-    "pageViews": 518,
-    "avgSessionDuration": 241,
+    "sessions": 328,
+    "users": 177,
+    "pageViews": 516,
+    "avgSessionDuration": 233,
     "bounceRate": 0.5
   }
 }

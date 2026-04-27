@@ -1,7 +1,7 @@
 {
   "name": "find.amalfi.day",
   "propertyId": "properties/531159837",
-  "updatedAt": "2026-04-26T07:00:31.544Z",
+  "updatedAt": "2026-04-27T07:36:30.100Z",
   "trend": [
     {
       "dimensions": [
@@ -55,6 +55,16 @@
     },
     {
       "dimensions": [
+        "20260426"
+      ],
+      "metrics": [
+        "4",
+        "3",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
         "20260403"
       ],
       "metrics": [
@@ -101,6 +111,16 @@
         "3",
         "2",
         "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260427"
+      ],
+      "metrics": [
+        "3",
+        "2",
+        "4"
       ]
     },
     {
@@ -190,17 +210,8 @@
         "/"
       ],
       "metrics": [
-        "12",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
-        "/route/atrani-house.html"
-      ],
-      "metrics": [
-        "4",
-        "4"
+        "14",
+        "12"
       ]
     },
     {
@@ -208,13 +219,22 @@
         "/a"
       ],
       "metrics": [
-        "3",
-        "2"
+        "7",
+        "7"
       ]
     },
     {
       "dimensions": [
         "/route/amalfi-house.html"
+      ],
+      "metrics": [
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/route/amalfi-awesome.html"
       ],
       "metrics": [
         "3",
@@ -223,11 +243,11 @@
     },
     {
       "dimensions": [
-        "/route/amalfi-awesome.html"
+        "/route/atrani-house.html"
       ],
       "metrics": [
-        "1",
-        "1"
+        "3",
+        "3"
       ]
     }
   ],
@@ -237,8 +257,26 @@
         "(direct)"
       ],
       "metrics": [
+        "5",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "(not set)"
+      ],
+      "metrics": [
         "4",
-        "2"
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "vercel.com"
+      ],
+      "metrics": [
+        "4",
+        "1"
       ]
     },
     {
@@ -252,28 +290,10 @@
     },
     {
       "dimensions": [
-        "vercel.com"
-      ],
-      "metrics": [
-        "3",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "airbnb.it"
       ],
       "metrics": [
-        "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "(not set)"
-      ],
-      "metrics": [
-        "1",
+        "3",
         "1"
       ]
     }
@@ -284,8 +304,8 @@
         "Italy"
       ],
       "metrics": [
-        "8",
-        "4"
+        "13",
+        "7"
       ]
     },
     {
@@ -299,26 +319,26 @@
     },
     {
       "dimensions": [
-        "North Macedonia"
+        "Argentina"
       ],
       "metrics": [
-        "1",
-        "0"
+        "2",
+        "1"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 12,
-    "users": 5,
-    "pageViews": 23,
-    "avgSessionDuration": 194,
-    "bounceRate": 0.5
+    "sessions": 18,
+    "users": 8,
+    "pageViews": 32,
+    "avgSessionDuration": 197,
+    "bounceRate": 0.6
   },
   "summary30d": {
-    "sessions": 77,
-    "users": 35,
-    "pageViews": 249,
-    "avgSessionDuration": 353,
+    "sessions": 84,
+    "users": 38,
+    "pageViews": 259,
+    "avgSessionDuration": 338,
     "bounceRate": 0.3
   }
 }

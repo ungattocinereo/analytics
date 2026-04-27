@@ -1,8 +1,18 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-04-26T07:00:28.865Z",
+  "updatedAt": "2026-04-27T07:36:27.955Z",
   "trend": [
+    {
+      "dimensions": [
+        "20260426"
+      ],
+      "metrics": [
+        "40",
+        "40",
+        "60"
+      ]
+    },
     {
       "dimensions": [
         "20260424"
@@ -29,7 +39,7 @@
       ],
       "metrics": [
         "25",
-        "21",
+        "20",
         "26"
       ]
     },
@@ -51,16 +61,6 @@
         "22",
         "22",
         "22"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260327"
-      ],
-      "metrics": [
-        "21",
-        "21",
-        "21"
       ]
     },
     {
@@ -275,6 +275,16 @@
     },
     {
       "dimensions": [
+        "20260427"
+      ],
+      "metrics": [
+        "8",
+        "8",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
         "20260410"
       ],
       "metrics": [
@@ -295,16 +305,6 @@
     },
     {
       "dimensions": [
-        "20260426"
-      ],
-      "metrics": [
-        "6",
-        "6",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
         "20260408"
       ],
       "metrics": [
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "100",
-        "88"
+        "121",
+        "107"
       ]
     },
     {
@@ -335,11 +335,38 @@
     },
     {
       "dimensions": [
+        "/blog"
+      ],
+      "metrics": [
+        "16",
+        "12"
+      ]
+    },
+    {
+      "dimensions": [
         "/apartments"
       ],
       "metrics": [
         "14",
         "9"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/"
+      ],
+      "metrics": [
+        "13",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
+        "/experience"
+      ],
+      "metrics": [
+        "10",
+        "8"
       ]
     },
     {
@@ -353,10 +380,10 @@
     },
     {
       "dimensions": [
-        "/blog"
+        "/photos"
       ],
       "metrics": [
-        "8",
+        "9",
         "7"
       ]
     },
@@ -374,25 +401,16 @@
         "/contacts"
       ],
       "metrics": [
-        "5",
-        "5"
+        "6",
+        "6"
       ]
     },
     {
       "dimensions": [
-        "/experience"
+        "/blog/atrani-samyi-siekrietnyi-ugholok-amalfitanskogho-pobieriezhia"
       ],
       "metrics": [
-        "5",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/"
-      ],
-      "metrics": [
-        "4",
+        "3",
         "3"
       ]
     },
@@ -416,15 +434,6 @@
     },
     {
       "dimensions": [
-        "/photos"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
         "/photos/"
       ],
       "metrics": [
@@ -434,16 +443,7 @@
     },
     {
       "dimensions": [
-        "/blog/atrani-samyi-siekrietnyi-ugholok-amalfitanskogho-pobieriezhia"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/orel-i-reshka-amalfi/"
+        "/blog/colatura-di-alici-di-cetara/"
       ],
       "metrics": [
         "2",
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "95",
-        "94"
+        "120",
+        "119"
       ]
     },
     {
@@ -476,7 +476,7 @@
       ],
       "metrics": [
         "8",
-        "6"
+        "5"
       ]
     },
     {
@@ -486,6 +486,24 @@
       "metrics": [
         "3",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "yandex.ru"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "(not set)"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     },
     {
@@ -514,24 +532,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "m.facebook.com"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "yandex.ru"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "countries": [
@@ -540,8 +540,8 @@
         "Russia"
       ],
       "metrics": [
-        "34",
-        "33"
+        "44",
+        "43"
       ]
     },
     {
@@ -549,8 +549,8 @@
         "Germany"
       ],
       "metrics": [
-        "31",
-        "31"
+        "41",
+        "41"
       ]
     },
     {
@@ -558,26 +558,8 @@
         "Italy"
       ],
       "metrics": [
-        "29",
-        "10"
-      ]
-    },
-    {
-      "dimensions": [
-        "Singapore"
-      ],
-      "metrics": [
-        "10",
-        "10"
-      ]
-    },
-    {
-      "dimensions": [
-        "United Kingdom"
-      ],
-      "metrics": [
-        "10",
-        "10"
+        "30",
+        "11"
       ]
     },
     {
@@ -585,8 +567,17 @@
         "United States"
       ],
       "metrics": [
-        "8",
-        "8"
+        "20",
+        "20"
+      ]
+    },
+    {
+      "dimensions": [
+        "United Kingdom"
+      ],
+      "metrics": [
+        "9",
+        "9"
       ]
     },
     {
@@ -600,7 +591,25 @@
     },
     {
       "dimensions": [
+        "Singapore"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
         ""
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Sweden"
       ],
       "metrics": [
         "2",
@@ -615,29 +624,20 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "Israel"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 135,
-    "users": 115,
-    "pageViews": 220,
-    "avgSessionDuration": 113,
+    "sessions": 161,
+    "users": 141,
+    "pageViews": 267,
+    "avgSessionDuration": 96,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 471,
-    "users": 437,
-    "pageViews": 576,
-    "avgSessionDuration": 41,
+    "sessions": 492,
+    "users": 458,
+    "pageViews": 618,
+    "avgSessionDuration": 40,
     "bounceRate": 0.8
   }
 }
