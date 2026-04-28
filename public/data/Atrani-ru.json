@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-04-27T07:36:27.955Z",
+  "updatedAt": "2026-04-28T07:33:50.420Z",
   "trend": [
     {
       "dimensions": [
@@ -11,6 +11,16 @@
         "40",
         "40",
         "60"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260427"
+      ],
+      "metrics": [
+        "31",
+        "27",
+        "33"
       ]
     },
     {
@@ -185,16 +195,6 @@
     },
     {
       "dimensions": [
-        "20260328"
-      ],
-      "metrics": [
-        "12",
-        "11",
-        "11"
-      ]
-    },
-    {
-      "dimensions": [
         "20260411"
       ],
       "metrics": [
@@ -275,16 +275,6 @@
     },
     {
       "dimensions": [
-        "20260427"
-      ],
-      "metrics": [
-        "8",
-        "8",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
         "20260410"
       ],
       "metrics": [
@@ -305,6 +295,16 @@
     },
     {
       "dimensions": [
+        "20260428"
+      ],
+      "metrics": [
+        "6",
+        "6",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
         "20260408"
       ],
       "metrics": [
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "121",
-        "107"
+        "134",
+        "120"
       ]
     },
     {
@@ -338,8 +338,8 @@
         "/blog"
       ],
       "metrics": [
-        "16",
-        "12"
+        "17",
+        "13"
       ]
     },
     {
@@ -398,6 +398,15 @@
     },
     {
       "dimensions": [
+        "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
+      ],
+      "metrics": [
+        "6",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
         "/contacts"
       ],
       "metrics": [
@@ -410,8 +419,8 @@
         "/blog/atrani-samyi-siekrietnyi-ugholok-amalfitanskogho-pobieriezhia"
       ],
       "metrics": [
-        "3",
-        "3"
+        "4",
+        "4"
       ]
     },
     {
@@ -419,8 +428,8 @@
         "/blog/how-to-get-to-amalfi/"
       ],
       "metrics": [
-        "3",
-        "3"
+        "4",
+        "4"
       ]
     },
     {
@@ -440,15 +449,6 @@
         "3",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "/blog/colatura-di-alici-di-cetara/"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
     }
   ],
   "sources": [
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "120",
-        "119"
+        "128",
+        "127"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "24",
-        "9"
+        "30",
+        "10"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "l.instagram.com"
       ],
       "metrics": [
-        "8",
-        "5"
+        "12",
+        "9"
       ]
     },
     {
@@ -490,7 +490,7 @@
     },
     {
       "dimensions": [
-        "yandex.ru"
+        "facebook.com"
       ],
       "metrics": [
         "2",
@@ -526,7 +526,7 @@
     },
     {
       "dimensions": [
-        "facebook.com"
+        "yandex.ru"
       ],
       "metrics": [
         "1",
@@ -535,6 +535,15 @@
     }
   ],
   "countries": [
+    {
+      "dimensions": [
+        "Germany"
+      ],
+      "metrics": [
+        "47",
+        "47"
+      ]
+    },
     {
       "dimensions": [
         "Russia"
@@ -546,19 +555,10 @@
     },
     {
       "dimensions": [
-        "Germany"
-      ],
-      "metrics": [
-        "41",
-        "41"
-      ]
-    },
-    {
-      "dimensions": [
         "Italy"
       ],
       "metrics": [
-        "30",
+        "34",
         "11"
       ]
     },
@@ -576,8 +576,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "9",
-        "9"
+        "14",
+        "14"
       ]
     },
     {
@@ -591,15 +591,6 @@
     },
     {
       "dimensions": [
-        "Singapore"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
         ""
       ],
       "metrics": [
@@ -609,7 +600,7 @@
     },
     {
       "dimensions": [
-        "Sweden"
+        "Belarus"
       ],
       "metrics": [
         "2",
@@ -621,23 +612,32 @@
         "Ireland"
       ],
       "metrics": [
-        "1",
-        "1"
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Singapore"
+      ],
+      "metrics": [
+        "2",
+        "2"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 161,
-    "users": 141,
-    "pageViews": 267,
-    "avgSessionDuration": 96,
+    "sessions": 179,
+    "users": 154,
+    "pageViews": 286,
+    "avgSessionDuration": 88,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 492,
-    "users": 458,
-    "pageViews": 618,
-    "avgSessionDuration": 40,
+    "sessions": 508,
+    "users": 470,
+    "pageViews": 637,
+    "avgSessionDuration": 39,
     "bounceRate": 0.8
   }
 }

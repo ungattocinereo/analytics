@@ -1,7 +1,7 @@
 {
   "name": "find.amalfi.day",
   "propertyId": "properties/531159837",
-  "updatedAt": "2026-04-27T07:36:30.100Z",
+  "updatedAt": "2026-04-28T07:33:53.282Z",
   "trend": [
     {
       "dimensions": [
@@ -60,7 +60,17 @@
       "metrics": [
         "4",
         "3",
-        "6"
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260427"
+      ],
+      "metrics": [
+        "4",
+        "2",
+        "9"
       ]
     },
     {
@@ -111,16 +121,6 @@
         "3",
         "2",
         "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260427"
-      ],
-      "metrics": [
-        "3",
-        "2",
-        "4"
       ]
     },
     {
@@ -210,8 +210,8 @@
         "/"
       ],
       "metrics": [
-        "14",
-        "12"
+        "17",
+        "13"
       ]
     },
     {
@@ -219,7 +219,7 @@
         "/a"
       ],
       "metrics": [
-        "7",
+        "10",
         "7"
       ]
     },
@@ -228,8 +228,8 @@
         "/route/amalfi-house.html"
       ],
       "metrics": [
-        "5",
-        "5"
+        "7",
+        "6"
       ]
     },
     {
@@ -257,17 +257,17 @@
         "(direct)"
       ],
       "metrics": [
-        "5",
-        "3"
+        "7",
+        "4"
       ]
     },
     {
       "dimensions": [
-        "(not set)"
+        "airbnb.it"
       ],
       "metrics": [
-        "4",
-        "3"
+        "5",
+        "2"
       ]
     },
     {
@@ -290,10 +290,10 @@
     },
     {
       "dimensions": [
-        "airbnb.it"
+        "(not set)"
       ],
       "metrics": [
-        "3",
+        "1",
         "1"
       ]
     }
@@ -304,7 +304,7 @@
         "Italy"
       ],
       "metrics": [
-        "13",
+        "14",
         "7"
       ]
     },
@@ -325,20 +325,29 @@
         "2",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 18,
+    "sessions": 19,
     "users": 8,
-    "pageViews": 32,
-    "avgSessionDuration": 197,
-    "bounceRate": 0.6
+    "pageViews": 40,
+    "avgSessionDuration": 500,
+    "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 84,
+    "sessions": 85,
     "users": 38,
-    "pageViews": 259,
-    "avgSessionDuration": 338,
+    "pageViews": 267,
+    "avgSessionDuration": 405,
     "bounceRate": 0.3
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-04-27T07:36:29.260Z",
+  "updatedAt": "2026-04-28T07:33:52.376Z",
   "trend": [
     {
       "dimensions": [
@@ -30,6 +30,16 @@
       "metrics": [
         "20",
         "8",
+        "22"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260427"
+      ],
+      "metrics": [
+        "16",
+        "7",
         "22"
       ]
     },
@@ -91,16 +101,6 @@
         "13",
         "6",
         "16"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260328"
-      ],
-      "metrics": [
-        "12",
-        "7",
-        "31"
       ]
     },
     {
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260427"
+        "20260428"
       ],
       "metrics": [
-        "2",
         "1",
-        "2"
+        "1",
+        "1"
       ]
     }
   ],
@@ -329,8 +329,8 @@
         "/parking/"
       ],
       "metrics": [
-        "23",
-        "18"
+        "24",
+        "19"
       ]
     },
     {
@@ -338,8 +338,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "14",
-        "13"
+        "16",
+        "14"
       ]
     },
     {
@@ -356,8 +356,8 @@
         "/directions/"
       ],
       "metrics": [
-        "8",
-        "5"
+        "10",
+        "7"
       ]
     },
     {
@@ -365,8 +365,17 @@
         "/timetables"
       ],
       "metrics": [
-        "5",
-        "5"
+        "7",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/license-plate-restrictions-return-to-the-amalfi-coast-april-25-may-2-2"
+      ],
+      "metrics": [
+        "3",
+        "3"
       ]
     },
     {
@@ -398,38 +407,11 @@
     },
     {
       "dimensions": [
-        "/beaches"
+        "/moto"
       ],
       "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/amalfi-coast-launches-metro-style-bus-network"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/license-plate-restrictions-return-to-the-amalfi-coast-april-25-may-2-2"
-      ],
-      "metrics": [
-        "1",
-        "1"
+        "2",
+        "2"
       ]
     },
     {
@@ -443,7 +425,7 @@
     },
     {
       "dimensions": [
-        "/experience"
+        "/experience/car-tours"
       ],
       "metrics": [
         "1",
@@ -457,7 +439,7 @@
         "google"
       ],
       "metrics": [
-        "34",
+        "35",
         "25"
       ]
     },
@@ -466,8 +448,8 @@
         "(direct)"
       ],
       "metrics": [
-        "19",
-        "14"
+        "22",
+        "12"
       ]
     },
     {
@@ -475,7 +457,16 @@
         "ads.google.com"
       ],
       "metrics": [
-        "7",
+        "8",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "chatgpt.com"
+      ],
+      "metrics": [
+        "3",
         "1"
       ]
     },
@@ -484,16 +475,7 @@
         "(not set)"
       ],
       "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "chatgpt.com"
-      ],
-      "metrics": [
-        "2",
+        "1",
         "1"
       ]
     }
@@ -504,8 +486,26 @@
         "Italy"
       ],
       "metrics": [
-        "22",
-        "11"
+        "24",
+        "10"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "6",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "Argentina"
+      ],
+      "metrics": [
+        "5",
+        "2"
       ]
     },
     {
@@ -519,52 +519,34 @@
     },
     {
       "dimensions": [
-        "United States"
+        "Poland"
       ],
       "metrics": [
-        "5",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "Denmark"
-      ],
-      "metrics": [
-        "3",
+        "4",
         "2"
       ]
     },
     {
       "dimensions": [
-        "Romania"
+        "France"
       ],
       "metrics": [
         "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "Spain"
-      ],
-      "metrics": [
-        "3",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "Argentina"
-      ],
-      "metrics": [
-        "2",
-        "2"
+        "1"
       ]
     },
     {
       "dimensions": [
         "Latvia"
+      ],
+      "metrics": [
+        "3",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Denmark"
       ],
       "metrics": [
         "2",
@@ -591,17 +573,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 63,
-    "users": 41,
-    "pageViews": 103,
-    "avgSessionDuration": 228,
+    "sessions": 69,
+    "users": 39,
+    "pageViews": 109,
+    "avgSessionDuration": 207,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 328,
-    "users": 177,
-    "pageViews": 516,
-    "avgSessionDuration": 233,
+    "sessions": 331,
+    "users": 176,
+    "pageViews": 506,
+    "avgSessionDuration": 232,
     "bounceRate": 0.5
   }
 }
