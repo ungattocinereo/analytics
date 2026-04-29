@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-04-28T07:33:50.420Z",
+  "updatedAt": "2026-04-29T07:26:55.919Z",
   "trend": [
     {
       "dimensions": [
@@ -65,12 +65,12 @@
     },
     {
       "dimensions": [
-        "20260329"
+        "20260428"
       ],
       "metrics": [
         "22",
-        "22",
-        "22"
+        "20",
+        "25"
       ]
     },
     {
@@ -295,22 +295,22 @@
     },
     {
       "dimensions": [
-        "20260428"
-      ],
-      "metrics": [
-        "6",
-        "6",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
         "20260408"
       ],
       "metrics": [
         "5",
         "5",
         "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260429"
+      ],
+      "metrics": [
+        "4",
+        "4",
+        "4"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "134",
-        "120"
+        "151",
+        "136"
       ]
     },
     {
@@ -347,8 +347,8 @@
         "/apartments"
       ],
       "metrics": [
-        "14",
-        "9"
+        "13",
+        "8"
       ]
     },
     {
@@ -362,20 +362,20 @@
     },
     {
       "dimensions": [
-        "/experience"
-      ],
-      "metrics": [
-        "10",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
         "/photosessions"
       ],
       "metrics": [
         "10",
         "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/experience"
+      ],
+      "metrics": [
+        "9",
+        "7"
       ]
     },
     {
@@ -410,8 +410,8 @@
         "/contacts"
       ],
       "metrics": [
-        "6",
-        "6"
+        "5",
+        "5"
       ]
     },
     {
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "128",
-        "127"
+        "140",
+        "139"
       ]
     },
     {
@@ -466,7 +466,7 @@
         "google"
       ],
       "metrics": [
-        "30",
+        "33",
         "10"
       ]
     },
@@ -517,15 +517,6 @@
     },
     {
       "dimensions": [
-        "bing"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "yandex.ru"
       ],
       "metrics": [
@@ -537,20 +528,20 @@
   "countries": [
     {
       "dimensions": [
-        "Germany"
+        "Russia"
       ],
       "metrics": [
-        "47",
-        "47"
+        "52",
+        "51"
       ]
     },
     {
       "dimensions": [
-        "Russia"
+        "Germany"
       ],
       "metrics": [
-        "44",
-        "43"
+        "50",
+        "50"
       ]
     },
     {
@@ -558,7 +549,7 @@
         "Italy"
       ],
       "metrics": [
-        "34",
+        "36",
         "11"
       ]
     },
@@ -627,16 +618,16 @@
     }
   ],
   "summary7d": {
-    "sessions": 179,
-    "users": 154,
-    "pageViews": 286,
-    "avgSessionDuration": 88,
+    "sessions": 193,
+    "users": 165,
+    "pageViews": 298,
+    "avgSessionDuration": 82,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 508,
-    "users": 470,
-    "pageViews": 637,
+    "sessions": 507,
+    "users": 465,
+    "pageViews": 638,
     "avgSessionDuration": 39,
     "bounceRate": 0.8
   }

@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-04-28T07:33:52.376Z",
+  "updatedAt": "2026-04-29T07:26:57.043Z",
   "trend": [
     {
       "dimensions": [
@@ -41,6 +41,16 @@
         "16",
         "7",
         "22"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260428"
+      ],
+      "metrics": [
+        "16",
+        "11",
+        "20"
       ]
     },
     {
@@ -255,16 +265,6 @@
     },
     {
       "dimensions": [
-        "20260329"
-      ],
-      "metrics": [
-        "5",
-        "4",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
         "20260406"
       ],
       "metrics": [
@@ -302,16 +302,6 @@
         "3",
         "6"
       ]
-    },
-    {
-      "dimensions": [
-        "20260428"
-      ],
-      "metrics": [
-        "1",
-        "1",
-        "1"
-      ]
     }
   ],
   "topPages": [
@@ -320,8 +310,8 @@
         "/"
       ],
       "metrics": [
-        "26",
-        "19"
+        "28",
+        "20"
       ]
     },
     {
@@ -329,8 +319,8 @@
         "/parking/"
       ],
       "metrics": [
-        "24",
-        "19"
+        "28",
+        "23"
       ]
     },
     {
@@ -338,8 +328,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "16",
-        "14"
+        "20",
+        "18"
       ]
     },
     {
@@ -356,8 +346,8 @@
         "/directions/"
       ],
       "metrics": [
-        "10",
-        "7"
+        "11",
+        "8"
       ]
     },
     {
@@ -365,8 +355,8 @@
         "/timetables"
       ],
       "metrics": [
-        "7",
-        "6"
+        "9",
+        "8"
       ]
     },
     {
@@ -398,15 +388,6 @@
     },
     {
       "dimensions": [
-        "/how-to-get"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "/moto"
       ],
       "metrics": [
@@ -417,6 +398,15 @@
     {
       "dimensions": [
         "/blog/the-52nd-gran-carnevale-di-maiori-2026-dreams-floats-fireworks-on-the-amalfi-coast/"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/experience"
       ],
       "metrics": [
         "1",
@@ -439,8 +429,8 @@
         "google"
       ],
       "metrics": [
-        "35",
-        "25"
+        "45",
+        "32"
       ]
     },
     {
@@ -449,7 +439,7 @@
       ],
       "metrics": [
         "22",
-        "12"
+        "10"
       ]
     },
     {
@@ -486,8 +476,8 @@
         "Italy"
       ],
       "metrics": [
-        "24",
-        "10"
+        "29",
+        "13"
       ]
     },
     {
@@ -495,17 +485,8 @@
         "United States"
       ],
       "metrics": [
-        "6",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "Argentina"
-      ],
-      "metrics": [
-        "5",
-        "2"
+        "8",
+        "7"
       ]
     },
     {
@@ -514,7 +495,34 @@
       ],
       "metrics": [
         "5",
-        "3"
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Argentina"
+      ],
+      "metrics": [
+        "4",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "France"
+      ],
+      "metrics": [
+        "4",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Luxembourg"
+      ],
+      "metrics": [
+        "4",
+        "2"
       ]
     },
     {
@@ -524,15 +532,6 @@
       "metrics": [
         "4",
         "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "France"
-      ],
-      "metrics": [
-        "3",
-        "1"
       ]
     },
     {
@@ -555,35 +554,26 @@
     },
     {
       "dimensions": [
-        "Luxembourg"
+        "Greece"
       ],
       "metrics": [
         "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Netherlands"
-      ],
-      "metrics": [
-        "2",
-        "1"
+        "2"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 69,
-    "users": 39,
-    "pageViews": 109,
-    "avgSessionDuration": 207,
-    "bounceRate": 0.5
+    "sessions": 79,
+    "users": 44,
+    "pageViews": 121,
+    "avgSessionDuration": 177,
+    "bounceRate": 0.6
   },
   "summary30d": {
-    "sessions": 331,
-    "users": 176,
-    "pageViews": 506,
-    "avgSessionDuration": 232,
+    "sessions": 341,
+    "users": 183,
+    "pageViews": 519,
+    "avgSessionDuration": 224,
     "bounceRate": 0.5
   }
 }
