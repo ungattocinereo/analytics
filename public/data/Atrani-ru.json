@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-04-29T07:26:55.919Z",
+  "updatedAt": "2026-04-30T07:30:44.571Z",
   "trend": [
     {
       "dimensions": [
@@ -81,16 +81,6 @@
         "21",
         "21",
         "26"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260330"
-      ],
-      "metrics": [
-        "20",
-        "20",
-        "24"
       ]
     },
     {
@@ -181,6 +171,16 @@
         "14",
         "14",
         "14"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260429"
+      ],
+      "metrics": [
+        "14",
+        "13",
+        "15"
       ]
     },
     {
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260429"
+        "20260430"
       ],
       "metrics": [
-        "4",
-        "4",
-        "4"
+        "3",
+        "3",
+        "3"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "151",
-        "136"
+        "143",
+        "128"
       ]
     },
     {
@@ -347,8 +347,8 @@
         "/apartments"
       ],
       "metrics": [
-        "13",
-        "8"
+        "11",
+        "6"
       ]
     },
     {
@@ -356,8 +356,8 @@
         "/blog/"
       ],
       "metrics": [
-        "13",
-        "9"
+        "10",
+        "7"
       ]
     },
     {
@@ -367,15 +367,6 @@
       "metrics": [
         "10",
         "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/experience"
-      ],
-      "metrics": [
-        "9",
-        "7"
       ]
     },
     {
@@ -394,6 +385,24 @@
       "metrics": [
         "8",
         "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "/experience"
+      ],
+      "metrics": [
+        "7",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/how-to-get-to-amalfi/"
+      ],
+      "metrics": [
+        "6",
+        "6"
       ]
     },
     {
@@ -425,15 +434,6 @@
     },
     {
       "dimensions": [
-        "/blog/how-to-get-to-amalfi/"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/skala-25-aprielia-vozvrashchaietsia-prazdnik-santa-mariia-diei-monti-proghramma/"
       ],
       "metrics": [
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "140",
-        "139"
+        "128",
+        "127"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "33",
-        "10"
+        "36",
+        "11"
       ]
     },
     {
@@ -499,6 +499,15 @@
     },
     {
       "dimensions": [
+        "yandex.ru"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "(not set)"
       ],
       "metrics": [
@@ -514,15 +523,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "yandex.ru"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "countries": [
@@ -531,8 +531,8 @@
         "Russia"
       ],
       "metrics": [
-        "52",
-        "51"
+        "60",
+        "58"
       ]
     },
     {
@@ -540,8 +540,8 @@
         "Germany"
       ],
       "metrics": [
-        "50",
-        "50"
+        "39",
+        "39"
       ]
     },
     {
@@ -558,8 +558,8 @@
         "United States"
       ],
       "metrics": [
-        "20",
-        "20"
+        "15",
+        "15"
       ]
     },
     {
@@ -568,7 +568,7 @@
       ],
       "metrics": [
         "14",
-        "14"
+        "13"
       ]
     },
     {
@@ -578,6 +578,15 @@
       "metrics": [
         "6",
         "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "Ukraine"
+      ],
+      "metrics": [
+        "3",
+        "3"
       ]
     },
     {
@@ -606,29 +615,20 @@
         "2",
         "2"
       ]
-    },
-    {
-      "dimensions": [
-        "Singapore"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 193,
-    "users": 165,
-    "pageViews": 298,
-    "avgSessionDuration": 82,
+    "sessions": 185,
+    "users": 155,
+    "pageViews": 286,
+    "avgSessionDuration": 88,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 507,
-    "users": 465,
-    "pageViews": 638,
-    "avgSessionDuration": 39,
+    "sessions": 500,
+    "users": 456,
+    "pageViews": 628,
+    "avgSessionDuration": 41,
     "bounceRate": 0.8
   }
 }
