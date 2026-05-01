@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-04-30T07:30:44.571Z",
+  "updatedAt": "2026-05-01T07:27:59.799Z",
   "trend": [
     {
       "dimensions": [
@@ -165,22 +165,22 @@
     },
     {
       "dimensions": [
-        "20260331"
-      ],
-      "metrics": [
-        "14",
-        "14",
-        "14"
-      ]
-    },
-    {
-      "dimensions": [
         "20260429"
       ],
       "metrics": [
         "14",
         "13",
         "15"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260430"
+      ],
+      "metrics": [
+        "14",
+        "14",
+        "14"
       ]
     },
     {
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260430"
+        "20260501"
       ],
       "metrics": [
-        "3",
-        "3",
-        "3"
+        "1",
+        "1",
+        "1"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "143",
-        "128"
+        "137",
+        "125"
       ]
     },
     {
@@ -347,8 +347,8 @@
         "/apartments"
       ],
       "metrics": [
-        "11",
-        "6"
+        "10",
+        "4"
       ]
     },
     {
@@ -358,15 +358,6 @@
       "metrics": [
         "10",
         "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photosessions"
-      ],
-      "metrics": [
-        "10",
-        "5"
       ]
     },
     {
@@ -389,15 +380,6 @@
     },
     {
       "dimensions": [
-        "/experience"
-      ],
-      "metrics": [
-        "7",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/how-to-get-to-amalfi/"
       ],
       "metrics": [
@@ -416,11 +398,20 @@
     },
     {
       "dimensions": [
-        "/contacts"
+        "/experience"
+      ],
+      "metrics": [
+        "6",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photosessions"
       ],
       "metrics": [
         "5",
-        "5"
+        "2"
       ]
     },
     {
@@ -434,11 +425,11 @@
     },
     {
       "dimensions": [
-        "/blog/skala-25-aprielia-vozvrashchaietsia-prazdnik-santa-mariia-diei-monti-proghramma/"
+        "/contacts"
       ],
       "metrics": [
         "3",
-        "1"
+        "3"
       ]
     },
     {
@@ -449,6 +440,15 @@
         "3",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "/blog/colatura-di-alici-di-cetara/"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
     }
   ],
   "sources": [
@@ -457,7 +457,7 @@
         "(direct)"
       ],
       "metrics": [
-        "128",
+        "127",
         "127"
       ]
     },
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "36",
-        "11"
+        "28",
+        "9"
       ]
     },
     {
@@ -523,6 +523,15 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "perplexity"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "countries": [
@@ -531,8 +540,8 @@
         "Russia"
       ],
       "metrics": [
-        "60",
-        "58"
+        "66",
+        "64"
       ]
     },
     {
@@ -540,8 +549,8 @@
         "Germany"
       ],
       "metrics": [
-        "39",
-        "39"
+        "35",
+        "35"
       ]
     },
     {
@@ -549,8 +558,8 @@
         "Italy"
       ],
       "metrics": [
-        "36",
-        "11"
+        "26",
+        "8"
       ]
     },
     {
@@ -618,16 +627,16 @@
     }
   ],
   "summary7d": {
-    "sessions": 185,
-    "users": 155,
-    "pageViews": 286,
-    "avgSessionDuration": 88,
+    "sessions": 177,
+    "users": 154,
+    "pageViews": 264,
+    "avgSessionDuration": 67,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 500,
-    "users": 456,
-    "pageViews": 628,
+    "sessions": 498,
+    "users": 454,
+    "pageViews": 626,
     "avgSessionDuration": 41,
     "bounceRate": 0.8
   }
