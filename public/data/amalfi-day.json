@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-05-01T07:28:01.029Z",
+  "updatedAt": "2026-05-02T07:02:57.189Z",
   "trend": [
     {
       "dimensions": [
@@ -75,16 +75,6 @@
     },
     {
       "dimensions": [
-        "20260401"
-      ],
-      "metrics": [
-        "13",
-        "7",
-        "14"
-      ]
-    },
-    {
-      "dimensions": [
         "20260412"
       ],
       "metrics": [
@@ -141,6 +131,16 @@
         "12",
         "7",
         "14"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260501"
+      ],
+      "metrics": [
+        "11",
+        "9",
+        "21"
       ]
     },
     {
@@ -302,16 +302,6 @@
         "3",
         "6"
       ]
-    },
-    {
-      "dimensions": [
-        "20260501"
-      ],
-      "metrics": [
-        "2",
-        "2",
-        "8"
-      ]
     }
   ],
   "topPages": [
@@ -320,8 +310,8 @@
         "/"
       ],
       "metrics": [
-        "46",
-        "29"
+        "41",
+        "27"
       ]
     },
     {
@@ -329,8 +319,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "21",
-        "20"
+        "27",
+        "23"
       ]
     },
     {
@@ -344,11 +334,11 @@
     },
     {
       "dimensions": [
-        "/apartments"
+        "/directions/"
       ],
       "metrics": [
-        "13",
-        "6"
+        "12",
+        "8"
       ]
     },
     {
@@ -367,24 +357,6 @@
       "metrics": [
         "10",
         "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/directions/"
-      ],
-      "metrics": [
-        "10",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "/contact"
-      ],
-      "metrics": [
-        "4",
-        "4"
       ]
     },
     {
@@ -416,11 +388,20 @@
     },
     {
       "dimensions": [
-        "/moto"
+        "/contact"
       ],
       "metrics": [
         "3",
         "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/apartments"
+      ],
+      "metrics": [
+        "2",
+        "2"
       ]
     },
     {
@@ -434,6 +415,15 @@
     },
     {
       "dimensions": [
+        "/experience"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "/experience/car-tours"
       ],
       "metrics": [
@@ -443,11 +433,11 @@
     },
     {
       "dimensions": [
-        "//timetables/"
+        "/moto"
       ],
       "metrics": [
-        "1",
-        "1"
+        "2",
+        "2"
       ]
     }
   ],
@@ -457,8 +447,8 @@
         "google"
       ],
       "metrics": [
-        "45",
-        "33"
+        "46",
+        "34"
       ]
     },
     {
@@ -466,8 +456,8 @@
         "(direct)"
       ],
       "metrics": [
-        "24",
-        "9"
+        "27",
+        "12"
       ]
     },
     {
@@ -475,7 +465,7 @@
         "ads.google.com"
       ],
       "metrics": [
-        "9",
+        "7",
         "1"
       ]
     },
@@ -513,8 +503,8 @@
         "Italy"
       ],
       "metrics": [
-        "31",
-        "14"
+        "30",
+        "16"
       ]
     },
     {
@@ -522,8 +512,8 @@
         "United States"
       ],
       "metrics": [
-        "8",
-        "6"
+        "7",
+        "5"
       ]
     },
     {
@@ -537,16 +527,16 @@
     },
     {
       "dimensions": [
-        "France"
+        "Luxembourg"
       ],
       "metrics": [
-        "4",
-        "2"
+        "5",
+        "3"
       ]
     },
     {
       "dimensions": [
-        "Luxembourg"
+        "France"
       ],
       "metrics": [
         "4",
@@ -573,6 +563,15 @@
     },
     {
       "dimensions": [
+        "Hungary"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
         "Latvia"
       ],
       "metrics": [
@@ -588,29 +587,20 @@
         "2",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "Denmark"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 83,
-    "users": 45,
-    "pageViews": 162,
-    "avgSessionDuration": 231,
+    "sessions": 85,
+    "users": 49,
+    "pageViews": 153,
+    "avgSessionDuration": 245,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 341,
-    "users": 181,
-    "pageViews": 555,
-    "avgSessionDuration": 230,
+    "sessions": 336,
+    "users": 180,
+    "pageViews": 554,
+    "avgSessionDuration": 247,
     "bounceRate": 0.5
   }
 }

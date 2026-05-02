@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-05-01T07:27:59.799Z",
+  "updatedAt": "2026-05-02T07:02:56.002Z",
   "trend": [
     {
       "dimensions": [
@@ -65,6 +65,16 @@
     },
     {
       "dimensions": [
+        "20260501"
+      ],
+      "metrics": [
+        "23",
+        "21",
+        "25"
+      ]
+    },
+    {
+      "dimensions": [
         "20260428"
       ],
       "metrics": [
@@ -121,16 +131,6 @@
         "19",
         "19",
         "19"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260401"
-      ],
-      "metrics": [
-        "18",
-        "18",
-        "18"
       ]
     },
     {
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260501"
+        "20260502"
       ],
       "metrics": [
-        "1",
-        "1",
-        "1"
+        "2",
+        "2",
+        "2"
       ]
     }
   ],
@@ -320,17 +320,8 @@
         "/"
       ],
       "metrics": [
-        "137",
-        "125"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/a-room-with-a-view-kak-devid-iarrou-i-aliessandra-ambrosio-snimali-v-atrani-a-ia-ghotovil-im-pastu"
-      ],
-      "metrics": [
-        "29",
-        "13"
+        "125",
+        "120"
       ]
     },
     {
@@ -338,17 +329,8 @@
         "/blog"
       ],
       "metrics": [
-        "17",
-        "13"
-      ]
-    },
-    {
-      "dimensions": [
-        "/apartments"
-      ],
-      "metrics": [
         "10",
-        "4"
+        "7"
       ]
     },
     {
@@ -356,17 +338,17 @@
         "/blog/"
       ],
       "metrics": [
-        "10",
-        "7"
+        "9",
+        "6"
       ]
     },
     {
       "dimensions": [
-        "/photos"
+        "/blog/a-room-with-a-view-kak-devid-iarrou-i-aliessandra-ambrosio-snimali-v-atrani-a-ia-ghotovil-im-pastu"
       ],
       "metrics": [
         "9",
-        "7"
+        "8"
       ]
     },
     {
@@ -380,11 +362,11 @@
     },
     {
       "dimensions": [
-        "/blog/how-to-get-to-amalfi/"
+        "/photos"
       ],
       "metrics": [
-        "6",
-        "6"
+        "7",
+        "5"
       ]
     },
     {
@@ -398,20 +380,20 @@
     },
     {
       "dimensions": [
-        "/experience"
+        "/blog/how-to-get-to-amalfi/"
       ],
       "metrics": [
-        "6",
-        "4"
+        "5",
+        "5"
       ]
     },
     {
       "dimensions": [
-        "/photosessions"
+        "/experience"
       ],
       "metrics": [
         "5",
-        "2"
+        "3"
       ]
     },
     {
@@ -419,26 +401,8 @@
         "/blog/atrani-samyi-siekrietnyi-ugholok-amalfitanskogho-pobieriezhia"
       ],
       "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/contacts"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photos/"
-      ],
-      "metrics": [
-        "3",
-        "1"
+        "2",
+        "2"
       ]
     },
     {
@@ -449,6 +413,42 @@
         "2",
         "2"
       ]
+    },
+    {
+      "dimensions": [
+        "/2020/04/la-caravella/"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/apartments"
+      ],
+      "metrics": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/2019/6/15/luce-e-magia"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/amalfi-by-night-2018"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "sources": [
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "127",
-        "127"
+        "131",
+        "131"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "28",
-        "9"
+        "20",
+        "6"
       ]
     },
     {
@@ -481,20 +481,11 @@
     },
     {
       "dimensions": [
-        "ig"
-      ],
-      "metrics": [
-        "3",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "facebook.com"
       ],
       "metrics": [
-        "2",
-        "2"
+        "3",
+        "3"
       ]
     },
     {
@@ -517,7 +508,7 @@
     },
     {
       "dimensions": [
-        "avtomir35.ru"
+        "m.facebook.com"
       ],
       "metrics": [
         "1",
@@ -540,8 +531,8 @@
         "Russia"
       ],
       "metrics": [
-        "66",
-        "64"
+        "63",
+        "62"
       ]
     },
     {
@@ -549,17 +540,8 @@
         "Germany"
       ],
       "metrics": [
-        "35",
-        "35"
-      ]
-    },
-    {
-      "dimensions": [
-        "Italy"
-      ],
-      "metrics": [
-        "26",
-        "8"
+        "30",
+        "30"
       ]
     },
     {
@@ -567,8 +549,17 @@
         "United States"
       ],
       "metrics": [
-        "15",
-        "15"
+        "23",
+        "23"
+      ]
+    },
+    {
+      "dimensions": [
+        "Italy"
+      ],
+      "metrics": [
+        "20",
+        "6"
       ]
     },
     {
@@ -576,13 +567,22 @@
         "United Kingdom"
       ],
       "metrics": [
-        "14",
-        "13"
+        "11",
+        "10"
       ]
     },
     {
       "dimensions": [
         "(not set)"
+      ],
+      "metrics": [
+        "6",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "Singapore"
       ],
       "metrics": [
         "6",
@@ -615,29 +615,20 @@
         "2",
         "2"
       ]
-    },
-    {
-      "dimensions": [
-        "Ireland"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 177,
+    "sessions": 171,
     "users": 154,
-    "pageViews": 264,
-    "avgSessionDuration": 67,
+    "pageViews": 200,
+    "avgSessionDuration": 32,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 498,
-    "users": 454,
-    "pageViews": 626,
-    "avgSessionDuration": 41,
+    "sessions": 504,
+    "users": 457,
+    "pageViews": 634,
+    "avgSessionDuration": 46,
     "bounceRate": 0.8
   }
 }
