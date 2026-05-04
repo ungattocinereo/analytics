@@ -1,18 +1,8 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-05-03T07:20:55.957Z",
+  "updatedAt": "2026-05-04T07:49:27.767Z",
   "trend": [
-    {
-      "dimensions": [
-        "20260403"
-      ],
-      "metrics": [
-        "33",
-        "20",
-        "42"
-      ]
-    },
     {
       "dimensions": [
         "20260404"
@@ -141,6 +131,16 @@
         "11",
         "9",
         "21"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260503"
+      ],
+      "metrics": [
+        "11",
+        "6",
+        "13"
       ]
     },
     {
@@ -302,6 +302,16 @@
         "3",
         "6"
       ]
+    },
+    {
+      "dimensions": [
+        "20260504"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "1"
+      ]
     }
   ],
   "topPages": [
@@ -310,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "43",
-        "28"
+        "40",
+        "27"
       ]
     },
     {
@@ -319,8 +329,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "26",
-        "22"
+        "25",
+        "20"
       ]
     },
     {
@@ -337,8 +347,8 @@
         "/timetables"
       ],
       "metrics": [
-        "20",
-        "18"
+        "19",
+        "17"
       ]
     },
     {
@@ -346,8 +356,8 @@
         "/directions/"
       ],
       "metrics": [
-        "13",
-        "10"
+        "11",
+        "8"
       ]
     },
     {
@@ -364,8 +374,8 @@
         "/experience"
       ],
       "metrics": [
-        "4",
-        "4"
+        "6",
+        "6"
       ]
     },
     {
@@ -447,8 +457,8 @@
         "google"
       ],
       "metrics": [
-        "47",
-        "34"
+        "45",
+        "35"
       ]
     },
     {
@@ -456,8 +466,8 @@
         "(direct)"
       ],
       "metrics": [
-        "36",
-        "11"
+        "38",
+        "10"
       ]
     },
     {
@@ -474,17 +484,8 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "3",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "(not set)"
-      ],
-      "metrics": [
         "1",
-        "1"
+        "0"
       ]
     },
     {
@@ -503,17 +504,8 @@
         "Italy"
       ],
       "metrics": [
-        "37",
-        "15"
-      ]
-    },
-    {
-      "dimensions": [
-        "United Kingdom"
-      ],
-      "metrics": [
-        "7",
-        "4"
+        "36",
+        "14"
       ]
     },
     {
@@ -521,7 +513,7 @@
         "United States"
       ],
       "metrics": [
-        "7",
+        "9",
         "5"
       ]
     },
@@ -531,7 +523,16 @@
       ],
       "metrics": [
         "6",
-        "1"
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "France"
+      ],
+      "metrics": [
+        "6",
+        "3"
       ]
     },
     {
@@ -545,7 +546,7 @@
     },
     {
       "dimensions": [
-        "France"
+        "United Kingdom"
       ],
       "metrics": [
         "5",
@@ -559,15 +560,6 @@
       "metrics": [
         "3",
         "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "Latvia"
-      ],
-      "metrics": [
-        "3",
-        "1"
       ]
     },
     {
@@ -587,20 +579,29 @@
         "3",
         "3"
       ]
+    },
+    {
+      "dimensions": [
+        "Austria"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 96,
-    "users": 48,
-    "pageViews": 167,
-    "avgSessionDuration": 259,
+    "sessions": 93,
+    "users": 47,
+    "pageViews": 161,
+    "avgSessionDuration": 272,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 334,
-    "users": 177,
-    "pageViews": 558,
-    "avgSessionDuration": 259,
+    "sessions": 313,
+    "users": 165,
+    "pageViews": 530,
+    "avgSessionDuration": 274,
     "bounceRate": 0.5
   }
 }

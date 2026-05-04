@@ -1,7 +1,7 @@
 {
   "name": "find.amalfi.day",
   "propertyId": "properties/531159837",
-  "updatedAt": "2026-05-03T07:20:56.996Z",
+  "updatedAt": "2026-05-04T07:49:28.622Z",
   "trend": [
     {
       "dimensions": [
@@ -15,22 +15,22 @@
     },
     {
       "dimensions": [
+        "20260502"
+      ],
+      "metrics": [
+        "13",
+        "5",
+        "31"
+      ]
+    },
+    {
+      "dimensions": [
         "20260413"
       ],
       "metrics": [
         "12",
         "9",
         "54"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260502"
-      ],
-      "metrics": [
-        "12",
-        "5",
-        "29"
       ]
     },
     {
@@ -85,6 +85,16 @@
     },
     {
       "dimensions": [
+        "20260503"
+      ],
+      "metrics": [
+        "5",
+        "4",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
         "20260426"
       ],
       "metrics": [
@@ -121,16 +131,6 @@
         "4",
         "3",
         "10"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260403"
-      ],
-      "metrics": [
-        "3",
-        "3",
-        "5"
       ]
     },
     {
@@ -252,6 +252,16 @@
         "1",
         "5"
       ]
+    },
+    {
+      "dimensions": [
+        "20260504"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "4"
+      ]
     }
   ],
   "topPages": [
@@ -260,8 +270,8 @@
         "/"
       ],
       "metrics": [
-        "41",
-        "27"
+        "48",
+        "31"
       ]
     },
     {
@@ -269,17 +279,8 @@
         "/route/amalfi-house.html"
       ],
       "metrics": [
-        "24",
-        "18"
-      ]
-    },
-    {
-      "dimensions": [
-        "/a"
-      ],
-      "metrics": [
-        "10",
-        "7"
+        "30",
+        "24"
       ]
     },
     {
@@ -287,8 +288,17 @@
         "/route/atrani-house.html"
       ],
       "metrics": [
-        "10",
-        "7"
+        "11",
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "/a"
+      ],
+      "metrics": [
+        "4",
+        "3"
       ]
     },
     {
@@ -296,8 +306,8 @@
         "/route/amalfi-awesome.html"
       ],
       "metrics": [
-        "6",
-        "6"
+        "4",
+        "4"
       ]
     }
   ],
@@ -307,8 +317,8 @@
         "(direct)"
       ],
       "metrics": [
-        "20",
-        "12"
+        "23",
+        "15"
       ]
     },
     {
@@ -316,7 +326,7 @@
         "airbnb.it"
       ],
       "metrics": [
-        "13",
+        "14",
         "4"
       ]
     },
@@ -325,8 +335,8 @@
         "(not set)"
       ],
       "metrics": [
-        "6",
-        "4"
+        "4",
+        "3"
       ]
     },
     {
@@ -363,8 +373,17 @@
         "Italy"
       ],
       "metrics": [
-        "20",
-        "10"
+        "19",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
+        "France"
+      ],
+      "metrics": [
+        "8",
+        "5"
       ]
     },
     {
@@ -374,15 +393,6 @@
       "metrics": [
         "7",
         "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "France"
-      ],
-      "metrics": [
-        "4",
-        "2"
       ]
     },
     {
@@ -405,15 +415,6 @@
     },
     {
       "dimensions": [
-        "Argentina"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "Germany"
       ],
       "metrics": [
@@ -423,7 +424,25 @@
     },
     {
       "dimensions": [
+        "Argentina"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "Japan"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Poland"
       ],
       "metrics": [
         "1",
@@ -441,17 +460,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 40,
-    "users": 18,
-    "pageViews": 91,
-    "avgSessionDuration": 302,
-    "bounceRate": 0.5
+    "sessions": 43,
+    "users": 21,
+    "pageViews": 97,
+    "avgSessionDuration": 316,
+    "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 117,
-    "users": 51,
-    "pageViews": 340,
-    "avgSessionDuration": 336,
-    "bounceRate": 0.4
+    "sessions": 121,
+    "users": 53,
+    "pageViews": 350,
+    "avgSessionDuration": 347,
+    "bounceRate": 0.3
   }
 }

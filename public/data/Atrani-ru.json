@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-05-03T07:20:53.940Z",
+  "updatedAt": "2026-05-04T07:49:26.627Z",
   "trend": [
     {
       "dimensions": [
@@ -65,6 +65,16 @@
     },
     {
       "dimensions": [
+        "20260503"
+      ],
+      "metrics": [
+        "25",
+        "23",
+        "25"
+      ]
+    },
+    {
+      "dimensions": [
         "20260501"
       ],
       "metrics": [
@@ -91,16 +101,6 @@
         "21",
         "21",
         "26"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260403"
-      ],
-      "metrics": [
-        "20",
-        "20",
-        "20"
       ]
     },
     {
@@ -295,17 +295,17 @@
     },
     {
       "dimensions": [
-        "20260408"
+        "20260504"
       ],
       "metrics": [
-        "5",
-        "5",
-        "5"
+        "6",
+        "6",
+        "6"
       ]
     },
     {
       "dimensions": [
-        "20260503"
+        "20260408"
       ],
       "metrics": [
         "5",
@@ -320,35 +320,8 @@
         "/"
       ],
       "metrics": [
-        "140",
-        "134"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog"
-      ],
-      "metrics": [
-        "10",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/"
-      ],
-      "metrics": [
-        "9",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photos"
-      ],
-      "metrics": [
-        "9",
-        "6"
+        "136",
+        "132"
       ]
     },
     {
@@ -371,20 +344,20 @@
     },
     {
       "dimensions": [
-        "/experience"
+        "/blog/how-to-get-to-amalfi/"
       ],
       "metrics": [
-        "6",
-        "4"
+        "5",
+        "5"
       ]
     },
     {
       "dimensions": [
-        "/blog/how-to-get-to-amalfi/"
+        "/photos"
       ],
       "metrics": [
         "4",
-        "4"
+        "3"
       ]
     },
     {
@@ -398,16 +371,7 @@
     },
     {
       "dimensions": [
-        "/blog/atrani-samyi-siekrietnyi-ugholok-amalfitanskogho-pobieriezhia"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/colatura-di-alici-di-cetara/"
+        "/blog"
       ],
       "metrics": [
         "2",
@@ -443,7 +407,43 @@
     },
     {
       "dimensions": [
-        "/blog/amalfi/"
+        "/blog/atrani-for-lovers-part-2"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/atrani-samyi-siekrietnyi-ugholok-amalfitanskogho-pobieriezhia"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/napoli-jizn-na-mopede/"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/v-raviello-zapuskaiut-biesplatnyie-ekskursii-po-villa-rufolo/"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/contacts"
       ],
       "metrics": [
         "1",
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "143",
-        "143"
+        "129",
+        "129"
       ]
     },
     {
@@ -466,7 +466,7 @@
         "google"
       ],
       "metrics": [
-        "21",
+        "23",
         "5"
       ]
     },
@@ -481,15 +481,6 @@
     },
     {
       "dimensions": [
-        "(not set)"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "facebook.com"
       ],
       "metrics": [
@@ -499,11 +490,11 @@
     },
     {
       "dimensions": [
-        "yandex.ru"
+        "(not set)"
       ],
       "metrics": [
-        "2",
-        "2"
+        "1",
+        "1"
       ]
     },
     {
@@ -532,6 +523,15 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "yandex.ru"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "countries": [
@@ -540,26 +540,8 @@
         "Russia"
       ],
       "metrics": [
-        "79",
-        "78"
-      ]
-    },
-    {
-      "dimensions": [
-        "Germany"
-      ],
-      "metrics": [
-        "25",
-        "25"
-      ]
-    },
-    {
-      "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "24",
-        "24"
+        "85",
+        "84"
       ]
     },
     {
@@ -567,8 +549,26 @@
         "Italy"
       ],
       "metrics": [
-        "16",
-        "4"
+        "17",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "15",
+        "15"
+      ]
+    },
+    {
+      "dimensions": [
+        "Germany"
+      ],
+      "metrics": [
+        "14",
+        "14"
       ]
     },
     {
@@ -576,8 +576,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "10",
-        "9"
+        "9",
+        "8"
       ]
     },
     {
@@ -627,17 +627,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 177,
-    "users": 161,
-    "pageViews": 212,
-    "avgSessionDuration": 39,
-    "bounceRate": 0.8
+    "sessions": 163,
+    "users": 145,
+    "pageViews": 178,
+    "avgSessionDuration": 40,
+    "bounceRate": 0.9
   },
   "summary30d": {
-    "sessions": 511,
-    "users": 460,
-    "pageViews": 646,
-    "avgSessionDuration": 50,
+    "sessions": 517,
+    "users": 464,
+    "pageViews": 652,
+    "avgSessionDuration": 49,
     "bounceRate": 0.8
   }
 }

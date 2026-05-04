@@ -1,23 +1,191 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-05-03T07:20:56.168Z",
-  "trend": [],
-  "topPages": [],
-  "sources": [],
-  "countries": [],
+  "updatedAt": "2026-05-04T07:49:28.060Z",
+  "trend": [
+    {
+      "dimensions": [
+        "20260503"
+      ],
+      "metrics": [
+        "7",
+        "4",
+        "26"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260504"
+      ],
+      "metrics": [
+        "4",
+        "2",
+        "4"
+      ]
+    }
+  ],
+  "topPages": [
+    {
+      "dimensions": [
+        "/fr"
+      ],
+      "metrics": [
+        "11",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/"
+      ],
+      "metrics": [
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/fr/place/path-of-the-gods-sentiero-degli-dei"
+      ],
+      "metrics": [
+        "4",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/fr/place/mimi-coco-di-tutto-un-po-atrani"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/fr/place/waterfall-of-atrani"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/fr/place/aparanza-atrani"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/fr/place/apicella-bakery-amalfi"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/fr/place/le-arcate-atrani"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/fr/place/le-palme-atrani"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/fr/place/marina-di-praia-praiano"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/church-of-saint-mary-magdalene"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "dimensions": [
+        "(direct)"
+      ],
+      "metrics": [
+        "9",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "(not set)"
+      ],
+      "metrics": [
+        "5",
+        "5"
+      ]
+    }
+  ],
+  "countries": [
+    {
+      "dimensions": [
+        "Italy"
+      ],
+      "metrics": [
+        "9",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "United Kingdom"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "France"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    }
+  ],
   "summary7d": {
-    "sessions": 0,
-    "users": 0,
-    "pageViews": 0,
-    "avgSessionDuration": 0,
-    "bounceRate": 0
+    "sessions": 11,
+    "users": 5,
+    "pageViews": 30,
+    "avgSessionDuration": 82,
+    "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 0,
-    "users": 0,
-    "pageViews": 0,
-    "avgSessionDuration": 0,
-    "bounceRate": 0
+    "sessions": 11,
+    "users": 5,
+    "pageViews": 30,
+    "avgSessionDuration": 82,
+    "bounceRate": 0.8
   }
 }
