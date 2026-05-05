@@ -1,8 +1,18 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-05-04T07:49:28.060Z",
+  "updatedAt": "2026-05-05T07:20:21.067Z",
   "trend": [
+    {
+      "dimensions": [
+        "20260504"
+      ],
+      "metrics": [
+        "10",
+        "4",
+        "12"
+      ]
+    },
     {
       "dimensions": [
         "20260503"
@@ -10,17 +20,7 @@
       "metrics": [
         "7",
         "4",
-        "26"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260504"
-      ],
-      "metrics": [
-        "4",
-        "2",
-        "4"
+        "31"
       ]
     }
   ],
@@ -30,7 +30,7 @@
         "/fr"
       ],
       "metrics": [
-        "11",
+        "13",
         "4"
       ]
     },
@@ -39,8 +39,8 @@
         "/"
       ],
       "metrics": [
-        "5",
-        "5"
+        "11",
+        "9"
       ]
     },
     {
@@ -48,8 +48,17 @@
         "/fr/place/path-of-the-gods-sentiero-degli-dei"
       ],
       "metrics": [
-        "4",
-        "3"
+        "7",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/fr/place/le-palme-atrani"
+      ],
+      "metrics": [
+        "3",
+        "2"
       ]
     },
     {
@@ -99,15 +108,6 @@
     },
     {
       "dimensions": [
-        "/fr/place/le-palme-atrani"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "/fr/place/marina-di-praia-praiano"
       ],
       "metrics": [
@@ -131,8 +131,8 @@
         "(direct)"
       ],
       "metrics": [
-        "9",
-        "3"
+        "17",
+        "7"
       ]
     },
     {
@@ -140,8 +140,8 @@
         "(not set)"
       ],
       "metrics": [
-        "5",
-        "5"
+        "2",
+        "2"
       ]
     }
   ],
@@ -151,8 +151,8 @@
         "Italy"
       ],
       "metrics": [
-        "9",
-        "5"
+        "13",
+        "7"
       ]
     },
     {
@@ -160,7 +160,7 @@
         "United Kingdom"
       ],
       "metrics": [
-        "2",
+        "3",
         "1"
       ]
     },
@@ -169,23 +169,23 @@
         "France"
       ],
       "metrics": [
-        "1",
+        "2",
         "1"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 11,
-    "users": 5,
-    "pageViews": 30,
-    "avgSessionDuration": 82,
+    "sessions": 17,
+    "users": 7,
+    "pageViews": 43,
+    "avgSessionDuration": 119,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 11,
-    "users": 5,
-    "pageViews": 30,
-    "avgSessionDuration": 82,
+    "sessions": 17,
+    "users": 7,
+    "pageViews": 43,
+    "avgSessionDuration": 119,
     "bounceRate": 0.8
   }
 }

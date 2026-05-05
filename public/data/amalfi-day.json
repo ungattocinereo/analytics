@@ -1,18 +1,8 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-05-04T07:49:27.767Z",
+  "updatedAt": "2026-05-05T07:20:20.731Z",
   "trend": [
-    {
-      "dimensions": [
-        "20260404"
-      ],
-      "metrics": [
-        "22",
-        "16",
-        "28"
-      ]
-    },
     {
       "dimensions": [
         "20260502"
@@ -41,6 +31,16 @@
         "16",
         "11",
         "20"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260504"
+      ],
+      "metrics": [
+        "16",
+        "8",
+        "18"
       ]
     },
     {
@@ -302,16 +302,6 @@
         "3",
         "6"
       ]
-    },
-    {
-      "dimensions": [
-        "20260504"
-      ],
-      "metrics": [
-        "1",
-        "1",
-        "1"
-      ]
     }
   ],
   "topPages": [
@@ -320,8 +310,8 @@
         "/"
       ],
       "metrics": [
-        "40",
-        "27"
+        "36",
+        "25"
       ]
     },
     {
@@ -329,8 +319,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "25",
-        "20"
+        "29",
+        "25"
       ]
     },
     {
@@ -338,8 +328,8 @@
         "/parking/"
       ],
       "metrics": [
-        "22",
-        "20"
+        "21",
+        "19"
       ]
     },
     {
@@ -347,8 +337,8 @@
         "/timetables"
       ],
       "metrics": [
-        "19",
-        "17"
+        "16",
+        "15"
       ]
     },
     {
@@ -356,7 +346,7 @@
         "/directions/"
       ],
       "metrics": [
-        "11",
+        "12",
         "8"
       ]
     },
@@ -374,8 +364,8 @@
         "/experience"
       ],
       "metrics": [
-        "6",
-        "6"
+        "8",
+        "8"
       ]
     },
     {
@@ -394,15 +384,6 @@
       "metrics": [
         "4",
         "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/license-plate-restrictions-return-to-the-amalfi-coast-april-25-may-2-2"
-      ],
-      "metrics": [
-        "3",
-        "3"
       ]
     },
     {
@@ -443,11 +424,20 @@
     },
     {
       "dimensions": [
-        "/moto"
+        "//timetables/"
       ],
       "metrics": [
-        "2",
-        "2"
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/positano-cracks-down-on-wild-parking-tow-trucks-in-action"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     }
   ],
@@ -466,8 +456,8 @@
         "(direct)"
       ],
       "metrics": [
-        "38",
-        "10"
+        "37",
+        "11"
       ]
     },
     {
@@ -475,17 +465,17 @@
         "ads.google.com"
       ],
       "metrics": [
-        "8",
+        "7",
         "1"
       ]
     },
     {
       "dimensions": [
-        "chatgpt.com"
+        "gemini.google.com"
       ],
       "metrics": [
-        "1",
-        "0"
+        "2",
+        "1"
       ]
     },
     {
@@ -504,8 +494,8 @@
         "Italy"
       ],
       "metrics": [
-        "36",
-        "14"
+        "38",
+        "15"
       ]
     },
     {
@@ -514,34 +504,7 @@
       ],
       "metrics": [
         "9",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "Argentina"
-      ],
-      "metrics": [
-        "6",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "France"
-      ],
-      "metrics": [
-        "6",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "Poland"
-      ],
-      "metrics": [
-        "6",
-        "3"
+        "4"
       ]
     },
     {
@@ -549,8 +512,53 @@
         "United Kingdom"
       ],
       "metrics": [
+        "6",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "France"
+      ],
+      "metrics": [
         "5",
         "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "Canada"
+      ],
+      "metrics": [
+        "4",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Poland"
+      ],
+      "metrics": [
+        "4",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Argentina"
+      ],
+      "metrics": [
+        "3",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Germany"
+      ],
+      "metrics": [
+        "3",
+        "2"
       ]
     },
     {
@@ -570,38 +578,20 @@
         "3",
         "2"
       ]
-    },
-    {
-      "dimensions": [
-        "Netherlands"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "Austria"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 93,
-    "users": 47,
-    "pageViews": 161,
-    "avgSessionDuration": 272,
+    "sessions": 92,
+    "users": 49,
+    "pageViews": 156,
+    "avgSessionDuration": 262,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 313,
-    "users": 165,
-    "pageViews": 530,
-    "avgSessionDuration": 274,
+    "sessions": 306,
+    "users": 158,
+    "pageViews": 519,
+    "avgSessionDuration": 277,
     "bounceRate": 0.5
   }
 }
