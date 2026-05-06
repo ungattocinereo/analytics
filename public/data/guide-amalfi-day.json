@@ -1,16 +1,26 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-05-05T07:20:21.067Z",
+  "updatedAt": "2026-05-06T07:37:54.687Z",
   "trend": [
     {
       "dimensions": [
         "20260504"
       ],
       "metrics": [
-        "10",
+        "11",
         "4",
-        "12"
+        "13"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260505"
+      ],
+      "metrics": [
+        "11",
+        "5",
+        "37"
       ]
     },
     {
@@ -30,8 +40,8 @@
         "/fr"
       ],
       "metrics": [
-        "13",
-        "4"
+        "19",
+        "7"
       ]
     },
     {
@@ -39,8 +49,8 @@
         "/"
       ],
       "metrics": [
-        "11",
-        "9"
+        "18",
+        "13"
       ]
     },
     {
@@ -48,8 +58,17 @@
         "/fr/place/path-of-the-gods-sentiero-degli-dei"
       ],
       "metrics": [
-        "7",
-        "5"
+        "9",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "/es"
+      ],
+      "metrics": [
+        "6",
+        "4"
       ]
     },
     {
@@ -58,6 +77,24 @@
       ],
       "metrics": [
         "3",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/fr/place/waterfall-of-atrani"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/es/place/pizza-express-amalfi"
+      ],
+      "metrics": [
+        "2",
         "2"
       ]
     },
@@ -72,7 +109,7 @@
     },
     {
       "dimensions": [
-        "/fr/place/waterfall-of-atrani"
+        "/fr/place/ravello-infinity-terrace-villa-cimbrone"
       ],
       "metrics": [
         "2",
@@ -81,43 +118,52 @@
     },
     {
       "dimensions": [
+        "/es/place/belvedere-of-san-lorenzo"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/es/place/le-arcate-atrani"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/es/place/le-palme-atrani"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/es/place/secret-waterfall-valle-dei-mulini"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/es/place/waterfall-of-atrani"
+      ],
+      "metrics": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "/fr/place/aparanza-atrani"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/fr/place/apicella-bakery-amalfi"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/fr/place/le-arcate-atrani"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/fr/place/marina-di-praia-praiano"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/church-of-saint-mary-magdalene"
       ],
       "metrics": [
         "1",
@@ -131,8 +177,8 @@
         "(direct)"
       ],
       "metrics": [
-        "17",
-        "7"
+        "26",
+        "8"
       ]
     },
     {
@@ -140,8 +186,17 @@
         "(not set)"
       ],
       "metrics": [
-        "2",
-        "2"
+        "9",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "facebook.com"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     }
   ],
@@ -151,17 +206,8 @@
         "Italy"
       ],
       "metrics": [
-        "13",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "United Kingdom"
-      ],
-      "metrics": [
-        "3",
-        "1"
+        "18",
+        "8"
       ]
     },
     {
@@ -169,23 +215,50 @@
         "France"
       ],
       "metrics": [
+        "4",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "United Kingdom"
+      ],
+      "metrics": [
+        "4",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Japan"
+      ],
+      "metrics": [
         "2",
         "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "2",
+        "2"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 17,
-    "users": 7,
-    "pageViews": 43,
-    "avgSessionDuration": 119,
+    "sessions": 29,
+    "users": 10,
+    "pageViews": 81,
+    "avgSessionDuration": 179,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 17,
-    "users": 7,
-    "pageViews": 43,
-    "avgSessionDuration": 119,
+    "sessions": 29,
+    "users": 10,
+    "pageViews": 81,
+    "avgSessionDuration": 179,
     "bounceRate": 0.8
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-05-05T07:20:19.546Z",
+  "updatedAt": "2026-05-06T07:37:53.090Z",
   "trend": [
     {
       "dimensions": [
@@ -48,9 +48,9 @@
         "20260504"
       ],
       "metrics": [
+        "28",
         "27",
-        "26",
-        "31"
+        "32"
       ]
     },
     {
@@ -121,6 +121,16 @@
         "20",
         "15",
         "34"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260505"
+      ],
+      "metrics": [
+        "20",
+        "18",
+        "22"
       ]
     },
     {
@@ -225,16 +235,6 @@
     },
     {
       "dimensions": [
-        "20260405"
-      ],
-      "metrics": [
-        "9",
-        "9",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
         "20260409"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260505"
+        "20260506"
       ],
       "metrics": [
-        "1",
-        "1",
-        "1"
+        "2",
+        "2",
+        "2"
       ]
     }
   ],
@@ -320,22 +320,22 @@
         "/"
       ],
       "metrics": [
-        "129",
-        "125"
-      ]
-    },
-    {
-      "dimensions": [
-        "/apartments"
-      ],
-      "metrics": [
-        "7",
-        "7"
+        "124",
+        "121"
       ]
     },
     {
       "dimensions": [
         "/experience/"
+      ],
+      "metrics": [
+        "8",
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "/apartments"
       ],
       "metrics": [
         "7",
@@ -356,8 +356,8 @@
         "/contacts"
       ],
       "metrics": [
-        "3",
-        "1"
+        "4",
+        "2"
       ]
     },
     {
@@ -365,8 +365,8 @@
         "/parking"
       ],
       "metrics": [
-        "3",
-        "2"
+        "4",
+        "3"
       ]
     },
     {
@@ -375,6 +375,15 @@
       ],
       "metrics": [
         "3",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/experience"
+      ],
+      "metrics": [
+        "2",
         "2"
       ]
     },
@@ -390,6 +399,15 @@
     {
       "dimensions": [
         "/2020/04/la-caravella/"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2021/09/positano-steibek/"
       ],
       "metrics": [
         "1",
@@ -431,24 +449,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "/blog/napoli-jizn-na-mopede/"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/netflix-snimaiet-film-positano-s-makkonakhi-i-saldanoi-na-pobieriezhie-amalfi/"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "sources": [
@@ -457,7 +457,7 @@
         "(direct)"
       ],
       "metrics": [
-        "125",
+        "126",
         "125"
       ]
     },
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "19",
-        "5"
+        "18",
+        "6"
       ]
     },
     {
@@ -549,8 +549,8 @@
         "Russia"
       ],
       "metrics": [
-        "90",
-        "89"
+        "96",
+        "94"
       ]
     },
     {
@@ -558,8 +558,8 @@
         "United States"
       ],
       "metrics": [
-        "17",
-        "17"
+        "19",
+        "19"
       ]
     },
     {
@@ -567,17 +567,8 @@
         "Italy"
       ],
       "metrics": [
-        "15",
+        "13",
         "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "Germany"
-      ],
-      "metrics": [
-        "10",
-        "10"
       ]
     },
     {
@@ -591,7 +582,7 @@
     },
     {
       "dimensions": [
-        "United Kingdom"
+        "Germany"
       ],
       "metrics": [
         "6",
@@ -612,8 +603,17 @@
         ""
       ],
       "metrics": [
-        "1",
-        "1"
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "United Kingdom"
+      ],
+      "metrics": [
+        "2",
+        "2"
       ]
     },
     {
@@ -637,15 +637,15 @@
   ],
   "summary7d": {
     "sessions": 154,
-    "users": 140,
-    "pageViews": 171,
-    "avgSessionDuration": 50,
+    "users": 141,
+    "pageViews": 170,
+    "avgSessionDuration": 52,
     "bounceRate": 0.9
   },
   "summary30d": {
-    "sessions": 514,
-    "users": 459,
-    "pageViews": 652,
+    "sessions": 527,
+    "users": 470,
+    "pageViews": 667,
     "avgSessionDuration": 51,
     "bounceRate": 0.8
   }
