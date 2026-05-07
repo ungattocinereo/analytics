@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-05-06T07:37:53.090Z",
+  "updatedAt": "2026-05-07T07:44:51.978Z",
   "trend": [
     {
       "dimensions": [
@@ -175,6 +175,16 @@
     },
     {
       "dimensions": [
+        "20260506"
+      ],
+      "metrics": [
+        "15",
+        "15",
+        "15"
+      ]
+    },
+    {
+      "dimensions": [
         "20260429"
       ],
       "metrics": [
@@ -255,16 +265,6 @@
     },
     {
       "dimensions": [
-        "20260406"
-      ],
-      "metrics": [
-        "8",
-        "8",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
         "20260407"
       ],
       "metrics": [
@@ -295,22 +295,22 @@
     },
     {
       "dimensions": [
+        "20260507"
+      ],
+      "metrics": [
+        "6",
+        "6",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
         "20260408"
       ],
       "metrics": [
         "5",
         "5",
         "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260506"
-      ],
-      "metrics": [
-        "2",
-        "2",
-        "2"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "124",
-        "121"
+        "130",
+        "127"
       ]
     },
     {
@@ -340,15 +340,6 @@
       "metrics": [
         "7",
         "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/how-to-get-to-amalfi/"
-      ],
-      "metrics": [
-        "4",
-        "4"
       ]
     },
     {
@@ -375,6 +366,24 @@
       ],
       "metrics": [
         "3",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/how-to-get-to-amalfi/"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/netflix-snimaiet-film-positano-s-makkonakhi-i-saldanoi-na-pobieriezhie-amalfi/"
+      ],
+      "metrics": [
+        "2",
         "2"
       ]
     },
@@ -440,15 +449,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "/blog/atrani-for-lovers-part-2"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "sources": [
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "126",
-        "125"
+        "134",
+        "133"
       ]
     },
     {
@@ -466,7 +466,7 @@
         "google"
       ],
       "metrics": [
-        "18",
+        "16",
         "6"
       ]
     },
@@ -532,15 +532,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "yandex.ru"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "countries": [
@@ -549,8 +540,8 @@
         "Russia"
       ],
       "metrics": [
-        "96",
-        "94"
+        "97",
+        "96"
       ]
     },
     {
@@ -558,8 +549,8 @@
         "United States"
       ],
       "metrics": [
-        "19",
-        "19"
+        "20",
+        "20"
       ]
     },
     {
@@ -567,8 +558,8 @@
         "Italy"
       ],
       "metrics": [
-        "13",
-        "4"
+        "14",
+        "5"
       ]
     },
     {
@@ -600,16 +591,16 @@
     },
     {
       "dimensions": [
-        ""
+        "United Kingdom"
       ],
       "metrics": [
-        "2",
-        "2"
+        "3",
+        "3"
       ]
     },
     {
       "dimensions": [
-        "United Kingdom"
+        ""
       ],
       "metrics": [
         "2",
@@ -621,8 +612,8 @@
         "Canada"
       ],
       "metrics": [
-        "1",
-        "1"
+        "2",
+        "2"
       ]
     },
     {
@@ -636,17 +627,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 154,
-    "users": 141,
-    "pageViews": 170,
-    "avgSessionDuration": 52,
+    "sessions": 159,
+    "users": 148,
+    "pageViews": 174,
+    "avgSessionDuration": 46,
     "bounceRate": 0.9
   },
   "summary30d": {
-    "sessions": 527,
-    "users": 470,
-    "pageViews": 667,
-    "avgSessionDuration": 51,
+    "sessions": 538,
+    "users": 481,
+    "pageViews": 678,
+    "avgSessionDuration": 50,
     "bounceRate": 0.8
   }
 }

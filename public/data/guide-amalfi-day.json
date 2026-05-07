@@ -1,8 +1,18 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-05-06T07:37:54.687Z",
+  "updatedAt": "2026-05-07T07:44:55.491Z",
   "trend": [
+    {
+      "dimensions": [
+        "20260505"
+      ],
+      "metrics": [
+        "12",
+        "5",
+        "42"
+      ]
+    },
     {
       "dimensions": [
         "20260504"
@@ -15,16 +25,6 @@
     },
     {
       "dimensions": [
-        "20260505"
-      ],
-      "metrics": [
-        "11",
-        "5",
-        "37"
-      ]
-    },
-    {
-      "dimensions": [
         "20260503"
       ],
       "metrics": [
@@ -32,9 +32,28 @@
         "4",
         "31"
       ]
+    },
+    {
+      "dimensions": [
+        "20260506"
+      ],
+      "metrics": [
+        "3",
+        "1",
+        "10"
+      ]
     }
   ],
   "topPages": [
+    {
+      "dimensions": [
+        "/"
+      ],
+      "metrics": [
+        "23",
+        "16"
+      ]
+    },
     {
       "dimensions": [
         "/fr"
@@ -42,15 +61,6 @@
       "metrics": [
         "19",
         "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "/"
-      ],
-      "metrics": [
-        "18",
-        "13"
       ]
     },
     {
@@ -69,6 +79,15 @@
       "metrics": [
         "6",
         "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/ru"
+      ],
+      "metrics": [
+        "4",
+        "2"
       ]
     },
     {
@@ -100,6 +119,15 @@
     },
     {
       "dimensions": [
+        "/es/place/waterfall-of-atrani"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "/fr/place/mimi-coco-di-tutto-un-po-atrani"
       ],
       "metrics": [
@@ -110,6 +138,15 @@
     {
       "dimensions": [
         "/fr/place/ravello-infinity-terrace-villa-cimbrone"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/ru/place/lo-smeraldino-amalfi"
       ],
       "metrics": [
         "2",
@@ -142,33 +179,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "/es/place/secret-waterfall-valle-dei-mulini"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/es/place/waterfall-of-atrani"
-      ],
-      "metrics": [
-        "1",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/fr/place/aparanza-atrani"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "sources": [
@@ -177,7 +187,7 @@
         "(direct)"
       ],
       "metrics": [
-        "26",
+        "31",
         "8"
       ]
     },
@@ -186,8 +196,8 @@
         "(not set)"
       ],
       "metrics": [
-        "9",
-        "4"
+        "2",
+        "1"
       ]
     },
     {
@@ -195,8 +205,8 @@
         "facebook.com"
       ],
       "metrics": [
-        "1",
-        "1"
+        "2",
+        "2"
       ]
     }
   ],
@@ -206,7 +216,7 @@
         "Italy"
       ],
       "metrics": [
-        "18",
+        "22",
         "8"
       ]
     },
@@ -248,17 +258,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 29,
+    "sessions": 33,
     "users": 10,
-    "pageViews": 81,
+    "pageViews": 96,
     "avgSessionDuration": 179,
-    "bounceRate": 0.8
+    "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 29,
+    "sessions": 33,
     "users": 10,
-    "pageViews": 81,
+    "pageViews": 96,
     "avgSessionDuration": 179,
-    "bounceRate": 0.8
+    "bounceRate": 0.5
   }
 }

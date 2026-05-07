@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-05-06T07:37:54.319Z",
+  "updatedAt": "2026-05-07T07:44:54.949Z",
   "trend": [
     {
       "dimensions": [
@@ -145,6 +145,16 @@
     },
     {
       "dimensions": [
+        "20260506"
+      ],
+      "metrics": [
+        "11",
+        "7",
+        "16"
+      ]
+    },
+    {
+      "dimensions": [
         "20260423"
       ],
       "metrics": [
@@ -265,16 +275,6 @@
     },
     {
       "dimensions": [
-        "20260406"
-      ],
-      "metrics": [
-        "5",
-        "4",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
         "20260416"
       ],
       "metrics": [
@@ -302,6 +302,16 @@
         "3",
         "6"
       ]
+    },
+    {
+      "dimensions": [
+        "20260507"
+      ],
+      "metrics": [
+        "3",
+        "2",
+        "4"
+      ]
     }
   ],
   "topPages": [
@@ -310,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "38",
-        "28"
+        "37",
+        "27"
       ]
     },
     {
@@ -319,8 +329,17 @@
         "/timetables/"
       ],
       "metrics": [
-        "27",
-        "22"
+        "31",
+        "25"
+      ]
+    },
+    {
+      "dimensions": [
+        "/directions/"
+      ],
+      "metrics": [
+        "16",
+        "11"
       ]
     },
     {
@@ -329,16 +348,7 @@
       ],
       "metrics": [
         "16",
-        "15"
-      ]
-    },
-    {
-      "dimensions": [
-        "/directions/"
-      ],
-      "metrics": [
-        "15",
-        "10"
+        "14"
       ]
     },
     {
@@ -355,8 +365,8 @@
         "/experience"
       ],
       "metrics": [
-        "13",
-        "12"
+        "14",
+        "13"
       ]
     },
     {
@@ -365,6 +375,15 @@
       ],
       "metrics": [
         "11",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/apartments"
+      ],
+      "metrics": [
+        "5",
         "4"
       ]
     },
@@ -388,25 +407,16 @@
     },
     {
       "dimensions": [
-        "/apartments"
+        "/contact"
       ],
       "metrics": [
-        "2",
+        "3",
         "2"
       ]
     },
     {
       "dimensions": [
         "/beaches"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/contact"
       ],
       "metrics": [
         "2",
@@ -424,16 +434,16 @@
     },
     {
       "dimensions": [
-        "//timetables/"
+        "/photoshootings/ayuna"
       ],
       "metrics": [
-        "1",
-        "1"
+        "2",
+        "2"
       ]
     },
     {
       "dimensions": [
-        "/blog/positano-cracks-down-on-wild-parking-tow-trucks-in-action"
+        "//timetables/"
       ],
       "metrics": [
         "1",
@@ -447,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "40",
-        "12"
+        "44",
+        "14"
       ]
     },
     {
@@ -457,7 +467,7 @@
       ],
       "metrics": [
         "38",
-        "27"
+        "24"
       ]
     },
     {
@@ -494,8 +504,8 @@
         "Italy"
       ],
       "metrics": [
-        "36",
-        "12"
+        "34",
+        "10"
       ]
     },
     {
@@ -503,8 +513,17 @@
         "United Kingdom"
       ],
       "metrics": [
+        "8",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States"
+      ],
+      "metrics": [
         "7",
-        "6"
+        "3"
       ]
     },
     {
@@ -518,29 +537,11 @@
     },
     {
       "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "6",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "Germany"
       ],
       "metrics": [
-        "5",
+        "6",
         "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "Canada"
-      ],
-      "metrics": [
-        "4",
-        "2"
       ]
     },
     {
@@ -548,22 +549,22 @@
         "Poland"
       ],
       "metrics": [
-        "4",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "Argentina"
-      ],
-      "metrics": [
-        "3",
+        "5",
         "2"
       ]
     },
     {
       "dimensions": [
         "Hungary"
+      ],
+      "metrics": [
+        "4",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Canada"
       ],
       "metrics": [
         "3",
@@ -578,19 +579,28 @@
         "3",
         "3"
       ]
+    },
+    {
+      "dimensions": [
+        "Russia"
+      ],
+      "metrics": [
+        "3",
+        "1"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 90,
-    "users": 44,
-    "pageViews": 159,
-    "avgSessionDuration": 266,
+    "sessions": 94,
+    "users": 43,
+    "pageViews": 169,
+    "avgSessionDuration": 290,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 308,
-    "users": 155,
-    "pageViews": 527,
+    "sessions": 317,
+    "users": 159,
+    "pageViews": 540,
     "avgSessionDuration": 270,
     "bounceRate": 0.5
   }
