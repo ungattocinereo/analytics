@@ -1,8 +1,18 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-05-08T06:54:25.353Z",
+  "updatedAt": "2026-05-09T07:11:40.125Z",
   "trend": [
+    {
+      "dimensions": [
+        "20260508"
+      ],
+      "metrics": [
+        "42",
+        "38",
+        "48"
+      ]
+    },
     {
       "dimensions": [
         "20260426"
@@ -275,6 +285,16 @@
     },
     {
       "dimensions": [
+        "20260509"
+      ],
+      "metrics": [
+        "7",
+        "7",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
         "20260410"
       ],
       "metrics": [
@@ -292,26 +312,6 @@
         "6",
         "11"
       ]
-    },
-    {
-      "dimensions": [
-        "20260508"
-      ],
-      "metrics": [
-        "6",
-        "6",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260408"
-      ],
-      "metrics": [
-        "5",
-        "5",
-        "5"
-      ]
     }
   ],
   "topPages": [
@@ -320,8 +320,17 @@
         "/"
       ],
       "metrics": [
-        "132",
-        "129"
+        "136",
+        "131"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/papa-liev-xiv-priiediet-v-pompiei-i-nieapol-8-maia"
+      ],
+      "metrics": [
+        "9",
+        "8"
       ]
     },
     {
@@ -339,16 +348,7 @@
       ],
       "metrics": [
         "7",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/papa-liev-xiv-priiediet-v-pompiei-i-nieapol-8-maia"
-      ],
-      "metrics": [
-        "6",
-        "5"
+        "6"
       ]
     },
     {
@@ -356,8 +356,17 @@
         "/2021/09/positano-steibek/"
       ],
       "metrics": [
-        "5",
-        "5"
+        "6",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/contacts"
+      ],
+      "metrics": [
+        "6",
+        "4"
       ]
     },
     {
@@ -366,16 +375,16 @@
       ],
       "metrics": [
         "5",
-        "4"
+        "5"
       ]
     },
     {
       "dimensions": [
-        "/contacts"
+        "/2020/03/final-carnivale-2020/"
       ],
       "metrics": [
-        "4",
-        "2"
+        "3",
+        "4"
       ]
     },
     {
@@ -398,10 +407,28 @@
     },
     {
       "dimensions": [
+        "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
         "/photos"
       ],
       "metrics": [
         "3",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2020/01/positano-interesting-facts/"
+      ],
+      "metrics": [
+        "2",
         "2"
       ]
     },
@@ -416,38 +443,11 @@
     },
     {
       "dimensions": [
-        "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
+        "/blog/page/2/"
       ],
       "metrics": [
         "2",
         "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/experience"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "//checkout/"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2020/04/la-caravella/"
-      ],
-      "metrics": [
-        "1",
-        "1"
       ]
     }
   ],
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "141",
-        "139"
+        "153",
+        "151"
       ]
     },
     {
@@ -466,26 +466,8 @@
         "google"
       ],
       "metrics": [
-        "19",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "m.facebook.com"
-      ],
-      "metrics": [
-        "5",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "facebook.com"
-      ],
-      "metrics": [
-        "3",
-        "3"
+        "23",
+        "10"
       ]
     },
     {
@@ -493,8 +475,17 @@
         "l.instagram.com"
       ],
       "metrics": [
-        "2",
-        "1"
+        "5",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "m.facebook.com"
+      ],
+      "metrics": [
+        "4",
+        "4"
       ]
     },
     {
@@ -502,8 +493,17 @@
         "(not set)"
       ],
       "metrics": [
-        "1",
-        "1"
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "facebook.com"
+      ],
+      "metrics": [
+        "2",
+        "2"
       ]
     },
     {
@@ -526,6 +526,15 @@
     },
     {
       "dimensions": [
+        "rus-cotton.ru"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "ya.ru"
       ],
       "metrics": [
@@ -540,17 +549,8 @@
         "Russia"
       ],
       "metrics": [
-        "95",
-        "94"
-      ]
-    },
-    {
-      "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "24",
-        "24"
+        "105",
+        "104"
       ]
     },
     {
@@ -558,8 +558,44 @@
         "Italy"
       ],
       "metrics": [
-        "18",
+        "20",
         "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "17",
+        "17"
+      ]
+    },
+    {
+      "dimensions": [
+        "Vietnam"
+      ],
+      "metrics": [
+        "15",
+        "15"
+      ]
+    },
+    {
+      "dimensions": [
+        "Germany"
+      ],
+      "metrics": [
+        "8",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "Poland"
+      ],
+      "metrics": [
+        "8",
+        "8"
       ]
     },
     {
@@ -573,15 +609,6 @@
     },
     {
       "dimensions": [
-        "Germany"
-      ],
-      "metrics": [
-        "6",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
         "United Kingdom"
       ],
       "metrics": [
@@ -591,20 +618,11 @@
     },
     {
       "dimensions": [
-        "Poland"
+        "Belarus"
       ],
       "metrics": [
-        "5",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "Singapore"
-      ],
-      "metrics": [
-        "5",
-        "5"
+        "3",
+        "1"
       ]
     },
     {
@@ -615,29 +633,20 @@
         "2",
         "2"
       ]
-    },
-    {
-      "dimensions": [
-        "Belarus"
-      ],
-      "metrics": [
-        "2",
-        "0"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 174,
-    "users": 159,
-    "pageViews": 194,
-    "avgSessionDuration": 46,
+    "sessions": 194,
+    "users": 177,
+    "pageViews": 215,
+    "avgSessionDuration": 30,
     "bounceRate": 0.9
   },
   "summary30d": {
-    "sessions": 559,
-    "users": 498,
-    "pageViews": 704,
-    "avgSessionDuration": 49,
+    "sessions": 597,
+    "users": 531,
+    "pageViews": 745,
+    "avgSessionDuration": 47,
     "bounceRate": 0.8
   }
 }

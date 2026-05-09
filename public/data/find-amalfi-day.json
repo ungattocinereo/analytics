@@ -1,7 +1,7 @@
 {
   "name": "find.amalfi.day",
   "propertyId": "properties/531159837",
-  "updatedAt": "2026-05-08T06:54:28.116Z",
+  "updatedAt": "2026-05-09T07:11:42.742Z",
   "trend": [
     {
       "dimensions": [
@@ -31,6 +31,16 @@
         "12",
         "9",
         "54"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260508"
+      ],
+      "metrics": [
+        "11",
+        "5",
+        "21"
       ]
     },
     {
@@ -135,16 +145,6 @@
     },
     {
       "dimensions": [
-        "20260408"
-      ],
-      "metrics": [
-        "3",
-        "1",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
         "20260409"
       ],
       "metrics": [
@@ -181,16 +181,6 @@
         "2",
         "2",
         "9"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260508"
-      ],
-      "metrics": [
-        "2",
-        "2",
-        "6"
       ]
     },
     {
@@ -242,6 +232,16 @@
         "1",
         "5"
       ]
+    },
+    {
+      "dimensions": [
+        "20260509"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "2"
+      ]
     }
   ],
   "topPages": [
@@ -250,8 +250,8 @@
         "/"
       ],
       "metrics": [
-        "42",
-        "24"
+        "44",
+        "28"
       ]
     },
     {
@@ -259,8 +259,8 @@
         "/route/amalfi-house.html"
       ],
       "metrics": [
-        "23",
-        "18"
+        "26",
+        "23"
       ]
     },
     {
@@ -268,17 +268,8 @@
         "/route/atrani-house.html"
       ],
       "metrics": [
-        "11",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "/route/amalfi-awesome.html"
-      ],
-      "metrics": [
-        "2",
-        "2"
+        "12",
+        "8"
       ]
     }
   ],
@@ -288,7 +279,7 @@
         "(direct)"
       ],
       "metrics": [
-        "21",
+        "25",
         "14"
       ]
     },
@@ -303,16 +294,16 @@
     },
     {
       "dimensions": [
-        "vercel.com"
+        "(not set)"
       ],
       "metrics": [
-        "2",
-        "1"
+        "5",
+        "4"
       ]
     },
     {
       "dimensions": [
-        "(not set)"
+        "vercel.com"
       ],
       "metrics": [
         "1",
@@ -327,7 +318,7 @@
       ],
       "metrics": [
         "14",
-        "7"
+        "8"
       ]
     },
     {
@@ -341,15 +332,6 @@
     },
     {
       "dimensions": [
-        "Spain"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
         "Canada"
       ],
       "metrics": [
@@ -359,11 +341,11 @@
     },
     {
       "dimensions": [
-        "Japan"
+        "Spain"
       ],
       "metrics": [
         "3",
-        "2"
+        "1"
       ]
     },
     {
@@ -377,26 +359,62 @@
     },
     {
       "dimensions": [
+        "Estonia"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Japan"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Netherlands"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "Poland"
       ],
       "metrics": [
         "2",
         "2"
       ]
+    },
+    {
+      "dimensions": [
+        "Australia"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 33,
-    "users": 17,
-    "pageViews": 78,
-    "avgSessionDuration": 334,
-    "bounceRate": 0.3
+    "sessions": 37,
+    "users": 18,
+    "pageViews": 82,
+    "avgSessionDuration": 226,
+    "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 117,
-    "users": 53,
-    "pageViews": 343,
-    "avgSessionDuration": 362,
+    "sessions": 124,
+    "users": 57,
+    "pageViews": 356,
+    "avgSessionDuration": 345,
     "bounceRate": 0.3
   }
 }

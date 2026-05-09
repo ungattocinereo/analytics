@@ -1,8 +1,18 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-05-08T06:54:27.327Z",
+  "updatedAt": "2026-05-09T07:11:42.125Z",
   "trend": [
+    {
+      "dimensions": [
+        "20260508"
+      ],
+      "metrics": [
+        "19",
+        "8",
+        "96"
+      ]
+    },
     {
       "dimensions": [
         "20260505"
@@ -45,16 +55,6 @@
     },
     {
       "dimensions": [
-        "20260508"
-      ],
-      "metrics": [
-        "3",
-        "2",
-        "16"
-      ]
-    },
-    {
-      "dimensions": [
         "20260507"
       ],
       "metrics": [
@@ -70,8 +70,8 @@
         "/"
       ],
       "metrics": [
-        "32",
-        "19"
+        "76",
+        "32"
       ]
     },
     {
@@ -94,10 +94,73 @@
     },
     {
       "dimensions": [
+        "/place/mimi-coco-di-tutto-un-po-atrani"
+      ],
+      "metrics": [
+        "7",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
         "/es"
       ],
       "metrics": [
         "6",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/church-of-saint-mary-magdalene"
+      ],
+      "metrics": [
+        "6",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/apicella-bakery-amalfi"
+      ],
+      "metrics": [
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/church-santa-maria-del-bando"
+      ],
+      "metrics": [
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/le-palme-atrani"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/lo-smeraldino-amalfi"
+      ],
+      "metrics": [
+        "4",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/waterfall-of-atrani"
+      ],
+      "metrics": [
+        "4",
         "4"
       ]
     },
@@ -130,74 +193,11 @@
     },
     {
       "dimensions": [
-        "/place/mimi-coco-di-tutto-un-po-atrani"
-      ],
-      "metrics": [
-        "3",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/es/place/pizza-express-amalfi"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/es/place/waterfall-of-atrani"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/fr/place/mimi-coco-di-tutto-un-po-atrani"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/fr/place/ravello-infinity-terrace-villa-cimbrone"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/apicella-bakery-amalfi"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "/place/belvedere-of-san-lorenzo"
       ],
       "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/church-of-saint-mary-magdalene"
-      ],
-      "metrics": [
-        "2",
-        "2"
+        "3",
+        "3"
       ]
     }
   ],
@@ -207,8 +207,8 @@
         "(direct)"
       ],
       "metrics": [
-        "35",
-        "9"
+        "49",
+        "14"
       ]
     },
     {
@@ -216,8 +216,8 @@
         "(not set)"
       ],
       "metrics": [
-        "3",
-        "3"
+        "12",
+        "7"
       ]
     },
     {
@@ -236,8 +236,8 @@
         "Italy"
       ],
       "metrics": [
-        "24",
-        "8"
+        "37",
+        "13"
       ]
     },
     {
@@ -269,11 +269,29 @@
     },
     {
       "dimensions": [
+        "Netherlands"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "United States"
       ],
       "metrics": [
         "2",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Estonia"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     },
     {
@@ -284,20 +302,29 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "Poland"
+      ],
+      "metrics": [
+        "1",
+        "0"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 37,
-    "users": 11,
-    "pageViews": 114,
-    "avgSessionDuration": 179,
+    "sessions": 53,
+    "users": 16,
+    "pageViews": 194,
+    "avgSessionDuration": 313,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 37,
-    "users": 11,
-    "pageViews": 114,
-    "avgSessionDuration": 179,
+    "sessions": 53,
+    "users": 16,
+    "pageViews": 194,
+    "avgSessionDuration": 313,
     "bounceRate": 0.5
   }
 }

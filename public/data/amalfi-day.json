@@ -1,8 +1,18 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-05-08T06:54:26.913Z",
+  "updatedAt": "2026-05-09T07:11:41.624Z",
   "trend": [
+    {
+      "dimensions": [
+        "20260508"
+      ],
+      "metrics": [
+        "42",
+        "15",
+        "180"
+      ]
+    },
     {
       "dimensions": [
         "20260507"
@@ -225,16 +235,6 @@
     },
     {
       "dimensions": [
-        "20260408"
-      ],
-      "metrics": [
-        "7",
-        "2",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
         "20260415"
       ],
       "metrics": [
@@ -307,11 +307,20 @@
   "topPages": [
     {
       "dimensions": [
+        "/"
+      ],
+      "metrics": [
+        "118",
+        "34"
+      ]
+    },
+    {
+      "dimensions": [
         "/timetables/"
       ],
       "metrics": [
-        "38",
-        "29"
+        "40",
+        "33"
       ]
     },
     {
@@ -319,26 +328,17 @@
         "/parking/"
       ],
       "metrics": [
-        "27",
-        "25"
+        "35",
+        "32"
       ]
     },
     {
       "dimensions": [
-        "/"
+        "/how-to-get/"
       ],
       "metrics": [
-        "25",
-        "21"
-      ]
-    },
-    {
-      "dimensions": [
-        "/directions/"
-      ],
-      "metrics": [
-        "16",
-        "11"
+        "26",
+        "3"
       ]
     },
     {
@@ -346,8 +346,8 @@
         "/experience"
       ],
       "metrics": [
-        "14",
-        "13"
+        "16",
+        "14"
       ]
     },
     {
@@ -355,8 +355,35 @@
         "/timetables"
       ],
       "metrics": [
-        "13",
-        "14"
+        "16",
+        "17"
+      ]
+    },
+    {
+      "dimensions": [
+        "/directions/"
+      ],
+      "metrics": [
+        "15",
+        "11"
+      ]
+    },
+    {
+      "dimensions": [
+        "/contact"
+      ],
+      "metrics": [
+        "12",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/ferry-timetables"
+      ],
+      "metrics": [
+        "9",
+        "10"
       ]
     },
     {
@@ -364,8 +391,17 @@
         "/apartments"
       ],
       "metrics": [
+        "7",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/how-to-get"
+      ],
+      "metrics": [
         "6",
-        "5"
+        "4"
       ]
     },
     {
@@ -379,6 +415,15 @@
     },
     {
       "dimensions": [
+        "/blog/what-the-worlds-best-hotels-can-teach-the-amalfi-coast-about-hospitality"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
         "/blog/what-the-worlds-best-hotels-can-teach-the-amalfi-coast-about-hospitality/"
       ],
       "metrics": [
@@ -388,55 +433,10 @@
     },
     {
       "dimensions": [
-        "/contact"
+        "/directions"
       ],
       "metrics": [
         "3",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/what-the-worlds-best-hotels-can-teach-the-amalfi-coast-about-hospitality"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/ferry-timetables"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/how-to-get"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/experience/car-tours"
-      ],
-      "metrics": [
-        "1",
         "1"
       ]
     }
@@ -447,8 +447,8 @@
         "(direct)"
       ],
       "metrics": [
-        "50",
-        "15"
+        "66",
+        "18"
       ]
     },
     {
@@ -456,8 +456,8 @@
         "google"
       ],
       "metrics": [
-        "45",
-        "28"
+        "51",
+        "29"
       ]
     },
     {
@@ -465,7 +465,7 @@
         "ads.google.com"
       ],
       "metrics": [
-        "5",
+        "11",
         "1"
       ]
     },
@@ -474,7 +474,7 @@
         "gemini.google.com"
       ],
       "metrics": [
-        "5",
+        "9",
         "2"
       ]
     },
@@ -495,15 +495,6 @@
         "2",
         "2"
       ]
-    },
-    {
-      "dimensions": [
-        "(not set)"
-      ],
-      "metrics": [
-        "1",
-        "0"
-      ]
     }
   ],
   "countries": [
@@ -512,8 +503,8 @@
         "Italy"
       ],
       "metrics": [
-        "33",
-        "10"
+        "52",
+        "14"
       ]
     },
     {
@@ -521,7 +512,7 @@
         "United States"
       ],
       "metrics": [
-        "15",
+        "16",
         "8"
       ]
     },
@@ -530,8 +521,35 @@
         "United Kingdom"
       ],
       "metrics": [
-        "10",
-        "6"
+        "13",
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "Germany"
+      ],
+      "metrics": [
+        "7",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "Poland"
+      ],
+      "metrics": [
+        "7",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "South Korea"
+      ],
+      "metrics": [
+        "7",
+        "1"
       ]
     },
     {
@@ -545,20 +563,11 @@
     },
     {
       "dimensions": [
-        "Germany"
-      ],
-      "metrics": [
-        "6",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "Poland"
+        "Georgia"
       ],
       "metrics": [
         "5",
-        "2"
+        "1"
       ]
     },
     {
@@ -572,44 +581,26 @@
     },
     {
       "dimensions": [
-        "Hungary"
+        "Sweden"
       ],
       "metrics": [
         "4",
         "2"
       ]
-    },
-    {
-      "dimensions": [
-        "Canada"
-      ],
-      "metrics": [
-        "3",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "Ireland"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 110,
-    "users": 50,
-    "pageViews": 161,
-    "avgSessionDuration": 229,
+    "sessions": 141,
+    "users": 54,
+    "pageViews": 320,
+    "avgSessionDuration": 347,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 337,
-    "users": 165,
-    "pageViews": 570,
-    "avgSessionDuration": 261,
+    "sessions": 373,
+    "users": 175,
+    "pageViews": 741,
+    "avgSessionDuration": 307,
     "bounceRate": 0.5
   }
 }
