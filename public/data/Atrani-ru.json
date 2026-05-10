@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-05-09T07:11:40.125Z",
+  "updatedAt": "2026-05-10T07:27:44.572Z",
   "trend": [
     {
       "dimensions": [
@@ -91,6 +91,16 @@
         "25",
         "23",
         "25"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260509"
+      ],
+      "metrics": [
+        "25",
+        "22",
+        "26"
       ]
     },
     {
@@ -265,16 +275,6 @@
     },
     {
       "dimensions": [
-        "20260409"
-      ],
-      "metrics": [
-        "9",
-        "9",
-        "12"
-      ]
-    },
-    {
-      "dimensions": [
         "20260418"
       ],
       "metrics": [
@@ -285,12 +285,12 @@
     },
     {
       "dimensions": [
-        "20260509"
+        "20260510"
       ],
       "metrics": [
-        "7",
-        "7",
-        "7"
+        "8",
+        "8",
+        "8"
       ]
     },
     {
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "136",
-        "131"
+        "119",
+        "115"
       ]
     },
     {
@@ -330,6 +330,15 @@
       ],
       "metrics": [
         "9",
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2021/09/positano-steibek/"
+      ],
+      "metrics": [
+        "8",
         "8"
       ]
     },
@@ -353,11 +362,11 @@
     },
     {
       "dimensions": [
-        "/2021/09/positano-steibek/"
+        "/parking"
       ],
       "metrics": [
-        "6",
-        "6"
+        "7",
+        "7"
       ]
     },
     {
@@ -371,11 +380,20 @@
     },
     {
       "dimensions": [
-        "/parking"
+        "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
       ],
       "metrics": [
-        "5",
-        "5"
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2020/01/positano-interesting-facts/"
+      ],
+      "metrics": [
+        "3",
+        "3"
       ]
     },
     {
@@ -407,25 +425,16 @@
     },
     {
       "dimensions": [
-        "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
+        "/2019/02/mozarella-buffala-campania-italia/"
       ],
       "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photos"
-      ],
-      "metrics": [
-        "3",
+        "2",
         "2"
       ]
     },
     {
       "dimensions": [
-        "/2020/01/positano-interesting-facts/"
+        "/2019/03/duet-postscriptum-amalfi/"
       ],
       "metrics": [
         "2",
@@ -440,15 +449,6 @@
         "2",
         "2"
       ]
-    },
-    {
-      "dimensions": [
-        "/blog/page/2/"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
     }
   ],
   "sources": [
@@ -458,7 +458,7 @@
       ],
       "metrics": [
         "153",
-        "151"
+        "149"
       ]
     },
     {
@@ -467,7 +467,7 @@
       ],
       "metrics": [
         "23",
-        "10"
+        "13"
       ]
     },
     {
@@ -490,7 +490,7 @@
     },
     {
       "dimensions": [
-        "(not set)"
+        "facebook.com"
       ],
       "metrics": [
         "2",
@@ -499,11 +499,11 @@
     },
     {
       "dimensions": [
-        "facebook.com"
+        "(not set)"
       ],
       "metrics": [
-        "2",
-        "2"
+        "1",
+        "1"
       ]
     },
     {
@@ -535,7 +535,7 @@
     },
     {
       "dimensions": [
-        "ya.ru"
+        "yandex.ru"
       ],
       "metrics": [
         "1",
@@ -549,26 +549,8 @@
         "Russia"
       ],
       "metrics": [
-        "105",
-        "104"
-      ]
-    },
-    {
-      "dimensions": [
-        "Italy"
-      ],
-      "metrics": [
-        "20",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "17",
-        "17"
+        "90",
+        "89"
       ]
     },
     {
@@ -576,8 +558,35 @@
         "Vietnam"
       ],
       "metrics": [
-        "15",
-        "15"
+        "23",
+        "23"
+      ]
+    },
+    {
+      "dimensions": [
+        "Italy"
+      ],
+      "metrics": [
+        "21",
+        "10"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "19",
+        "19"
+      ]
+    },
+    {
+      "dimensions": [
+        "Poland"
+      ],
+      "metrics": [
+        "10",
+        "9"
       ]
     },
     {
@@ -587,15 +596,6 @@
       "metrics": [
         "8",
         "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "Poland"
-      ],
-      "metrics": [
-        "8",
-        "8"
       ]
     },
     {
@@ -636,17 +636,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 194,
-    "users": 177,
-    "pageViews": 215,
-    "avgSessionDuration": 30,
+    "sessions": 192,
+    "users": 176,
+    "pageViews": 207,
+    "avgSessionDuration": 18,
     "bounceRate": 0.9
   },
   "summary30d": {
-    "sessions": 597,
-    "users": 531,
-    "pageViews": 745,
-    "avgSessionDuration": 47,
+    "sessions": 614,
+    "users": 546,
+    "pageViews": 760,
+    "avgSessionDuration": 46,
     "bounceRate": 0.8
   }
 }
