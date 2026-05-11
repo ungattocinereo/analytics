@@ -1,8 +1,18 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-05-10T07:27:44.572Z",
+  "updatedAt": "2026-05-11T08:27:21.538Z",
   "trend": [
+    {
+      "dimensions": [
+        "20260510"
+      ],
+      "metrics": [
+        "45",
+        "43",
+        "51"
+      ]
+    },
     {
       "dimensions": [
         "20260508"
@@ -285,22 +295,12 @@
     },
     {
       "dimensions": [
-        "20260510"
+        "20260511"
       ],
       "metrics": [
         "8",
         "8",
         "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260410"
-      ],
-      "metrics": [
-        "6",
-        "3",
-        "4"
       ]
     },
     {
@@ -320,13 +320,31 @@
         "/"
       ],
       "metrics": [
-        "119",
-        "115"
+        "108",
+        "103"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
+      ],
+      "metrics": [
+        "16",
+        "13"
       ]
     },
     {
       "dimensions": [
         "/blog/papa-liev-xiv-priiediet-v-pompiei-i-nieapol-8-maia"
+      ],
+      "metrics": [
+        "10",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
+        "/apartments"
       ],
       "metrics": [
         "9",
@@ -353,11 +371,11 @@
     },
     {
       "dimensions": [
-        "/apartments"
+        "/contacts"
       ],
       "metrics": [
         "7",
-        "6"
+        "5"
       ]
     },
     {
@@ -371,11 +389,11 @@
     },
     {
       "dimensions": [
-        "/contacts"
+        "/2020/01/positano-interesting-facts/"
       ],
       "metrics": [
-        "6",
-        "4"
+        "5",
+        "5"
       ]
     },
     {
@@ -389,7 +407,16 @@
     },
     {
       "dimensions": [
-        "/2020/01/positano-interesting-facts/"
+        "/2019/03/duet-postscriptum-amalfi/"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2019/11/weather-amalfi/"
       ],
       "metrics": [
         "3",
@@ -422,33 +449,6 @@
         "3",
         "3"
       ]
-    },
-    {
-      "dimensions": [
-        "/2019/02/mozarella-buffala-campania-italia/"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2019/03/duet-postscriptum-amalfi/"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/netflix-snimaiet-film-positano-s-makkonakhi-i-saldanoi-na-pobieriezhie-amalfi/"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
     }
   ],
   "sources": [
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "153",
-        "149"
+        "159",
+        "156"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "23",
-        "13"
+        "22",
+        "14"
       ]
     },
     {
@@ -475,17 +475,8 @@
         "l.instagram.com"
       ],
       "metrics": [
-        "5",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "m.facebook.com"
-      ],
-      "metrics": [
-        "4",
-        "4"
+        "15",
+        "12"
       ]
     },
     {
@@ -493,8 +484,17 @@
         "facebook.com"
       ],
       "metrics": [
-        "2",
-        "2"
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "m.facebook.com"
+      ],
+      "metrics": [
+        "5",
+        "5"
       ]
     },
     {
@@ -549,8 +549,8 @@
         "Russia"
       ],
       "metrics": [
-        "90",
-        "89"
+        "85",
+        "84"
       ]
     },
     {
@@ -558,17 +558,8 @@
         "Vietnam"
       ],
       "metrics": [
-        "23",
-        "23"
-      ]
-    },
-    {
-      "dimensions": [
-        "Italy"
-      ],
-      "metrics": [
-        "21",
-        "10"
+        "31",
+        "31"
       ]
     },
     {
@@ -576,8 +567,17 @@
         "United States"
       ],
       "metrics": [
-        "19",
-        "19"
+        "24",
+        "24"
+      ]
+    },
+    {
+      "dimensions": [
+        "Italy"
+      ],
+      "metrics": [
+        "23",
+        "13"
       ]
     },
     {
@@ -600,16 +600,16 @@
     },
     {
       "dimensions": [
-        "(not set)"
+        "United Kingdom"
       ],
       "metrics": [
-        "7",
-        "7"
+        "8",
+        "8"
       ]
     },
     {
       "dimensions": [
-        "United Kingdom"
+        "(not set)"
       ],
       "metrics": [
         "6",
@@ -621,8 +621,8 @@
         "Belarus"
       ],
       "metrics": [
-        "3",
-        "1"
+        "5",
+        "2"
       ]
     },
     {
@@ -636,16 +636,16 @@
     }
   ],
   "summary7d": {
-    "sessions": 192,
-    "users": 176,
-    "pageViews": 207,
-    "avgSessionDuration": 18,
+    "sessions": 211,
+    "users": 196,
+    "pageViews": 233,
+    "avgSessionDuration": 26,
     "bounceRate": 0.9
   },
   "summary30d": {
-    "sessions": 614,
-    "users": 546,
-    "pageViews": 760,
+    "sessions": 653,
+    "users": 586,
+    "pageViews": 807,
     "avgSessionDuration": 46,
     "bounceRate": 0.8
   }

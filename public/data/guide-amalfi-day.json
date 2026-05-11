@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-05-10T07:27:46.583Z",
+  "updatedAt": "2026-05-11T08:27:23.543Z",
   "trend": [
     {
       "dimensions": [
@@ -38,9 +38,9 @@
         "20260509"
       ],
       "metrics": [
-        "8",
-        "4",
-        "41"
+        "9",
+        "5",
+        "53"
       ]
     },
     {
@@ -55,12 +55,32 @@
     },
     {
       "dimensions": [
+        "20260510"
+      ],
+      "metrics": [
+        "6",
+        "4",
+        "17"
+      ]
+    },
+    {
+      "dimensions": [
         "20260506"
       ],
       "metrics": [
         "3",
         "1",
         "11"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260511"
+      ],
+      "metrics": [
+        "2",
+        "1",
+        "2"
       ]
     },
     {
@@ -72,16 +92,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "20260510"
-      ],
-      "metrics": [
-        "1",
-        "0",
-        "1"
-      ]
     }
   ],
   "topPages": [
@@ -90,35 +100,17 @@
         "/"
       ],
       "metrics": [
-        "104",
-        "40"
+        "117",
+        "45"
       ]
     },
     {
       "dimensions": [
-        "/fr"
-      ],
-      "metrics": [
-        "20",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "/fr/place/path-of-the-gods-sentiero-degli-dei"
+        "/place/apicella-bakery-amalfi"
       ],
       "metrics": [
         "9",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/church-of-saint-mary-magdalene"
-      ],
-      "metrics": [
-        "9",
-        "8"
+        "9"
       ]
     },
     {
@@ -132,16 +124,43 @@
     },
     {
       "dimensions": [
-        "/place/apicella-bakery-amalfi"
+        "/place/church-of-saint-mary-magdalene"
       ],
       "metrics": [
-        "7",
+        "8",
         "7"
       ]
     },
     {
       "dimensions": [
+        "/fr"
+      ],
+      "metrics": [
+        "7",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/fr/place/path-of-the-gods-sentiero-degli-dei"
+      ],
+      "metrics": [
+        "7",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
         "/es"
+      ],
+      "metrics": [
+        "6",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/le-arcate-atrani"
       ],
       "metrics": [
         "6",
@@ -159,6 +178,15 @@
     },
     {
       "dimensions": [
+        "/place/waterfall-of-atrani"
+      ],
+      "metrics": [
+        "6",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
         "/place/church-santa-maria-del-bando"
       ],
       "metrics": [
@@ -168,29 +196,20 @@
     },
     {
       "dimensions": [
-        "/place/waterfall-of-atrani"
-      ],
-      "metrics": [
-        "5",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/le-arcate-atrani"
-      ],
-      "metrics": [
-        "4",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
         "/place/lo-smeraldino-amalfi"
       ],
       "metrics": [
+        "5",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/castiglione-beach-lido-di-ravello"
+      ],
+      "metrics": [
         "4",
-        "3"
+        "4"
       ]
     },
     {
@@ -204,16 +223,7 @@
     },
     {
       "dimensions": [
-        "/fr/place/le-palme-atrani"
-      ],
-      "metrics": [
-        "3",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/fr/place/waterfall-of-atrani"
+        "/place/belvedere-of-san-lorenzo"
       ],
       "metrics": [
         "3",
@@ -227,7 +237,7 @@
         "(direct)"
       ],
       "metrics": [
-        "59",
+        "60",
         "15"
       ]
     },
@@ -236,8 +246,8 @@
         "(not set)"
       ],
       "metrics": [
-        "5",
-        "4"
+        "6",
+        "5"
       ]
     },
     {
@@ -256,8 +266,8 @@
         "Italy"
       ],
       "metrics": [
-        "45",
-        "14"
+        "46",
+        "13"
       ]
     },
     {
@@ -265,8 +275,17 @@
         "France"
       ],
       "metrics": [
-        "5",
+        "4",
         "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "4",
+        "3"
       ]
     },
     {
@@ -274,7 +293,7 @@
         "United Kingdom"
       ],
       "metrics": [
-        "5",
+        "3",
         "2"
       ]
     },
@@ -294,15 +313,6 @@
       "metrics": [
         "2",
         "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "2",
-        "2"
       ]
     },
     {
@@ -334,17 +344,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 62,
+    "sessions": 63,
     "users": 17,
-    "pageViews": 243,
-    "avgSessionDuration": 247,
+    "pageViews": 242,
+    "avgSessionDuration": 232,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 62,
-    "users": 17,
-    "pageViews": 243,
-    "avgSessionDuration": 247,
+    "sessions": 70,
+    "users": 19,
+    "pageViews": 273,
+    "avgSessionDuration": 220,
     "bounceRate": 0.5
   }
 }
