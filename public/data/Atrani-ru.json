@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-05-11T08:27:21.538Z",
+  "updatedAt": "2026-05-12T07:46:40.921Z",
   "trend": [
     {
       "dimensions": [
@@ -31,6 +31,16 @@
         "40",
         "40",
         "60"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260511"
+      ],
+      "metrics": [
+        "35",
+        "34",
+        "36"
       ]
     },
     {
@@ -255,16 +265,6 @@
     },
     {
       "dimensions": [
-        "20260411"
-      ],
-      "metrics": [
-        "11",
-        "9",
-        "13"
-      ]
-    },
-    {
-      "dimensions": [
         "20260413"
       ],
       "metrics": [
@@ -285,22 +285,22 @@
     },
     {
       "dimensions": [
+        "20260512"
+      ],
+      "metrics": [
+        "10",
+        "10",
+        "10"
+      ]
+    },
+    {
+      "dimensions": [
         "20260418"
       ],
       "metrics": [
         "9",
         "8",
         "17"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260511"
-      ],
-      "metrics": [
-        "8",
-        "8",
-        "8"
       ]
     },
     {
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "108",
-        "103"
+        "100",
+        "95"
       ]
     },
     {
@@ -329,8 +329,8 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "16",
-        "13"
+        "21",
+        "18"
       ]
     },
     {
@@ -344,11 +344,11 @@
     },
     {
       "dimensions": [
-        "/apartments"
+        "/2020/01/positano-interesting-facts/"
       ],
       "metrics": [
         "9",
-        "8"
+        "9"
       ]
     },
     {
@@ -371,15 +371,6 @@
     },
     {
       "dimensions": [
-        "/contacts"
-      ],
-      "metrics": [
-        "7",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
         "/parking"
       ],
       "metrics": [
@@ -389,10 +380,19 @@
     },
     {
       "dimensions": [
-        "/2020/01/positano-interesting-facts/"
+        "/2019/03/duet-postscriptum-amalfi/"
       ],
       "metrics": [
         "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2020/03/final-carnivale-2020/"
+      ],
+      "metrics": [
+        "4",
         "5"
       ]
     },
@@ -407,11 +407,20 @@
     },
     {
       "dimensions": [
-        "/2019/03/duet-postscriptum-amalfi/"
+        "/contacts"
       ],
       "metrics": [
-        "3",
-        "3"
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/experience"
+      ],
+      "metrics": [
+        "4",
+        "4"
       ]
     },
     {
@@ -425,15 +434,6 @@
     },
     {
       "dimensions": [
-        "/2020/03/final-carnivale-2020/"
-      ],
-      "metrics": [
-        "3",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
         "/admin"
       ],
       "metrics": [
@@ -443,7 +443,7 @@
     },
     {
       "dimensions": [
-        "/blog/papa-liev-xiv-priiediet-v-pompiei-i-nieapol-8-maia/"
+        "/blog/how-to-get-to-amalfi"
       ],
       "metrics": [
         "3",
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "159",
-        "156"
+        "166",
+        "163"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "22",
-        "14"
+        "24",
+        "18"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "l.instagram.com"
       ],
       "metrics": [
-        "15",
-        "12"
+        "17",
+        "13"
       ]
     },
     {
@@ -493,22 +493,13 @@
         "m.facebook.com"
       ],
       "metrics": [
-        "5",
-        "5"
+        "3",
+        "3"
       ]
     },
     {
       "dimensions": [
         "(not set)"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "google.com"
       ],
       "metrics": [
         "1",
@@ -535,6 +526,15 @@
     },
     {
       "dimensions": [
+        "t.co"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "yandex.ru"
       ],
       "metrics": [
@@ -550,7 +550,7 @@
       ],
       "metrics": [
         "85",
-        "84"
+        "83"
       ]
     },
     {
@@ -558,8 +558,8 @@
         "Vietnam"
       ],
       "metrics": [
-        "31",
-        "31"
+        "40",
+        "40"
       ]
     },
     {
@@ -576,8 +576,8 @@
         "Italy"
       ],
       "metrics": [
-        "23",
-        "13"
+        "22",
+        "14"
       ]
     },
     {
@@ -591,11 +591,11 @@
     },
     {
       "dimensions": [
-        "Germany"
+        "Belarus"
       ],
       "metrics": [
-        "8",
-        "7"
+        "7",
+        "4"
       ]
     },
     {
@@ -603,8 +603,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "8",
-        "8"
+        "7",
+        "7"
       ]
     },
     {
@@ -618,35 +618,35 @@
     },
     {
       "dimensions": [
-        "Belarus"
+        "Germany"
       ],
       "metrics": [
-        "5",
-        "2"
+        "4",
+        "3"
       ]
     },
     {
       "dimensions": [
-        ""
+        "Singapore"
       ],
       "metrics": [
-        "2",
-        "2"
+        "3",
+        "3"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 211,
-    "users": 196,
-    "pageViews": 233,
+    "sessions": 220,
+    "users": 206,
+    "pageViews": 239,
     "avgSessionDuration": 26,
-    "bounceRate": 0.9
+    "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 653,
-    "users": 586,
-    "pageViews": 807,
-    "avgSessionDuration": 46,
+    "sessions": 679,
+    "users": 614,
+    "pageViews": 832,
+    "avgSessionDuration": 44,
     "bounceRate": 0.8
   }
 }
