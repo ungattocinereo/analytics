@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-05-12T07:46:43.003Z",
+  "updatedAt": "2026-05-13T07:53:48.625Z",
   "trend": [
     {
       "dimensions": [
@@ -50,7 +50,17 @@
       "metrics": [
         "8",
         "4",
-        "41"
+        "43"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260512"
+      ],
+      "metrics": [
+        "8",
+        "4",
+        "49"
       ]
     },
     {
@@ -92,16 +102,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "20260512"
-      ],
-      "metrics": [
-        "1",
-        "1",
-        "8"
-      ]
     }
   ],
   "topPages": [
@@ -110,8 +110,17 @@
         "/"
       ],
       "metrics": [
-        "133",
-        "45"
+        "144",
+        "46"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/church-of-saint-mary-magdalene"
+      ],
+      "metrics": [
+        "11",
+        "10"
       ]
     },
     {
@@ -134,20 +143,11 @@
     },
     {
       "dimensions": [
-        "/es"
+        "/place/church-santa-maria-del-bando"
       ],
       "metrics": [
         "9",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/church-of-saint-mary-magdalene"
-      ],
-      "metrics": [
-        "9",
-        "8"
+        "9"
       ]
     },
     {
@@ -161,29 +161,11 @@
     },
     {
       "dimensions": [
-        "/fr"
-      ],
-      "metrics": [
-        "7",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/church-santa-maria-del-bando"
-      ],
-      "metrics": [
-        "7",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
         "/place/le-palme-atrani"
       ],
       "metrics": [
-        "7",
-        "7"
+        "8",
+        "8"
       ]
     },
     {
@@ -191,8 +173,17 @@
         "/place/le-arcate-atrani"
       ],
       "metrics": [
+        "7",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/lo-smeraldino-amalfi"
+      ],
+      "metrics": [
         "6",
-        "4"
+        "5"
       ]
     },
     {
@@ -224,7 +215,7 @@
     },
     {
       "dimensions": [
-        "/place/lo-smeraldino-amalfi"
+        "/place/da-ciccio-cielo-mare-terra-vettica-amalfi"
       ],
       "metrics": [
         "5",
@@ -233,7 +224,16 @@
     },
     {
       "dimensions": [
-        "/place/da-ciccio-cielo-mare-terra-vettica-amalfi"
+        "/fr"
+      ],
+      "metrics": [
+        "4",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/torre-dello-ziro"
       ],
       "metrics": [
         "4",
@@ -247,8 +247,8 @@
         "(direct)"
       ],
       "metrics": [
-        "54",
-        "14"
+        "52",
+        "13"
       ]
     },
     {
@@ -256,17 +256,8 @@
         "(not set)"
       ],
       "metrics": [
-        "5",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "facebook.com"
-      ],
-      "metrics": [
-        "2",
-        "2"
+        "7",
+        "5"
       ]
     }
   ],
@@ -276,8 +267,8 @@
         "Italy"
       ],
       "metrics": [
-        "41",
-        "12"
+        "38",
+        "11"
       ]
     },
     {
@@ -286,7 +277,7 @@
       ],
       "metrics": [
         "6",
-        "3"
+        "1"
       ]
     },
     {
@@ -294,25 +285,7 @@
         "United Kingdom"
       ],
       "metrics": [
-        "3",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "France"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Japan"
-      ],
-      "metrics": [
-        "2",
+        "4",
         "1"
       ]
     },
@@ -328,6 +301,15 @@
     {
       "dimensions": [
         "Estonia"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "France"
       ],
       "metrics": [
         "1",
@@ -360,20 +342,29 @@
         "1",
         "0"
       ]
+    },
+    {
+      "dimensions": [
+        "Romania"
+      ],
+      "metrics": [
+        "1",
+        "0"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 58,
-    "users": 16,
-    "pageViews": 277,
-    "avgSessionDuration": 359,
-    "bounceRate": 0.3
+    "sessions": 54,
+    "users": 14,
+    "pageViews": 278,
+    "avgSessionDuration": 296,
+    "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 76,
-    "users": 20,
-    "pageViews": 321,
-    "avgSessionDuration": 300,
+    "sessions": 84,
+    "users": 21,
+    "pageViews": 364,
+    "avgSessionDuration": 260,
     "bounceRate": 0.4
   }
 }

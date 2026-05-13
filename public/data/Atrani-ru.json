@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-05-12T07:46:40.921Z",
+  "updatedAt": "2026-05-13T07:53:45.819Z",
   "trend": [
     {
       "dimensions": [
@@ -40,6 +40,16 @@
       "metrics": [
         "35",
         "34",
+        "36"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260512"
+      ],
+      "metrics": [
+        "33",
+        "30",
         "36"
       ]
     },
@@ -185,16 +195,6 @@
     },
     {
       "dimensions": [
-        "20260412"
-      ],
-      "metrics": [
-        "19",
-        "19",
-        "19"
-      ]
-    },
-    {
-      "dimensions": [
         "20260416"
       ],
       "metrics": [
@@ -285,16 +285,6 @@
     },
     {
       "dimensions": [
-        "20260512"
-      ],
-      "metrics": [
-        "10",
-        "10",
-        "10"
-      ]
-    },
-    {
-      "dimensions": [
         "20260418"
       ],
       "metrics": [
@@ -312,6 +302,16 @@
         "6",
         "11"
       ]
+    },
+    {
+      "dimensions": [
+        "20260513"
+      ],
+      "metrics": [
+        "6",
+        "6",
+        "6"
+      ]
     }
   ],
   "topPages": [
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "100",
-        "95"
+        "92",
+        "88"
       ]
     },
     {
@@ -329,8 +329,17 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "21",
-        "18"
+        "23",
+        "20"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2020/01/positano-interesting-facts/"
+      ],
+      "metrics": [
+        "12",
+        "12"
       ]
     },
     {
@@ -339,15 +348,6 @@
       ],
       "metrics": [
         "10",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2020/01/positano-interesting-facts/"
-      ],
-      "metrics": [
-        "9",
         "9"
       ]
     },
@@ -371,20 +371,29 @@
     },
     {
       "dimensions": [
-        "/parking"
+        "/2019/03/duet-postscriptum-amalfi/"
       ],
       "metrics": [
-        "7",
-        "7"
+        "6",
+        "6"
       ]
     },
     {
       "dimensions": [
-        "/2019/03/duet-postscriptum-amalfi/"
+        "/parking"
       ],
       "metrics": [
-        "5",
-        "5"
+        "6",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2019/11/weather-amalfi/"
+      ],
+      "metrics": [
+        "4",
+        "4"
       ]
     },
     {
@@ -398,6 +407,15 @@
     },
     {
       "dimensions": [
+        "/blog/chto-dielat-na-amalfitanskom-pobieriezhie-iesli-dozhd-zhara-ili-otmienili-lodku/"
+      ],
+      "metrics": [
+        "4",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
       ],
       "metrics": [
@@ -407,25 +425,16 @@
     },
     {
       "dimensions": [
-        "/contacts"
+        "/2019/12/katastrofa/"
       ],
       "metrics": [
-        "4",
-        "4"
+        "3",
+        "3"
       ]
     },
     {
       "dimensions": [
-        "/experience"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2019/11/weather-amalfi/"
+        "/2020/05/grotte-di-pertosa-auletta/"
       ],
       "metrics": [
         "3",
@@ -440,15 +449,6 @@
         "3",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "/blog/how-to-get-to-amalfi"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
     }
   ],
   "sources": [
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "166",
-        "163"
+        "172",
+        "170"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "24",
-        "18"
+        "26",
+        "17"
       ]
     },
     {
@@ -502,8 +502,8 @@
         "(not set)"
       ],
       "metrics": [
-        "1",
-        "1"
+        "2",
+        "2"
       ]
     },
     {
@@ -549,8 +549,8 @@
         "Russia"
       ],
       "metrics": [
-        "85",
-        "83"
+        "80",
+        "79"
       ]
     },
     {
@@ -558,17 +558,8 @@
         "Vietnam"
       ],
       "metrics": [
-        "40",
-        "40"
-      ]
-    },
-    {
-      "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "24",
-        "24"
+        "48",
+        "48"
       ]
     },
     {
@@ -576,8 +567,17 @@
         "Italy"
       ],
       "metrics": [
-        "22",
+        "24",
         "14"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "21",
+        "21"
       ]
     },
     {
@@ -591,20 +591,20 @@
     },
     {
       "dimensions": [
+        "United Kingdom"
+      ],
+      "metrics": [
+        "9",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
         "Belarus"
       ],
       "metrics": [
         "7",
         "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "United Kingdom"
-      ],
-      "metrics": [
-        "7",
-        "7"
       ]
     },
     {
@@ -621,31 +621,31 @@
         "Germany"
       ],
       "metrics": [
-        "4",
+        "3",
         "3"
       ]
     },
     {
       "dimensions": [
-        "Singapore"
+        "Kazakhstan"
       ],
       "metrics": [
         "3",
-        "3"
+        "1"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 220,
-    "users": 206,
-    "pageViews": 239,
-    "avgSessionDuration": 26,
+    "sessions": 229,
+    "users": 213,
+    "pageViews": 249,
+    "avgSessionDuration": 25,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 679,
-    "users": 614,
-    "pageViews": 832,
+    "sessions": 687,
+    "users": 620,
+    "pageViews": 845,
     "avgSessionDuration": 44,
     "bounceRate": 0.8
   }

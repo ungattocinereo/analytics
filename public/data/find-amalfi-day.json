@@ -1,7 +1,7 @@
 {
   "name": "find.amalfi.day",
   "propertyId": "properties/531159837",
-  "updatedAt": "2026-05-12T07:46:43.652Z",
+  "updatedAt": "2026-05-13T07:53:49.304Z",
   "trend": [
     {
       "dimensions": [
@@ -65,6 +65,26 @@
     },
     {
       "dimensions": [
+        "20260511"
+      ],
+      "metrics": [
+        "7",
+        "2",
+        "14"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260512"
+      ],
+      "metrics": [
+        "7",
+        "4",
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
         "20260428"
       ],
       "metrics": [
@@ -80,16 +100,6 @@
       "metrics": [
         "6",
         "4",
-        "13"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260511"
-      ],
-      "metrics": [
-        "6",
-        "2",
         "13"
       ]
     },
@@ -205,16 +215,6 @@
     },
     {
       "dimensions": [
-        "20260512"
-      ],
-      "metrics": [
-        "2",
-        "0",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "20260415"
       ],
       "metrics": [
@@ -262,6 +262,16 @@
         "1",
         "5"
       ]
+    },
+    {
+      "dimensions": [
+        "20260513"
+      ],
+      "metrics": [
+        "1",
+        "0",
+        "1"
+      ]
     }
   ],
   "topPages": [
@@ -271,7 +281,7 @@
       ],
       "metrics": [
         "46",
-        "28"
+        "30"
       ]
     },
     {
@@ -279,8 +289,8 @@
         "/route/amalfi-house.html"
       ],
       "metrics": [
-        "24",
-        "22"
+        "21",
+        "19"
       ]
     },
     {
@@ -288,8 +298,26 @@
         "/route/atrani-house.html"
       ],
       "metrics": [
-        "15",
+        "14",
         "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "/a"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/route/amalfi-awesome.html"
+      ],
+      "metrics": [
+        "0",
+        "1"
       ]
     }
   ],
@@ -299,8 +327,8 @@
         "(direct)"
       ],
       "metrics": [
-        "30",
-        "13"
+        "31",
+        "11"
       ]
     },
     {
@@ -309,7 +337,7 @@
       ],
       "metrics": [
         "4",
-        "1"
+        "2"
       ]
     },
     {
@@ -318,7 +346,7 @@
       ],
       "metrics": [
         "3",
-        "1"
+        "2"
       ]
     }
   ],
@@ -328,8 +356,17 @@
         "Italy"
       ],
       "metrics": [
-        "16",
-        "9"
+        "20",
+        "11"
+      ]
+    },
+    {
+      "dimensions": [
+        "Romania"
+      ],
+      "metrics": [
+        "4",
+        "2"
       ]
     },
     {
@@ -339,15 +376,6 @@
       "metrics": [
         "3",
         "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Romania"
-      ],
-      "metrics": [
-        "3",
-        "2"
       ]
     },
     {
@@ -379,15 +407,6 @@
     },
     {
       "dimensions": [
-        "Japan"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "Netherlands"
       ],
       "metrics": [
@@ -397,11 +416,11 @@
     },
     {
       "dimensions": [
-        "France"
+        "Germany"
       ],
       "metrics": [
         "1",
-        "0"
+        "1"
       ]
     },
     {
@@ -412,20 +431,29 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 34,
-    "users": 14,
-    "pageViews": 85,
-    "avgSessionDuration": 164,
-    "bounceRate": 0.4
+    "sessions": 37,
+    "users": 15,
+    "pageViews": 83,
+    "avgSessionDuration": 159,
+    "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 139,
-    "users": 62,
-    "pageViews": 403,
-    "avgSessionDuration": 323,
+    "sessions": 146,
+    "users": 63,
+    "pageViews": 411,
+    "avgSessionDuration": 314,
     "bounceRate": 0.3
   }
 }
