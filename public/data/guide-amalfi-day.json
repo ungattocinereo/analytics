@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-05-13T07:53:48.625Z",
+  "updatedAt": "2026-05-14T07:46:27.574Z",
   "trend": [
     {
       "dimensions": [
@@ -45,6 +45,16 @@
     },
     {
       "dimensions": [
+        "20260512"
+      ],
+      "metrics": [
+        "9",
+        "4",
+        "57"
+      ]
+    },
+    {
+      "dimensions": [
         "20260511"
       ],
       "metrics": [
@@ -55,22 +65,22 @@
     },
     {
       "dimensions": [
-        "20260512"
-      ],
-      "metrics": [
-        "8",
-        "4",
-        "49"
-      ]
-    },
-    {
-      "dimensions": [
         "20260503"
       ],
       "metrics": [
         "7",
         "4",
         "31"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260513"
+      ],
+      "metrics": [
+        "7",
+        "4",
+        "49"
       ]
     },
     {
@@ -102,6 +112,16 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "20260514"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "38"
+      ]
     }
   ],
   "topPages": [
@@ -110,13 +130,58 @@
         "/"
       ],
       "metrics": [
-        "144",
-        "46"
+        "172",
+        "50"
+      ]
+    },
+    {
+      "dimensions": [
+        "/de"
+      ],
+      "metrics": [
+        "21",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/mimi-coco-di-tutto-un-po-atrani"
+      ],
+      "metrics": [
+        "15",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/waterfall-of-atrani"
+      ],
+      "metrics": [
+        "13",
+        "12"
       ]
     },
     {
       "dimensions": [
         "/place/church-of-saint-mary-magdalene"
+      ],
+      "metrics": [
+        "11",
+        "10"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/church-santa-maria-del-bando"
+      ],
+      "metrics": [
+        "11",
+        "11"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/le-palme-atrani"
       ],
       "metrics": [
         "11",
@@ -134,47 +199,11 @@
     },
     {
       "dimensions": [
-        "/place/mimi-coco-di-tutto-un-po-atrani"
-      ],
-      "metrics": [
-        "10",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/church-santa-maria-del-bando"
-      ],
-      "metrics": [
-        "9",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/waterfall-of-atrani"
-      ],
-      "metrics": [
-        "9",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/le-palme-atrani"
-      ],
-      "metrics": [
-        "8",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
         "/place/le-arcate-atrani"
       ],
       "metrics": [
-        "7",
-        "5"
+        "10",
+        "7"
       ]
     },
     {
@@ -182,8 +211,35 @@
         "/place/lo-smeraldino-amalfi"
       ],
       "metrics": [
+        "7",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/fr"
+      ],
+      "metrics": [
         "6",
-        "5"
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/belvedere-of-san-lorenzo"
+      ],
+      "metrics": [
+        "6",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/castiglione-beach-lido-di-ravello"
+      ],
+      "metrics": [
+        "6",
+        "6"
       ]
     },
     {
@@ -197,47 +253,11 @@
     },
     {
       "dimensions": [
-        "/place/belvedere-of-san-lorenzo"
-      ],
-      "metrics": [
-        "5",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/castiglione-beach-lido-di-ravello"
-      ],
-      "metrics": [
-        "5",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/da-ciccio-cielo-mare-terra-vettica-amalfi"
+        "/place/aparanza-atrani"
       ],
       "metrics": [
         "5",
         "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/fr"
-      ],
-      "metrics": [
-        "4",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/torre-dello-ziro"
-      ],
-      "metrics": [
-        "4",
-        "3"
       ]
     }
   ],
@@ -247,8 +267,8 @@
         "(direct)"
       ],
       "metrics": [
-        "52",
-        "13"
+        "58",
+        "16"
       ]
     },
     {
@@ -256,7 +276,7 @@
         "(not set)"
       ],
       "metrics": [
-        "7",
+        "8",
         "5"
       ]
     }
@@ -267,8 +287,8 @@
         "Italy"
       ],
       "metrics": [
-        "38",
-        "11"
+        "40",
+        "12"
       ]
     },
     {
@@ -285,7 +305,25 @@
         "United Kingdom"
       ],
       "metrics": [
-        "4",
+        "5",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Germany"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "India"
+      ],
+      "metrics": [
+        "2",
         "1"
       ]
     },
@@ -318,24 +356,6 @@
     },
     {
       "dimensions": [
-        "Germany"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "India"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "Poland"
       ],
       "metrics": [
@@ -349,22 +369,22 @@
       ],
       "metrics": [
         "1",
-        "0"
+        "1"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 54,
-    "users": 14,
-    "pageViews": 278,
-    "avgSessionDuration": 296,
+    "sessions": 59,
+    "users": 16,
+    "pageViews": 362,
+    "avgSessionDuration": 432,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 84,
-    "users": 21,
-    "pageViews": 364,
-    "avgSessionDuration": 260,
+    "sessions": 92,
+    "users": 23,
+    "pageViews": 459,
+    "avgSessionDuration": 341,
     "bounceRate": 0.4
   }
 }

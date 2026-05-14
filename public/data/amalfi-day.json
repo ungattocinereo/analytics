@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-05-13T07:53:47.271Z",
+  "updatedAt": "2026-05-14T07:46:27.000Z",
   "trend": [
     {
       "dimensions": [
@@ -31,6 +31,16 @@
         "25",
         "14",
         "45"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260513"
+      ],
+      "metrics": [
+        "22",
+        "18",
+        "44"
       ]
     },
     {
@@ -111,16 +121,6 @@
         "14",
         "8",
         "23"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260413"
-      ],
-      "metrics": [
-        "13",
-        "7",
-        "16"
       ]
     },
     {
@@ -302,6 +302,16 @@
         "3",
         "6"
       ]
+    },
+    {
+      "dimensions": [
+        "20260514"
+      ],
+      "metrics": [
+        "2",
+        "2",
+        "2"
+      ]
     }
   ],
   "topPages": [
@@ -310,17 +320,8 @@
         "/"
       ],
       "metrics": [
-        "130",
-        "35"
-      ]
-    },
-    {
-      "dimensions": [
-        "/timetables/"
-      ],
-      "metrics": [
-        "46",
-        "38"
+        "142",
+        "39"
       ]
     },
     {
@@ -328,8 +329,17 @@
         "/parking/"
       ],
       "metrics": [
-        "44",
-        "36"
+        "49",
+        "39"
+      ]
+    },
+    {
+      "dimensions": [
+        "/timetables/"
+      ],
+      "metrics": [
+        "49",
+        "40"
       ]
     },
     {
@@ -346,8 +356,17 @@
         "/timetables"
       ],
       "metrics": [
-        "13",
-        "13"
+        "16",
+        "16"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/praiano-turns-into-a-film-set-in-may-with-road-changes-on-the-ss163/"
+      ],
+      "metrics": [
+        "14",
+        "15"
       ]
     },
     {
@@ -364,8 +383,8 @@
         "/directions/"
       ],
       "metrics": [
-        "10",
-        "10"
+        "12",
+        "11"
       ]
     },
     {
@@ -373,8 +392,8 @@
         "/ferry-timetables"
       ],
       "metrics": [
-        "10",
-        "11"
+        "12",
+        "12"
       ]
     },
     {
@@ -382,17 +401,8 @@
         "/apartments"
       ],
       "metrics": [
-        "8",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/praiano-turns-into-a-film-set-in-may-with-road-changes-on-the-ss163/"
-      ],
-      "metrics": [
-        "8",
-        "9"
+        "7",
+        "6"
       ]
     },
     {
@@ -406,19 +416,19 @@
     },
     {
       "dimensions": [
-        "/photoshootings/ayuna"
+        "/experience"
       ],
       "metrics": [
-        "7",
-        "6"
+        "5",
+        "3"
       ]
     },
     {
       "dimensions": [
-        "/experience"
+        "/photoshootings/ayuna"
       ],
       "metrics": [
-        "6",
+        "5",
         "4"
       ]
     },
@@ -444,6 +454,15 @@
   "sources": [
     {
       "dimensions": [
+        "google"
+      ],
+      "metrics": [
+        "79",
+        "57"
+      ]
+    },
+    {
+      "dimensions": [
         "(direct)"
       ],
       "metrics": [
@@ -453,19 +472,10 @@
     },
     {
       "dimensions": [
-        "google"
-      ],
-      "metrics": [
-        "67",
-        "44"
-      ]
-    },
-    {
-      "dimensions": [
         "ads.google.com"
       ],
       "metrics": [
-        "11",
+        "12",
         "1"
       ]
     },
@@ -503,8 +513,8 @@
         "Italy"
       ],
       "metrics": [
-        "53",
-        "20"
+        "63",
+        "26"
       ]
     },
     {
@@ -512,8 +522,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "20",
-        "10"
+        "22",
+        "12"
       ]
     },
     {
@@ -521,8 +531,8 @@
         "United States"
       ],
       "metrics": [
-        "19",
-        "10"
+        "20",
+        "12"
       ]
     },
     {
@@ -531,15 +541,6 @@
       ],
       "metrics": [
         "8",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Russia"
-      ],
-      "metrics": [
-        "7",
         "1"
       ]
     },
@@ -563,15 +564,6 @@
     },
     {
       "dimensions": [
-        "Poland"
-      ],
-      "metrics": [
-        "5",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
         "Romania"
       ],
       "metrics": [
@@ -584,23 +576,41 @@
         "Hungary"
       ],
       "metrics": [
+        "4",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "Russia"
+      ],
+      "metrics": [
+        "4",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Canada"
+      ],
+      "metrics": [
         "3",
         "2"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 157,
-    "users": 73,
-    "pageViews": 350,
-    "avgSessionDuration": 329,
+    "sessions": 170,
+    "users": 86,
+    "pageViews": 380,
+    "avgSessionDuration": 336,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 407,
-    "users": 195,
-    "pageViews": 748,
-    "avgSessionDuration": 265,
+    "sessions": 418,
+    "users": 205,
+    "pageViews": 778,
+    "avgSessionDuration": 259,
     "bounceRate": 0.5
   }
 }
