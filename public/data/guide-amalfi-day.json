@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-05-14T07:46:27.574Z",
+  "updatedAt": "2026-05-15T07:56:08.104Z",
   "trend": [
     {
       "dimensions": [
@@ -11,6 +11,16 @@
         "19",
         "8",
         "103"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260514"
+      ],
+      "metrics": [
+        "13",
+        "6",
+        "88"
       ]
     },
     {
@@ -80,7 +90,7 @@
       "metrics": [
         "7",
         "4",
-        "49"
+        "59"
       ]
     },
     {
@@ -115,12 +125,12 @@
     },
     {
       "dimensions": [
-        "20260514"
+        "20260515"
       ],
       "metrics": [
         "1",
         "1",
-        "38"
+        "1"
       ]
     }
   ],
@@ -130,8 +140,8 @@
         "/"
       ],
       "metrics": [
-        "172",
-        "50"
+        "188",
+        "57"
       ]
     },
     {
@@ -139,17 +149,17 @@
         "/de"
       ],
       "metrics": [
-        "21",
+        "23",
         "2"
       ]
     },
     {
       "dimensions": [
-        "/place/mimi-coco-di-tutto-un-po-atrani"
+        "/es"
       ],
       "metrics": [
-        "15",
-        "9"
+        "21",
+        "8"
       ]
     },
     {
@@ -157,8 +167,17 @@
         "/place/waterfall-of-atrani"
       ],
       "metrics": [
-        "13",
-        "12"
+        "17",
+        "16"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/mimi-coco-di-tutto-un-po-atrani"
+      ],
+      "metrics": [
+        "16",
+        "10"
       ]
     },
     {
@@ -208,6 +227,15 @@
     },
     {
       "dimensions": [
+        "/place/castiglione-beach-lido-di-ravello"
+      ],
+      "metrics": [
+        "9",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
         "/place/lo-smeraldino-amalfi"
       ],
       "metrics": [
@@ -217,25 +245,16 @@
     },
     {
       "dimensions": [
-        "/fr"
+        "/place/aparanza-atrani"
       ],
       "metrics": [
         "6",
-        "4"
+        "5"
       ]
     },
     {
       "dimensions": [
         "/place/belvedere-of-san-lorenzo"
-      ],
-      "metrics": [
-        "6",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/castiglione-beach-lido-di-ravello"
       ],
       "metrics": [
         "6",
@@ -250,15 +269,6 @@
         "6",
         "4"
       ]
-    },
-    {
-      "dimensions": [
-        "/place/aparanza-atrani"
-      ],
-      "metrics": [
-        "5",
-        "4"
-      ]
     }
   ],
   "sources": [
@@ -267,7 +277,7 @@
         "(direct)"
       ],
       "metrics": [
-        "58",
+        "69",
         "16"
       ]
     },
@@ -276,8 +286,8 @@
         "(not set)"
       ],
       "metrics": [
-        "8",
-        "5"
+        "10",
+        "7"
       ]
     }
   ],
@@ -287,8 +297,8 @@
         "Italy"
       ],
       "metrics": [
-        "40",
-        "12"
+        "52",
+        "15"
       ]
     },
     {
@@ -320,6 +330,15 @@
     },
     {
       "dimensions": [
+        "Netherlands"
+      ],
+      "metrics": [
+        "3",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "India"
       ],
       "metrics": [
@@ -329,25 +348,7 @@
     },
     {
       "dimensions": [
-        "Netherlands"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "Estonia"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "France"
       ],
       "metrics": [
         "1",
@@ -374,17 +375,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 59,
+    "sessions": 71,
     "users": 16,
-    "pageViews": 362,
-    "avgSessionDuration": 432,
+    "pageViews": 422,
+    "avgSessionDuration": 430,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 92,
-    "users": 23,
-    "pageViews": 459,
-    "avgSessionDuration": 341,
+    "sessions": 105,
+    "users": 24,
+    "pageViews": 520,
+    "avgSessionDuration": 347,
     "bounceRate": 0.4
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-05-14T07:46:25.539Z",
+  "updatedAt": "2026-05-15T07:56:06.187Z",
   "trend": [
     {
       "dimensions": [
@@ -175,16 +175,6 @@
     },
     {
       "dimensions": [
-        "20260414"
-      ],
-      "metrics": [
-        "20",
-        "19",
-        "19"
-      ]
-    },
-    {
-      "dimensions": [
         "20260423"
       ],
       "metrics": [
@@ -201,6 +191,16 @@
         "20",
         "18",
         "22"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260514"
+      ],
+      "metrics": [
+        "19",
+        "19",
+        "19"
       ]
     },
     {
@@ -295,12 +295,12 @@
     },
     {
       "dimensions": [
-        "20260514"
+        "20260515"
       ],
       "metrics": [
-        "8",
-        "8",
-        "8"
+        "7",
+        "7",
+        "7"
       ]
     },
     {
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "91",
-        "87"
+        "85",
+        "81"
       ]
     },
     {
@@ -340,24 +340,6 @@
       "metrics": [
         "13",
         "13"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/papa-liev-xiv-priiediet-v-pompiei-i-nieapol-8-maia"
-      ],
-      "metrics": [
-        "10",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2021/09/positano-steibek/"
-      ],
-      "metrics": [
-        "8",
-        "8"
       ]
     },
     {
@@ -394,6 +376,15 @@
       "metrics": [
         "5",
         "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2021/09/positano-steibek/"
+      ],
+      "metrics": [
+        "5",
+        "5"
       ]
     },
     {
@@ -449,6 +440,15 @@
         "4",
         "4"
       ]
+    },
+    {
+      "dimensions": [
+        "/blog/papa-liev-xiv-priiediet-v-pompiei-i-nieapol-8-maia"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
     }
   ],
   "sources": [
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "176",
-        "174"
+        "171",
+        "170"
       ]
     },
     {
@@ -475,17 +475,8 @@
         "l.instagram.com"
       ],
       "metrics": [
-        "17",
+        "16",
         "13"
-      ]
-    },
-    {
-      "dimensions": [
-        "facebook.com"
-      ],
-      "metrics": [
-        "5",
-        "5"
       ]
     },
     {
@@ -499,7 +490,7 @@
     },
     {
       "dimensions": [
-        "m.facebook.com"
+        "facebook.com"
       ],
       "metrics": [
         "3",
@@ -517,11 +508,11 @@
     },
     {
       "dimensions": [
-        "instagram.com"
+        "m.facebook.com"
       ],
       "metrics": [
         "1",
-        "0"
+        "1"
       ]
     },
     {
@@ -541,6 +532,15 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "yandex.ru"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "countries": [
@@ -549,8 +549,8 @@
         "Russia"
       ],
       "metrics": [
-        "81",
-        "80"
+        "76",
+        "75"
       ]
     },
     {
@@ -567,8 +567,8 @@
         "Italy"
       ],
       "metrics": [
-        "26",
-        "15"
+        "24",
+        "14"
       ]
     },
     {
@@ -576,17 +576,8 @@
         "United States"
       ],
       "metrics": [
-        "21",
-        "21"
-      ]
-    },
-    {
-      "dimensions": [
-        "Poland"
-      ],
-      "metrics": [
-        "10",
-        "9"
+        "19",
+        "19"
       ]
     },
     {
@@ -594,17 +585,17 @@
         "United Kingdom"
       ],
       "metrics": [
-        "9",
-        "9"
+        "11",
+        "11"
       ]
     },
     {
       "dimensions": [
-        "Belarus"
+        "Poland"
       ],
       "metrics": [
         "7",
-        "4"
+        "6"
       ]
     },
     {
@@ -618,11 +609,11 @@
     },
     {
       "dimensions": [
-        "Kazakhstan"
+        "Belarus"
       ],
       "metrics": [
         "5",
-        "3"
+        "4"
       ]
     },
     {
@@ -630,22 +621,31 @@
         "Germany"
       ],
       "metrics": [
-        "4",
-        "4"
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "Kazakhstan"
+      ],
+      "metrics": [
+        "5",
+        "3"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 240,
-    "users": 221,
-    "pageViews": 265,
-    "avgSessionDuration": 27,
+    "sessions": 229,
+    "users": 213,
+    "pageViews": 252,
+    "avgSessionDuration": 25,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 702,
-    "users": 632,
-    "pageViews": 865,
+    "sessions": 700,
+    "users": 631,
+    "pageViews": 864,
     "avgSessionDuration": 44,
     "bounceRate": 0.8
   }

@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-05-14T07:46:27.000Z",
+  "updatedAt": "2026-05-15T07:56:07.488Z",
   "trend": [
     {
       "dimensions": [
@@ -75,6 +75,16 @@
     },
     {
       "dimensions": [
+        "20260514"
+      ],
+      "metrics": [
+        "17",
+        "11",
+        "22"
+      ]
+    },
+    {
+      "dimensions": [
         "20260427"
       ],
       "metrics": [
@@ -141,16 +151,6 @@
         "13",
         "9",
         "13"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260414"
-      ],
-      "metrics": [
-        "12",
-        "7",
-        "20"
       ]
     },
     {
@@ -302,16 +302,6 @@
         "3",
         "6"
       ]
-    },
-    {
-      "dimensions": [
-        "20260514"
-      ],
-      "metrics": [
-        "2",
-        "2",
-        "2"
-      ]
     }
   ],
   "topPages": [
@@ -320,16 +310,7 @@
         "/"
       ],
       "metrics": [
-        "142",
-        "39"
-      ]
-    },
-    {
-      "dimensions": [
-        "/parking/"
-      ],
-      "metrics": [
-        "49",
+        "140",
         "39"
       ]
     },
@@ -338,8 +319,17 @@
         "/timetables/"
       ],
       "metrics": [
-        "49",
-        "40"
+        "46",
+        "37"
+      ]
+    },
+    {
+      "dimensions": [
+        "/parking/"
+      ],
+      "metrics": [
+        "34",
+        "26"
       ]
     },
     {
@@ -353,19 +343,19 @@
     },
     {
       "dimensions": [
-        "/timetables"
+        "/blog/praiano-turns-into-a-film-set-in-may-with-road-changes-on-the-ss163/"
       ],
       "metrics": [
-        "16",
-        "16"
+        "19",
+        "20"
       ]
     },
     {
       "dimensions": [
-        "/blog/praiano-turns-into-a-film-set-in-may-with-road-changes-on-the-ss163/"
+        "/timetables"
       ],
       "metrics": [
-        "14",
+        "15",
         "15"
       ]
     },
@@ -392,8 +382,8 @@
         "/ferry-timetables"
       ],
       "metrics": [
-        "12",
-        "12"
+        "11",
+        "11"
       ]
     },
     {
@@ -401,16 +391,7 @@
         "/apartments"
       ],
       "metrics": [
-        "7",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "/how-to-get"
-      ],
-      "metrics": [
-        "7",
+        "6",
         "5"
       ]
     },
@@ -419,16 +400,7 @@
         "/experience"
       ],
       "metrics": [
-        "5",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photoshootings/ayuna"
-      ],
-      "metrics": [
-        "5",
+        "6",
         "4"
       ]
     },
@@ -437,13 +409,31 @@
         "/beaches"
       ],
       "metrics": [
-        "4",
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/how-to-get"
+      ],
+      "metrics": [
+        "5",
         "4"
       ]
     },
     {
       "dimensions": [
-        "/blog/what-the-worlds-best-hotels-can-teach-the-amalfi-coast-about-hospitality"
+        "/directions"
+      ],
+      "metrics": [
+        "3",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/moto"
       ],
       "metrics": [
         "3",
@@ -457,8 +447,8 @@
         "google"
       ],
       "metrics": [
-        "79",
-        "57"
+        "73",
+        "53"
       ]
     },
     {
@@ -466,8 +456,8 @@
         "(direct)"
       ],
       "metrics": [
-        "69",
-        "24"
+        "67",
+        "26"
       ]
     },
     {
@@ -475,7 +465,7 @@
         "ads.google.com"
       ],
       "metrics": [
-        "12",
+        "11",
         "1"
       ]
     },
@@ -484,17 +474,8 @@
         "gemini.google.com"
       ],
       "metrics": [
-        "7",
+        "4",
         "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "facebook.com"
-      ],
-      "metrics": [
-        "2",
-        "2"
       ]
     },
     {
@@ -513,8 +494,8 @@
         "Italy"
       ],
       "metrics": [
-        "63",
-        "26"
+        "66",
+        "27"
       ]
     },
     {
@@ -523,7 +504,7 @@
       ],
       "metrics": [
         "22",
-        "12"
+        "14"
       ]
     },
     {
@@ -531,26 +512,8 @@
         "United States"
       ],
       "metrics": [
-        "20",
-        "12"
-      ]
-    },
-    {
-      "dimensions": [
-        "Georgia"
-      ],
-      "metrics": [
-        "8",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "South Korea"
-      ],
-      "metrics": [
-        "7",
-        "1"
+        "13",
+        "8"
       ]
     },
     {
@@ -558,8 +521,17 @@
         "Germany"
       ],
       "metrics": [
-        "6",
+        "7",
         "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "Georgia"
+      ],
+      "metrics": [
+        "6",
+        "1"
       ]
     },
     {
@@ -573,7 +545,7 @@
     },
     {
       "dimensions": [
-        "Hungary"
+        "Canada"
       ],
       "metrics": [
         "4",
@@ -582,7 +554,7 @@
     },
     {
       "dimensions": [
-        "Russia"
+        "South Korea"
       ],
       "metrics": [
         "4",
@@ -591,26 +563,35 @@
     },
     {
       "dimensions": [
-        "Canada"
+        "Hungary"
       ],
       "metrics": [
         "3",
-        "2"
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "Netherlands"
+      ],
+      "metrics": [
+        "3",
+        "1"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 170,
-    "users": 86,
-    "pageViews": 380,
-    "avgSessionDuration": 336,
+    "sessions": 156,
+    "users": 82,
+    "pageViews": 356,
+    "avgSessionDuration": 346,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 418,
-    "users": 205,
+    "sessions": 421,
+    "users": 209,
     "pageViews": 778,
-    "avgSessionDuration": 259,
+    "avgSessionDuration": 261,
     "bounceRate": 0.5
   }
 }
