@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-05-15T07:56:06.187Z",
+  "updatedAt": "2026-05-16T07:19:53.653Z",
   "trend": [
     {
       "dimensions": [
@@ -31,6 +31,16 @@
         "40",
         "40",
         "60"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260515"
+      ],
+      "metrics": [
+        "37",
+        "34",
+        "39"
       ]
     },
     {
@@ -205,6 +215,16 @@
     },
     {
       "dimensions": [
+        "20260516"
+      ],
+      "metrics": [
+        "19",
+        "19",
+        "19"
+      ]
+    },
+    {
+      "dimensions": [
         "20260416"
       ],
       "metrics": [
@@ -221,16 +241,6 @@
         "16",
         "16",
         "16"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260415"
-      ],
-      "metrics": [
-        "15",
-        "15",
-        "20"
       ]
     },
     {
@@ -295,16 +305,6 @@
     },
     {
       "dimensions": [
-        "20260515"
-      ],
-      "metrics": [
-        "7",
-        "7",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
         "20260421"
       ],
       "metrics": [
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "85",
-        "81"
+        "80",
+        "79"
       ]
     },
     {
@@ -329,8 +329,8 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "23",
-        "20"
+        "25",
+        "21"
       ]
     },
     {
@@ -338,8 +338,17 @@
         "/2020/01/positano-interesting-facts/"
       ],
       "metrics": [
-        "13",
-        "13"
+        "17",
+        "17"
+      ]
+    },
+    {
+      "dimensions": [
+        "/apartments"
+      ],
+      "metrics": [
+        "8",
+        "8"
       ]
     },
     {
@@ -356,26 +365,8 @@
         "/2019/03/duet-postscriptum-amalfi/"
       ],
       "metrics": [
-        "6",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "/parking"
-      ],
-      "metrics": [
-        "6",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2020/03/final-carnivale-2020/"
-      ],
-      "metrics": [
-        "5",
-        "6"
+        "7",
+        "7"
       ]
     },
     {
@@ -383,31 +374,31 @@
         "/2021/09/positano-steibek/"
       ],
       "metrics": [
-        "5",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/contacts"
-      ],
-      "metrics": [
-        "5",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2019/11/weather-amalfi/"
-      ],
-      "metrics": [
-        "4",
-        "4"
+        "6",
+        "6"
       ]
     },
     {
       "dimensions": [
         "/2019/12/katastrofa/"
+      ],
+      "metrics": [
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/parking"
+      ],
+      "metrics": [
+        "5",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2019/11/weather-amalfi/"
       ],
       "metrics": [
         "4",
@@ -443,11 +434,20 @@
     },
     {
       "dimensions": [
-        "/blog/papa-liev-xiv-priiediet-v-pompiei-i-nieapol-8-maia"
+        "/contacts"
       ],
       "metrics": [
         "4",
         "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/experience"
+      ],
+      "metrics": [
+        "4",
+        "5"
       ]
     }
   ],
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "171",
-        "170"
+        "186",
+        "182"
       ]
     },
     {
@@ -466,7 +466,7 @@
         "google"
       ],
       "metrics": [
-        "30",
+        "27",
         "18"
       ]
     },
@@ -475,17 +475,8 @@
         "l.instagram.com"
       ],
       "metrics": [
-        "16",
-        "13"
-      ]
-    },
-    {
-      "dimensions": [
-        "(not set)"
-      ],
-      "metrics": [
-        "3",
-        "3"
+        "13",
+        "10"
       ]
     },
     {
@@ -493,13 +484,22 @@
         "facebook.com"
       ],
       "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "ig"
+      ],
+      "metrics": [
         "3",
         "3"
       ]
     },
     {
       "dimensions": [
-        "ig"
+        "(not set)"
       ],
       "metrics": [
         "2",
@@ -517,25 +517,7 @@
     },
     {
       "dimensions": [
-        "rus-cotton.ru"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "t.co"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "yandex.ru"
       ],
       "metrics": [
         "1",
@@ -549,8 +531,8 @@
         "Russia"
       ],
       "metrics": [
-        "76",
-        "75"
+        "80",
+        "77"
       ]
     },
     {
@@ -558,17 +540,8 @@
         "Vietnam"
       ],
       "metrics": [
-        "50",
-        "50"
-      ]
-    },
-    {
-      "dimensions": [
-        "Italy"
-      ],
-      "metrics": [
-        "24",
-        "14"
+        "46",
+        "46"
       ]
     },
     {
@@ -576,8 +549,17 @@
         "United States"
       ],
       "metrics": [
+        "23",
+        "23"
+      ]
+    },
+    {
+      "dimensions": [
+        "Italy"
+      ],
+      "metrics": [
         "19",
-        "19"
+        "13"
       ]
     },
     {
@@ -585,8 +567,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "11",
-        "11"
+        "13",
+        "12"
       ]
     },
     {
@@ -594,8 +576,8 @@
         "Poland"
       ],
       "metrics": [
-        "7",
-        "6"
+        "8",
+        "7"
       ]
     },
     {
@@ -609,20 +591,11 @@
     },
     {
       "dimensions": [
-        "Belarus"
+        "China"
       ],
       "metrics": [
-        "5",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "Germany"
-      ],
-      "metrics": [
-        "5",
-        "5"
+        "6",
+        "6"
       ]
     },
     {
@@ -633,19 +606,28 @@
         "5",
         "3"
       ]
+    },
+    {
+      "dimensions": [
+        "Belarus"
+      ],
+      "metrics": [
+        "4",
+        "3"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 229,
-    "users": 213,
-    "pageViews": 252,
-    "avgSessionDuration": 25,
+    "sessions": 237,
+    "users": 221,
+    "pageViews": 255,
+    "avgSessionDuration": 27,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 700,
-    "users": 631,
-    "pageViews": 864,
+    "sessions": 733,
+    "users": 661,
+    "pageViews": 895,
     "avgSessionDuration": 44,
     "bounceRate": 0.8
   }

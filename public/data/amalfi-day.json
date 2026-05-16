@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-05-15T07:56:07.488Z",
+  "updatedAt": "2026-05-16T07:19:54.781Z",
   "trend": [
     {
       "dimensions": [
@@ -21,6 +21,16 @@
         "29",
         "16",
         "44"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260515"
+      ],
+      "metrics": [
+        "28",
+        "17",
+        "45"
       ]
     },
     {
@@ -245,16 +255,6 @@
     },
     {
       "dimensions": [
-        "20260415"
-      ],
-      "metrics": [
-        "7",
-        "6",
-        "12"
-      ]
-    },
-    {
-      "dimensions": [
         "20260424"
       ],
       "metrics": [
@@ -310,8 +310,8 @@
         "/"
       ],
       "metrics": [
-        "140",
-        "39"
+        "51",
+        "30"
       ]
     },
     {
@@ -319,8 +319,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "46",
-        "37"
+        "42",
+        "34"
       ]
     },
     {
@@ -328,17 +328,8 @@
         "/parking/"
       ],
       "metrics": [
-        "34",
-        "26"
-      ]
-    },
-    {
-      "dimensions": [
-        "/how-to-get/"
-      ],
-      "metrics": [
-        "26",
-        "3"
+        "35",
+        "27"
       ]
     },
     {
@@ -346,8 +337,8 @@
         "/blog/praiano-turns-into-a-film-set-in-may-with-road-changes-on-the-ss163/"
       ],
       "metrics": [
-        "19",
-        "20"
+        "21",
+        "22"
       ]
     },
     {
@@ -361,29 +352,11 @@
     },
     {
       "dimensions": [
-        "/contact"
-      ],
-      "metrics": [
-        "12",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
         "/directions/"
       ],
       "metrics": [
-        "12",
-        "11"
-      ]
-    },
-    {
-      "dimensions": [
-        "/ferry-timetables"
-      ],
-      "metrics": [
         "11",
-        "11"
+        "10"
       ]
     },
     {
@@ -391,17 +364,35 @@
         "/apartments"
       ],
       "metrics": [
-        "6",
-        "5"
+        "8",
+        "6"
       ]
     },
     {
       "dimensions": [
-        "/experience"
+        "/photoshootings/ayuna"
       ],
       "metrics": [
-        "6",
+        "7",
         "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/ferry-timetables"
+      ],
+      "metrics": [
+        "5",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/vintage-cars-and-motorcycles-return-to-cetara-this-may/"
+      ],
+      "metrics": [
+        "4",
+        "2"
       ]
     },
     {
@@ -409,26 +400,26 @@
         "/beaches"
       ],
       "metrics": [
-        "5",
-        "5"
+        "3",
+        "3"
       ]
     },
     {
       "dimensions": [
-        "/how-to-get"
-      ],
-      "metrics": [
-        "5",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/directions"
+        "/blog"
       ],
       "metrics": [
         "3",
         "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/experience"
+      ],
+      "metrics": [
+        "3",
+        "2"
       ]
     },
     {
@@ -439,6 +430,15 @@
         "3",
         "3"
       ]
+    },
+    {
+      "dimensions": [
+        "/blog/a-local-3-or-4-day-amalfi-coast-itinerary-without-a-car"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
     }
   ],
   "sources": [
@@ -447,8 +447,8 @@
         "google"
       ],
       "metrics": [
-        "73",
-        "53"
+        "76",
+        "58"
       ]
     },
     {
@@ -456,8 +456,8 @@
         "(direct)"
       ],
       "metrics": [
-        "67",
-        "26"
+        "57",
+        "22"
       ]
     },
     {
@@ -465,16 +465,7 @@
         "ads.google.com"
       ],
       "metrics": [
-        "11",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "gemini.google.com"
-      ],
-      "metrics": [
-        "4",
+        "7",
         "1"
       ]
     },
@@ -483,8 +474,8 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "1",
-        "1"
+        "2",
+        "2"
       ]
     }
   ],
@@ -494,8 +485,8 @@
         "Italy"
       ],
       "metrics": [
-        "66",
-        "27"
+        "56",
+        "29"
       ]
     },
     {
@@ -503,8 +494,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "22",
-        "14"
+        "25",
+        "15"
       ]
     },
     {
@@ -512,7 +503,7 @@
         "United States"
       ],
       "metrics": [
-        "13",
+        "12",
         "8"
       ]
     },
@@ -521,17 +512,8 @@
         "Germany"
       ],
       "metrics": [
-        "7",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "Georgia"
-      ],
-      "metrics": [
         "6",
-        "1"
+        "4"
       ]
     },
     {
@@ -545,6 +527,15 @@
     },
     {
       "dimensions": [
+        "Russia"
+      ],
+      "metrics": [
+        "5",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "Canada"
       ],
       "metrics": [
@@ -554,10 +545,10 @@
     },
     {
       "dimensions": [
-        "South Korea"
+        "Georgia"
       ],
       "metrics": [
-        "4",
+        "3",
         "1"
       ]
     },
@@ -572,7 +563,7 @@
     },
     {
       "dimensions": [
-        "Netherlands"
+        "Qatar"
       ],
       "metrics": [
         "3",
@@ -581,17 +572,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 156,
-    "users": 82,
-    "pageViews": 356,
-    "avgSessionDuration": 346,
+    "sessions": 142,
+    "users": 83,
+    "pageViews": 221,
+    "avgSessionDuration": 204,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 421,
-    "users": 209,
-    "pageViews": 778,
-    "avgSessionDuration": 261,
+    "sessions": 442,
+    "users": 214,
+    "pageViews": 811,
+    "avgSessionDuration": 257,
     "bounceRate": 0.5
   }
 }
