@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-05-16T07:19:55.215Z",
+  "updatedAt": "2026-05-17T07:35:18.161Z",
   "trend": [
     {
       "dimensions": [
@@ -100,7 +100,7 @@
       "metrics": [
         "7",
         "4",
-        "39"
+        "43"
       ]
     },
     {
@@ -128,9 +128,9 @@
         "20260516"
       ],
       "metrics": [
-        "2",
+        "3",
         "1",
-        "4"
+        "6"
       ]
     },
     {
@@ -142,6 +142,16 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "20260517"
+      ],
+      "metrics": [
+        "1",
+        "0",
+        "1"
+      ]
     }
   ],
   "topPages": [
@@ -150,8 +160,8 @@
         "/"
       ],
       "metrics": [
-        "152",
-        "47"
+        "128",
+        "40"
       ]
     },
     {
@@ -168,8 +178,8 @@
         "/de"
       ],
       "metrics": [
-        "23",
-        "2"
+        "24",
+        "3"
       ]
     },
     {
@@ -177,8 +187,8 @@
         "/place/waterfall-of-atrani"
       ],
       "metrics": [
-        "15",
-        "13"
+        "13",
+        "11"
       ]
     },
     {
@@ -192,28 +202,10 @@
     },
     {
       "dimensions": [
-        "/place/apicella-bakery-amalfi"
+        "/place/church-santa-maria-del-bando"
       ],
       "metrics": [
-        "10",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/le-arcate-atrani"
-      ],
-      "metrics": [
-        "10",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/le-palme-atrani"
-      ],
-      "metrics": [
-        "9",
+        "8",
         "8"
       ]
     },
@@ -222,35 +214,35 @@
         "/place/castiglione-beach-lido-di-ravello"
       ],
       "metrics": [
-        "8",
+        "7",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/le-palme-atrani"
+      ],
+      "metrics": [
+        "7",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/apicella-bakery-amalfi"
+      ],
+      "metrics": [
+        "6",
         "6"
       ]
     },
     {
       "dimensions": [
-        "/place/church-of-saint-mary-magdalene"
+        "/place/le-arcate-atrani"
       ],
       "metrics": [
-        "7",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/church-santa-maria-del-bando"
-      ],
-      "metrics": [
-        "7",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/torre-dello-ziro"
-      ],
-      "metrics": [
-        "7",
-        "6"
+        "6",
+        "5"
       ]
     },
     {
@@ -264,7 +256,25 @@
     },
     {
       "dimensions": [
-        "/place/aparanza-atrani"
+        "/place/belvedere-of-san-lorenzo"
+      ],
+      "metrics": [
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/church-of-saint-mary-magdalene"
+      ],
+      "metrics": [
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/secret-waterfall-valle-dei-mulini"
       ],
       "metrics": [
         "5",
@@ -273,11 +283,11 @@
     },
     {
       "dimensions": [
-        "/place/belvedere-of-san-lorenzo"
+        "/place/torre-dello-ziro"
       ],
       "metrics": [
         "5",
-        "5"
+        "4"
       ]
     }
   ],
@@ -287,17 +297,8 @@
         "(direct)"
       ],
       "metrics": [
-        "60",
-        "13"
-      ]
-    },
-    {
-      "dimensions": [
-        "(not set)"
-      ],
-      "metrics": [
-        "4",
-        "3"
+        "53",
+        "11"
       ]
     }
   ],
@@ -307,17 +308,8 @@
         "Italy"
       ],
       "metrics": [
-        "45",
-        "13"
-      ]
-    },
-    {
-      "dimensions": [
-        "United Kingdom"
-      ],
-      "metrics": [
-        "6",
-        "2"
+        "39",
+        "11"
       ]
     },
     {
@@ -331,10 +323,19 @@
     },
     {
       "dimensions": [
+        "United Kingdom"
+      ],
+      "metrics": [
+        "5",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "Germany"
       ],
       "metrics": [
-        "2",
+        "3",
         "2"
       ]
     },
@@ -367,17 +368,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 60,
-    "users": 13,
-    "pageViews": 373,
-    "avgSessionDuration": 375,
-    "bounceRate": 0.4
+    "sessions": 53,
+    "users": 11,
+    "pageViews": 327,
+    "avgSessionDuration": 380,
+    "bounceRate": 0.3
   },
   "summary30d": {
-    "sessions": 113,
+    "sessions": 115,
     "users": 24,
-    "pageViews": 574,
-    "avgSessionDuration": 322,
-    "bounceRate": 0.4
+    "pageViews": 581,
+    "avgSessionDuration": 304,
+    "bounceRate": 0.3
   }
 }

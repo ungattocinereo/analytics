@@ -1,8 +1,18 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-05-16T07:19:53.653Z",
+  "updatedAt": "2026-05-17T07:35:16.411Z",
   "trend": [
+    {
+      "dimensions": [
+        "20260516"
+      ],
+      "metrics": [
+        "47",
+        "46",
+        "47"
+      ]
+    },
     {
       "dimensions": [
         "20260510"
@@ -38,7 +48,7 @@
         "20260515"
       ],
       "metrics": [
-        "37",
+        "36",
         "34",
         "39"
       ]
@@ -215,17 +225,7 @@
     },
     {
       "dimensions": [
-        "20260516"
-      ],
-      "metrics": [
-        "19",
-        "19",
-        "19"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260416"
+        "20260419"
       ],
       "metrics": [
         "16",
@@ -235,7 +235,7 @@
     },
     {
       "dimensions": [
-        "20260419"
+        "20260517"
       ],
       "metrics": [
         "16",
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "80",
-        "79"
+        "87",
+        "86"
       ]
     },
     {
@@ -338,8 +338,8 @@
         "/2020/01/positano-interesting-facts/"
       ],
       "metrics": [
-        "17",
-        "17"
+        "21",
+        "21"
       ]
     },
     {
@@ -347,8 +347,8 @@
         "/apartments"
       ],
       "metrics": [
-        "8",
-        "8"
+        "9",
+        "9"
       ]
     },
     {
@@ -371,11 +371,29 @@
     },
     {
       "dimensions": [
-        "/2021/09/positano-steibek/"
+        "/2020/03/final-carnivale-2020/"
+      ],
+      "metrics": [
+        "7",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2020/05/grotte-di-pertosa-auletta/"
       ],
       "metrics": [
         "6",
         "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2019/11/weather-amalfi/"
+      ],
+      "metrics": [
+        "5",
+        "5"
       ]
     },
     {
@@ -385,24 +403,6 @@
       "metrics": [
         "5",
         "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/parking"
-      ],
-      "metrics": [
-        "5",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2019/11/weather-amalfi/"
-      ],
-      "metrics": [
-        "4",
-        "4"
       ]
     },
     {
@@ -425,15 +425,6 @@
     },
     {
       "dimensions": [
-        "/blog/how-to-get-to-amalfi"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
         "/contacts"
       ],
       "metrics": [
@@ -449,6 +440,15 @@
         "4",
         "5"
       ]
+    },
+    {
+      "dimensions": [
+        "/photos"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
     }
   ],
   "sources": [
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "186",
-        "182"
+        "207",
+        "204"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "27",
-        "18"
+        "25",
+        "17"
       ]
     },
     {
@@ -531,8 +531,8 @@
         "Russia"
       ],
       "metrics": [
-        "80",
-        "77"
+        "90",
+        "86"
       ]
     },
     {
@@ -540,8 +540,8 @@
         "Vietnam"
       ],
       "metrics": [
-        "46",
-        "46"
+        "47",
+        "47"
       ]
     },
     {
@@ -558,8 +558,8 @@
         "Italy"
       ],
       "metrics": [
-        "19",
-        "13"
+        "15",
+        "11"
       ]
     },
     {
@@ -567,17 +567,17 @@
         "United Kingdom"
       ],
       "metrics": [
-        "13",
-        "12"
+        "14",
+        "14"
       ]
     },
     {
       "dimensions": [
-        "Poland"
+        "China"
       ],
       "metrics": [
-        "8",
-        "7"
+        "9",
+        "9"
       ]
     },
     {
@@ -591,11 +591,11 @@
     },
     {
       "dimensions": [
-        "China"
+        "Belarus"
       ],
       "metrics": [
-        "6",
-        "6"
+        "5",
+        "4"
       ]
     },
     {
@@ -609,26 +609,26 @@
     },
     {
       "dimensions": [
-        "Belarus"
+        "Poland"
       ],
       "metrics": [
-        "4",
-        "3"
+        "5",
+        "5"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 237,
-    "users": 221,
-    "pageViews": 255,
-    "avgSessionDuration": 27,
+    "sessions": 255,
+    "users": 242,
+    "pageViews": 273,
+    "avgSessionDuration": 25,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 733,
-    "users": 661,
-    "pageViews": 895,
-    "avgSessionDuration": 44,
+    "sessions": 760,
+    "users": 688,
+    "pageViews": 923,
+    "avgSessionDuration": 42,
     "bounceRate": 0.8
   }
 }
