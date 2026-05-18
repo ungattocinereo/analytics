@@ -1,7 +1,7 @@
 {
   "name": "Cinereo.it",
   "propertyId": "properties/362803366",
-  "updatedAt": "2026-05-17T07:35:17.059Z",
+  "updatedAt": "2026-05-18T08:48:41.993Z",
   "trend": [
     {
       "dimensions": [
@@ -95,16 +95,6 @@
     },
     {
       "dimensions": [
-        "20260417"
-      ],
-      "metrics": [
-        "1",
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "20260418"
       ],
       "metrics": [
@@ -165,10 +155,10 @@
     "bounceRate": 0
   },
   "summary30d": {
-    "sessions": 34,
+    "sessions": 33,
     "users": 3,
-    "pageViews": 46,
-    "avgSessionDuration": 432,
-    "bounceRate": 0.6
+    "pageViews": 45,
+    "avgSessionDuration": 445,
+    "bounceRate": 0.5
   }
 }

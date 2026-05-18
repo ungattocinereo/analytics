@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-05-17T07:35:18.161Z",
+  "updatedAt": "2026-05-18T08:48:43.151Z",
   "trend": [
     {
       "dimensions": [
@@ -135,21 +135,21 @@
     },
     {
       "dimensions": [
+        "20260517"
+      ],
+      "metrics": [
+        "3",
+        "1",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
         "20260507"
       ],
       "metrics": [
         "1",
         "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260517"
-      ],
-      "metrics": [
-        "1",
-        "0",
         "1"
       ]
     }
@@ -160,8 +160,8 @@
         "/"
       ],
       "metrics": [
-        "128",
-        "40"
+        "119",
+        "36"
       ]
     },
     {
@@ -205,17 +205,8 @@
         "/place/church-santa-maria-del-bando"
       ],
       "metrics": [
-        "8",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/castiglione-beach-lido-di-ravello"
-      ],
-      "metrics": [
-        "7",
-        "5"
+        "9",
+        "9"
       ]
     },
     {
@@ -229,29 +220,20 @@
     },
     {
       "dimensions": [
-        "/place/apicella-bakery-amalfi"
-      ],
-      "metrics": [
-        "6",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/le-arcate-atrani"
-      ],
-      "metrics": [
-        "6",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
         "/fr"
       ],
       "metrics": [
         "5",
         "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/apicella-bakery-amalfi"
+      ],
+      "metrics": [
+        "5",
+        "5"
       ]
     },
     {
@@ -265,11 +247,29 @@
     },
     {
       "dimensions": [
+        "/place/castiglione-beach-lido-di-ravello"
+      ],
+      "metrics": [
+        "5",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
         "/place/church-of-saint-mary-magdalene"
       ],
       "metrics": [
         "5",
         "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/le-arcate-atrani"
+      ],
+      "metrics": [
+        "5",
+        "4"
       ]
     },
     {
@@ -283,11 +283,11 @@
     },
     {
       "dimensions": [
-        "/place/torre-dello-ziro"
+        "/place/aparanza-atrani"
       ],
       "metrics": [
-        "5",
-        "4"
+        "4",
+        "3"
       ]
     }
   ],
@@ -297,8 +297,8 @@
         "(direct)"
       ],
       "metrics": [
-        "53",
-        "11"
+        "49",
+        "8"
       ]
     }
   ],
@@ -308,8 +308,8 @@
         "Italy"
       ],
       "metrics": [
-        "39",
-        "11"
+        "35",
+        "7"
       ]
     },
     {
@@ -368,17 +368,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 53,
-    "users": 11,
-    "pageViews": 327,
-    "avgSessionDuration": 380,
+    "sessions": 49,
+    "users": 8,
+    "pageViews": 312,
+    "avgSessionDuration": 391,
     "bounceRate": 0.3
   },
   "summary30d": {
-    "sessions": 115,
+    "sessions": 117,
     "users": 24,
-    "pageViews": 581,
-    "avgSessionDuration": 304,
+    "pageViews": 584,
+    "avgSessionDuration": 295,
     "bounceRate": 0.3
   }
 }

@@ -1,8 +1,18 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-05-17T07:35:16.411Z",
+  "updatedAt": "2026-05-18T08:48:41.111Z",
   "trend": [
+    {
+      "dimensions": [
+        "20260517"
+      ],
+      "metrics": [
+        "53",
+        "52",
+        "61"
+      ]
+    },
     {
       "dimensions": [
         "20260516"
@@ -235,16 +245,6 @@
     },
     {
       "dimensions": [
-        "20260517"
-      ],
-      "metrics": [
-        "16",
-        "16",
-        "16"
-      ]
-    },
-    {
-      "dimensions": [
         "20260506"
       ],
       "metrics": [
@@ -275,22 +275,22 @@
     },
     {
       "dimensions": [
-        "20260417"
-      ],
-      "metrics": [
-        "13",
-        "12",
-        "13"
-      ]
-    },
-    {
-      "dimensions": [
         "20260420"
       ],
       "metrics": [
         "11",
         "10",
         "11"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260518"
+      ],
+      "metrics": [
+        "10",
+        "10",
+        "10"
       ]
     },
     {
@@ -320,17 +320,8 @@
         "/"
       ],
       "metrics": [
-        "87",
-        "86"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
-      ],
-      "metrics": [
-        "25",
-        "21"
+        "90",
+        "89"
       ]
     },
     {
@@ -344,11 +335,29 @@
     },
     {
       "dimensions": [
+        "/2019/03/duet-postscriptum-amalfi/"
+      ],
+      "metrics": [
+        "10",
+        "10"
+      ]
+    },
+    {
+      "dimensions": [
         "/apartments"
       ],
       "metrics": [
         "9",
         "9"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
+      ],
+      "metrics": [
+        "9",
+        "8"
       ]
     },
     {
@@ -362,7 +371,16 @@
     },
     {
       "dimensions": [
-        "/2019/03/duet-postscriptum-amalfi/"
+        "/2019/11/weather-amalfi/"
+      ],
+      "metrics": [
+        "7",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2019/12/katastrofa/"
       ],
       "metrics": [
         "7",
@@ -389,7 +407,7 @@
     },
     {
       "dimensions": [
-        "/2019/11/weather-amalfi/"
+        "/contacts"
       ],
       "metrics": [
         "5",
@@ -398,7 +416,7 @@
     },
     {
       "dimensions": [
-        "/2019/12/katastrofa/"
+        "/photos"
       ],
       "metrics": [
         "5",
@@ -425,29 +443,11 @@
     },
     {
       "dimensions": [
-        "/contacts"
+        "/2019/12/winter/"
       ],
       "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/experience"
-      ],
-      "metrics": [
-        "4",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photos"
-      ],
-      "metrics": [
-        "4",
-        "4"
+        "3",
+        "3"
       ]
     }
   ],
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "207",
-        "204"
+        "220",
+        "216"
       ]
     },
     {
@@ -466,26 +466,8 @@
         "google"
       ],
       "metrics": [
-        "25",
-        "17"
-      ]
-    },
-    {
-      "dimensions": [
-        "l.instagram.com"
-      ],
-      "metrics": [
-        "13",
-        "10"
-      ]
-    },
-    {
-      "dimensions": [
-        "facebook.com"
-      ],
-      "metrics": [
-        "4",
-        "4"
+        "26",
+        "18"
       ]
     },
     {
@@ -499,11 +481,29 @@
     },
     {
       "dimensions": [
+        "l.instagram.com"
+      ],
+      "metrics": [
+        "3",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "(not set)"
       ],
       "metrics": [
         "2",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "facebook.com"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     },
     {
@@ -523,6 +523,15 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "yandex.kz"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "countries": [
@@ -531,8 +540,8 @@
         "Russia"
       ],
       "metrics": [
-        "90",
-        "86"
+        "101",
+        "96"
       ]
     },
     {
@@ -540,8 +549,8 @@
         "Vietnam"
       ],
       "metrics": [
-        "47",
-        "47"
+        "45",
+        "45"
       ]
     },
     {
@@ -549,8 +558,8 @@
         "United States"
       ],
       "metrics": [
-        "23",
-        "23"
+        "15",
+        "15"
       ]
     },
     {
@@ -558,8 +567,8 @@
         "Italy"
       ],
       "metrics": [
-        "15",
-        "11"
+        "12",
+        "9"
       ]
     },
     {
@@ -567,8 +576,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "14",
-        "14"
+        "12",
+        "12"
       ]
     },
     {
@@ -576,8 +585,17 @@
         "China"
       ],
       "metrics": [
-        "9",
-        "9"
+        "10",
+        "10"
+      ]
+    },
+    {
+      "dimensions": [
+        "Brazil"
+      ],
+      "metrics": [
+        "7",
+        "7"
       ]
     },
     {
@@ -591,20 +609,11 @@
     },
     {
       "dimensions": [
-        "Belarus"
-      ],
-      "metrics": [
-        "5",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
         "Kazakhstan"
       ],
       "metrics": [
-        "5",
-        "3"
+        "6",
+        "4"
       ]
     },
     {
@@ -618,17 +627,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 255,
-    "users": 242,
-    "pageViews": 273,
-    "avgSessionDuration": 25,
+    "sessions": 257,
+    "users": 245,
+    "pageViews": 277,
+    "avgSessionDuration": 17,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 760,
-    "users": 688,
-    "pageViews": 923,
-    "avgSessionDuration": 42,
+    "sessions": 795,
+    "users": 723,
+    "pageViews": 965,
+    "avgSessionDuration": 41,
     "bounceRate": 0.8
   }
 }
