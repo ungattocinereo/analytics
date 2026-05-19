@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-05-18T08:48:43.151Z",
+  "updatedAt": "2026-05-19T08:31:21.191Z",
   "trend": [
     {
       "dimensions": [
@@ -115,6 +115,26 @@
     },
     {
       "dimensions": [
+        "20260518"
+      ],
+      "metrics": [
+        "6",
+        "3",
+        "40"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260517"
+      ],
+      "metrics": [
+        "4",
+        "1",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
         "20260506"
       ],
       "metrics": [
@@ -135,16 +155,6 @@
     },
     {
       "dimensions": [
-        "20260517"
-      ],
-      "metrics": [
-        "3",
-        "1",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
         "20260507"
       ],
       "metrics": [
@@ -160,17 +170,8 @@
         "/"
       ],
       "metrics": [
-        "119",
-        "36"
-      ]
-    },
-    {
-      "dimensions": [
-        "/es"
-      ],
-      "metrics": [
-        "27",
-        "9"
+        "118",
+        "34"
       ]
     },
     {
@@ -178,8 +179,17 @@
         "/de"
       ],
       "metrics": [
+        "26",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/es"
+      ],
+      "metrics": [
         "24",
-        "3"
+        "8"
       ]
     },
     {
@@ -188,7 +198,7 @@
       ],
       "metrics": [
         "13",
-        "11"
+        "12"
       ]
     },
     {
@@ -196,8 +206,8 @@
         "/place/mimi-coco-di-tutto-un-po-atrani"
       ],
       "metrics": [
-        "11",
-        "7"
+        "12",
+        "8"
       ]
     },
     {
@@ -205,7 +215,7 @@
         "/place/church-santa-maria-del-bando"
       ],
       "metrics": [
-        "9",
+        "10",
         "9"
       ]
     },
@@ -230,15 +240,6 @@
     {
       "dimensions": [
         "/place/apicella-bakery-amalfi"
-      ],
-      "metrics": [
-        "5",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/belvedere-of-san-lorenzo"
       ],
       "metrics": [
         "5",
@@ -274,20 +275,29 @@
     },
     {
       "dimensions": [
-        "/place/secret-waterfall-valle-dei-mulini"
-      ],
-      "metrics": [
-        "5",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
         "/place/aparanza-atrani"
       ],
       "metrics": [
         "4",
         "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/belvedere-of-san-lorenzo"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/de/place/waterfall-of-atrani"
+      ],
+      "metrics": [
+        "3",
+        "1"
       ]
     }
   ],
@@ -298,7 +308,16 @@
       ],
       "metrics": [
         "49",
-        "8"
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
+        "(not set)"
+      ],
+      "metrics": [
+        "4",
+        "2"
       ]
     }
   ],
@@ -308,17 +327,8 @@
         "Italy"
       ],
       "metrics": [
-        "35",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "6",
-        "1"
+        "39",
+        "9"
       ]
     },
     {
@@ -326,7 +336,7 @@
         "United Kingdom"
       ],
       "metrics": [
-        "5",
+        "4",
         "2"
       ]
     },
@@ -341,11 +351,20 @@
     },
     {
       "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "3",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "India"
       ],
       "metrics": [
-        "2",
-        "1"
+        "1",
+        "0"
       ]
     },
     {
@@ -369,16 +388,16 @@
   ],
   "summary7d": {
     "sessions": 49,
-    "users": 8,
-    "pageViews": 312,
-    "avgSessionDuration": 391,
+    "users": 9,
+    "pageViews": 310,
+    "avgSessionDuration": 367,
     "bounceRate": 0.3
   },
   "summary30d": {
-    "sessions": 117,
-    "users": 24,
-    "pageViews": 584,
-    "avgSessionDuration": 295,
+    "sessions": 124,
+    "users": 26,
+    "pageViews": 625,
+    "avgSessionDuration": 296,
     "bounceRate": 0.3
   }
 }
