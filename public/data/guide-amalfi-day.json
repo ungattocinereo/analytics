@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-05-19T08:31:21.191Z",
+  "updatedAt": "2026-05-20T08:29:13.493Z",
   "trend": [
     {
       "dimensions": [
@@ -120,7 +120,7 @@
       "metrics": [
         "6",
         "3",
-        "40"
+        "41"
       ]
     },
     {
@@ -162,6 +162,16 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "20260519"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "2"
+      ]
     }
   ],
   "topPages": [
@@ -170,8 +180,8 @@
         "/"
       ],
       "metrics": [
-        "118",
-        "34"
+        "92",
+        "28"
       ]
     },
     {
@@ -194,20 +204,20 @@
     },
     {
       "dimensions": [
-        "/place/waterfall-of-atrani"
+        "/place/mimi-coco-di-tutto-un-po-atrani"
       ],
       "metrics": [
-        "13",
-        "12"
+        "11",
+        "7"
       ]
     },
     {
       "dimensions": [
-        "/place/mimi-coco-di-tutto-un-po-atrani"
+        "/place/waterfall-of-atrani"
       ],
       "metrics": [
-        "12",
-        "8"
+        "11",
+        "10"
       ]
     },
     {
@@ -215,35 +225,8 @@
         "/place/church-santa-maria-del-bando"
       ],
       "metrics": [
-        "10",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/le-palme-atrani"
-      ],
-      "metrics": [
-        "7",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "/fr"
-      ],
-      "metrics": [
-        "5",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/apicella-bakery-amalfi"
-      ],
-      "metrics": [
-        "5",
-        "5"
+        "8",
+        "7"
       ]
     },
     {
@@ -257,11 +240,20 @@
     },
     {
       "dimensions": [
-        "/place/church-of-saint-mary-magdalene"
+        "/place/le-palme-atrani"
       ],
       "metrics": [
         "5",
-        "5"
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/apicella-bakery-amalfi"
+      ],
+      "metrics": [
+        "4",
+        "4"
       ]
     },
     {
@@ -269,26 +261,8 @@
         "/place/le-arcate-atrani"
       ],
       "metrics": [
-        "5",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/aparanza-atrani"
-      ],
-      "metrics": [
         "4",
         "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/belvedere-of-san-lorenzo"
-      ],
-      "metrics": [
-        "4",
-        "4"
       ]
     },
     {
@@ -299,6 +273,42 @@
         "3",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "/place/aparanza-atrani"
+      ],
+      "metrics": [
+        "3",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/church-of-saint-mary-magdalene"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/la-tramontina-amalfi"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/torre-dello-ziro"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
     }
   ],
   "sources": [
@@ -307,17 +317,8 @@
         "(direct)"
       ],
       "metrics": [
-        "49",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
-        "(not set)"
-      ],
-      "metrics": [
-        "4",
-        "2"
+        "41",
+        "10"
       ]
     }
   ],
@@ -327,17 +328,8 @@
         "Italy"
       ],
       "metrics": [
-        "39",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
-        "United Kingdom"
-      ],
-      "metrics": [
-        "4",
-        "2"
+        "36",
+        "10"
       ]
     },
     {
@@ -351,20 +343,11 @@
     },
     {
       "dimensions": [
-        "United States"
+        "United Kingdom"
       ],
       "metrics": [
-        "3",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "India"
-      ],
-      "metrics": [
-        "1",
-        "0"
+        "2",
+        "2"
       ]
     },
     {
@@ -378,7 +361,7 @@
     },
     {
       "dimensions": [
-        "Romania"
+        "United States"
       ],
       "metrics": [
         "1",
@@ -387,17 +370,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 49,
-    "users": 9,
-    "pageViews": 310,
-    "avgSessionDuration": 367,
-    "bounceRate": 0.3
+    "sessions": 41,
+    "users": 10,
+    "pageViews": 256,
+    "avgSessionDuration": 389,
+    "bounceRate": 0.2
   },
   "summary30d": {
-    "sessions": 124,
-    "users": 26,
-    "pageViews": 625,
-    "avgSessionDuration": 296,
+    "sessions": 125,
+    "users": 27,
+    "pageViews": 628,
+    "avgSessionDuration": 297,
     "bounceRate": 0.3
   }
 }
