@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-05-20T08:29:12.940Z",
+  "updatedAt": "2026-05-21T08:36:15.274Z",
   "trend": [
     {
       "dimensions": [
@@ -71,6 +71,16 @@
         "25",
         "14",
         "45"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260520"
+      ],
+      "metrics": [
+        "23",
+        "16",
+        "30"
       ]
     },
     {
@@ -255,16 +265,6 @@
     },
     {
       "dimensions": [
-        "20260420"
-      ],
-      "metrics": [
-        "9",
-        "7",
-        "15"
-      ]
-    },
-    {
-      "dimensions": [
         "20260422"
       ],
       "metrics": [
@@ -302,25 +302,35 @@
         "5",
         "7"
       ]
+    },
+    {
+      "dimensions": [
+        "20260521"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "1"
+      ]
     }
   ],
   "topPages": [
     {
       "dimensions": [
-        "/"
+        "/timetables/"
       ],
       "metrics": [
-        "53",
-        "36"
+        "50",
+        "44"
       ]
     },
     {
       "dimensions": [
-        "/timetables/"
+        "/"
       ],
       "metrics": [
-        "51",
-        "42"
+        "44",
+        "34"
       ]
     },
     {
@@ -328,8 +338,8 @@
         "/parking/"
       ],
       "metrics": [
-        "45",
-        "37"
+        "43",
+        "35"
       ]
     },
     {
@@ -346,8 +356,8 @@
         "/timetables"
       ],
       "metrics": [
-        "30",
-        "13"
+        "28",
+        "11"
       ]
     },
     {
@@ -356,7 +366,7 @@
       ],
       "metrics": [
         "25",
-        "15"
+        "16"
       ]
     },
     {
@@ -364,8 +374,17 @@
         "/directions/"
       ],
       "metrics": [
-        "13",
-        "12"
+        "11",
+        "11"
+      ]
+    },
+    {
+      "dimensions": [
+        "/how-to-get"
+      ],
+      "metrics": [
+        "10",
+        "8"
       ]
     },
     {
@@ -373,8 +392,8 @@
         "/apartments"
       ],
       "metrics": [
-        "9",
-        "7"
+        "7",
+        "6"
       ]
     },
     {
@@ -388,11 +407,11 @@
     },
     {
       "dimensions": [
-        "/how-to-get"
+        "/blog"
       ],
       "metrics": [
         "5",
-        "4"
+        "3"
       ]
     },
     {
@@ -402,15 +421,6 @@
       "metrics": [
         "5",
         "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog"
-      ],
-      "metrics": [
-        "4",
-        "2"
       ]
     },
     {
@@ -427,17 +437,17 @@
         "/contact"
       ],
       "metrics": [
-        "4",
-        "4"
+        "3",
+        "3"
       ]
     },
     {
       "dimensions": [
-        "/beaches"
+        "/photolocations"
       ],
       "metrics": [
-        "2",
-        "2"
+        "3",
+        "3"
       ]
     }
   ],
@@ -447,8 +457,8 @@
         "google"
       ],
       "metrics": [
-        "105",
-        "84"
+        "103",
+        "79"
       ]
     },
     {
@@ -456,7 +466,7 @@
         "(direct)"
       ],
       "metrics": [
-        "64",
+        "66",
         "31"
       ]
     },
@@ -477,6 +487,24 @@
         "2",
         "2"
       ]
+    },
+    {
+      "dimensions": [
+        "amalfi-guide-ungattocinereo-cinereos-projects.vercel.app"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "m.facebook.com"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "countries": [
@@ -485,7 +513,7 @@
         "Italy"
       ],
       "metrics": [
-        "80",
+        "85",
         "49"
       ]
     },
@@ -494,8 +522,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "26",
-        "21"
+        "28",
+        "23"
       ]
     },
     {
@@ -530,26 +558,8 @@
         "Netherlands"
       ],
       "metrics": [
-        "7",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "Türkiye"
-      ],
-      "metrics": [
-        "5",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "Canada"
-      ],
-      "metrics": [
-        "4",
-        "4"
+        "6",
+        "5"
       ]
     },
     {
@@ -563,26 +573,44 @@
     },
     {
       "dimensions": [
-        "Poland"
+        "Türkiye"
+      ],
+      "metrics": [
+        "4",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Bulgaria"
       ],
       "metrics": [
         "3",
         "2"
       ]
+    },
+    {
+      "dimensions": [
+        "Canada"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 180,
-    "users": 118,
-    "pageViews": 303,
-    "avgSessionDuration": 241,
+    "sessions": 183,
+    "users": 114,
+    "pageViews": 290,
+    "avgSessionDuration": 203,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 521,
-    "users": 270,
-    "pageViews": 955,
-    "avgSessionDuration": 261,
+    "sessions": 537,
+    "users": 275,
+    "pageViews": 971,
+    "avgSessionDuration": 252,
     "bounceRate": 0.5
   }
 }

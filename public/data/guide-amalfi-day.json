@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-05-20T08:29:13.493Z",
+  "updatedAt": "2026-05-21T08:36:16.033Z",
   "trend": [
     {
       "dimensions": [
@@ -105,6 +105,16 @@
     },
     {
       "dimensions": [
+        "20260520"
+      ],
+      "metrics": [
+        "7",
+        "5",
+        "48"
+      ]
+    },
+    {
+      "dimensions": [
         "20260510"
       ],
       "metrics": [
@@ -155,22 +165,32 @@
     },
     {
       "dimensions": [
+        "20260519"
+      ],
+      "metrics": [
+        "2",
+        "1",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260521"
+      ],
+      "metrics": [
+        "2",
+        "1",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "20260507"
       ],
       "metrics": [
         "1",
         "1",
         "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260519"
-      ],
-      "metrics": [
-        "1",
-        "1",
-        "2"
       ]
     }
   ],
@@ -180,17 +200,8 @@
         "/"
       ],
       "metrics": [
-        "92",
+        "86",
         "28"
-      ]
-    },
-    {
-      "dimensions": [
-        "/de"
-      ],
-      "metrics": [
-        "26",
-        "5"
       ]
     },
     {
@@ -198,7 +209,25 @@
         "/es"
       ],
       "metrics": [
-        "24",
+        "25",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
+        "/de"
+      ],
+      "metrics": [
+        "23",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/waterfall-of-atrani"
+      ],
+      "metrics": [
+        "9",
         "8"
       ]
     },
@@ -207,17 +236,17 @@
         "/place/mimi-coco-di-tutto-un-po-atrani"
       ],
       "metrics": [
-        "11",
-        "7"
+        "8",
+        "8"
       ]
     },
     {
       "dimensions": [
-        "/place/waterfall-of-atrani"
+        "/it"
       ],
       "metrics": [
-        "11",
-        "10"
+        "7",
+        "2"
       ]
     },
     {
@@ -225,26 +254,17 @@
         "/place/church-santa-maria-del-bando"
       ],
       "metrics": [
-        "8",
-        "7"
+        "7",
+        "6"
       ]
     },
     {
       "dimensions": [
-        "/place/castiglione-beach-lido-di-ravello"
+        "/place/church-of-saint-mary-magdalene"
       ],
       "metrics": [
         "5",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/le-palme-atrani"
-      ],
-      "metrics": [
-        "5",
-        "4"
+        "5"
       ]
     },
     {
@@ -258,11 +278,11 @@
     },
     {
       "dimensions": [
-        "/place/le-arcate-atrani"
+        "/ru"
       ],
       "metrics": [
         "4",
-        "3"
+        "4"
       ]
     },
     {
@@ -276,20 +296,11 @@
     },
     {
       "dimensions": [
-        "/place/aparanza-atrani"
+        "/place/castiglione-beach-lido-di-ravello"
       ],
       "metrics": [
         "3",
         "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/church-of-saint-mary-magdalene"
-      ],
-      "metrics": [
-        "3",
-        "3"
       ]
     },
     {
@@ -303,7 +314,16 @@
     },
     {
       "dimensions": [
-        "/place/torre-dello-ziro"
+        "/place/le-palme-atrani"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/path-of-the-gods-sentiero-degli-dei"
       ],
       "metrics": [
         "3",
@@ -317,8 +337,26 @@
         "(direct)"
       ],
       "metrics": [
-        "41",
-        "10"
+        "43",
+        "12"
+      ]
+    },
+    {
+      "dimensions": [
+        "(not set)"
+      ],
+      "metrics": [
+        "4",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "vercel.com"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     }
   ],
@@ -328,8 +366,17 @@
         "Italy"
       ],
       "metrics": [
-        "36",
-        "10"
+        "40",
+        "12"
+      ]
+    },
+    {
+      "dimensions": [
+        "Austria"
+      ],
+      "metrics": [
+        "3",
+        "1"
       ]
     },
     {
@@ -337,17 +384,8 @@
         "Germany"
       ],
       "metrics": [
-        "3",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "United Kingdom"
-      ],
-      "metrics": [
-        "2",
-        "2"
+        "1",
+        "1"
       ]
     },
     {
@@ -361,7 +399,7 @@
     },
     {
       "dimensions": [
-        "United States"
+        "United Kingdom"
       ],
       "metrics": [
         "1",
@@ -370,17 +408,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 41,
-    "users": 10,
-    "pageViews": 256,
-    "avgSessionDuration": 389,
-    "bounceRate": 0.2
+    "sessions": 44,
+    "users": 13,
+    "pageViews": 248,
+    "avgSessionDuration": 515,
+    "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 125,
-    "users": 27,
-    "pageViews": 628,
-    "avgSessionDuration": 297,
-    "bounceRate": 0.3
+    "sessions": 135,
+    "users": 30,
+    "pageViews": 679,
+    "avgSessionDuration": 347,
+    "bounceRate": 0.4
   }
 }
