@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-05-21T08:36:13.930Z",
+  "updatedAt": "2026-05-22T08:24:45.162Z",
   "trend": [
     {
       "dimensions": [
@@ -11,6 +11,16 @@
         "70",
         "69",
         "70"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260521"
+      ],
+      "metrics": [
+        "54",
+        "53",
+        "53"
       ]
     },
     {
@@ -295,22 +305,12 @@
     },
     {
       "dimensions": [
-        "20260521"
+        "20260522"
       ],
       "metrics": [
-        "13",
-        "13",
-        "13"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260421"
-      ],
-      "metrics": [
-        "6",
-        "6",
-        "11"
+        "14",
+        "14",
+        "14"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "127",
-        "126"
+        "141",
+        "140"
       ]
     },
     {
@@ -329,22 +329,31 @@
         "/2020/01/positano-interesting-facts/"
       ],
       "metrics": [
-        "25",
-        "25"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2020/03/final-carnivale-2020/"
-      ],
-      "metrics": [
-        "13",
-        "13"
+        "27",
+        "27"
       ]
     },
     {
       "dimensions": [
         "/2019/03/duet-postscriptum-amalfi/"
+      ],
+      "metrics": [
+        "14",
+        "14"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2019/11/weather-amalfi/"
+      ],
+      "metrics": [
+        "14",
+        "15"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2020/03/final-carnivale-2020/"
       ],
       "metrics": [
         "12",
@@ -353,20 +362,11 @@
     },
     {
       "dimensions": [
-        "/2019/11/weather-amalfi/"
-      ],
-      "metrics": [
-        "12",
-        "13"
-      ]
-    },
-    {
-      "dimensions": [
         "/apartments"
       ],
       "metrics": [
-        "8",
-        "8"
+        "9",
+        "9"
       ]
     },
     {
@@ -385,6 +385,24 @@
       "metrics": [
         "6",
         "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2018/05/napoli-jizn-na-mopede/"
+      ],
+      "metrics": [
+        "5",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
+      ],
+      "metrics": [
+        "5",
+        "5"
       ]
     },
     {
@@ -425,25 +443,7 @@
     },
     {
       "dimensions": [
-        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
-      ],
-      "metrics": [
-        "4",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/experience"
+        "/blog/page/2/"
       ],
       "metrics": [
         "4",
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "289",
-        "285"
+        "319",
+        "314"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "22",
-        "17"
+        "23",
+        "18"
       ]
     },
     {
@@ -475,8 +475,26 @@
         "apps.apple.com"
       ],
       "metrics": [
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "play.google.com"
+      ],
+      "metrics": [
         "3",
         "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "(not set)"
+      ],
+      "metrics": [
+        "2",
+        "2"
       ]
     },
     {
@@ -490,7 +508,7 @@
     },
     {
       "dimensions": [
-        "play.google.com"
+        "otzyvru.com"
       ],
       "metrics": [
         "2",
@@ -504,15 +522,6 @@
       "metrics": [
         "2",
         "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "(not set)"
-      ],
-      "metrics": [
-        "1",
-        "1"
       ]
     },
     {
@@ -532,15 +541,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "ig"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "countries": [
@@ -549,8 +549,8 @@
         "Russia"
       ],
       "metrics": [
-        "128",
-        "122"
+        "140",
+        "133"
       ]
     },
     {
@@ -558,8 +558,8 @@
         "Vietnam"
       ],
       "metrics": [
-        "55",
-        "55"
+        "66",
+        "66"
       ]
     },
     {
@@ -567,8 +567,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "28",
-        "28"
+        "30",
+        "30"
       ]
     },
     {
@@ -576,8 +576,8 @@
         "Brazil"
       ],
       "metrics": [
-        "15",
-        "15"
+        "16",
+        "16"
       ]
     },
     {
@@ -591,6 +591,24 @@
     },
     {
       "dimensions": [
+        "Indonesia"
+      ],
+      "metrics": [
+        "13",
+        "13"
+      ]
+    },
+    {
+      "dimensions": [
+        "India"
+      ],
+      "metrics": [
+        "12",
+        "12"
+      ]
+    },
+    {
+      "dimensions": [
         "Italy"
       ],
       "metrics": [
@@ -600,7 +618,7 @@
     },
     {
       "dimensions": [
-        "India"
+        "China"
       ],
       "metrics": [
         "10",
@@ -609,44 +627,26 @@
     },
     {
       "dimensions": [
-        "China"
-      ],
-      "metrics": [
-        "9",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
-        "Indonesia"
-      ],
-      "metrics": [
-        "9",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
         "Philippines"
       ],
       "metrics": [
-        "8",
-        "8"
+        "9",
+        "9"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 328,
-    "users": 320,
-    "pageViews": 341,
-    "avgSessionDuration": 10,
+    "sessions": 365,
+    "users": 355,
+    "pageViews": 376,
+    "avgSessionDuration": 9,
     "bounceRate": 0.9
   },
   "summary30d": {
-    "sessions": 923,
-    "users": 849,
-    "pageViews": 1086,
-    "avgSessionDuration": 36,
+    "sessions": 973,
+    "users": 897,
+    "pageViews": 1129,
+    "avgSessionDuration": 35,
     "bounceRate": 0.8
   }
 }

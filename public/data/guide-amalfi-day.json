@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-05-21T08:36:16.033Z",
+  "updatedAt": "2026-05-22T08:24:47.261Z",
   "trend": [
     {
       "dimensions": [
@@ -110,7 +110,7 @@
       "metrics": [
         "7",
         "5",
-        "48"
+        "52"
       ]
     },
     {
@@ -131,6 +131,16 @@
         "6",
         "3",
         "41"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260521"
+      ],
+      "metrics": [
+        "6",
+        "4",
+        "22"
       ]
     },
     {
@@ -175,16 +185,6 @@
     },
     {
       "dimensions": [
-        "20260521"
-      ],
-      "metrics": [
-        "2",
-        "1",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "20260507"
       ],
       "metrics": [
@@ -201,43 +201,7 @@
       ],
       "metrics": [
         "86",
-        "28"
-      ]
-    },
-    {
-      "dimensions": [
-        "/es"
-      ],
-      "metrics": [
-        "25",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
-        "/de"
-      ],
-      "metrics": [
-        "23",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/waterfall-of-atrani"
-      ],
-      "metrics": [
-        "9",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/mimi-coco-di-tutto-un-po-atrani"
-      ],
-      "metrics": [
-        "8",
-        "8"
+        "25"
       ]
     },
     {
@@ -245,7 +209,7 @@
         "/it"
       ],
       "metrics": [
-        "7",
+        "8",
         "2"
       ]
     },
@@ -260,7 +224,25 @@
     },
     {
       "dimensions": [
-        "/place/church-of-saint-mary-magdalene"
+        "/place/mimi-coco-di-tutto-un-po-atrani"
+      ],
+      "metrics": [
+        "7",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/apicella-bakery-amalfi"
+      ],
+      "metrics": [
+        "6",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/waterfall-of-atrani"
       ],
       "metrics": [
         "5",
@@ -269,7 +251,34 @@
     },
     {
       "dimensions": [
-        "/place/apicella-bakery-amalfi"
+        "/es"
+      ],
+      "metrics": [
+        "4",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/church-of-saint-mary-magdalene"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/la-tramontina-amalfi"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/le-palme-atrani"
       ],
       "metrics": [
         "4",
@@ -287,25 +296,7 @@
     },
     {
       "dimensions": [
-        "/de/place/waterfall-of-atrani"
-      ],
-      "metrics": [
-        "3",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/castiglione-beach-lido-di-ravello"
-      ],
-      "metrics": [
-        "3",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/la-tramontina-amalfi"
+        "/de"
       ],
       "metrics": [
         "3",
@@ -314,7 +305,7 @@
     },
     {
       "dimensions": [
-        "/place/le-palme-atrani"
+        "/place/belvedere-of-san-lorenzo"
       ],
       "metrics": [
         "3",
@@ -324,6 +315,15 @@
     {
       "dimensions": [
         "/place/path-of-the-gods-sentiero-degli-dei"
+      ],
+      "metrics": [
+        "3",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/torre-dello-ziro"
       ],
       "metrics": [
         "3",
@@ -337,8 +337,8 @@
         "(direct)"
       ],
       "metrics": [
-        "43",
-        "12"
+        "33",
+        "10"
       ]
     },
     {
@@ -347,7 +347,7 @@
       ],
       "metrics": [
         "4",
-        "3"
+        "4"
       ]
     },
     {
@@ -366,8 +366,8 @@
         "Italy"
       ],
       "metrics": [
-        "40",
-        "12"
+        "31",
+        "11"
       ]
     },
     {
@@ -408,17 +408,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 44,
-    "users": 13,
-    "pageViews": 248,
-    "avgSessionDuration": 515,
+    "sessions": 35,
+    "users": 12,
+    "pageViews": 172,
+    "avgSessionDuration": 508,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 135,
-    "users": 30,
-    "pageViews": 679,
-    "avgSessionDuration": 347,
-    "bounceRate": 0.4
+    "sessions": 138,
+    "users": 31,
+    "pageViews": 703,
+    "avgSessionDuration": 353,
+    "bounceRate": 0.3
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-05-21T08:36:15.274Z",
+  "updatedAt": "2026-05-22T08:24:46.655Z",
   "trend": [
     {
       "dimensions": [
@@ -185,6 +185,16 @@
     },
     {
       "dimensions": [
+        "20260521"
+      ],
+      "metrics": [
+        "15",
+        "12",
+        "22"
+      ]
+    },
+    {
+      "dimensions": [
         "20260505"
       ],
       "metrics": [
@@ -295,22 +305,12 @@
     },
     {
       "dimensions": [
-        "20260421"
-      ],
-      "metrics": [
-        "5",
-        "5",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260521"
+        "20260522"
       ],
       "metrics": [
         "1",
         "1",
-        "1"
+        "3"
       ]
     }
   ],
@@ -320,17 +320,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "50",
-        "44"
-      ]
-    },
-    {
-      "dimensions": [
-        "/"
-      ],
-      "metrics": [
-        "44",
-        "34"
+        "53",
+        "46"
       ]
     },
     {
@@ -338,8 +329,17 @@
         "/parking/"
       ],
       "metrics": [
+        "44",
+        "36"
+      ]
+    },
+    {
+      "dimensions": [
+        "/"
+      ],
+      "metrics": [
         "43",
-        "35"
+        "33"
       ]
     },
     {
@@ -347,8 +347,8 @@
         "/blog/praiano-turns-into-a-film-set-in-may-with-road-changes-on-the-ss163/"
       ],
       "metrics": [
-        "36",
-        "35"
+        "35",
+        "33"
       ]
     },
     {
@@ -356,8 +356,8 @@
         "/timetables"
       ],
       "metrics": [
-        "28",
-        "11"
+        "27",
+        "10"
       ]
     },
     {
@@ -365,8 +365,8 @@
         "/ferry-timetables"
       ],
       "metrics": [
-        "25",
-        "16"
+        "24",
+        "15"
       ]
     },
     {
@@ -374,8 +374,8 @@
         "/directions/"
       ],
       "metrics": [
-        "11",
-        "11"
+        "13",
+        "12"
       ]
     },
     {
@@ -383,8 +383,8 @@
         "/how-to-get"
       ],
       "metrics": [
-        "10",
-        "8"
+        "13",
+        "10"
       ]
     },
     {
@@ -457,8 +457,8 @@
         "google"
       ],
       "metrics": [
-        "103",
-        "79"
+        "106",
+        "80"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "(direct)"
       ],
       "metrics": [
-        "66",
-        "31"
+        "59",
+        "29"
       ]
     },
     {
@@ -476,6 +476,15 @@
       ],
       "metrics": [
         "10",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "amalfi-guide-ungattocinereo-cinereos-projects.vercel.app"
+      ],
+      "metrics": [
+        "2",
         "1"
       ]
     },
@@ -490,7 +499,7 @@
     },
     {
       "dimensions": [
-        "amalfi-guide-ungattocinereo-cinereos-projects.vercel.app"
+        "airbnb.co.uk"
       ],
       "metrics": [
         "1",
@@ -513,7 +522,7 @@
         "Italy"
       ],
       "metrics": [
-        "85",
+        "82",
         "49"
       ]
     },
@@ -522,8 +531,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "28",
-        "23"
+        "29",
+        "22"
       ]
     },
     {
@@ -531,17 +540,8 @@
         "United States"
       ],
       "metrics": [
-        "15",
-        "12"
-      ]
-    },
-    {
-      "dimensions": [
-        "Germany"
-      ],
-      "metrics": [
-        "7",
-        "6"
+        "12",
+        "10"
       ]
     },
     {
@@ -555,11 +555,29 @@
     },
     {
       "dimensions": [
+        "Germany"
+      ],
+      "metrics": [
+        "6",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
         "Netherlands"
       ],
       "metrics": [
         "6",
         "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "Türkiye"
+      ],
+      "metrics": [
+        "5",
+        "2"
       ]
     },
     {
@@ -573,11 +591,11 @@
     },
     {
       "dimensions": [
-        "Türkiye"
+        "Belgium"
       ],
       "metrics": [
-        "4",
-        "1"
+        "3",
+        "3"
       ]
     },
     {
@@ -588,28 +606,19 @@
         "3",
         "2"
       ]
-    },
-    {
-      "dimensions": [
-        "Canada"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 183,
-    "users": 114,
-    "pageViews": 290,
-    "avgSessionDuration": 203,
+    "sessions": 181,
+    "users": 113,
+    "pageViews": 292,
+    "avgSessionDuration": 199,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 537,
-    "users": 275,
-    "pageViews": 971,
+    "sessions": 546,
+    "users": 279,
+    "pageViews": 988,
     "avgSessionDuration": 252,
     "bounceRate": 0.5
   }
