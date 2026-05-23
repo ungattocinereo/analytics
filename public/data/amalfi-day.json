@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-05-22T08:24:46.655Z",
+  "updatedAt": "2026-05-23T07:34:27.886Z",
   "trend": [
     {
       "dimensions": [
@@ -91,6 +91,16 @@
         "22",
         "18",
         "44"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260522"
+      ],
+      "metrics": [
+        "21",
+        "19",
+        "25"
       ]
     },
     {
@@ -275,16 +285,6 @@
     },
     {
       "dimensions": [
-        "20260422"
-      ],
-      "metrics": [
-        "8",
-        "6",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
         "20260424"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260522"
+        "20260523"
       ],
       "metrics": [
         "1",
         "1",
-        "3"
+        "1"
       ]
     }
   ],
@@ -326,11 +326,11 @@
     },
     {
       "dimensions": [
-        "/parking/"
+        "/blog/praiano-turns-into-a-film-set-in-may-with-road-changes-on-the-ss163/"
       ],
       "metrics": [
-        "44",
-        "36"
+        "40",
+        "37"
       ]
     },
     {
@@ -338,17 +338,17 @@
         "/"
       ],
       "metrics": [
-        "43",
-        "33"
+        "39",
+        "29"
       ]
     },
     {
       "dimensions": [
-        "/blog/praiano-turns-into-a-film-set-in-may-with-road-changes-on-the-ss163/"
+        "/parking/"
       ],
       "metrics": [
-        "35",
-        "33"
+        "37",
+        "30"
       ]
     },
     {
@@ -356,8 +356,8 @@
         "/timetables"
       ],
       "metrics": [
-        "27",
-        "10"
+        "24",
+        "7"
       ]
     },
     {
@@ -365,8 +365,8 @@
         "/ferry-timetables"
       ],
       "metrics": [
-        "24",
-        "15"
+        "23",
+        "14"
       ]
     },
     {
@@ -374,8 +374,8 @@
         "/directions/"
       ],
       "metrics": [
-        "13",
-        "12"
+        "14",
+        "13"
       ]
     },
     {
@@ -389,15 +389,6 @@
     },
     {
       "dimensions": [
-        "/apartments"
-      ],
-      "metrics": [
-        "7",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
         "/directions-laura/"
       ],
       "metrics": [
@@ -407,28 +398,37 @@
     },
     {
       "dimensions": [
-        "/blog"
-      ],
-      "metrics": [
-        "5",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photoshootings/ayuna"
-      ],
-      "metrics": [
-        "5",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/vintage-cars-and-motorcycles-return-to-cetara-this-may/"
+        "/apartments"
       ],
       "metrics": [
         "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photolocations"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/beaches"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog"
+      ],
+      "metrics": [
+        "2",
         "2"
       ]
     },
@@ -437,17 +437,17 @@
         "/contact"
       ],
       "metrics": [
-        "3",
-        "3"
+        "2",
+        "2"
       ]
     },
     {
       "dimensions": [
-        "/photolocations"
+        "/blog/giro-ditalia-2026-sita-bus-diversions-between-amalfi-vietri-and-salerno-on-may-14/"
       ],
       "metrics": [
-        "3",
-        "3"
+        "1",
+        "1"
       ]
     }
   ],
@@ -457,8 +457,8 @@
         "google"
       ],
       "metrics": [
-        "106",
-        "80"
+        "108",
+        "83"
       ]
     },
     {
@@ -466,7 +466,7 @@
         "(direct)"
       ],
       "metrics": [
-        "59",
+        "51",
         "29"
       ]
     },
@@ -475,7 +475,7 @@
         "ads.google.com"
       ],
       "metrics": [
-        "10",
+        "7",
         "1"
       ]
     },
@@ -484,17 +484,17 @@
         "amalfi-guide-ungattocinereo-cinereos-projects.vercel.app"
       ],
       "metrics": [
-        "2",
+        "3",
         "1"
       ]
     },
     {
       "dimensions": [
-        "chatgpt.com"
+        "m.facebook.com"
       ],
       "metrics": [
-        "2",
-        "2"
+        "3",
+        "3"
       ]
     },
     {
@@ -508,7 +508,7 @@
     },
     {
       "dimensions": [
-        "m.facebook.com"
+        "chatgpt.com"
       ],
       "metrics": [
         "1",
@@ -522,8 +522,8 @@
         "Italy"
       ],
       "metrics": [
-        "82",
-        "49"
+        "76",
+        "47"
       ]
     },
     {
@@ -531,8 +531,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "29",
-        "22"
+        "26",
+        "20"
       ]
     },
     {
@@ -540,8 +540,8 @@
         "United States"
       ],
       "metrics": [
-        "12",
-        "10"
+        "17",
+        "14"
       ]
     },
     {
@@ -549,17 +549,8 @@
         "Ireland"
       ],
       "metrics": [
-        "7",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "Germany"
-      ],
-      "metrics": [
-        "6",
-        "6"
+        "8",
+        "3"
       ]
     },
     {
@@ -573,20 +564,11 @@
     },
     {
       "dimensions": [
-        "Türkiye"
+        "Germany"
       ],
       "metrics": [
         "5",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "Russia"
-      ],
-      "metrics": [
-        "4",
-        "1"
+        "5"
       ]
     },
     {
@@ -594,8 +576,8 @@
         "Belgium"
       ],
       "metrics": [
-        "3",
-        "3"
+        "4",
+        "4"
       ]
     },
     {
@@ -606,20 +588,38 @@
         "3",
         "2"
       ]
+    },
+    {
+      "dimensions": [
+        "Canada"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "Romania"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 181,
-    "users": 113,
-    "pageViews": 292,
-    "avgSessionDuration": 199,
+    "sessions": 174,
+    "users": 117,
+    "pageViews": 270,
+    "avgSessionDuration": 183,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 546,
-    "users": 279,
-    "pageViews": 988,
-    "avgSessionDuration": 252,
+    "sessions": 559,
+    "users": 290,
+    "pageViews": 1002,
+    "avgSessionDuration": 247,
     "bounceRate": 0.5
   }
 }

@@ -1,8 +1,18 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-05-22T08:24:47.261Z",
+  "updatedAt": "2026-05-23T07:34:28.671Z",
   "trend": [
+    {
+      "dimensions": [
+        "20260522"
+      ],
+      "metrics": [
+        "25",
+        "8",
+        "105"
+      ]
+    },
     {
       "dimensions": [
         "20260508"
@@ -140,7 +150,7 @@
       "metrics": [
         "6",
         "4",
-        "22"
+        "38"
       ]
     },
     {
@@ -192,6 +202,16 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "20260523"
+      ],
+      "metrics": [
+        "1",
+        "0",
+        "1"
+      ]
     }
   ],
   "topPages": [
@@ -200,8 +220,26 @@
         "/"
       ],
       "metrics": [
-        "86",
-        "25"
+        "112",
+        "39"
+      ]
+    },
+    {
+      "dimensions": [
+        "/fr"
+      ],
+      "metrics": [
+        "17",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/le-palme-atrani"
+      ],
+      "metrics": [
+        "13",
+        "12"
       ]
     },
     {
@@ -209,8 +247,26 @@
         "/it"
       ],
       "metrics": [
+        "12",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/church-of-saint-mary-magdalene"
+      ],
+      "metrics": [
         "8",
-        "2"
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/waterfall-of-atrani"
+      ],
+      "metrics": [
+        "8",
+        "8"
       ]
     },
     {
@@ -224,15 +280,6 @@
     },
     {
       "dimensions": [
-        "/place/mimi-coco-di-tutto-un-po-atrani"
-      ],
-      "metrics": [
-        "7",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
         "/place/apicella-bakery-amalfi"
       ],
       "metrics": [
@@ -242,43 +289,25 @@
     },
     {
       "dimensions": [
-        "/place/waterfall-of-atrani"
+        "/place/mimi-coco-di-tutto-un-po-atrani"
       ],
       "metrics": [
-        "5",
-        "5"
+        "6",
+        "6"
       ]
     },
     {
       "dimensions": [
-        "/es"
+        "/place/il-birecto-atrani"
       ],
       "metrics": [
-        "4",
+        "5",
         "3"
       ]
     },
     {
       "dimensions": [
-        "/place/church-of-saint-mary-magdalene"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/la-tramontina-amalfi"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/le-palme-atrani"
+        "/place/path-of-the-gods-sentiero-degli-dei"
       ],
       "metrics": [
         "4",
@@ -305,29 +334,20 @@
     },
     {
       "dimensions": [
-        "/place/belvedere-of-san-lorenzo"
+        "/fr/place/lido-degli-artisti-amalfi"
       ],
       "metrics": [
         "3",
-        "3"
+        "2"
       ]
     },
     {
       "dimensions": [
-        "/place/path-of-the-gods-sentiero-degli-dei"
+        "/fr/place/path-of-the-gods-sentiero-degli-dei"
       ],
       "metrics": [
         "3",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/torre-dello-ziro"
-      ],
-      "metrics": [
-        "3",
-        "3"
+        "2"
       ]
     }
   ],
@@ -337,8 +357,8 @@
         "(direct)"
       ],
       "metrics": [
-        "33",
-        "10"
+        "47",
+        "15"
       ]
     },
     {
@@ -346,8 +366,8 @@
         "(not set)"
       ],
       "metrics": [
-        "4",
-        "4"
+        "16",
+        "7"
       ]
     },
     {
@@ -366,13 +386,31 @@
         "Italy"
       ],
       "metrics": [
-        "31",
-        "11"
+        "43",
+        "13"
+      ]
+    },
+    {
+      "dimensions": [
+        "United Kingdom"
+      ],
+      "metrics": [
+        "5",
+        "3"
       ]
     },
     {
       "dimensions": [
         "Austria"
+      ],
+      "metrics": [
+        "3",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "France"
       ],
       "metrics": [
         "3",
@@ -387,38 +425,20 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "Netherlands"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "United Kingdom"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 35,
-    "users": 12,
-    "pageViews": 172,
-    "avgSessionDuration": 508,
-    "bounceRate": 0.4
+    "sessions": 54,
+    "users": 16,
+    "pageViews": 251,
+    "avgSessionDuration": 510,
+    "bounceRate": 0.6
   },
   "summary30d": {
-    "sessions": 138,
-    "users": 31,
-    "pageViews": 703,
-    "avgSessionDuration": 353,
-    "bounceRate": 0.3
+    "sessions": 165,
+    "users": 37,
+    "pageViews": 825,
+    "avgSessionDuration": 369,
+    "bounceRate": 0.4
   }
 }
