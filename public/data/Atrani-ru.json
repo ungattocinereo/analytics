@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-05-23T07:34:26.725Z",
+  "updatedAt": "2026-05-24T07:51:23.087Z",
   "trend": [
     {
       "dimensions": [
@@ -121,6 +121,16 @@
         "33",
         "30",
         "36"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260523"
+      ],
+      "metrics": [
+        "32",
+        "32",
+        "32"
       ]
     },
     {
@@ -245,16 +255,6 @@
     },
     {
       "dimensions": [
-        "20260423"
-      ],
-      "metrics": [
-        "20",
-        "15",
-        "34"
-      ]
-    },
-    {
-      "dimensions": [
         "20260505"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260523"
+        "20260524"
       ],
       "metrics": [
-        "8",
-        "8",
-        "8"
+        "13",
+        "13",
+        "13"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "138",
-        "138"
+        "153",
+        "153"
       ]
     },
     {
@@ -329,8 +329,8 @@
         "/2020/01/positano-interesting-facts/"
       ],
       "metrics": [
-        "26",
-        "26"
+        "20",
+        "20"
       ]
     },
     {
@@ -338,8 +338,8 @@
         "/2019/03/duet-postscriptum-amalfi/"
       ],
       "metrics": [
-        "14",
-        "14"
+        "13",
+        "13"
       ]
     },
     {
@@ -347,8 +347,8 @@
         "/2019/11/weather-amalfi/"
       ],
       "metrics": [
-        "14",
-        "15"
+        "13",
+        "14"
       ]
     },
     {
@@ -356,8 +356,8 @@
         "/2020/03/final-carnivale-2020/"
       ],
       "metrics": [
-        "12",
-        "12"
+        "11",
+        "11"
       ]
     },
     {
@@ -371,47 +371,11 @@
     },
     {
       "dimensions": [
-        "/2019/12/katastrofa/"
-      ],
-      "metrics": [
-        "6",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
         "/2018/05/napoli-jizn-na-mopede/"
       ],
       "metrics": [
         "5",
         "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/netflix-snimaiet-film-positano-s-makkonakhi-i-saldanoi-na-pobieriezhie-amalfi"
-      ],
-      "metrics": [
-        "5",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
-      ],
-      "metrics": [
-        "5",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2019/02/mozarella-buffala-campania-italia/"
-      ],
-      "metrics": [
-        "4",
-        "4"
       ]
     },
     {
@@ -425,16 +389,7 @@
     },
     {
       "dimensions": [
-        "/2021/09/positano-steibek/"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/apartments"
+        "/2019/12/katastrofa/"
       ],
       "metrics": [
         "4",
@@ -449,6 +404,51 @@
         "4",
         "4"
       ]
+    },
+    {
+      "dimensions": [
+        "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/experience"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2019/02/forbes-about-off-season-amalfi/"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2019/02/mozarella-buffala-campania-italia/"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2019/12/amalfi-coast-winter/"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
     }
   ],
   "sources": [
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "306",
-        "303"
+        "294",
+        "292"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "20",
-        "16"
+        "19",
+        "15"
       ]
     },
     {
@@ -490,7 +490,34 @@
     },
     {
       "dimensions": [
+        "ru.m.wikipedia.org"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "yandex.ru"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
         "(not set)"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "auto.ru"
       ],
       "metrics": [
         "2",
@@ -514,33 +541,6 @@
         "2",
         "2"
       ]
-    },
-    {
-      "dimensions": [
-        "ru.m.wikipedia.org"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "yandex.ru"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "4pda.to"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "countries": [
@@ -549,8 +549,8 @@
         "Russia"
       ],
       "metrics": [
-        "138",
-        "133"
+        "141",
+        "137"
       ]
     },
     {
@@ -558,8 +558,8 @@
         "Vietnam"
       ],
       "metrics": [
-        "62",
-        "62"
+        "55",
+        "55"
       ]
     },
     {
@@ -567,8 +567,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "30",
-        "30"
+        "38",
+        "38"
       ]
     },
     {
@@ -576,17 +576,8 @@
         "Brazil"
       ],
       "metrics": [
-        "16",
-        "16"
-      ]
-    },
-    {
-      "dimensions": [
-        "India"
-      ],
-      "metrics": [
-        "13",
-        "13"
+        "15",
+        "15"
       ]
     },
     {
@@ -603,8 +594,17 @@
         "Italy"
       ],
       "metrics": [
+        "13",
+        "11"
+      ]
+    },
+    {
+      "dimensions": [
+        "India"
+      ],
+      "metrics": [
         "12",
-        "10"
+        "12"
       ]
     },
     {
@@ -621,32 +621,32 @@
         "Philippines"
       ],
       "metrics": [
-        "9",
-        "9"
+        "8",
+        "8"
       ]
     },
     {
       "dimensions": [
-        "China"
+        "(not set)"
       ],
       "metrics": [
-        "8",
-        "8"
+        "7",
+        "7"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 351,
-    "users": 344,
-    "pageViews": 362,
-    "avgSessionDuration": 7,
-    "bounceRate": 0.9
+    "sessions": 341,
+    "users": 335,
+    "pageViews": 352,
+    "avgSessionDuration": 8,
+    "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 975,
-    "users": 898,
-    "pageViews": 1128,
-    "avgSessionDuration": 35,
+    "sessions": 991,
+    "users": 922,
+    "pageViews": 1131,
+    "avgSessionDuration": 30,
     "bounceRate": 0.8
   }
 }
