@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-05-25T09:01:02.914Z",
+  "updatedAt": "2026-05-26T08:35:39.930Z",
   "trend": [
     {
       "dimensions": [
@@ -60,7 +60,7 @@
       "metrics": [
         "10",
         "5",
-        "40"
+        "43"
       ]
     },
     {
@@ -175,6 +175,16 @@
     },
     {
       "dimensions": [
+        "20260525"
+      ],
+      "metrics": [
+        "6",
+        "5",
+        "31"
+      ]
+    },
+    {
+      "dimensions": [
         "20260517"
       ],
       "metrics": [
@@ -222,16 +232,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "20260525"
-      ],
-      "metrics": [
-        "1",
-        "1",
-        "12"
-      ]
     }
   ],
   "topPages": [
@@ -240,8 +240,8 @@
         "/"
       ],
       "metrics": [
-        "140",
-        "46"
+        "133",
+        "47"
       ]
     },
     {
@@ -276,22 +276,13 @@
         "/it"
       ],
       "metrics": [
-        "12",
-        "4"
+        "11",
+        "3"
       ]
     },
     {
       "dimensions": [
         "/place/waterfall-of-atrani"
-      ],
-      "metrics": [
-        "12",
-        "12"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/church-of-saint-mary-magdalene"
       ],
       "metrics": [
         "9",
@@ -300,11 +291,11 @@
     },
     {
       "dimensions": [
-        "/place/church-santa-maria-del-bando"
+        "/place/church-of-saint-mary-magdalene"
       ],
       "metrics": [
         "8",
-        "6"
+        "8"
       ]
     },
     {
@@ -312,8 +303,8 @@
         "/place/mimi-coco-di-tutto-un-po-atrani"
       ],
       "metrics": [
-        "8",
-        "8"
+        "7",
+        "7"
       ]
     },
     {
@@ -327,10 +318,10 @@
     },
     {
       "dimensions": [
-        "/place/apicella-bakery-amalfi"
+        "/place/church-santa-maria-del-bando"
       ],
       "metrics": [
-        "5",
+        "6",
         "5"
       ]
     },
@@ -339,22 +330,31 @@
         "/place/il-birecto-atrani"
       ],
       "metrics": [
-        "5",
-        "3"
+        "6",
+        "4"
       ]
     },
     {
       "dimensions": [
-        "/place/path-of-the-gods-sentiero-degli-dei"
+        "/place/apicella-bakery-amalfi"
       ],
       "metrics": [
-        "5",
-        "5"
+        "4",
+        "4"
       ]
     },
     {
       "dimensions": [
         "/place/belvedere-of-san-lorenzo"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/path-of-the-gods-sentiero-degli-dei"
       ],
       "metrics": [
         "4",
@@ -386,8 +386,8 @@
         "(not set)"
       ],
       "metrics": [
-        "9",
-        "5"
+        "7",
+        "6"
       ]
     },
     {
@@ -406,8 +406,17 @@
         "Italy"
       ],
       "metrics": [
-        "50",
-        "17"
+        "46",
+        "15"
+      ]
+    },
+    {
+      "dimensions": [
+        "United Kingdom"
+      ],
+      "metrics": [
+        "7",
+        "3"
       ]
     },
     {
@@ -417,15 +426,6 @@
       "metrics": [
         "6",
         "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "United Kingdom"
-      ],
-      "metrics": [
-        "6",
-        "3"
       ]
     },
     {
@@ -442,23 +442,32 @@
         "United States"
       ],
       "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Canada"
+      ],
+      "metrics": [
         "1",
         "1"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 67,
+    "sessions": 66,
     "users": 18,
-    "pageViews": 328,
-    "avgSessionDuration": 523,
+    "pageViews": 309,
+    "avgSessionDuration": 571,
     "bounceRate": 0.3
   },
   "summary30d": {
-    "sessions": 185,
-    "users": 40,
-    "pageViews": 913,
-    "avgSessionDuration": 376,
+    "sessions": 190,
+    "users": 42,
+    "pageViews": 935,
+    "avgSessionDuration": 387,
     "bounceRate": 0.3
   }
 }

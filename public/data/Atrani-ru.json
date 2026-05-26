@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-05-25T09:00:56.701Z",
+  "updatedAt": "2026-05-26T08:35:32.497Z",
   "trend": [
     {
       "dimensions": [
@@ -41,6 +41,16 @@
         "47",
         "46",
         "47"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260525"
+      ],
+      "metrics": [
+        "47",
+        "47",
+        "46"
       ]
     },
     {
@@ -195,16 +205,6 @@
     },
     {
       "dimensions": [
-        "20260425"
-      ],
-      "metrics": [
-        "25",
-        "20",
-        "26"
-      ]
-    },
-    {
-      "dimensions": [
         "20260503"
       ],
       "metrics": [
@@ -275,6 +275,16 @@
     },
     {
       "dimensions": [
+        "20260526"
+      ],
+      "metrics": [
+        "16",
+        "16",
+        "16"
+      ]
+    },
+    {
+      "dimensions": [
         "20260506"
       ],
       "metrics": [
@@ -302,16 +312,6 @@
         "14",
         "14"
       ]
-    },
-    {
-      "dimensions": [
-        "20260525"
-      ],
-      "metrics": [
-        "13",
-        "13",
-        "13"
-      ]
     }
   ],
   "topPages": [
@@ -320,17 +320,8 @@
         "/"
       ],
       "metrics": [
-        "153",
-        "153"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2020/01/positano-interesting-facts/"
-      ],
-      "metrics": [
-        "14",
-        "14"
+        "156",
+        "156"
       ]
     },
     {
@@ -344,11 +335,20 @@
     },
     {
       "dimensions": [
-        "/2019/11/weather-amalfi/"
+        "/2020/01/positano-interesting-facts/"
       ],
       "metrics": [
         "12",
-        "13"
+        "12"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2019/11/weather-amalfi/"
+      ],
+      "metrics": [
+        "10",
+        "11"
       ]
     },
     {
@@ -362,20 +362,20 @@
     },
     {
       "dimensions": [
-        "/2020/03/final-carnivale-2020/"
+        "/2018/05/napoli-jizn-na-mopede/"
       ],
       "metrics": [
-        "7",
+        "6",
         "7"
       ]
     },
     {
       "dimensions": [
-        "/blog/netflix-snimaiet-film-positano-s-makkonakhi-i-saldanoi-na-pobieriezhie-amalfi"
+        "/2020/03/final-carnivale-2020/"
       ],
       "metrics": [
-        "4",
-        "4"
+        "6",
+        "6"
       ]
     },
     {
@@ -383,26 +383,8 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2018/05/napoli-jizn-na-mopede/"
-      ],
-      "metrics": [
-        "3",
-        "4"
+        "5",
+        "5"
       ]
     },
     {
@@ -410,8 +392,17 @@
         "/2019/02/forbes-about-off-season-amalfi/"
       ],
       "metrics": [
-        "3",
-        "3"
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2020/04/la-caravella/"
+      ],
+      "metrics": [
+        "4",
+        "4"
       ]
     },
     {
@@ -434,7 +425,7 @@
     },
     {
       "dimensions": [
-        "/2019/12/katastrofa/"
+        "/2020/06/sarchiapone/"
       ],
       "metrics": [
         "3",
@@ -443,7 +434,16 @@
     },
     {
       "dimensions": [
-        "/2020/06/sarchiapone/"
+        "/blog/colatura-di-alici-di-cetara/"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/netflix-snimaiet-film-positano-s-makkonakhi-i-saldanoi-na-pobieriezhie-amalfi"
       ],
       "metrics": [
         "3",
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "265",
-        "264"
+        "271",
+        "270"
       ]
     },
     {
@@ -466,8 +466,17 @@
         "google"
       ],
       "metrics": [
-        "18",
-        "14"
+        "14",
+        "12"
+      ]
+    },
+    {
+      "dimensions": [
+        "yandex.ru"
+      ],
+      "metrics": [
+        "6",
+        "6"
       ]
     },
     {
@@ -481,11 +490,11 @@
     },
     {
       "dimensions": [
-        "yandex.ru"
+        "(not set)"
       ],
       "metrics": [
-        "5",
-        "5"
+        "3",
+        "3"
       ]
     },
     {
@@ -493,8 +502,8 @@
         "play.google.com"
       ],
       "metrics": [
-        "4",
-        "4"
+        "3",
+        "3"
       ]
     },
     {
@@ -504,15 +513,6 @@
       "metrics": [
         "3",
         "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "(not set)"
-      ],
-      "metrics": [
-        "2",
-        "2"
       ]
     },
     {
@@ -549,8 +549,8 @@
         "Russia"
       ],
       "metrics": [
-        "139",
-        "136"
+        "138",
+        "135"
       ]
     },
     {
@@ -558,8 +558,8 @@
         "Vietnam"
       ],
       "metrics": [
-        "46",
-        "46"
+        "43",
+        "43"
       ]
     },
     {
@@ -573,16 +573,16 @@
     },
     {
       "dimensions": [
-        "Italy"
+        "Brazil"
       ],
       "metrics": [
         "13",
-        "11"
+        "13"
       ]
     },
     {
       "dimensions": [
-        "Brazil"
+        "India"
       ],
       "metrics": [
         "12",
@@ -591,11 +591,11 @@
     },
     {
       "dimensions": [
-        "India"
+        "United States"
       ],
       "metrics": [
-        "10",
-        "10"
+        "12",
+        "12"
       ]
     },
     {
@@ -603,13 +603,13 @@
         "Indonesia"
       ],
       "metrics": [
-        "10",
-        "10"
+        "11",
+        "11"
       ]
     },
     {
       "dimensions": [
-        "United States"
+        "Italy"
       ],
       "metrics": [
         "10",
@@ -621,8 +621,8 @@
         "Philippines"
       ],
       "metrics": [
-        "7",
-        "7"
+        "8",
+        "8"
       ]
     },
     {
@@ -636,17 +636,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 315,
-    "users": 310,
-    "pageViews": 319,
+    "sessions": 319,
+    "users": 316,
+    "pageViews": 320,
     "avgSessionDuration": 10,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 988,
-    "users": 928,
-    "pageViews": 1069,
-    "avgSessionDuration": 21,
+    "sessions": 1013,
+    "users": 958,
+    "pageViews": 1092,
+    "avgSessionDuration": 20,
     "bounceRate": 0.8
   }
 }

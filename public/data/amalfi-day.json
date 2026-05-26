@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-05-25T09:00:58.040Z",
+  "updatedAt": "2026-05-26T08:35:33.740Z",
   "trend": [
     {
       "dimensions": [
@@ -225,6 +225,16 @@
     },
     {
       "dimensions": [
+        "20260525"
+      ],
+      "metrics": [
+        "15",
+        "10",
+        "18"
+      ]
+    },
+    {
+      "dimensions": [
         "20260505"
       ],
       "metrics": [
@@ -295,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260425"
+        "20260526"
       ],
       "metrics": [
-        "7",
-        "5",
-        "12"
+        "2",
+        "1",
+        "2"
       ]
     }
   ],
@@ -310,17 +320,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "49",
-        "44"
-      ]
-    },
-    {
-      "dimensions": [
-        "/"
-      ],
-      "metrics": [
-        "33",
-        "24"
+        "47",
+        "42"
       ]
     },
     {
@@ -328,8 +329,8 @@
         "/parking/"
       ],
       "metrics": [
-        "33",
-        "30"
+        "32",
+        "29"
       ]
     },
     {
@@ -337,8 +338,17 @@
         "/blog/praiano-turns-into-a-film-set-in-may-with-road-changes-on-the-ss163/"
       ],
       "metrics": [
-        "30",
-        "27"
+        "25",
+        "23"
+      ]
+    },
+    {
+      "dimensions": [
+        "/"
+      ],
+      "metrics": [
+        "22",
+        "18"
       ]
     },
     {
@@ -346,17 +356,8 @@
         "/directions/"
       ],
       "metrics": [
-        "15",
-        "12"
-      ]
-    },
-    {
-      "dimensions": [
-        "/how-to-get"
-      ],
-      "metrics": [
-        "11",
-        "9"
+        "18",
+        "14"
       ]
     },
     {
@@ -370,11 +371,11 @@
     },
     {
       "dimensions": [
-        "/directions-laura/"
+        "/how-to-get"
       ],
       "metrics": [
-        "7",
-        "1"
+        "10",
+        "8"
       ]
     },
     {
@@ -383,7 +384,7 @@
       ],
       "metrics": [
         "7",
-        "9"
+        "8"
       ]
     },
     {
@@ -391,8 +392,8 @@
         "/blog/license-plate-restrictions-return-to-the-amalfi-coast-april-25-may-2-2"
       ],
       "metrics": [
-        "4",
-        "3"
+        "5",
+        "4"
       ]
     },
     {
@@ -424,7 +425,7 @@
     },
     {
       "dimensions": [
-        "/beaches"
+        "/blog"
       ],
       "metrics": [
         "2",
@@ -433,11 +434,20 @@
     },
     {
       "dimensions": [
-        "/blog"
+        "/photolocations"
       ],
       "metrics": [
         "2",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/beaches"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     }
   ],
@@ -447,8 +457,8 @@
         "google"
       ],
       "metrics": [
-        "102",
-        "76"
+        "95",
+        "70"
       ]
     },
     {
@@ -456,8 +466,8 @@
         "(direct)"
       ],
       "metrics": [
-        "36",
-        "19"
+        "35",
+        "20"
       ]
     },
     {
@@ -480,20 +490,20 @@
     },
     {
       "dimensions": [
-        "ads.google.com"
-      ],
-      "metrics": [
-        "3",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "m.facebook.com"
       ],
       "metrics": [
         "3",
         "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "ads.google.com"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     },
     {
@@ -521,8 +531,8 @@
         "Italy"
       ],
       "metrics": [
-        "83",
-        "46"
+        "76",
+        "41"
       ]
     },
     {
@@ -530,7 +540,7 @@
         "United Kingdom"
       ],
       "metrics": [
-        "19",
+        "21",
         "14"
       ]
     },
@@ -539,8 +549,8 @@
         "United States"
       ],
       "metrics": [
-        "14",
-        "11"
+        "9",
+        "8"
       ]
     },
     {
@@ -548,17 +558,8 @@
         "Canada"
       ],
       "metrics": [
-        "6",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "Ireland"
-      ],
-      "metrics": [
-        "5",
-        "3"
+        "7",
+        "4"
       ]
     },
     {
@@ -566,8 +567,8 @@
         "Germany"
       ],
       "metrics": [
-        "4",
-        "4"
+        "5",
+        "5"
       ]
     },
     {
@@ -576,7 +577,7 @@
       ],
       "metrics": [
         "3",
-        "3"
+        "2"
       ]
     },
     {
@@ -599,7 +600,16 @@
     },
     {
       "dimensions": [
-        "Poland"
+        "Romania"
+      ],
+      "metrics": [
+        "3",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Sweden"
       ],
       "metrics": [
         "3",
@@ -608,17 +618,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 162,
-    "users": 100,
-    "pageViews": 217,
-    "avgSessionDuration": 152,
-    "bounceRate": 0.5
+    "sessions": 152,
+    "users": 95,
+    "pageViews": 193,
+    "avgSessionDuration": 133,
+    "bounceRate": 0.6
   },
   "summary30d": {
-    "sessions": 597,
-    "users": 309,
-    "pageViews": 1036,
-    "avgSessionDuration": 238,
+    "sessions": 607,
+    "users": 314,
+    "pageViews": 1044,
+    "avgSessionDuration": 234,
     "bounceRate": 0.5
   }
 }
