@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-05-26T08:35:33.740Z",
+  "updatedAt": "2026-05-27T08:41:13.248Z",
   "trend": [
     {
       "dimensions": [
@@ -205,16 +205,6 @@
     },
     {
       "dimensions": [
-        "20260426"
-      ],
-      "metrics": [
-        "15",
-        "8",
-        "20"
-      ]
-    },
-    {
-      "dimensions": [
         "20260521"
       ],
       "metrics": [
@@ -241,6 +231,16 @@
         "14",
         "8",
         "23"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260526"
+      ],
+      "metrics": [
+        "14",
+        "5",
+        "18"
       ]
     },
     {
@@ -302,16 +302,6 @@
         "7",
         "48"
       ]
-    },
-    {
-      "dimensions": [
-        "20260526"
-      ],
-      "metrics": [
-        "2",
-        "1",
-        "2"
-      ]
     }
   ],
   "topPages": [
@@ -320,8 +310,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "47",
-        "42"
+        "42",
+        "37"
       ]
     },
     {
@@ -330,25 +320,7 @@
       ],
       "metrics": [
         "32",
-        "29"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/praiano-turns-into-a-film-set-in-may-with-road-changes-on-the-ss163/"
-      ],
-      "metrics": [
-        "25",
-        "23"
-      ]
-    },
-    {
-      "dimensions": [
-        "/"
-      ],
-      "metrics": [
-        "22",
-        "18"
+        "30"
       ]
     },
     {
@@ -356,7 +328,25 @@
         "/directions/"
       ],
       "metrics": [
-        "18",
+        "23",
+        "17"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/praiano-turns-into-a-film-set-in-may-with-road-changes-on-the-ss163/"
+      ],
+      "metrics": [
+        "22",
+        "20"
+      ]
+    },
+    {
+      "dimensions": [
+        "/"
+      ],
+      "metrics": [
+        "17",
         "14"
       ]
     },
@@ -389,19 +379,19 @@
     },
     {
       "dimensions": [
-        "/blog/license-plate-restrictions-return-to-the-amalfi-coast-april-25-may-2-2"
+        "/timetables"
       ],
       "metrics": [
-        "5",
-        "4"
+        "6",
+        "5"
       ]
     },
     {
       "dimensions": [
-        "/timetables"
+        "/blog/license-plate-restrictions-return-to-the-amalfi-coast-april-25-may-2-2"
       ],
       "metrics": [
-        "4",
+        "5",
         "4"
       ]
     },
@@ -457,8 +447,8 @@
         "google"
       ],
       "metrics": [
-        "95",
-        "70"
+        "87",
+        "62"
       ]
     },
     {
@@ -467,7 +457,7 @@
       ],
       "metrics": [
         "35",
-        "20"
+        "17"
       ]
     },
     {
@@ -531,8 +521,8 @@
         "Italy"
       ],
       "metrics": [
-        "76",
-        "41"
+        "65",
+        "36"
       ]
     },
     {
@@ -541,7 +531,16 @@
       ],
       "metrics": [
         "21",
-        "14"
+        "13"
+      ]
+    },
+    {
+      "dimensions": [
+        "Romania"
+      ],
+      "metrics": [
+        "11",
+        "2"
       ]
     },
     {
@@ -549,8 +548,8 @@
         "United States"
       ],
       "metrics": [
-        "9",
-        "8"
+        "8",
+        "7"
       ]
     },
     {
@@ -567,22 +566,13 @@
         "Germany"
       ],
       "metrics": [
-        "5",
-        "5"
+        "4",
+        "4"
       ]
     },
     {
       "dimensions": [
         "Belgium"
-      ],
-      "metrics": [
-        "3",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "Bulgaria"
       ],
       "metrics": [
         "3",
@@ -600,35 +590,35 @@
     },
     {
       "dimensions": [
-        "Romania"
-      ],
-      "metrics": [
-        "3",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "Sweden"
       ],
       "metrics": [
         "3",
         "3"
       ]
+    },
+    {
+      "dimensions": [
+        "Australia"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 152,
-    "users": 95,
-    "pageViews": 193,
-    "avgSessionDuration": 133,
+    "sessions": 144,
+    "users": 84,
+    "pageViews": 186,
+    "avgSessionDuration": 184,
     "bounceRate": 0.6
   },
   "summary30d": {
-    "sessions": 607,
-    "users": 314,
-    "pageViews": 1044,
-    "avgSessionDuration": 234,
+    "sessions": 604,
+    "users": 309,
+    "pageViews": 1040,
+    "avgSessionDuration": 245,
     "bounceRate": 0.5
   }
 }

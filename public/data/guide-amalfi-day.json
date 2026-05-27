@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-05-26T08:35:39.930Z",
+  "updatedAt": "2026-05-27T08:41:13.867Z",
   "trend": [
     {
       "dimensions": [
@@ -179,8 +179,8 @@
       ],
       "metrics": [
         "6",
-        "5",
-        "31"
+        "6",
+        "39"
       ]
     },
     {
@@ -225,6 +225,16 @@
     },
     {
       "dimensions": [
+        "20260526"
+      ],
+      "metrics": [
+        "2",
+        "0",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "20260507"
       ],
       "metrics": [
@@ -240,8 +250,8 @@
         "/"
       ],
       "metrics": [
-        "133",
-        "47"
+        "134",
+        "46"
       ]
     },
     {
@@ -258,7 +268,7 @@
         "/ru"
       ],
       "metrics": [
-        "17",
+        "19",
         "7"
       ]
     },
@@ -285,8 +295,8 @@
         "/place/waterfall-of-atrani"
       ],
       "metrics": [
-        "9",
-        "9"
+        "11",
+        "11"
       ]
     },
     {
@@ -378,7 +388,7 @@
       ],
       "metrics": [
         "62",
-        "16"
+        "15"
       ]
     },
     {
@@ -386,8 +396,17 @@
         "(not set)"
       ],
       "metrics": [
-        "7",
-        "6"
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "atrani.ru"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     },
     {
@@ -406,8 +425,8 @@
         "Italy"
       ],
       "metrics": [
-        "46",
-        "15"
+        "44",
+        "14"
       ]
     },
     {
@@ -439,35 +458,35 @@
     },
     {
       "dimensions": [
+        "Canada"
+      ],
+      "metrics": [
+        "3",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "United States"
       ],
       "metrics": [
         "2",
         "2"
       ]
-    },
-    {
-      "dimensions": [
-        "Canada"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "summary7d": {
     "sessions": 66,
-    "users": 18,
-    "pageViews": 309,
-    "avgSessionDuration": 571,
-    "bounceRate": 0.3
+    "users": 17,
+    "pageViews": 316,
+    "avgSessionDuration": 534,
+    "bounceRate": 0.2
   },
   "summary30d": {
-    "sessions": 190,
+    "sessions": 192,
     "users": 42,
-    "pageViews": 935,
-    "avgSessionDuration": 387,
+    "pageViews": 945,
+    "avgSessionDuration": 377,
     "bounceRate": 0.3
   }
 }
