@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-05-27T08:41:13.248Z",
+  "updatedAt": "2026-05-28T08:46:05.236Z",
   "trend": [
     {
       "dimensions": [
@@ -125,6 +125,16 @@
     },
     {
       "dimensions": [
+        "20260527"
+      ],
+      "metrics": [
+        "21",
+        "16",
+        "25"
+      ]
+    },
+    {
+      "dimensions": [
         "20260511"
       ],
       "metrics": [
@@ -170,16 +180,6 @@
       "metrics": [
         "17",
         "11",
-        "22"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260427"
-      ],
-      "metrics": [
-        "16",
-        "7",
         "22"
       ]
     },
@@ -319,8 +319,8 @@
         "/parking/"
       ],
       "metrics": [
-        "32",
-        "30"
+        "37",
+        "37"
       ]
     },
     {
@@ -328,8 +328,8 @@
         "/directions/"
       ],
       "metrics": [
-        "23",
-        "17"
+        "24",
+        "18"
       ]
     },
     {
@@ -337,8 +337,8 @@
         "/blog/praiano-turns-into-a-film-set-in-may-with-road-changes-on-the-ss163/"
       ],
       "metrics": [
-        "22",
-        "20"
+        "17",
+        "15"
       ]
     },
     {
@@ -346,8 +346,8 @@
         "/"
       ],
       "metrics": [
-        "17",
-        "14"
+        "16",
+        "12"
       ]
     },
     {
@@ -361,29 +361,11 @@
     },
     {
       "dimensions": [
-        "/how-to-get"
-      ],
-      "metrics": [
-        "10",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
         "/ferry-timetables"
       ],
       "metrics": [
-        "7",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "/timetables"
-      ],
-      "metrics": [
         "6",
-        "5"
+        "7"
       ]
     },
     {
@@ -393,6 +375,33 @@
       "metrics": [
         "5",
         "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/how-to-get"
+      ],
+      "metrics": [
+        "5",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/timetables"
+      ],
+      "metrics": [
+        "5",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/beaches"
+      ],
+      "metrics": [
+        "3",
+        "2"
       ]
     },
     {
@@ -415,25 +424,16 @@
     },
     {
       "dimensions": [
+        "/blog/transport-strike-this-friday-what-amalfi-coast-visitors-need-to-know/"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "/blog"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photolocations"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/beaches"
       ],
       "metrics": [
         "1",
@@ -447,8 +447,8 @@
         "google"
       ],
       "metrics": [
-        "87",
-        "62"
+        "91",
+        "66"
       ]
     },
     {
@@ -456,8 +456,8 @@
         "(direct)"
       ],
       "metrics": [
-        "35",
-        "17"
+        "30",
+        "16"
       ]
     },
     {
@@ -480,34 +480,25 @@
     },
     {
       "dimensions": [
-        "m.facebook.com"
+        "chatgpt.com"
       ],
       "metrics": [
-        "3",
-        "3"
+        "2",
+        "2"
       ]
     },
     {
       "dimensions": [
-        "ads.google.com"
+        "m.facebook.com"
       ],
       "metrics": [
-        "1",
-        "1"
+        "2",
+        "2"
       ]
     },
     {
       "dimensions": [
         "airbnb.co.uk"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "chatgpt.com"
       ],
       "metrics": [
         "1",
@@ -521,7 +512,7 @@
         "Italy"
       ],
       "metrics": [
-        "65",
+        "57",
         "36"
       ]
     },
@@ -530,8 +521,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "21",
-        "13"
+        "18",
+        "11"
       ]
     },
     {
@@ -539,7 +530,7 @@
         "Romania"
       ],
       "metrics": [
-        "11",
+        "12",
         "2"
       ]
     },
@@ -549,7 +540,7 @@
       ],
       "metrics": [
         "8",
-        "7"
+        "6"
       ]
     },
     {
@@ -563,20 +554,38 @@
     },
     {
       "dimensions": [
-        "Germany"
+        "Belgium"
       ],
       "metrics": [
-        "4",
+        "5",
         "4"
       ]
     },
     {
       "dimensions": [
-        "Belgium"
+        "France"
       ],
       "metrics": [
-        "3",
+        "5",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Norway"
+      ],
+      "metrics": [
+        "4",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "Sweden"
+      ],
+      "metrics": [
+        "4",
+        "4"
       ]
     },
     {
@@ -587,38 +596,20 @@
         "3",
         "2"
       ]
-    },
-    {
-      "dimensions": [
-        "Sweden"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "Australia"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 144,
-    "users": 84,
-    "pageViews": 186,
-    "avgSessionDuration": 184,
+    "sessions": 142,
+    "users": 88,
+    "pageViews": 181,
+    "avgSessionDuration": 192,
     "bounceRate": 0.6
   },
   "summary30d": {
-    "sessions": 604,
-    "users": 309,
-    "pageViews": 1040,
-    "avgSessionDuration": 245,
+    "sessions": 609,
+    "users": 319,
+    "pageViews": 1043,
+    "avgSessionDuration": 244,
     "bounceRate": 0.5
   }
 }

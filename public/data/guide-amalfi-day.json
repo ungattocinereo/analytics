@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-05-27T08:41:13.867Z",
+  "updatedAt": "2026-05-28T08:46:05.786Z",
   "trend": [
     {
       "dimensions": [
@@ -21,6 +21,16 @@
         "19",
         "8",
         "103"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260527"
+      ],
+      "metrics": [
+        "15",
+        "6",
+        "89"
       ]
     },
     {
@@ -235,6 +245,16 @@
     },
     {
       "dimensions": [
+        "20260528"
+      ],
+      "metrics": [
+        "2",
+        "1",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
         "20260507"
       ],
       "metrics": [
@@ -250,8 +270,8 @@
         "/"
       ],
       "metrics": [
-        "134",
-        "46"
+        "158",
+        "53"
       ]
     },
     {
@@ -265,29 +285,20 @@
     },
     {
       "dimensions": [
-        "/ru"
-      ],
-      "metrics": [
-        "19",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
         "/place/le-palme-atrani"
       ],
       "metrics": [
-        "14",
-        "12"
+        "19",
+        "17"
       ]
     },
     {
       "dimensions": [
-        "/it"
+        "/ru"
       ],
       "metrics": [
-        "11",
-        "3"
+        "17",
+        "5"
       ]
     },
     {
@@ -295,8 +306,8 @@
         "/place/waterfall-of-atrani"
       ],
       "metrics": [
-        "11",
-        "11"
+        "13",
+        "12"
       ]
     },
     {
@@ -304,17 +315,26 @@
         "/place/church-of-saint-mary-magdalene"
       ],
       "metrics": [
-        "8",
+        "11",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/church-santa-maria-del-bando"
+      ],
+      "metrics": [
+        "9",
         "8"
       ]
     },
     {
       "dimensions": [
-        "/place/mimi-coco-di-tutto-un-po-atrani"
+        "/place/il-birecto-atrani"
       ],
       "metrics": [
-        "7",
-        "7"
+        "9",
+        "5"
       ]
     },
     {
@@ -328,20 +348,29 @@
     },
     {
       "dimensions": [
-        "/place/church-santa-maria-del-bando"
+        "/it"
       ],
       "metrics": [
         "6",
-        "5"
+        "3"
       ]
     },
     {
       "dimensions": [
-        "/place/il-birecto-atrani"
+        "/place/le-arcate-atrani"
       ],
       "metrics": [
         "6",
-        "4"
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/mimi-coco-di-tutto-un-po-atrani"
+      ],
+      "metrics": [
+        "6",
+        "6"
       ]
     },
     {
@@ -349,35 +378,26 @@
         "/place/apicella-bakery-amalfi"
       ],
       "metrics": [
-        "4",
-        "4"
+        "5",
+        "5"
       ]
     },
     {
       "dimensions": [
-        "/place/belvedere-of-san-lorenzo"
+        "/place/aparanza-atrani"
       ],
       "metrics": [
         "4",
-        "4"
+        "3"
       ]
     },
     {
       "dimensions": [
-        "/place/path-of-the-gods-sentiero-degli-dei"
+        "/place/da-ciccio-cielo-mare-terra-vettica-amalfi"
       ],
       "metrics": [
         "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/fr/place/lido-degli-artisti-amalfi"
-      ],
-      "metrics": [
-        "3",
-        "2"
+        "3"
       ]
     }
   ],
@@ -387,8 +407,8 @@
         "(direct)"
       ],
       "metrics": [
-        "62",
-        "15"
+        "69",
+        "18"
       ]
     },
     {
@@ -396,22 +416,13 @@
         "(not set)"
       ],
       "metrics": [
-        "2",
-        "2"
+        "12",
+        "8"
       ]
     },
     {
       "dimensions": [
         "atrani.ru"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "vercel.com"
       ],
       "metrics": [
         "1",
@@ -425,7 +436,7 @@
         "Italy"
       ],
       "metrics": [
-        "44",
+        "47",
         "14"
       ]
     },
@@ -449,10 +460,28 @@
     },
     {
       "dimensions": [
-        "Austria"
+        "Netherlands"
       ],
       "metrics": [
         "4",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "4",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "Austria"
+      ],
+      "metrics": [
+        "3",
         "1"
       ]
     },
@@ -467,26 +496,35 @@
     },
     {
       "dimensions": [
-        "United States"
+        "Israel"
       ],
       "metrics": [
         "2",
-        "2"
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Germany"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 66,
-    "users": 17,
-    "pageViews": 316,
-    "avgSessionDuration": 534,
-    "bounceRate": 0.2
+    "sessions": 76,
+    "users": 20,
+    "pageViews": 359,
+    "avgSessionDuration": 681,
+    "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 192,
-    "users": 42,
-    "pageViews": 945,
-    "avgSessionDuration": 377,
+    "sessions": 209,
+    "users": 47,
+    "pageViews": 1040,
+    "avgSessionDuration": 459,
     "bounceRate": 0.3
   }
 }
