@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-05-30T07:43:09.601Z",
+  "updatedAt": "2026-05-31T08:17:56.767Z",
   "trend": [
     {
       "dimensions": [
@@ -265,6 +265,16 @@
     },
     {
       "dimensions": [
+        "20260530"
+      ],
+      "metrics": [
+        "13",
+        "8",
+        "17"
+      ]
+    },
+    {
+      "dimensions": [
         "20260501"
       ],
       "metrics": [
@@ -295,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260430"
+        "20260531"
       ],
       "metrics": [
-        "10",
-        "7",
-        "48"
+        "2",
+        "1",
+        "2"
       ]
     }
   ],
@@ -310,8 +320,8 @@
         "/parking/"
       ],
       "metrics": [
-        "44",
-        "43"
+        "43",
+        "42"
       ]
     },
     {
@@ -319,7 +329,7 @@
         "/timetables/"
       ],
       "metrics": [
-        "39",
+        "42",
         "34"
       ]
     },
@@ -328,8 +338,8 @@
         "/directions/"
       ],
       "metrics": [
-        "26",
-        "20"
+        "23",
+        "18"
       ]
     },
     {
@@ -337,17 +347,8 @@
         "/"
       ],
       "metrics": [
-        "23",
-        "15"
-      ]
-    },
-    {
-      "dimensions": [
-        "/moto"
-      ],
-      "metrics": [
-        "13",
-        "13"
+        "21",
+        "14"
       ]
     },
     {
@@ -366,6 +367,15 @@
       "metrics": [
         "8",
         "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "/moto"
+      ],
+      "metrics": [
+        "7",
+        "6"
       ]
     },
     {
@@ -391,26 +401,8 @@
         "/timetables"
       ],
       "metrics": [
-        "5",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/experience"
-      ],
-      "metrics": [
         "3",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/how-to-get"
-      ],
-      "metrics": [
-        "3",
-        "3"
+        "2"
       ]
     },
     {
@@ -420,6 +412,15 @@
       "metrics": [
         "2",
         "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/moto/"
+      ],
+      "metrics": [
+        "2",
+        "2"
       ]
     },
     {
@@ -439,6 +440,15 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "/how-to-get"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "sources": [
@@ -447,8 +457,8 @@
         "google"
       ],
       "metrics": [
-        "89",
-        "63"
+        "91",
+        "61"
       ]
     },
     {
@@ -456,17 +466,8 @@
         "(direct)"
       ],
       "metrics": [
-        "38",
-        "16"
-      ]
-    },
-    {
-      "dimensions": [
-        "airbnb.ca"
-      ],
-      "metrics": [
-        "9",
-        "1"
+        "33",
+        "12"
       ]
     },
     {
@@ -480,11 +481,20 @@
     },
     {
       "dimensions": [
-        "chatgpt.com"
+        "airbnb.ca"
       ],
       "metrics": [
         "3",
-        "3"
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "chatgpt.com"
+      ],
+      "metrics": [
+        "2",
+        "2"
       ]
     }
   ],
@@ -494,8 +504,8 @@
         "Italy"
       ],
       "metrics": [
-        "62",
-        "40"
+        "51",
+        "34"
       ]
     },
     {
@@ -521,17 +531,8 @@
         "United States"
       ],
       "metrics": [
-        "8",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "Canada"
-      ],
-      "metrics": [
-        "5",
-        "2"
+        "9",
+        "5"
       ]
     },
     {
@@ -545,6 +546,15 @@
     },
     {
       "dimensions": [
+        "Germany"
+      ],
+      "metrics": [
+        "5",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
         "Netherlands"
       ],
       "metrics": [
@@ -554,11 +564,11 @@
     },
     {
       "dimensions": [
-        "Norway"
+        "Australia"
       ],
       "metrics": [
         "4",
-        "3"
+        "1"
       ]
     },
     {
@@ -581,17 +591,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 144,
-    "users": 83,
-    "pageViews": 191,
-    "avgSessionDuration": 224,
+    "sessions": 134,
+    "users": 77,
+    "pageViews": 176,
+    "avgSessionDuration": 188,
     "bounceRate": 0.6
   },
   "summary30d": {
-    "sessions": 621,
-    "users": 323,
-    "pageViews": 1070,
-    "avgSessionDuration": 252,
+    "sessions": 626,
+    "users": 329,
+    "pageViews": 1041,
+    "avgSessionDuration": 239,
     "bounceRate": 0.5
   }
 }
