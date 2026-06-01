@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-05-31T08:17:57.345Z",
+  "updatedAt": "2026-06-01T10:25:15.650Z",
   "trend": [
     {
       "dimensions": [
@@ -85,22 +85,22 @@
     },
     {
       "dimensions": [
+        "20260530"
+      ],
+      "metrics": [
+        "11",
+        "5",
+        "25"
+      ]
+    },
+    {
+      "dimensions": [
         "20260524"
       ],
       "metrics": [
         "10",
         "5",
         "43"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260530"
-      ],
-      "metrics": [
-        "10",
-        "5",
-        "23"
       ]
     },
     {
@@ -121,6 +121,16 @@
         "9",
         "4",
         "57"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260531"
+      ],
+      "metrics": [
+        "9",
+        "8",
+        "33"
       ]
     },
     {
@@ -255,6 +265,16 @@
     },
     {
       "dimensions": [
+        "20260601"
+      ],
+      "metrics": [
+        "3",
+        "3",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
         "20260519"
       ],
       "metrics": [
@@ -290,8 +310,8 @@
         "/"
       ],
       "metrics": [
-        "127",
-        "48"
+        "125",
+        "49"
       ]
     },
     {
@@ -308,17 +328,8 @@
         "/ru"
       ],
       "metrics": [
-        "25",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/waterfall-of-atrani"
-      ],
-      "metrics": [
-        "12",
-        "9"
+        "21",
+        "6"
       ]
     },
     {
@@ -326,8 +337,35 @@
         "/place/le-palme-atrani"
       ],
       "metrics": [
-        "10",
+        "12",
+        "11"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/waterfall-of-atrani"
+      ],
+      "metrics": [
+        "11",
         "9"
+      ]
+    },
+    {
+      "dimensions": [
+        "/it"
+      ],
+      "metrics": [
+        "10",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/il-birecto-atrani"
+      ],
+      "metrics": [
+        "10",
+        "7"
       ]
     },
     {
@@ -350,11 +388,11 @@
     },
     {
       "dimensions": [
-        "/it"
+        "/place/secret-waterfall-valle-dei-mulini"
       ],
       "metrics": [
         "7",
-        "2"
+        "6"
       ]
     },
     {
@@ -362,16 +400,7 @@
         "/place/church-of-saint-mary-magdalene"
       ],
       "metrics": [
-        "7",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/il-birecto-atrani"
-      ],
-      "metrics": [
-        "7",
+        "6",
         "4"
       ]
     },
@@ -381,34 +410,7 @@
       ],
       "metrics": [
         "5",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/da-ciccio-cielo-mare-terra-vettica-amalfi"
-      ],
-      "metrics": [
-        "4",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/mimi-coco-di-tutto-un-po-atrani"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/secret-waterfall-valle-dei-mulini"
-      ],
-      "metrics": [
-        "4",
-        "4"
+        "5"
       ]
     },
     {
@@ -419,6 +421,24 @@
         "3",
         "2"
       ]
+    },
+    {
+      "dimensions": [
+        "/fr/place/path-of-the-gods-sentiero-degli-dei"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/apicella-bakery-amalfi"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
     }
   ],
   "sources": [
@@ -427,8 +447,8 @@
         "(direct)"
       ],
       "metrics": [
-        "67",
-        "17"
+        "65",
+        "18"
       ]
     },
     {
@@ -436,13 +456,31 @@
         "(not set)"
       ],
       "metrics": [
-        "4",
+        "8",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "m.facebook.com"
+      ],
+      "metrics": [
+        "2",
         "2"
       ]
     },
     {
       "dimensions": [
         "atrani.ru"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "l.instagram.com"
       ],
       "metrics": [
         "1",
@@ -457,7 +495,16 @@
       ],
       "metrics": [
         "40",
-        "11"
+        "12"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "10",
+        "6"
       ]
     },
     {
@@ -471,20 +518,11 @@
     },
     {
       "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "8",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
         "France"
       ],
       "metrics": [
         "4",
-        "1"
+        "2"
       ]
     },
     {
@@ -531,20 +569,29 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "Ireland"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 68,
-    "users": 18,
-    "pageViews": 322,
-    "avgSessionDuration": 428,
+    "sessions": 71,
+    "users": 22,
+    "pageViews": 321,
+    "avgSessionDuration": 423,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 242,
-    "users": 52,
-    "pageViews": 1183,
-    "avgSessionDuration": 378,
+    "sessions": 255,
+    "users": 57,
+    "pageViews": 1225,
+    "avgSessionDuration": 381,
     "bounceRate": 0.3
   }
 }
