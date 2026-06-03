@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-06-02T09:12:47.520Z",
+  "updatedAt": "2026-06-03T09:57:09.312Z",
   "trend": [
     {
       "dimensions": [
@@ -105,6 +105,16 @@
     },
     {
       "dimensions": [
+        "20260602"
+      ],
+      "metrics": [
+        "10",
+        "5",
+        "69"
+      ]
+    },
+    {
+      "dimensions": [
         "20260509"
       ],
       "metrics": [
@@ -155,12 +165,12 @@
     },
     {
       "dimensions": [
-        "20260503"
+        "20260601"
       ],
       "metrics": [
-        "7",
-        "4",
-        "31"
+        "8",
+        "5",
+        "32"
       ]
     },
     {
@@ -191,16 +201,6 @@
         "7",
         "5",
         "52"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260601"
-      ],
-      "metrics": [
-        "7",
-        "5",
-        "26"
       ]
     },
     {
@@ -255,6 +255,16 @@
     },
     {
       "dimensions": [
+        "20260603"
+      ],
+      "metrics": [
+        "4",
+        "1",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
         "20260506"
       ],
       "metrics": [
@@ -271,16 +281,6 @@
         "3",
         "1",
         "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260602"
-      ],
-      "metrics": [
-        "3",
-        "2",
-        "10"
       ]
     },
     {
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "128",
-        "51"
+        "151",
+        "57"
       ]
     },
     {
@@ -338,8 +338,8 @@
         "/ru"
       ],
       "metrics": [
-        "14",
-        "6"
+        "15",
+        "8"
       ]
     },
     {
@@ -347,7 +347,7 @@
         "/place/le-palme-atrani"
       ],
       "metrics": [
-        "13",
+        "14",
         "12"
       ]
     },
@@ -362,6 +362,33 @@
     },
     {
       "dimensions": [
+        "/de"
+      ],
+      "metrics": [
+        "11",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/church-santa-maria-del-bando"
+      ],
+      "metrics": [
+        "11",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/il-birecto-atrani"
+      ],
+      "metrics": [
+        "11",
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
         "/it"
       ],
       "metrics": [
@@ -371,7 +398,7 @@
     },
     {
       "dimensions": [
-        "/place/church-santa-maria-del-bando"
+        "/place/secret-waterfall-valle-dei-mulini"
       ],
       "metrics": [
         "9",
@@ -380,11 +407,11 @@
     },
     {
       "dimensions": [
-        "/place/il-birecto-atrani"
+        "/place/church-of-saint-mary-magdalene"
       ],
       "metrics": [
-        "9",
-        "6"
+        "8",
+        "5"
       ]
     },
     {
@@ -398,20 +425,11 @@
     },
     {
       "dimensions": [
-        "/place/secret-waterfall-valle-dei-mulini"
+        "/place/castiglione-beach-lido-di-ravello"
       ],
       "metrics": [
-        "8",
+        "7",
         "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/church-of-saint-mary-magdalene"
-      ],
-      "metrics": [
-        "6",
-        "4"
       ]
     },
     {
@@ -419,35 +437,17 @@
         "/place/lo-smeraldino-amalfi"
       ],
       "metrics": [
-        "5",
-        "5"
+        "7",
+        "7"
       ]
     },
     {
       "dimensions": [
-        "/place/apicella-bakery-amalfi"
+        "/place/aparanza-atrani"
       ],
       "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/castiglione-beach-lido-di-ravello"
-      ],
-      "metrics": [
-        "4",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/fr/place/church-santa-maria-del-bando"
-      ],
-      "metrics": [
-        "3",
-        "2"
+        "6",
+        "3"
       ]
     }
   ],
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "65",
-        "16"
+        "77",
+        "19"
       ]
     },
     {
@@ -466,7 +466,7 @@
         "(not set)"
       ],
       "metrics": [
-        "6",
+        "8",
         "5"
       ]
     },
@@ -495,8 +495,8 @@
         "Italy"
       ],
       "metrics": [
-        "40",
-        "11"
+        "50",
+        "14"
       ]
     },
     {
@@ -504,7 +504,7 @@
         "United States"
       ],
       "metrics": [
-        "13",
+        "15",
         "6"
       ]
     },
@@ -524,15 +524,6 @@
       "metrics": [
         "4",
         "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "Canada"
-      ],
-      "metrics": [
-        "2",
-        "0"
       ]
     },
     {
@@ -579,20 +570,29 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "United Kingdom"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 72,
-    "users": 19,
-    "pageViews": 316,
-    "avgSessionDuration": 401,
+    "sessions": 82,
+    "users": 22,
+    "pageViews": 383,
+    "avgSessionDuration": 417,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 262,
-    "users": 58,
-    "pageViews": 1259,
-    "avgSessionDuration": 386,
+    "sessions": 267,
+    "users": 59,
+    "pageViews": 1297,
+    "avgSessionDuration": 396,
     "bounceRate": 0.3
   }
 }
