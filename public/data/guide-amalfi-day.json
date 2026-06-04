@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-06-03T09:57:09.312Z",
+  "updatedAt": "2026-06-04T08:53:51.435Z",
   "trend": [
     {
       "dimensions": [
@@ -65,16 +65,6 @@
     },
     {
       "dimensions": [
-        "20260504"
-      ],
-      "metrics": [
-        "11",
-        "4",
-        "13"
-      ]
-    },
-    {
-      "dimensions": [
         "20260528"
       ],
       "metrics": [
@@ -110,7 +100,7 @@
       "metrics": [
         "10",
         "5",
-        "69"
+        "79"
       ]
     },
     {
@@ -171,6 +161,16 @@
         "8",
         "5",
         "32"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260603"
+      ],
+      "metrics": [
+        "8",
+        "3",
+        "65"
       ]
     },
     {
@@ -255,16 +255,6 @@
     },
     {
       "dimensions": [
-        "20260603"
-      ],
-      "metrics": [
-        "4",
-        "1",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
         "20260506"
       ],
       "metrics": [
@@ -320,8 +310,8 @@
         "/"
       ],
       "metrics": [
-        "151",
-        "57"
+        "136",
+        "49"
       ]
     },
     {
@@ -347,17 +337,8 @@
         "/place/le-palme-atrani"
       ],
       "metrics": [
-        "14",
-        "12"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/waterfall-of-atrani"
-      ],
-      "metrics": [
         "13",
-        "11"
+        "10"
       ]
     },
     {
@@ -365,17 +346,8 @@
         "/de"
       ],
       "metrics": [
-        "11",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/church-santa-maria-del-bando"
-      ],
-      "metrics": [
-        "11",
-        "9"
+        "10",
+        "2"
       ]
     },
     {
@@ -383,17 +355,8 @@
         "/place/il-birecto-atrani"
       ],
       "metrics": [
-        "11",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "/it"
-      ],
-      "metrics": [
         "10",
-        "3"
+        "8"
       ]
     },
     {
@@ -407,20 +370,29 @@
     },
     {
       "dimensions": [
-        "/place/church-of-saint-mary-magdalene"
+        "/place/waterfall-of-atrani"
       ],
       "metrics": [
-        "8",
-        "5"
+        "9",
+        "10"
       ]
     },
     {
       "dimensions": [
-        "/place/le-arcate-atrani"
+        "/place/church-santa-maria-del-bando"
       ],
       "metrics": [
         "8",
-        "7"
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/it"
+      ],
+      "metrics": [
+        "7",
+        "2"
       ]
     },
     {
@@ -438,7 +410,16 @@
       ],
       "metrics": [
         "7",
-        "7"
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/le-arcate-atrani"
+      ],
+      "metrics": [
+        "6",
+        "4"
       ]
     },
     {
@@ -446,8 +427,17 @@
         "/place/aparanza-atrani"
       ],
       "metrics": [
-        "6",
+        "5",
         "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/apicella-bakery-amalfi"
+      ],
+      "metrics": [
+        "4",
+        "4"
       ]
     }
   ],
@@ -457,8 +447,8 @@
         "(direct)"
       ],
       "metrics": [
-        "77",
-        "19"
+        "65",
+        "17"
       ]
     },
     {
@@ -466,8 +456,8 @@
         "(not set)"
       ],
       "metrics": [
-        "8",
-        "5"
+        "3",
+        "3"
       ]
     },
     {
@@ -477,6 +467,15 @@
       "metrics": [
         "2",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "airbnb.it"
+      ],
+      "metrics": [
+        "1",
+        "0"
       ]
     },
     {
@@ -495,8 +494,8 @@
         "Italy"
       ],
       "metrics": [
-        "50",
-        "14"
+        "44",
+        "15"
       ]
     },
     {
@@ -504,7 +503,7 @@
         "United States"
       ],
       "metrics": [
-        "15",
+        "13",
         "6"
       ]
     },
@@ -513,7 +512,7 @@
         "Netherlands"
       ],
       "metrics": [
-        "8",
+        "6",
         "1"
       ]
     },
@@ -528,25 +527,7 @@
     },
     {
       "dimensions": [
-        "Israel"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "Austria"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Germany"
       ],
       "metrics": [
         "1",
@@ -582,17 +563,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 82,
-    "users": 22,
-    "pageViews": 383,
-    "avgSessionDuration": 417,
+    "sessions": 70,
+    "users": 21,
+    "pageViews": 349,
+    "avgSessionDuration": 322,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 267,
-    "users": 59,
-    "pageViews": 1297,
-    "avgSessionDuration": 396,
+    "sessions": 260,
+    "users": 58,
+    "pageViews": 1355,
+    "avgSessionDuration": 404,
     "bounceRate": 0.3
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-06-03T09:57:08.793Z",
+  "updatedAt": "2026-06-04T08:53:50.711Z",
   "trend": [
     {
       "dimensions": [
@@ -205,16 +205,6 @@
     },
     {
       "dimensions": [
-        "20260504"
-      ],
-      "metrics": [
-        "16",
-        "8",
-        "18"
-      ]
-    },
-    {
-      "dimensions": [
         "20260529"
       ],
       "metrics": [
@@ -251,6 +241,16 @@
         "15",
         "10",
         "18"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260603"
+      ],
+      "metrics": [
+        "15",
+        "11",
+        "28"
       ]
     },
     {
@@ -302,16 +302,6 @@
         "7",
         "16"
       ]
-    },
-    {
-      "dimensions": [
-        "20260603"
-      ],
-      "metrics": [
-        "1",
-        "1",
-        "1"
-      ]
     }
   ],
   "topPages": [
@@ -320,17 +310,8 @@
         "/parking/"
       ],
       "metrics": [
-        "45",
-        "44"
-      ]
-    },
-    {
-      "dimensions": [
-        "/timetables/"
-      ],
-      "metrics": [
-        "37",
-        "30"
+        "40",
+        "40"
       ]
     },
     {
@@ -338,8 +319,17 @@
         "/"
       ],
       "metrics": [
+        "35",
+        "24"
+      ]
+    },
+    {
+      "dimensions": [
+        "/timetables/"
+      ],
+      "metrics": [
         "32",
-        "20"
+        "25"
       ]
     },
     {
@@ -362,20 +352,38 @@
     },
     {
       "dimensions": [
-        "/blog/transport-strike-this-friday-what-amalfi-coast-visitors-need-to-know/"
-      ],
-      "metrics": [
-        "8",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
         "/ferry-timetables"
       ],
       "metrics": [
         "8",
         "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/how-to-get"
+      ],
+      "metrics": [
+        "7",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/transport-strike-this-friday-what-amalfi-coast-visitors-need-to-know/"
+      ],
+      "metrics": [
+        "6",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/beaches"
+      ],
+      "metrics": [
+        "4",
+        "3"
       ]
     },
     {
@@ -398,10 +406,10 @@
     },
     {
       "dimensions": [
-        "/beaches"
+        "/timetables"
       ],
       "metrics": [
-        "3",
+        "4",
         "2"
       ]
     },
@@ -416,11 +424,11 @@
     },
     {
       "dimensions": [
-        "/timetables"
+        "/apartments"
       ],
       "metrics": [
-        "3",
-        "1"
+        "2",
+        "2"
       ]
     },
     {
@@ -431,24 +439,6 @@
         "2",
         "2"
       ]
-    },
-    {
-      "dimensions": [
-        "/how-to-get"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/apartments"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "sources": [
@@ -457,8 +447,8 @@
         "google"
       ],
       "metrics": [
-        "97",
-        "67"
+        "89",
+        "61"
       ]
     },
     {
@@ -466,17 +456,8 @@
         "(direct)"
       ],
       "metrics": [
-        "29",
-        "16"
-      ]
-    },
-    {
-      "dimensions": [
-        "chatgpt.com"
-      ],
-      "metrics": [
-        "2",
-        "2"
+        "30",
+        "18"
       ]
     },
     {
@@ -490,7 +471,16 @@
     },
     {
       "dimensions": [
-        "amalfi-guide-ungattocinereo-cinereos-projects.vercel.app"
+        "airbnb.it"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "chatgpt.com"
       ],
       "metrics": [
         "1",
@@ -504,8 +494,8 @@
         "Italy"
       ],
       "metrics": [
-        "42",
-        "34"
+        "40",
+        "31"
       ]
     },
     {
@@ -514,7 +504,7 @@
       ],
       "metrics": [
         "18",
-        "15"
+        "16"
       ]
     },
     {
@@ -523,7 +513,7 @@
       ],
       "metrics": [
         "15",
-        "9"
+        "10"
       ]
     },
     {
@@ -537,11 +527,11 @@
     },
     {
       "dimensions": [
-        "Romania"
+        "Spain"
       ],
       "metrics": [
         "7",
-        "3"
+        "4"
       ]
     },
     {
@@ -555,20 +545,11 @@
     },
     {
       "dimensions": [
-        "Spain"
+        "Romania"
       ],
       "metrics": [
-        "5",
+        "6",
         "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "France"
-      ],
-      "metrics": [
-        "4",
-        "2"
       ]
     },
     {
@@ -582,26 +563,35 @@
     },
     {
       "dimensions": [
-        "Norway"
+        "Austria"
       ],
       "metrics": [
-        "3",
+        "2",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Bulgaria"
+      ],
+      "metrics": [
+        "2",
+        "1"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 130,
-    "users": 86,
-    "pageViews": 186,
-    "avgSessionDuration": 188,
+    "sessions": 122,
+    "users": 81,
+    "pageViews": 188,
+    "avgSessionDuration": 194,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 642,
-    "users": 351,
-    "pageViews": 1066,
-    "avgSessionDuration": 230,
+    "sessions": 640,
+    "users": 356,
+    "pageViews": 1075,
+    "avgSessionDuration": 231,
     "bounceRate": 0.5
   }
 }
