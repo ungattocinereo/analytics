@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-06-05T08:45:58.491Z",
+  "updatedAt": "2026-06-06T07:48:34.259Z",
   "trend": [
     {
       "dimensions": [
@@ -295,22 +295,12 @@
     },
     {
       "dimensions": [
-        "20260506"
-      ],
-      "metrics": [
-        "11",
-        "7",
-        "16"
-      ]
-    },
-    {
-      "dimensions": [
         "20260605"
       ],
       "metrics": [
-        "1",
-        "1",
-        "1"
+        "12",
+        "7",
+        "14"
       ]
     }
   ],
@@ -320,7 +310,7 @@
         "/parking/"
       ],
       "metrics": [
-        "41",
+        "40",
         "41"
       ]
     },
@@ -329,8 +319,8 @@
         "/"
       ],
       "metrics": [
-        "35",
-        "22"
+        "32",
+        "23"
       ]
     },
     {
@@ -338,8 +328,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "31",
-        "24"
+        "26",
+        "22"
       ]
     },
     {
@@ -347,17 +337,8 @@
         "/directions/"
       ],
       "metrics": [
-        "19",
-        "14"
-      ]
-    },
-    {
-      "dimensions": [
-        "/ferry-timetables"
-      ],
-      "metrics": [
-        "12",
-        "8"
+        "18",
+        "13"
       ]
     },
     {
@@ -371,11 +352,20 @@
     },
     {
       "dimensions": [
+        "/ferry-timetables"
+      ],
+      "metrics": [
+        "8",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
         "/how-to-get"
       ],
       "metrics": [
-        "7",
-        "5"
+        "6",
+        "4"
       ]
     },
     {
@@ -434,7 +424,7 @@
     },
     {
       "dimensions": [
-        "/blog/praiano-turns-into-a-film-set-in-may-with-road-changes-on-the-ss163/"
+        "/photoshootings"
       ],
       "metrics": [
         "2",
@@ -443,7 +433,7 @@
     },
     {
       "dimensions": [
-        "/blog/transport-strike-this-friday-what-amalfi-coast-visitors-need-to-know/"
+        "/photoshootings/shifa"
       ],
       "metrics": [
         "2",
@@ -457,8 +447,8 @@
         "google"
       ],
       "metrics": [
-        "88",
-        "61"
+        "86",
+        "60"
       ]
     },
     {
@@ -466,8 +456,8 @@
         "(direct)"
       ],
       "metrics": [
-        "26",
-        "16"
+        "24",
+        "14"
       ]
     },
     {
@@ -475,8 +465,8 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "4",
-        "4"
+        "3",
+        "3"
       ]
     },
     {
@@ -513,8 +503,8 @@
         "Italy"
       ],
       "metrics": [
-        "35",
-        "26"
+        "32",
+        "24"
       ]
     },
     {
@@ -522,8 +512,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "19",
-        "15"
+        "16",
+        "13"
       ]
     },
     {
@@ -531,7 +521,7 @@
         "United States"
       ],
       "metrics": [
-        "12",
+        "13",
         "9"
       ]
     },
@@ -558,7 +548,7 @@
         "Romania"
       ],
       "metrics": [
-        "6",
+        "7",
         "2"
       ]
     },
@@ -573,15 +563,6 @@
     },
     {
       "dimensions": [
-        "Netherlands"
-      ],
-      "metrics": [
-        "4",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "Canada"
       ],
       "metrics": [
@@ -591,26 +572,35 @@
     },
     {
       "dimensions": [
-        "Austria"
+        "France"
       ],
       "metrics": [
-        "2",
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "Netherlands"
+      ],
+      "metrics": [
+        "3",
         "2"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 122,
-    "users": 83,
-    "pageViews": 190,
-    "avgSessionDuration": 188,
+    "sessions": 117,
+    "users": 78,
+    "pageViews": 174,
+    "avgSessionDuration": 154,
     "bounceRate": 0.5
   },
   "summary30d": {
     "sessions": 647,
-    "users": 364,
-    "pageViews": 1082,
-    "avgSessionDuration": 233,
+    "users": 367,
+    "pageViews": 1079,
+    "avgSessionDuration": 229,
     "bounceRate": 0.5
   }
 }

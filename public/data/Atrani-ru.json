@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-06-05T08:45:57.642Z",
+  "updatedAt": "2026-06-06T07:48:33.349Z",
   "trend": [
     {
       "dimensions": [
@@ -41,6 +41,16 @@
         "53",
         "52",
         "61"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260605"
+      ],
+      "metrics": [
+        "51",
+        "51",
+        "58"
       ]
     },
     {
@@ -295,22 +305,12 @@
     },
     {
       "dimensions": [
-        "20260506"
-      ],
-      "metrics": [
-        "15",
-        "15",
-        "15"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260605"
+        "20260606"
       ],
       "metrics": [
         "11",
         "11",
-        "18"
+        "11"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "176",
-        "176"
+        "186",
+        "186"
       ]
     },
     {
@@ -366,7 +366,7 @@
       ],
       "metrics": [
         "8",
-        "8"
+        "9"
       ]
     },
     {
@@ -389,25 +389,16 @@
     },
     {
       "dimensions": [
-        "/parking"
+        "/blog/netflix-snimaiet-film-positano-s-makkonakhi-i-saldanoi-na-pobieriezhie-amalfi"
       ],
       "metrics": [
-        "6",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2018/05/elena-tkalich-amalfi/"
-      ],
-      "metrics": [
-        "5",
+        "7",
         "5"
       ]
     },
     {
       "dimensions": [
-        "/blog/how-to-get-to-amalfi"
+        "/2018/05/elena-tkalich-amalfi/"
       ],
       "metrics": [
         "5",
@@ -425,7 +416,16 @@
     },
     {
       "dimensions": [
-        "/2019/02/roads-of-amalf-coast-atrani/"
+        "/parking"
+      ],
+      "metrics": [
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2019/11/weather-amalfi/"
       ],
       "metrics": [
         "4",
@@ -443,11 +443,11 @@
     },
     {
       "dimensions": [
-        "/blog/netflix-snimaiet-film-positano-s-makkonakhi-i-saldanoi-na-pobieriezhie-amalfi"
+        "/blog/how-to-get-to-amalfi"
       ],
       "metrics": [
         "4",
-        "2"
+        "4"
       ]
     }
   ],
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "287",
-        "287"
+        "292",
+        "292"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "22",
-        "18"
+        "24",
+        "20"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "11",
-        "10"
+        "12",
+        "11"
       ]
     },
     {
@@ -493,8 +493,8 @@
         "ya.ru"
       ],
       "metrics": [
-        "5",
-        "5"
+        "3",
+        "3"
       ]
     },
     {
@@ -517,7 +517,7 @@
     },
     {
       "dimensions": [
-        "google.com"
+        "facebook.com"
       ],
       "metrics": [
         "1",
@@ -549,17 +549,8 @@
         "Russia"
       ],
       "metrics": [
-        "184",
-        "183"
-      ]
-    },
-    {
-      "dimensions": [
-        "United Kingdom"
-      ],
-      "metrics": [
-        "27",
-        "27"
+        "192",
+        "191"
       ]
     },
     {
@@ -567,8 +558,17 @@
         "United States"
       ],
       "metrics": [
-        "23",
-        "21"
+        "25",
+        "23"
+      ]
+    },
+    {
+      "dimensions": [
+        "United Kingdom"
+      ],
+      "metrics": [
+        "24",
+        "24"
       ]
     },
     {
@@ -576,8 +576,8 @@
         "Vietnam"
       ],
       "metrics": [
-        "11",
-        "11"
+        "16",
+        "16"
       ]
     },
     {
@@ -585,8 +585,8 @@
         "Italy"
       ],
       "metrics": [
-        "9",
-        "8"
+        "11",
+        "10"
       ]
     },
     {
@@ -594,25 +594,7 @@
         "Poland"
       ],
       "metrics": [
-        "9",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "India"
-      ],
-      "metrics": [
         "8",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "China"
-      ],
-      "metrics": [
-        "7",
         "7"
       ]
     },
@@ -633,20 +615,38 @@
         "6",
         "6"
       ]
+    },
+    {
+      "dimensions": [
+        "China"
+      ],
+      "metrics": [
+        "6",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "India"
+      ],
+      "metrics": [
+        "6",
+        "6"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 340,
-    "users": 334,
-    "pageViews": 396,
-    "avgSessionDuration": 36,
+    "sessions": 347,
+    "users": 341,
+    "pageViews": 403,
+    "avgSessionDuration": 33,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 1220,
-    "users": 1175,
-    "pageViews": 1316,
-    "avgSessionDuration": 21,
+    "sessions": 1256,
+    "users": 1210,
+    "pageViews": 1352,
+    "avgSessionDuration": 20,
     "bounceRate": 0.8
   }
 }
