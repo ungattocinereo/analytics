@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-06-06T07:48:34.803Z",
+  "updatedAt": "2026-06-07T08:26:12.434Z",
   "trend": [
     {
       "dimensions": [
@@ -40,7 +40,7 @@
       "metrics": [
         "15",
         "8",
-        "112"
+        "116"
       ]
     },
     {
@@ -255,6 +255,16 @@
     },
     {
       "dimensions": [
+        "20260606"
+      ],
+      "metrics": [
+        "4",
+        "3",
+        "25"
+      ]
+    },
+    {
+      "dimensions": [
         "20260516"
       ],
       "metrics": [
@@ -295,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260507"
+        "20260607"
       ],
       "metrics": [
+        "2",
         "1",
-        "1",
-        "1"
+        "2"
       ]
     }
   ],
@@ -310,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "183",
-        "48"
+        "188",
+        "45"
       ]
     },
     {
@@ -319,17 +329,26 @@
         "/place/waterfall-of-atrani"
       ],
       "metrics": [
-        "17",
-        "15"
+        "16",
+        "13"
       ]
     },
     {
       "dimensions": [
-        "/place/church-santa-maria-del-bando"
+        "/place/il-birecto-atrani"
       ],
       "metrics": [
-        "13",
-        "9"
+        "14",
+        "11"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/le-palme-atrani"
+      ],
+      "metrics": [
+        "14",
+        "10"
       ]
     },
     {
@@ -338,15 +357,6 @@
       ],
       "metrics": [
         "13",
-        "11"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/castiglione-beach-lido-di-ravello"
-      ],
-      "metrics": [
-        "12",
         "11"
       ]
     },
@@ -361,11 +371,20 @@
     },
     {
       "dimensions": [
-        "/place/le-palme-atrani"
+        "/place/church-santa-maria-del-bando"
       ],
       "metrics": [
         "12",
-        "9"
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/castiglione-beach-lido-di-ravello"
+      ],
+      "metrics": [
+        "11",
+        "10"
       ]
     },
     {
@@ -375,15 +394,6 @@
       "metrics": [
         "10",
         "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/il-birecto-atrani"
-      ],
-      "metrics": [
-        "9",
-        "7"
       ]
     },
     {
@@ -406,20 +416,20 @@
     },
     {
       "dimensions": [
-        "/ru"
-      ],
-      "metrics": [
-        "8",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
         "/place/apicella-bakery-amalfi"
       ],
       "metrics": [
         "7",
         "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/la-tramontina-amalfi"
+      ],
+      "metrics": [
+        "7",
+        "6"
       ]
     },
     {
@@ -433,7 +443,7 @@
     },
     {
       "dimensions": [
-        "/place/la-tramontina-amalfi"
+        "/ru"
       ],
       "metrics": [
         "6",
@@ -447,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "56",
-        "18"
+        "50",
+        "15"
       ]
     },
     {
@@ -456,8 +466,8 @@
         "(not set)"
       ],
       "metrics": [
-        "8",
-        "5"
+        "4",
+        "4"
       ]
     },
     {
@@ -494,8 +504,8 @@
         "Italy"
       ],
       "metrics": [
-        "43",
-        "15"
+        "39",
+        "13"
       ]
     },
     {
@@ -503,7 +513,7 @@
         "United States"
       ],
       "metrics": [
-        "12",
+        "11",
         "4"
       ]
     },
@@ -513,15 +523,6 @@
       ],
       "metrics": [
         "3",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "France"
-      ],
-      "metrics": [
-        "2",
         "2"
       ]
     },
@@ -537,6 +538,15 @@
     {
       "dimensions": [
         "Austria"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Canada"
       ],
       "metrics": [
         "1",
@@ -572,17 +582,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 64,
-    "users": 23,
-    "pageViews": 384,
-    "avgSessionDuration": 566,
-    "bounceRate": 0.4
+    "sessions": 58,
+    "users": 20,
+    "pageViews": 390,
+    "avgSessionDuration": 502,
+    "bounceRate": 0.3
   },
   "summary30d": {
-    "sessions": 263,
+    "sessions": 267,
     "users": 60,
-    "pageViews": 1447,
-    "avgSessionDuration": 448,
+    "pageViews": 1477,
+    "avgSessionDuration": 429,
     "bounceRate": 0.3
   }
 }

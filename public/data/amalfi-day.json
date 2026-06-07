@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-06-06T07:48:34.259Z",
+  "updatedAt": "2026-06-07T08:26:11.619Z",
   "trend": [
     {
       "dimensions": [
@@ -41,16 +41,6 @@
         "31",
         "18",
         "39"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260507"
-      ],
-      "metrics": [
-        "29",
-        "16",
-        "44"
       ]
     },
     {
@@ -275,6 +265,16 @@
     },
     {
       "dimensions": [
+        "20260606"
+      ],
+      "metrics": [
+        "14",
+        "9",
+        "16"
+      ]
+    },
+    {
+      "dimensions": [
         "20260509"
       ],
       "metrics": [
@@ -302,6 +302,16 @@
         "7",
         "14"
       ]
+    },
+    {
+      "dimensions": [
+        "20260607"
+      ],
+      "metrics": [
+        "2",
+        "1",
+        "2"
+      ]
     }
   ],
   "topPages": [
@@ -310,8 +320,8 @@
         "/parking/"
       ],
       "metrics": [
-        "40",
-        "41"
+        "43",
+        "42"
       ]
     },
     {
@@ -319,8 +329,8 @@
         "/"
       ],
       "metrics": [
-        "32",
-        "23"
+        "33",
+        "24"
       ]
     },
     {
@@ -328,8 +338,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "26",
-        "22"
+        "23",
+        "23"
       ]
     },
     {
@@ -346,8 +356,8 @@
         "/blog/license-plate-restrictions-return-to-the-amalfi-coast-april-25-may-2-2/"
       ],
       "metrics": [
-        "10",
-        "8"
+        "12",
+        "10"
       ]
     },
     {
@@ -397,15 +407,6 @@
     },
     {
       "dimensions": [
-        "/moto/"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
         "/apartments"
       ],
       "metrics": [
@@ -433,6 +434,15 @@
     },
     {
       "dimensions": [
+        "/photoshootings/"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "/photoshootings/shifa"
       ],
       "metrics": [
@@ -447,8 +457,8 @@
         "google"
       ],
       "metrics": [
-        "86",
-        "60"
+        "89",
+        "62"
       ]
     },
     {
@@ -456,8 +466,8 @@
         "(direct)"
       ],
       "metrics": [
-        "24",
-        "14"
+        "23",
+        "13"
       ]
     },
     {
@@ -480,16 +490,25 @@
     },
     {
       "dimensions": [
-        "airbnb.ca"
+        "facebook.com"
       ],
       "metrics": [
         "1",
-        "0"
+        "1"
       ]
     },
     {
       "dimensions": [
         "gemini.google.com"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "m.facebook.com"
       ],
       "metrics": [
         "1",
@@ -503,7 +522,7 @@
         "Italy"
       ],
       "metrics": [
-        "32",
+        "30",
         "24"
       ]
     },
@@ -512,8 +531,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "16",
-        "13"
+        "19",
+        "15"
       ]
     },
     {
@@ -521,17 +540,8 @@
         "United States"
       ],
       "metrics": [
-        "13",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
-        "Australia"
-      ],
-      "metrics": [
-        "8",
-        "1"
+        "14",
+        "8"
       ]
     },
     {
@@ -539,8 +549,17 @@
         "Spain"
       ],
       "metrics": [
-        "8",
-        "5"
+        "9",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "Australia"
+      ],
+      "metrics": [
+        "7",
+        "1"
       ]
     },
     {
@@ -554,20 +573,11 @@
     },
     {
       "dimensions": [
-        "Germany"
+        "Netherlands"
       ],
       "metrics": [
         "5",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "Canada"
-      ],
-      "metrics": [
-        "3",
-        "2"
+        "3"
       ]
     },
     {
@@ -581,26 +591,35 @@
     },
     {
       "dimensions": [
-        "Netherlands"
+        "Germany"
       ],
       "metrics": [
         "3",
-        "2"
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Belarus"
+      ],
+      "metrics": [
+        "2",
+        "1"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 117,
-    "users": 78,
-    "pageViews": 174,
-    "avgSessionDuration": 154,
+    "sessions": 120,
+    "users": 81,
+    "pageViews": 175,
+    "avgSessionDuration": 150,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 647,
-    "users": 367,
-    "pageViews": 1079,
-    "avgSessionDuration": 229,
+    "sessions": 634,
+    "users": 365,
+    "pageViews": 1053,
+    "avgSessionDuration": 224,
     "bounceRate": 0.5
   }
 }
