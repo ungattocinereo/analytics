@@ -1,18 +1,8 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-06-07T08:26:11.619Z",
+  "updatedAt": "2026-06-08T09:26:25.922Z",
   "trend": [
-    {
-      "dimensions": [
-        "20260508"
-      ],
-      "metrics": [
-        "42",
-        "15",
-        "180"
-      ]
-    },
     {
       "dimensions": [
         "20260516"
@@ -175,6 +165,16 @@
     },
     {
       "dimensions": [
+        "20260607"
+      ],
+      "metrics": [
+        "20",
+        "14",
+        "24"
+      ]
+    },
+    {
+      "dimensions": [
         "20260510"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260607"
+        "20260608"
       ],
       "metrics": [
-        "2",
-        "1",
-        "2"
+        "5",
+        "3",
+        "4"
       ]
     }
   ],
@@ -320,17 +320,8 @@
         "/parking/"
       ],
       "metrics": [
-        "43",
-        "42"
-      ]
-    },
-    {
-      "dimensions": [
-        "/"
-      ],
-      "metrics": [
-        "33",
-        "24"
+        "44",
+        "44"
       ]
     },
     {
@@ -338,8 +329,17 @@
         "/timetables/"
       ],
       "metrics": [
-        "23",
-        "23"
+        "33",
+        "30"
+      ]
+    },
+    {
+      "dimensions": [
+        "/"
+      ],
+      "metrics": [
+        "28",
+        "20"
       ]
     },
     {
@@ -347,8 +347,8 @@
         "/directions/"
       ],
       "metrics": [
-        "18",
-        "13"
+        "15",
+        "10"
       ]
     },
     {
@@ -356,8 +356,8 @@
         "/blog/license-plate-restrictions-return-to-the-amalfi-coast-april-25-may-2-2/"
       ],
       "metrics": [
-        "12",
-        "10"
+        "8",
+        "8"
       ]
     },
     {
@@ -365,8 +365,8 @@
         "/ferry-timetables"
       ],
       "metrics": [
-        "8",
-        "7"
+        "7",
+        "6"
       ]
     },
     {
@@ -457,8 +457,8 @@
         "google"
       ],
       "metrics": [
-        "89",
-        "62"
+        "90",
+        "61"
       ]
     },
     {
@@ -466,7 +466,7 @@
         "(direct)"
       ],
       "metrics": [
-        "23",
+        "21",
         "13"
       ]
     },
@@ -522,8 +522,8 @@
         "Italy"
       ],
       "metrics": [
-        "30",
-        "24"
+        "32",
+        "25"
       ]
     },
     {
@@ -531,8 +531,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "19",
-        "15"
+        "15",
+        "11"
       ]
     },
     {
@@ -540,8 +540,8 @@
         "United States"
       ],
       "metrics": [
-        "14",
-        "8"
+        "12",
+        "7"
       ]
     },
     {
@@ -564,20 +564,38 @@
     },
     {
       "dimensions": [
-        "Romania"
-      ],
-      "metrics": [
-        "7",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "Netherlands"
       ],
       "metrics": [
         "5",
         "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "Romania"
+      ],
+      "metrics": [
+        "5",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Finland"
+      ],
+      "metrics": [
+        "4",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Russia"
+      ],
+      "metrics": [
+        "4",
+        "2"
       ]
     },
     {
@@ -588,38 +606,20 @@
         "3",
         "3"
       ]
-    },
-    {
-      "dimensions": [
-        "Germany"
-      ],
-      "metrics": [
-        "3",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Belarus"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 120,
-    "users": 81,
-    "pageViews": 175,
-    "avgSessionDuration": 150,
-    "bounceRate": 0.5
+    "sessions": 119,
+    "users": 80,
+    "pageViews": 173,
+    "avgSessionDuration": 161,
+    "bounceRate": 0.6
   },
   "summary30d": {
-    "sessions": 634,
-    "users": 365,
-    "pageViews": 1053,
-    "avgSessionDuration": 224,
+    "sessions": 613,
+    "users": 372,
+    "pageViews": 899,
+    "avgSessionDuration": 191,
     "bounceRate": 0.5
   }
 }

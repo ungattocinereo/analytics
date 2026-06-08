@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-06-07T08:26:12.434Z",
+  "updatedAt": "2026-06-08T09:26:26.573Z",
   "trend": [
     {
       "dimensions": [
@@ -11,16 +11,6 @@
         "27",
         "8",
         "124"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260508"
-      ],
-      "metrics": [
-        "19",
-        "8",
-        "103"
       ]
     },
     {
@@ -205,6 +195,16 @@
     },
     {
       "dimensions": [
+        "20260607"
+      ],
+      "metrics": [
+        "7",
+        "5",
+        "19"
+      ]
+    },
+    {
+      "dimensions": [
         "20260510"
       ],
       "metrics": [
@@ -260,7 +260,7 @@
       "metrics": [
         "4",
         "3",
-        "25"
+        "27"
       ]
     },
     {
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260607"
+        "20260608"
       ],
       "metrics": [
-        "2",
         "1",
-        "2"
+        "1",
+        "8"
       ]
     }
   ],
@@ -320,17 +320,8 @@
         "/"
       ],
       "metrics": [
-        "188",
-        "45"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/waterfall-of-atrani"
-      ],
-      "metrics": [
-        "16",
-        "13"
+        "185",
+        "43"
       ]
     },
     {
@@ -338,26 +329,17 @@
         "/place/il-birecto-atrani"
       ],
       "metrics": [
-        "14",
-        "11"
+        "15",
+        "13"
       ]
     },
     {
       "dimensions": [
-        "/place/le-palme-atrani"
+        "/place/waterfall-of-atrani"
       ],
       "metrics": [
-        "14",
-        "10"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/secret-waterfall-valle-dei-mulini"
-      ],
-      "metrics": [
-        "13",
-        "11"
+        "15",
+        "12"
       ]
     },
     {
@@ -365,13 +347,13 @@
         "/place/church-of-saint-mary-magdalene"
       ],
       "metrics": [
-        "12",
-        "8"
+        "13",
+        "9"
       ]
     },
     {
       "dimensions": [
-        "/place/church-santa-maria-del-bando"
+        "/place/le-palme-atrani"
       ],
       "metrics": [
         "12",
@@ -380,10 +362,10 @@
     },
     {
       "dimensions": [
-        "/place/castiglione-beach-lido-di-ravello"
+        "/place/secret-waterfall-valle-dei-mulini"
       ],
       "metrics": [
-        "11",
+        "12",
         "10"
       ]
     },
@@ -398,16 +380,43 @@
     },
     {
       "dimensions": [
+        "/place/castiglione-beach-lido-di-ravello"
+      ],
+      "metrics": [
+        "10",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/church-santa-maria-del-bando"
+      ],
+      "metrics": [
+        "10",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
         "/place/aparanza-atrani"
       ],
       "metrics": [
-        "8",
-        "5"
+        "9",
+        "6"
       ]
     },
     {
       "dimensions": [
         "/place/lo-smeraldino-amalfi"
+      ],
+      "metrics": [
+        "9",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/mimi-coco-di-tutto-un-po-atrani"
       ],
       "metrics": [
         "8",
@@ -425,25 +434,16 @@
     },
     {
       "dimensions": [
+        "/place/le-arcate-atrani"
+      ],
+      "metrics": [
+        "7",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
         "/place/la-tramontina-amalfi"
-      ],
-      "metrics": [
-        "7",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/mimi-coco-di-tutto-un-po-atrani"
-      ],
-      "metrics": [
-        "7",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/ru"
       ],
       "metrics": [
         "6",
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "50",
-        "15"
+        "51",
+        "17"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "(not set)"
       ],
       "metrics": [
-        "4",
-        "4"
+        "6",
+        "6"
       ]
     },
     {
@@ -478,24 +478,6 @@
         "3",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "m.facebook.com"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "l.instagram.com"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "countries": [
@@ -504,8 +486,8 @@
         "Italy"
       ],
       "metrics": [
-        "39",
-        "13"
+        "41",
+        "15"
       ]
     },
     {
@@ -513,7 +495,7 @@
         "United States"
       ],
       "metrics": [
-        "11",
+        "10",
         "4"
       ]
     },
@@ -528,7 +510,7 @@
     },
     {
       "dimensions": [
-        "Hong Kong"
+        "Canada"
       ],
       "metrics": [
         "2",
@@ -537,28 +519,10 @@
     },
     {
       "dimensions": [
-        "Austria"
+        "Hong Kong"
       ],
       "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Canada"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Ireland"
-      ],
-      "metrics": [
-        "1",
+        "2",
         "1"
       ]
     },
@@ -582,17 +546,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 58,
-    "users": 20,
-    "pageViews": 390,
-    "avgSessionDuration": 502,
-    "bounceRate": 0.3
+    "sessions": 56,
+    "users": 19,
+    "pageViews": 379,
+    "avgSessionDuration": 487,
+    "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 267,
-    "users": 60,
-    "pageViews": 1477,
-    "avgSessionDuration": 429,
+    "sessions": 255,
+    "users": 61,
+    "pageViews": 1401,
+    "avgSessionDuration": 426,
     "bounceRate": 0.3
   }
 }
