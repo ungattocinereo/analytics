@@ -1,8 +1,18 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-06-08T09:26:25.097Z",
+  "updatedAt": "2026-06-09T08:33:05.493Z",
   "trend": [
+    {
+      "dimensions": [
+        "20260608"
+      ],
+      "metrics": [
+        "71",
+        "68",
+        "71"
+      ]
+    },
     {
       "dimensions": [
         "20260520"
@@ -275,16 +285,6 @@
     },
     {
       "dimensions": [
-        "20260509"
-      ],
-      "metrics": [
-        "25",
-        "22",
-        "26"
-      ]
-    },
-    {
-      "dimensions": [
         "20260513"
       ],
       "metrics": [
@@ -295,12 +295,12 @@
     },
     {
       "dimensions": [
-        "20260608"
+        "20260609"
       ],
       "metrics": [
-        "22",
-        "22",
-        "21"
+        "20",
+        "20",
+        "20"
       ]
     },
     {
@@ -320,8 +320,17 @@
         "/"
       ],
       "metrics": [
-        "215",
-        "214"
+        "232",
+        "231"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/netflix-snimaiet-film-positano-s-makkonakhi-i-saldanoi-na-pobieriezhie-amalfi"
+      ],
+      "metrics": [
+        "16",
+        "13"
       ]
     },
     {
@@ -329,8 +338,8 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "15",
-        "14"
+        "16",
+        "16"
       ]
     },
     {
@@ -353,20 +362,11 @@
     },
     {
       "dimensions": [
-        "/photos"
-      ],
-      "metrics": [
-        "9",
-        "11"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/netflix-snimaiet-film-positano-s-makkonakhi-i-saldanoi-na-pobieriezhie-amalfi"
+        "/2019/03/duet-postscriptum-amalfi/"
       ],
       "metrics": [
         "8",
-        "6"
+        "10"
       ]
     },
     {
@@ -380,20 +380,29 @@
     },
     {
       "dimensions": [
-        "/2019/03/duet-postscriptum-amalfi/"
+        "/photos"
       ],
       "metrics": [
         "7",
-        "9"
+        "8"
       ]
     },
     {
       "dimensions": [
-        "/experience"
+        "/2018/05/2018-5-23/"
       ],
       "metrics": [
-        "7",
-        "7"
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2019/2/3/presepio-nativity-scene/"
+      ],
+      "metrics": [
+        "5",
+        "5"
       ]
     },
     {
@@ -416,7 +425,16 @@
     },
     {
       "dimensions": [
-        "/2018/05/2018-5-23/"
+        "/experience"
+      ],
+      "metrics": [
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/colatura-di-alici-di-cetara"
       ],
       "metrics": [
         "4",
@@ -425,25 +443,7 @@
     },
     {
       "dimensions": [
-        "/2018/05/elena-tkalich-amalfi/"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2019/11/weather-amalfi/"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2019/2/3/presepio-nativity-scene/"
+        "/blog/how-to-get-to-amalfi"
       ],
       "metrics": [
         "4",
@@ -457,8 +457,17 @@
         "(direct)"
       ],
       "metrics": [
-        "324",
-        "324"
+        "343",
+        "345"
+      ]
+    },
+    {
+      "dimensions": [
+        "google"
+      ],
+      "metrics": [
+        "28",
+        "23"
       ]
     },
     {
@@ -472,20 +481,11 @@
     },
     {
       "dimensions": [
-        "google"
-      ],
-      "metrics": [
-        "20",
-        "18"
-      ]
-    },
-    {
-      "dimensions": [
         "(not set)"
       ],
       "metrics": [
-        "7",
-        "7"
+        "8",
+        "8"
       ]
     },
     {
@@ -495,15 +495,6 @@
       "metrics": [
         "5",
         "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "lenso.ai"
-      ],
-      "metrics": [
-        "2",
-        "1"
       ]
     },
     {
@@ -522,6 +513,15 @@
       "metrics": [
         "1",
         "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "lenso.ai"
+      ],
+      "metrics": [
+        "1",
+        "0"
       ]
     },
     {
@@ -549,17 +549,8 @@
         "Russia"
       ],
       "metrics": [
-        "227",
-        "224"
-      ]
-    },
-    {
-      "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "27",
-        "26"
+        "243",
+        "240"
       ]
     },
     {
@@ -573,11 +564,20 @@
     },
     {
       "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "24",
+        "23"
+      ]
+    },
+    {
+      "dimensions": [
         "Vietnam"
       ],
       "metrics": [
-        "19",
-        "19"
+        "23",
+        "23"
       ]
     },
     {
@@ -585,13 +585,13 @@
         "Italy"
       ],
       "metrics": [
-        "14",
-        "13"
+        "20",
+        "18"
       ]
     },
     {
       "dimensions": [
-        "(not set)"
+        "Venezuela"
       ],
       "metrics": [
         "7",
@@ -600,7 +600,7 @@
     },
     {
       "dimensions": [
-        "Venezuela"
+        "(not set)"
       ],
       "metrics": [
         "6",
@@ -627,7 +627,7 @@
     },
     {
       "dimensions": [
-        "China"
+        "Pakistan"
       ],
       "metrics": [
         "4",
@@ -636,17 +636,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 387,
-    "users": 380,
-    "pageViews": 429,
-    "avgSessionDuration": 34,
+    "sessions": 414,
+    "users": 406,
+    "pageViews": 451,
+    "avgSessionDuration": 36,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 1311,
-    "users": 1270,
-    "pageViews": 1401,
-    "avgSessionDuration": 21,
+    "sessions": 1352,
+    "users": 1314,
+    "pageViews": 1445,
+    "avgSessionDuration": 22,
     "bounceRate": 0.8
   }
 }
