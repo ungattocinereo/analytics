@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-06-09T08:33:06.583Z",
+  "updatedAt": "2026-06-10T08:53:00.523Z",
   "trend": [
     {
       "dimensions": [
@@ -11,6 +11,16 @@
         "36",
         "27",
         "79"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260609"
+      ],
+      "metrics": [
+        "35",
+        "25",
+        "42"
       ]
     },
     {
@@ -185,16 +195,6 @@
     },
     {
       "dimensions": [
-        "20260510"
-      ],
-      "metrics": [
-        "17",
-        "10",
-        "29"
-      ]
-    },
-    {
-      "dimensions": [
         "20260514"
       ],
       "metrics": [
@@ -305,32 +305,32 @@
     },
     {
       "dimensions": [
-        "20260609"
+        "20260610"
       ],
       "metrics": [
-        "4",
-        "2",
-        "4"
+        "1",
+        "0",
+        "1"
       ]
     }
   ],
   "topPages": [
     {
       "dimensions": [
-        "/timetables/"
+        "/parking/"
       ],
       "metrics": [
-        "57",
-        "47"
+        "65",
+        "62"
       ]
     },
     {
       "dimensions": [
-        "/parking/"
+        "/timetables/"
       ],
       "metrics": [
-        "52",
-        "51"
+        "56",
+        "45"
       ]
     },
     {
@@ -339,7 +339,16 @@
       ],
       "metrics": [
         "21",
-        "18"
+        "16"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/license-plate-restrictions-return-to-the-amalfi-coast-april-25-may-2-2/"
+      ],
+      "metrics": [
+        "13",
+        "12"
       ]
     },
     {
@@ -347,22 +356,13 @@
         "/ferry-timetables"
       ],
       "metrics": [
-        "10",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
-        "/directions/"
-      ],
-      "metrics": [
-        "7",
+        "8",
         "7"
       ]
     },
     {
       "dimensions": [
-        "/blog/license-plate-restrictions-return-to-the-amalfi-coast-april-25-may-2-2/"
+        "/directions/"
       ],
       "metrics": [
         "6",
@@ -371,11 +371,11 @@
     },
     {
       "dimensions": [
-        "/timetables"
+        "/how-to-get"
       ],
       "metrics": [
         "6",
-        "3"
+        "4"
       ]
     },
     {
@@ -389,16 +389,34 @@
     },
     {
       "dimensions": [
-        "/how-to-get"
+        "/photoshootings"
       ],
       "metrics": [
-        "5",
+        "3",
         "3"
       ]
     },
     {
       "dimensions": [
-        "/photoshootings"
+        "/timetables"
+      ],
+      "metrics": [
+        "3",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/praiano-turns-into-a-film-set-in-may-with-road-changes-on-the-ss163/"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/parking"
       ],
       "metrics": [
         "2",
@@ -431,24 +449,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "/blog/amalfi-coast-launches-metro-style-bus-network"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/coppa-della-primavera-returns-april-18-19-slalom-racing-on-the-amalfi-coast/"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "sources": [
@@ -457,8 +457,8 @@
         "google"
       ],
       "metrics": [
-        "106",
-        "67"
+        "116",
+        "74"
       ]
     },
     {
@@ -466,13 +466,22 @@
         "(direct)"
       ],
       "metrics": [
-        "21",
-        "13"
+        "18",
+        "10"
       ]
     },
     {
       "dimensions": [
         "chatgpt.com"
+      ],
+      "metrics": [
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "facebook.com"
       ],
       "metrics": [
         "3",
@@ -490,7 +499,25 @@
     },
     {
       "dimensions": [
-        "facebook.com"
+        "lm.facebook.com"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "m.facebook.com"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "amalfi-guide-ungattocinereo-cinereos-projects.vercel.app"
       ],
       "metrics": [
         "1",
@@ -505,15 +532,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "m.facebook.com"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "countries": [
@@ -522,8 +540,8 @@
         "Italy"
       ],
       "metrics": [
-        "30",
-        "24"
+        "32",
+        "25"
       ]
     },
     {
@@ -531,8 +549,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "21",
-        "15"
+        "22",
+        "16"
       ]
     },
     {
@@ -540,8 +558,8 @@
         "United States"
       ],
       "metrics": [
-        "11",
-        "7"
+        "17",
+        "13"
       ]
     },
     {
@@ -549,8 +567,17 @@
         "Australia"
       ],
       "metrics": [
-        "9",
+        "10",
         "0"
+      ]
+    },
+    {
+      "dimensions": [
+        "Finland"
+      ],
+      "metrics": [
+        "7",
+        "2"
       ]
     },
     {
@@ -564,20 +591,20 @@
     },
     {
       "dimensions": [
-        "Finland"
+        "France"
       ],
       "metrics": [
-        "6",
-        "2"
+        "5",
+        "3"
       ]
     },
     {
       "dimensions": [
-        "France"
+        "Norway"
       ],
       "metrics": [
-        "6",
-        "4"
+        "5",
+        "5"
       ]
     },
     {
@@ -585,8 +612,8 @@
         "Spain"
       ],
       "metrics": [
-        "6",
-        "5"
+        "5",
+        "4"
       ]
     },
     {
@@ -597,29 +624,20 @@
         "4",
         "2"
       ]
-    },
-    {
-      "dimensions": [
-        "Romania"
-      ],
-      "metrics": [
-        "4",
-        "0"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 135,
-    "users": 86,
-    "pageViews": 184,
-    "avgSessionDuration": 163,
-    "bounceRate": 0.5
+    "sessions": 150,
+    "users": 98,
+    "pageViews": 201,
+    "avgSessionDuration": 140,
+    "bounceRate": 0.6
   },
   "summary30d": {
-    "sessions": 633,
-    "users": 382,
-    "pageViews": 933,
-    "avgSessionDuration": 197,
+    "sessions": 648,
+    "users": 398,
+    "pageViews": 943,
+    "avgSessionDuration": 187,
     "bounceRate": 0.5
   }
 }
