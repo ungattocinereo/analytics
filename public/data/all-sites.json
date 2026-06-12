@@ -2,26 +2,26 @@
   "Atrani.ru": {
     "name": "Atrani.ru",
     "propertyId": "properties/353046676",
-    "updatedAt": "2026-06-11T09:16:53.534Z",
+    "updatedAt": "2026-06-12T09:02:33.086Z",
     "summary7d": {
-      "sessions": 436,
-      "users": 424,
+      "sessions": 444,
+      "users": 432,
       "pageViews": 468,
-      "avgSessionDuration": 37,
+      "avgSessionDuration": 32,
       "bounceRate": 0.8
     },
     "summary30d": {
-      "sessions": 1392,
-      "users": 1350,
-      "pageViews": 1482,
-      "avgSessionDuration": 22,
+      "sessions": 1429,
+      "users": 1389,
+      "pageViews": 1523,
+      "avgSessionDuration": 23,
       "bounceRate": 0.8
     }
   },
   "Cinereo.it": {
     "name": "Cinereo.it",
     "propertyId": "properties/362803366",
-    "updatedAt": "2026-06-11T09:16:53.645Z",
+    "updatedAt": "2026-06-12T09:02:33.340Z",
     "summary7d": {
       "sessions": 0,
       "users": 0,
@@ -40,109 +40,107 @@
   "amalfi.day": {
     "name": "amalfi.day",
     "propertyId": "properties/306713351",
-    "updatedAt": "2026-06-11T09:17:53.664Z",
-    "error": "API error 502: <!DOCTYPE html>\n<html lang=en>\n  <meta charset=utf-8>\n  <meta name=viewport content=\"initial-scale=1, minimum-scale=1, width=device-width\">\n  <title>Error 502 (Server Error)!!1</title>\n  <style>\n    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}\n  </style>\n  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>\n  <p><b>502.</b> <ins>That’s an error.</ins>\n  <p>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.  <ins>That’s all we know.</ins>\n",
+    "updatedAt": "2026-06-12T09:02:33.578Z",
     "summary7d": {
-      "sessions": 0,
-      "users": 0,
-      "pageViews": 0,
-      "avgSessionDuration": 0,
-      "bounceRate": 0
+      "sessions": 162,
+      "users": 93,
+      "pageViews": 208,
+      "avgSessionDuration": 170,
+      "bounceRate": 0.6
     },
     "summary30d": {
-      "sessions": 0,
-      "users": 0,
-      "pageViews": 0,
-      "avgSessionDuration": 0,
-      "bounceRate": 0
+      "sessions": 651,
+      "users": 396,
+      "pageViews": 939,
+      "avgSessionDuration": 194,
+      "bounceRate": 0.5
     }
   },
   "guide.amalfi.day": {
     "name": "guide.amalfi.day",
     "propertyId": "properties/533587112",
-    "updatedAt": "2026-06-11T09:17:53.753Z",
+    "updatedAt": "2026-06-12T09:02:34.080Z",
     "summary7d": {
-      "sessions": 59,
+      "sessions": 67,
       "users": 24,
-      "pageViews": 301,
-      "avgSessionDuration": 557,
+      "pageViews": 322,
+      "avgSessionDuration": 502,
       "bounceRate": 0.5
     },
     "summary30d": {
-      "sessions": 262,
-      "users": 65,
-      "pageViews": 1387,
-      "avgSessionDuration": 449,
+      "sessions": 264,
+      "users": 67,
+      "pageViews": 1382,
+      "avgSessionDuration": 467,
       "bounceRate": 0.3
     }
   },
   "find.amalfi.day": {
     "name": "find.amalfi.day",
     "propertyId": "properties/531159837",
-    "updatedAt": "2026-06-11T09:17:53.957Z",
+    "updatedAt": "2026-06-12T09:02:34.372Z",
     "summary7d": {
-      "sessions": 65,
+      "sessions": 68,
       "users": 29,
-      "pageViews": 151,
-      "avgSessionDuration": 354,
-      "bounceRate": 0.5
+      "pageViews": 152,
+      "avgSessionDuration": 348,
+      "bounceRate": 0.4
     },
     "summary30d": {
-      "sessions": 227,
+      "sessions": 228,
       "users": 92,
-      "pageViews": 452,
-      "avgSessionDuration": 286,
+      "pageViews": 456,
+      "avgSessionDuration": 284,
       "bounceRate": 0.4
     }
   },
   "Ceramiche Da Mario": {
     "name": "Ceramiche Da Mario",
     "propertyId": "properties/529437415",
-    "updatedAt": "2026-06-11T09:17:59.817Z",
+    "updatedAt": "2026-06-12T09:02:35.106Z",
     "summary7d": {
-      "sessions": 42,
-      "users": 31,
-      "pageViews": 191,
-      "avgSessionDuration": 331,
+      "sessions": 43,
+      "users": 32,
+      "pageViews": 180,
+      "avgSessionDuration": 280,
       "bounceRate": 0.5
     },
     "summary30d": {
-      "sessions": 165,
-      "users": 134,
-      "pageViews": 614,
-      "avgSessionDuration": 170,
+      "sessions": 171,
+      "users": 139,
+      "pageViews": 622,
+      "avgSessionDuration": 164,
       "bounceRate": 0.4
     }
   },
   "Moto Excursions": {
     "name": "Moto Excursions",
     "propertyId": "properties/533663747",
-    "updatedAt": "2026-06-11T09:18:59.837Z",
-    "error": "API error 502: <!DOCTYPE html>\n<html lang=en>\n  <meta charset=utf-8>\n  <meta name=viewport content=\"initial-scale=1, minimum-scale=1, width=device-width\">\n  <title>Error 502 (Server Error)!!1</title>\n  <style>\n    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}\n  </style>\n  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>\n  <p><b>502.</b> <ins>That’s an error.</ins>\n  <p>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.  <ins>That’s all we know.</ins>\n",
+    "updatedAt": "2026-06-12T09:02:35.598Z",
     "summary7d": {
-      "sessions": 0,
-      "users": 0,
-      "pageViews": 0,
-      "avgSessionDuration": 0,
-      "bounceRate": 0
+      "sessions": 4,
+      "users": 4,
+      "pageViews": 4,
+      "avgSessionDuration": 3,
+      "bounceRate": 1
     },
     "summary30d": {
-      "sessions": 0,
-      "users": 0,
-      "pageViews": 0,
-      "avgSessionDuration": 0,
-      "bounceRate": 0
+      "sessions": 43,
+      "users": 29,
+      "pageViews": 100,
+      "avgSessionDuration": 289,
+      "bounceRate": 0.5
     }
   },
   "Katerina": {
     "name": "Katerina",
     "propertyId": "properties/532751253",
-    "updatedAt": "2026-06-11T09:19:00.393Z",
+    "updatedAt": "2026-06-12T09:02:36.300Z",
     "summary7d": {
-      "sessions": 1,
-      "users": 1,
-      "pageViews": 2,
-      "avgSessionDuration": 13,
+      "sessions": 0,
+      "users": 0,
+      "pageViews": 0,
+      "avgSessionDuration": 0,
       "bounceRate": 0
     },
     "summary30d": {
@@ -156,27 +154,26 @@
   "Masha": {
     "name": "Masha",
     "propertyId": "properties/533601370",
-    "updatedAt": "2026-06-11T09:20:00.412Z",
-    "error": "API error 502: <!DOCTYPE html>\n<html lang=en>\n  <meta charset=utf-8>\n  <meta name=viewport content=\"initial-scale=1, minimum-scale=1, width=device-width\">\n  <title>Error 502 (Server Error)!!1</title>\n  <style>\n    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}\n  </style>\n  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>\n  <p><b>502.</b> <ins>That’s an error.</ins>\n  <p>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.  <ins>That’s all we know.</ins>\n",
+    "updatedAt": "2026-06-12T09:02:37.039Z",
     "summary7d": {
-      "sessions": 0,
-      "users": 0,
-      "pageViews": 0,
-      "avgSessionDuration": 0,
-      "bounceRate": 0
+      "sessions": 28,
+      "users": 22,
+      "pageViews": 29,
+      "avgSessionDuration": 94,
+      "bounceRate": 0.8
     },
     "summary30d": {
-      "sessions": 0,
-      "users": 0,
-      "pageViews": 0,
-      "avgSessionDuration": 0,
-      "bounceRate": 0
+      "sessions": 88,
+      "users": 66,
+      "pageViews": 98,
+      "avgSessionDuration": 106,
+      "bounceRate": 0.8
     }
   },
   "Landing (menu.band)": {
     "name": "Landing (menu.band)",
     "propertyId": "properties/529373394",
-    "updatedAt": "2026-06-11T09:20:00.689Z",
+    "updatedAt": "2026-06-12T09:02:37.346Z",
     "summary7d": {
       "sessions": 0,
       "users": 0,
@@ -195,57 +192,57 @@
   "Le Palme": {
     "name": "Le Palme",
     "propertyId": "properties/529531573",
-    "updatedAt": "2026-06-11T09:20:01.758Z",
+    "updatedAt": "2026-06-12T09:02:37.951Z",
     "summary7d": {
-      "sessions": 60,
-      "users": 37,
-      "pageViews": 84,
-      "avgSessionDuration": 151,
-      "bounceRate": 0.5
+      "sessions": 45,
+      "users": 28,
+      "pageViews": 55,
+      "avgSessionDuration": 98,
+      "bounceRate": 0.6
     },
     "summary30d": {
-      "sessions": 190,
+      "sessions": 184,
       "users": 116,
-      "pageViews": 268,
-      "avgSessionDuration": 199,
-      "bounceRate": 0.6
+      "pageViews": 261,
+      "avgSessionDuration": 205,
+      "bounceRate": 0.5
     }
   },
   "Birecto": {
     "name": "Birecto",
     "propertyId": "properties/532901805",
-    "updatedAt": "2026-06-11T09:20:02.659Z",
+    "updatedAt": "2026-06-12T09:02:38.596Z",
     "summary7d": {
-      "sessions": 18,
+      "sessions": 19,
       "users": 13,
-      "pageViews": 21,
+      "pageViews": 22,
       "avgSessionDuration": 6,
       "bounceRate": 0.7
     },
     "summary30d": {
-      "sessions": 72,
-      "users": 49,
-      "pageViews": 100,
-      "avgSessionDuration": 59,
-      "bounceRate": 0.6
+      "sessions": 67,
+      "users": 44,
+      "pageViews": 87,
+      "avgSessionDuration": 52,
+      "bounceRate": 0.7
     }
   },
   "Vittoria": {
     "name": "Vittoria",
     "propertyId": "properties/533254667",
-    "updatedAt": "2026-06-11T09:20:03.217Z",
+    "updatedAt": "2026-06-12T09:02:39.243Z",
     "summary7d": {
-      "sessions": 138,
-      "users": 93,
-      "pageViews": 194,
-      "avgSessionDuration": 108,
-      "bounceRate": 0.6
+      "sessions": 142,
+      "users": 94,
+      "pageViews": 186,
+      "avgSessionDuration": 87,
+      "bounceRate": 0.7
     },
     "summary30d": {
-      "sessions": 521,
-      "users": 358,
-      "pageViews": 692,
-      "avgSessionDuration": 139,
+      "sessions": 540,
+      "users": 373,
+      "pageViews": 715,
+      "avgSessionDuration": 134,
       "bounceRate": 0.6
     }
   }
