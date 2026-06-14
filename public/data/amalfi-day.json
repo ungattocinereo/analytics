@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-06-13T08:24:58.317Z",
+  "updatedAt": "2026-06-14T08:43:02.568Z",
   "trend": [
     {
       "dimensions": [
@@ -91,6 +91,16 @@
         "27",
         "20",
         "44"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260613"
+      ],
+      "metrics": [
+        "27",
+        "18",
+        "37"
       ]
     },
     {
@@ -195,16 +205,6 @@
     },
     {
       "dimensions": [
-        "20260514"
-      ],
-      "metrics": [
-        "17",
-        "11",
-        "22"
-      ]
-    },
-    {
-      "dimensions": [
         "20260602"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260613"
+        "20260614"
       ],
       "metrics": [
         "2",
         "1",
-        "4"
+        "2"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/parking/"
       ],
       "metrics": [
-        "85",
-        "80"
+        "93",
+        "91"
       ]
     },
     {
@@ -338,8 +338,8 @@
         "/"
       ],
       "metrics": [
-        "16",
-        "11"
+        "22",
+        "14"
       ]
     },
     {
@@ -347,8 +347,17 @@
         "/blog/license-plate-restrictions-return-to-the-amalfi-coast-april-25-may-2-2/"
       ],
       "metrics": [
-        "15",
-        "15"
+        "14",
+        "14"
+      ]
+    },
+    {
+      "dimensions": [
+        "/ferry-timetables"
+      ],
+      "metrics": [
+        "11",
+        "11"
       ]
     },
     {
@@ -358,15 +367,6 @@
       "metrics": [
         "10",
         "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/ferry-timetables"
-      ],
-      "metrics": [
-        "9",
-        "9"
       ]
     },
     {
@@ -385,6 +385,15 @@
       "metrics": [
         "5",
         "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photoshootings/regan-tay-ravello"
+      ],
+      "metrics": [
+        "4",
+        "2"
       ]
     },
     {
@@ -434,16 +443,7 @@
     },
     {
       "dimensions": [
-        "/experience/scooter/"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/how-to-get"
+        "/experience/car-tours"
       ],
       "metrics": [
         "1",
@@ -457,8 +457,8 @@
         "google"
       ],
       "metrics": [
-        "146",
-        "79"
+        "151",
+        "83"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "(direct)"
       ],
       "metrics": [
-        "30",
-        "16"
+        "37",
+        "21"
       ]
     },
     {
@@ -475,8 +475,17 @@
         "facebook.com"
       ],
       "metrics": [
-        "6",
-        "6"
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "amalfi-guide-ungattocinereo-cinereos-projects.vercel.app"
+      ],
+      "metrics": [
+        "2",
+        "1"
       ]
     },
     {
@@ -508,7 +517,7 @@
     },
     {
       "dimensions": [
-        "amalfi-guide-ungattocinereo-cinereos-projects.vercel.app"
+        "(not set)"
       ],
       "metrics": [
         "1",
@@ -522,8 +531,8 @@
         "Italy"
       ],
       "metrics": [
-        "42",
-        "33"
+        "52",
+        "39"
       ]
     },
     {
@@ -531,7 +540,7 @@
         "United Kingdom"
       ],
       "metrics": [
-        "27",
+        "26",
         "18"
       ]
     },
@@ -540,8 +549,8 @@
         "Australia"
       ],
       "metrics": [
-        "16",
-        "0"
+        "19",
+        "1"
       ]
     },
     {
@@ -549,8 +558,8 @@
         "United States"
       ],
       "metrics": [
-        "14",
-        "12"
+        "15",
+        "13"
       ]
     },
     {
@@ -558,8 +567,8 @@
         "Finland"
       ],
       "metrics": [
-        "11",
-        "2"
+        "10",
+        "1"
       ]
     },
     {
@@ -582,11 +591,11 @@
     },
     {
       "dimensions": [
-        "Netherlands"
+        "Germany"
       ],
       "metrics": [
         "7",
-        "3"
+        "6"
       ]
     },
     {
@@ -609,17 +618,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 189,
-    "users": 108,
-    "pageViews": 238,
-    "avgSessionDuration": 156,
+    "sessions": 202,
+    "users": 117,
+    "pageViews": 257,
+    "avgSessionDuration": 161,
     "bounceRate": 0.6
   },
   "summary30d": {
-    "sessions": 667,
-    "users": 403,
-    "pageViews": 939,
-    "avgSessionDuration": 181,
-    "bounceRate": 0.5
+    "sessions": 677,
+    "users": 408,
+    "pageViews": 952,
+    "avgSessionDuration": 179,
+    "bounceRate": 0.6
   }
 }

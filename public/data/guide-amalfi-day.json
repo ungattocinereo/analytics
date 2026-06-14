@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-06-13T08:24:59.562Z",
+  "updatedAt": "2026-06-14T08:43:03.051Z",
   "trend": [
     {
       "dimensions": [
@@ -11,6 +11,16 @@
         "27",
         "8",
         "124"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260613"
+      ],
+      "metrics": [
+        "18",
+        "6",
+        "97"
       ]
     },
     {
@@ -50,17 +60,7 @@
       "metrics": [
         "14",
         "4",
-        "52"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260514"
-      ],
-      "metrics": [
-        "13",
-        "6",
-        "100"
+        "60"
       ]
     },
     {
@@ -245,6 +245,16 @@
     },
     {
       "dimensions": [
+        "20260614"
+      ],
+      "metrics": [
+        "5",
+        "3",
+        "22"
+      ]
+    },
+    {
+      "dimensions": [
         "20260517"
       ],
       "metrics": [
@@ -310,8 +320,35 @@
         "/"
       ],
       "metrics": [
-        "139",
-        "52"
+        "194",
+        "69"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/church-santa-maria-del-bando"
+      ],
+      "metrics": [
+        "14",
+        "11"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/lo-smeraldino-amalfi"
+      ],
+      "metrics": [
+        "14",
+        "10"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/le-palme-atrani"
+      ],
+      "metrics": [
+        "13",
+        "11"
       ]
     },
     {
@@ -319,7 +356,7 @@
         "/place/il-birecto-atrani"
       ],
       "metrics": [
-        "13",
+        "12",
         "12"
       ]
     },
@@ -334,29 +371,20 @@
     },
     {
       "dimensions": [
-        "/place/le-palme-atrani"
+        "/place/waterfall-of-atrani"
       ],
       "metrics": [
-        "11",
-        "7"
+        "10",
+        "8"
       ]
     },
     {
       "dimensions": [
-        "/place/church-santa-maria-del-bando"
+        "/place/apicella-bakery-amalfi"
       ],
       "metrics": [
-        "9",
+        "8",
         "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/lo-smeraldino-amalfi"
-      ],
-      "metrics": [
-        "9",
-        "5"
       ]
     },
     {
@@ -364,13 +392,22 @@
         "/place/church-of-saint-mary-magdalene"
       ],
       "metrics": [
-        "7",
-        "7"
+        "8",
+        "8"
       ]
     },
     {
       "dimensions": [
-        "/place/waterfall-of-atrani"
+        "/place/le-arcate-atrani"
+      ],
+      "metrics": [
+        "8",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/castiglione-beach-lido-di-ravello"
       ],
       "metrics": [
         "7",
@@ -379,7 +416,16 @@
     },
     {
       "dimensions": [
-        "/place/le-arcate-atrani"
+        "/de"
+      ],
+      "metrics": [
+        "6",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/belvedere-of-san-lorenzo"
       ],
       "metrics": [
         "6",
@@ -388,38 +434,11 @@
     },
     {
       "dimensions": [
-        "/de"
-      ],
-      "metrics": [
-        "5",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/belvedere-of-san-lorenzo"
-      ],
-      "metrics": [
-        "5",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/castiglione-beach-lido-di-ravello"
-      ],
-      "metrics": [
-        "5",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
         "/place/la-grande-mela-supermarket-deco-amalfi"
       ],
       "metrics": [
-        "4",
-        "4"
+        "6",
+        "6"
       ]
     },
     {
@@ -427,17 +446,8 @@
         "/place/aparanza-atrani"
       ],
       "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/duomo-di-santandrea-amalfi-cathedral"
-      ],
-      "metrics": [
-        "3",
-        "2"
+        "5",
+        "5"
       ]
     }
   ],
@@ -447,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "61",
-        "18"
+        "79",
+        "21"
       ]
     },
     {
@@ -456,8 +466,8 @@
         "(not set)"
       ],
       "metrics": [
-        "8",
-        "4"
+        "9",
+        "6"
       ]
     },
     {
@@ -485,8 +495,8 @@
         "Italy"
       ],
       "metrics": [
-        "50",
-        "15"
+        "64",
+        "18"
       ]
     },
     {
@@ -494,17 +504,8 @@
         "United States"
       ],
       "metrics": [
-        "5",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "Canada"
-      ],
-      "metrics": [
-        "3",
-        "2"
+        "7",
+        "3"
       ]
     },
     {
@@ -512,8 +513,26 @@
         "Denmark"
       ],
       "metrics": [
-        "2",
+        "4",
         "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Germany"
+      ],
+      "metrics": [
+        "3",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Canada"
+      ],
+      "metrics": [
+        "2",
+        "2"
       ]
     },
     {
@@ -527,10 +546,19 @@
     },
     {
       "dimensions": [
-        "Germany"
+        "Czechia"
       ],
       "metrics": [
-        "2",
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Finland"
+      ],
+      "metrics": [
+        "1",
         "1"
       ]
     },
@@ -551,38 +579,20 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "Japan"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Norway"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 65,
-    "users": 20,
-    "pageViews": 265,
-    "avgSessionDuration": 441,
+    "sessions": 85,
+    "users": 24,
+    "pageViews": 365,
+    "avgSessionDuration": 450,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 270,
-    "users": 67,
-    "pageViews": 1382,
-    "avgSessionDuration": 454,
+    "sessions": 280,
+    "users": 68,
+    "pageViews": 1409,
+    "avgSessionDuration": 455,
     "bounceRate": 0.3
   }
 }

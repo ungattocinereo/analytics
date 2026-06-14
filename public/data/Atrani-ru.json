@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-06-13T08:24:57.533Z",
+  "updatedAt": "2026-06-14T08:43:01.698Z",
   "trend": [
     {
       "dimensions": [
@@ -31,6 +31,16 @@
         "72",
         "68",
         "71"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260613"
+      ],
+      "metrics": [
+        "72",
+        "67",
+        "72"
       ]
     },
     {
@@ -295,22 +305,12 @@
     },
     {
       "dimensions": [
-        "20260514"
+        "20260614"
       ],
       "metrics": [
-        "19",
-        "19",
-        "19"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260613"
-      ],
-      "metrics": [
-        "19",
-        "18",
-        "19"
+        "24",
+        "24",
+        "24"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "265",
-        "264"
+        "282",
+        "282"
       ]
     },
     {
@@ -344,7 +344,25 @@
     },
     {
       "dimensions": [
+        "/blog/netflix-snimaiet-film-positano-s-makkonakhi-i-saldanoi-na-pobieriezhie-amalfi"
+      ],
+      "metrics": [
+        "16",
+        "13"
+      ]
+    },
+    {
+      "dimensions": [
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
+      ],
+      "metrics": [
+        "16",
+        "16"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2019/03/duet-postscriptum-amalfi/"
       ],
       "metrics": [
         "15",
@@ -353,29 +371,11 @@
     },
     {
       "dimensions": [
-        "/2019/03/duet-postscriptum-amalfi/"
-      ],
-      "metrics": [
-        "13",
-        "14"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/netflix-snimaiet-film-positano-s-makkonakhi-i-saldanoi-na-pobieriezhie-amalfi"
-      ],
-      "metrics": [
-        "12",
-        "11"
-      ]
-    },
-    {
-      "dimensions": [
         "/2019/11/weather-amalfi/"
       ],
       "metrics": [
-        "11",
-        "11"
+        "9",
+        "9"
       ]
     },
     {
@@ -389,28 +389,10 @@
     },
     {
       "dimensions": [
-        "/2019/01/colatura-di-alici-di-cetara/"
-      ],
-      "metrics": [
-        "6",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog"
       ],
       "metrics": [
         "6",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2020/04/la-caravella/"
-      ],
-      "metrics": [
-        "5",
         "6"
       ]
     },
@@ -443,7 +425,25 @@
     },
     {
       "dimensions": [
-        "/2019/2/3/presepio-nativity-scene/"
+        "/2020/04/la-caravella/"
+      ],
+      "metrics": [
+        "4",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2021/09/positano-steibek/"
+      ],
+      "metrics": [
+        "4",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/author/cinereo/page/7/"
       ],
       "metrics": [
         "4",
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "414",
-        "409"
+        "429",
+        "422"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "22",
-        "16"
+        "21",
+        "15"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "18",
-        "16"
+        "14",
+        "12"
       ]
     },
     {
@@ -490,20 +490,20 @@
     },
     {
       "dimensions": [
-        "ya.ru"
+        "(not set)"
       ],
       "metrics": [
         "7",
-        "4"
+        "7"
       ]
     },
     {
       "dimensions": [
-        "(not set)"
+        "ya.ru"
       ],
       "metrics": [
-        "6",
-        "6"
+        "7",
+        "3"
       ]
     },
     {
@@ -540,8 +540,8 @@
         "Russia"
       ],
       "metrics": [
-        "259",
-        "253"
+        "271",
+        "264"
       ]
     },
     {
@@ -549,17 +549,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "45",
-        "45"
-      ]
-    },
-    {
-      "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "32",
-        "31"
+        "51",
+        "51"
       ]
     },
     {
@@ -567,8 +558,17 @@
         "Vietnam"
       ],
       "metrics": [
-        "30",
-        "30"
+        "33",
+        "33"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "29",
+        "28"
       ]
     },
     {
@@ -577,7 +577,7 @@
       ],
       "metrics": [
         "25",
-        "19"
+        "17"
       ]
     },
     {
@@ -585,8 +585,8 @@
         "(not set)"
       ],
       "metrics": [
-        "6",
-        "6"
+        "7",
+        "7"
       ]
     },
     {
@@ -594,8 +594,8 @@
         "Bangladesh"
       ],
       "metrics": [
-        "6",
-        "6"
+        "5",
+        "5"
       ]
     },
     {
@@ -603,13 +603,13 @@
         "China"
       ],
       "metrics": [
-        "6",
-        "6"
+        "5",
+        "5"
       ]
     },
     {
       "dimensions": [
-        "Mexico"
+        "Iraq"
       ],
       "metrics": [
         "5",
@@ -618,25 +618,25 @@
     },
     {
       "dimensions": [
-        "Türkiye"
+        "Poland"
       ],
       "metrics": [
         "5",
-        "5"
+        "3"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 484,
-    "users": 467,
-    "pageViews": 507,
-    "avgSessionDuration": 29,
+    "sessions": 495,
+    "users": 475,
+    "pageViews": 518,
+    "avgSessionDuration": 24,
     "bounceRate": 0.9
   },
   "summary30d": {
-    "sessions": 1495,
-    "users": 1454,
-    "pageViews": 1591,
+    "sessions": 1555,
+    "users": 1508,
+    "pageViews": 1649,
     "avgSessionDuration": 22,
     "bounceRate": 0.8
   }
