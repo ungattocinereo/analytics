@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-06-14T08:43:03.051Z",
+  "updatedAt": "2026-06-15T10:57:20.295Z",
   "trend": [
     {
       "dimensions": [
@@ -20,7 +20,7 @@
       "metrics": [
         "18",
         "6",
-        "97"
+        "114"
       ]
     },
     {
@@ -145,6 +145,16 @@
     },
     {
       "dimensions": [
+        "20260614"
+      ],
+      "metrics": [
+        "9",
+        "5",
+        "38"
+      ]
+    },
+    {
+      "dimensions": [
         "20260523"
       ],
       "metrics": [
@@ -171,16 +181,6 @@
         "8",
         "3",
         "67"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260515"
-      ],
-      "metrics": [
-        "7",
-        "4",
-        "43"
       ]
     },
     {
@@ -245,16 +245,6 @@
     },
     {
       "dimensions": [
-        "20260614"
-      ],
-      "metrics": [
-        "5",
-        "3",
-        "22"
-      ]
-    },
-    {
-      "dimensions": [
         "20260517"
       ],
       "metrics": [
@@ -312,6 +302,16 @@
         "0",
         "2"
       ]
+    },
+    {
+      "dimensions": [
+        "20260615"
+      ],
+      "metrics": [
+        "1",
+        "0",
+        "1"
+      ]
     }
   ],
   "topPages": [
@@ -320,8 +320,26 @@
         "/"
       ],
       "metrics": [
-        "194",
-        "69"
+        "206",
+        "68"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/le-palme-atrani"
+      ],
+      "metrics": [
+        "15",
+        "11"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/lo-smeraldino-amalfi"
+      ],
+      "metrics": [
+        "15",
+        "11"
       ]
     },
     {
@@ -335,38 +353,11 @@
     },
     {
       "dimensions": [
-        "/place/lo-smeraldino-amalfi"
-      ],
-      "metrics": [
-        "14",
-        "10"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/le-palme-atrani"
-      ],
-      "metrics": [
-        "13",
-        "11"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/il-birecto-atrani"
-      ],
-      "metrics": [
-        "12",
-        "12"
-      ]
-    },
-    {
-      "dimensions": [
         "/place/secret-waterfall-valle-dei-mulini"
       ],
       "metrics": [
-        "12",
-        "9"
+        "14",
+        "11"
       ]
     },
     {
@@ -380,11 +371,20 @@
     },
     {
       "dimensions": [
+        "/place/castiglione-beach-lido-di-ravello"
+      ],
+      "metrics": [
+        "9",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
         "/place/apicella-bakery-amalfi"
       ],
       "metrics": [
         "8",
-        "7"
+        "8"
       ]
     },
     {
@@ -398,20 +398,29 @@
     },
     {
       "dimensions": [
-        "/place/le-arcate-atrani"
+        "/place/belvedere-of-san-lorenzo"
       ],
       "metrics": [
-        "8",
+        "7",
         "5"
       ]
     },
     {
       "dimensions": [
-        "/place/castiglione-beach-lido-di-ravello"
+        "/place/il-birecto-atrani"
       ],
       "metrics": [
         "7",
-        "5"
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/ravello-infinity-terrace-villa-cimbrone"
+      ],
+      "metrics": [
+        "7",
+        "6"
       ]
     },
     {
@@ -425,29 +434,20 @@
     },
     {
       "dimensions": [
-        "/place/belvedere-of-san-lorenzo"
+        "/place/la-tramontina-amalfi"
+      ],
+      "metrics": [
+        "6",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/le-arcate-atrani"
       ],
       "metrics": [
         "6",
         "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/la-grande-mela-supermarket-deco-amalfi"
-      ],
-      "metrics": [
-        "6",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/aparanza-atrani"
-      ],
-      "metrics": [
-        "5",
-        "5"
       ]
     }
   ],
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "79",
-        "21"
+        "81",
+        "20"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "(not set)"
       ],
       "metrics": [
-        "9",
-        "6"
+        "4",
+        "3"
       ]
     },
     {
@@ -495,8 +495,8 @@
         "Italy"
       ],
       "metrics": [
-        "64",
-        "18"
+        "61",
+        "16"
       ]
     },
     {
@@ -528,19 +528,19 @@
     },
     {
       "dimensions": [
-        "Canada"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "France"
       ],
       "metrics": [
         "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Canada"
+      ],
+      "metrics": [
+        "1",
         "1"
       ]
     },
@@ -582,17 +582,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 85,
-    "users": 24,
-    "pageViews": 365,
-    "avgSessionDuration": 450,
-    "bounceRate": 0.5
+    "sessions": 83,
+    "users": 22,
+    "pageViews": 380,
+    "avgSessionDuration": 486,
+    "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 280,
+    "sessions": 278,
     "users": 68,
-    "pageViews": 1409,
-    "avgSessionDuration": 455,
+    "pageViews": 1400,
+    "avgSessionDuration": 464,
     "bounceRate": 0.3
   }
 }
