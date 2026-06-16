@@ -1,18 +1,8 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-06-15T10:57:19.776Z",
+  "updatedAt": "2026-06-16T10:14:13.686Z",
   "trend": [
-    {
-      "dimensions": [
-        "20260516"
-      ],
-      "metrics": [
-        "36",
-        "27",
-        "79"
-      ]
-    },
     {
       "dimensions": [
         "20260609"
@@ -21,6 +11,16 @@
         "35",
         "25",
         "42"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260615"
+      ],
+      "metrics": [
+        "34",
+        "24",
+        "44"
       ]
     },
     {
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260615"
+        "20260616"
       ],
       "metrics": [
         "4",
-        "2",
-        "3"
+        "1",
+        "4"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/parking/"
       ],
       "metrics": [
-        "94",
-        "91"
+        "87",
+        "85"
       ]
     },
     {
@@ -329,8 +329,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "70",
-        "59"
+        "65",
+        "57"
       ]
     },
     {
@@ -338,8 +338,8 @@
         "/"
       ],
       "metrics": [
-        "33",
-        "19"
+        "35",
+        "20"
       ]
     },
     {
@@ -347,8 +347,8 @@
         "/ferry-timetables"
       ],
       "metrics": [
-        "23",
-        "16"
+        "22",
+        "15"
       ]
     },
     {
@@ -356,17 +356,8 @@
         "/blog/license-plate-restrictions-return-to-the-amalfi-coast-april-25-may-2-2/"
       ],
       "metrics": [
-        "15",
-        "15"
-      ]
-    },
-    {
-      "dimensions": [
-        "/timetables"
-      ],
-      "metrics": [
-        "11",
-        "5"
+        "20",
+        "19"
       ]
     },
     {
@@ -383,8 +374,26 @@
         "/photolocations"
       ],
       "metrics": [
-        "8",
-        "7"
+        "9",
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "/timetables"
+      ],
+      "metrics": [
+        "9",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/directions/"
+      ],
+      "metrics": [
+        "5",
+        "5"
       ]
     },
     {
@@ -398,11 +407,11 @@
     },
     {
       "dimensions": [
-        "/directions/"
+        "/parking"
       ],
       "metrics": [
         "4",
-        "4"
+        "3"
       ]
     },
     {
@@ -411,6 +420,15 @@
       ],
       "metrics": [
         "4",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/moto"
+      ],
+      "metrics": [
+        "3",
         "2"
       ]
     },
@@ -431,24 +449,6 @@
         "2",
         "2"
       ]
-    },
-    {
-      "dimensions": [
-        "/experience/car-tours"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/parking"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
     }
   ],
   "sources": [
@@ -457,8 +457,8 @@
         "google"
       ],
       "metrics": [
-        "152",
-        "86"
+        "148",
+        "84"
       ]
     },
     {
@@ -466,8 +466,17 @@
         "(direct)"
       ],
       "metrics": [
-        "39",
-        "21"
+        "40",
+        "23"
+      ]
+    },
+    {
+      "dimensions": [
+        "chatgpt.com"
+      ],
+      "metrics": [
+        "8",
+        "8"
       ]
     },
     {
@@ -490,15 +499,6 @@
     },
     {
       "dimensions": [
-        "chatgpt.com"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
         "lm.facebook.com"
       ],
       "metrics": [
@@ -508,7 +508,7 @@
     },
     {
       "dimensions": [
-        "(not set)"
+        "gemini.google.com"
       ],
       "metrics": [
         "1",
@@ -531,8 +531,8 @@
         "Italy"
       ],
       "metrics": [
-        "59",
-        "42"
+        "73",
+        "52"
       ]
     },
     {
@@ -540,8 +540,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "27",
-        "19"
+        "20",
+        "13"
       ]
     },
     {
@@ -558,8 +558,17 @@
         "United States"
       ],
       "metrics": [
-        "14",
-        "11"
+        "17",
+        "13"
+      ]
+    },
+    {
+      "dimensions": [
+        "Netherlands"
+      ],
+      "metrics": [
+        "13",
+        "8"
       ]
     },
     {
@@ -567,8 +576,8 @@
         "Norway"
       ],
       "metrics": [
-        "10",
-        "10"
+        "11",
+        "11"
       ]
     },
     {
@@ -582,24 +591,6 @@
     },
     {
       "dimensions": [
-        "Netherlands"
-      ],
-      "metrics": [
-        "9",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "Finland"
-      ],
-      "metrics": [
-        "8",
-        "0"
-      ]
-    },
-    {
-      "dimensions": [
         "Germany"
       ],
       "metrics": [
@@ -609,26 +600,35 @@
     },
     {
       "dimensions": [
-        "France"
+        "Finland"
       ],
       "metrics": [
         "6",
-        "4"
+        "0"
+      ]
+    },
+    {
+      "dimensions": [
+        "Brazil"
+      ],
+      "metrics": [
+        "4",
+        "1"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 209,
-    "users": 122,
-    "pageViews": 295,
-    "avgSessionDuration": 201,
+    "sessions": 210,
+    "users": 126,
+    "pageViews": 293,
+    "avgSessionDuration": 169,
     "bounceRate": 0.6
   },
   "summary30d": {
     "sessions": 675,
-    "users": 412,
-    "pageViews": 969,
-    "avgSessionDuration": 191,
+    "users": 409,
+    "pageViews": 935,
+    "avgSessionDuration": 178,
     "bounceRate": 0.6
   }
 }
