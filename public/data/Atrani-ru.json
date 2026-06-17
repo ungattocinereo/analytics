@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-06-16T10:14:12.656Z",
+  "updatedAt": "2026-06-17T09:53:21.665Z",
   "trend": [
     {
       "dimensions": [
@@ -121,16 +121,6 @@
         "54",
         "53",
         "53"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260517"
-      ],
-      "metrics": [
-        "53",
-        "52",
-        "61"
       ]
     },
     {
@@ -255,6 +245,16 @@
     },
     {
       "dimensions": [
+        "20260616"
+      ],
+      "metrics": [
+        "41",
+        "40",
+        "43"
+      ]
+    },
+    {
+      "dimensions": [
         "20260530"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260616"
+        "20260617"
       ],
       "metrics": [
         "13",
         "13",
-        "16"
+        "13"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "260",
-        "255"
+        "242",
+        "238"
       ]
     },
     {
@@ -329,8 +329,8 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "19",
-        "18"
+        "20",
+        "20"
       ]
     },
     {
@@ -338,17 +338,17 @@
         "/2019/03/duet-postscriptum-amalfi/"
       ],
       "metrics": [
-        "16",
-        "16"
+        "18",
+        "18"
       ]
     },
     {
       "dimensions": [
-        "/blog/"
+        "/2019/11/weather-amalfi/"
       ],
       "metrics": [
-        "16",
-        "16"
+        "17",
+        "17"
       ]
     },
     {
@@ -362,11 +362,11 @@
     },
     {
       "dimensions": [
-        "/2019/11/weather-amalfi/"
+        "/2020/04/shoping-quarantine/"
       ],
       "metrics": [
-        "14",
-        "14"
+        "8",
+        "9"
       ]
     },
     {
@@ -374,7 +374,16 @@
         "/blog"
       ],
       "metrics": [
-        "10",
+        "8",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/"
+      ],
+      "metrics": [
+        "8",
         "8"
       ]
     },
@@ -401,17 +410,17 @@
         "/2018/07/vintage-cars-amalfi-drive/"
       ],
       "metrics": [
-        "7",
-        "7"
+        "6",
+        "6"
       ]
     },
     {
       "dimensions": [
-        "/2020/04/shoping-quarantine/"
+        "/blog/how-to-get-to-amalfi"
       ],
       "metrics": [
         "6",
-        "7"
+        "6"
       ]
     },
     {
@@ -440,15 +449,6 @@
         "5",
         "5"
       ]
-    },
-    {
-      "dimensions": [
-        "/blog/giorgio-armani-vybral-raviello-dlia-kampanii-mare-2026"
-      ],
-      "metrics": [
-        "5",
-        "3"
-      ]
     }
   ],
   "sources": [
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "419",
-        "405"
+        "394",
+        "380"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "23",
-        "18"
+        "26",
+        "21"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "15",
-        "13"
+        "16",
+        "14"
       ]
     },
     {
@@ -493,8 +493,8 @@
         "ya.ru"
       ],
       "metrics": [
-        "7",
-        "2"
+        "6",
+        "1"
       ]
     },
     {
@@ -540,8 +540,8 @@
         "Russia"
       ],
       "metrics": [
-        "243",
-        "237"
+        "233",
+        "227"
       ]
     },
     {
@@ -549,8 +549,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "47",
-        "47"
+        "42",
+        "42"
       ]
     },
     {
@@ -558,8 +558,8 @@
         "Italy"
       ],
       "metrics": [
-        "38",
-        "19"
+        "36",
+        "18"
       ]
     },
     {
@@ -576,22 +576,31 @@
         "United States"
       ],
       "metrics": [
-        "29",
-        "28"
-      ]
-    },
-    {
-      "dimensions": [
-        "India"
-      ],
-      "metrics": [
-        "8",
-        "8"
+        "21",
+        "20"
       ]
     },
     {
       "dimensions": [
         "(not set)"
+      ],
+      "metrics": [
+        "7",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "Bangladesh"
+      ],
+      "metrics": [
+        "7",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "India"
       ],
       "metrics": [
         "7",
@@ -609,15 +618,6 @@
     },
     {
       "dimensions": [
-        "China"
-      ],
-      "metrics": [
-        "6",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
         "Iraq"
       ],
       "metrics": [
@@ -627,17 +627,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 485,
-    "users": 458,
-    "pageViews": 519,
-    "avgSessionDuration": 34,
+    "sessions": 463,
+    "users": 436,
+    "pageViews": 494,
+    "avgSessionDuration": 33,
     "bounceRate": 0.9
   },
   "summary30d": {
-    "sessions": 1582,
-    "users": 1525,
-    "pageViews": 1687,
-    "avgSessionDuration": 25,
+    "sessions": 1568,
+    "users": 1513,
+    "pageViews": 1666,
+    "avgSessionDuration": 26,
     "bounceRate": 0.8
   }
 }

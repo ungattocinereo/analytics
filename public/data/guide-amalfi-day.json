@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-06-16T10:14:14.256Z",
+  "updatedAt": "2026-06-17T09:53:23.077Z",
   "trend": [
     {
       "dimensions": [
@@ -80,7 +80,7 @@
       "metrics": [
         "13",
         "4",
-        "82"
+        "92"
       ]
     },
     {
@@ -255,16 +255,6 @@
     },
     {
       "dimensions": [
-        "20260517"
-      ],
-      "metrics": [
-        "4",
-        "1",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
         "20260606"
       ],
       "metrics": [
@@ -308,9 +298,19 @@
         "20260616"
       ],
       "metrics": [
+        "2",
         "1",
-        "0",
-        "0"
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260617"
+      ],
+      "metrics": [
+        "2",
+        "1",
+        "2"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "224",
-        "73"
+        "220",
+        "69"
       ]
     },
     {
@@ -329,17 +329,26 @@
         "/place/church-santa-maria-del-bando"
       ],
       "metrics": [
-        "16",
-        "13"
+        "15",
+        "12"
       ]
     },
     {
       "dimensions": [
-        "/place/secret-waterfall-valle-dei-mulini"
+        "/place/belvedere-of-san-lorenzo"
       ],
       "metrics": [
         "14",
-        "13"
+        "10"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/castiglione-beach-lido-di-ravello"
+      ],
+      "metrics": [
+        "14",
+        "11"
       ]
     },
     {
@@ -353,20 +362,11 @@
     },
     {
       "dimensions": [
-        "/place/belvedere-of-san-lorenzo"
+        "/place/secret-waterfall-valle-dei-mulini"
       ],
       "metrics": [
         "13",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/castiglione-beach-lido-di-ravello"
-      ],
-      "metrics": [
-        "13",
-        "11"
+        "12"
       ]
     },
     {
@@ -393,7 +393,7 @@
       ],
       "metrics": [
         "9",
-        "9"
+        "8"
       ]
     },
     {
@@ -407,20 +407,20 @@
     },
     {
       "dimensions": [
-        "/place/la-tramontina-amalfi"
-      ],
-      "metrics": [
-        "8",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
         "/place/lo-smeraldino-amalfi"
       ],
       "metrics": [
         "8",
         "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/la-tramontina-amalfi"
+      ],
+      "metrics": [
+        "7",
+        "6"
       ]
     },
     {
@@ -434,7 +434,7 @@
     },
     {
       "dimensions": [
-        "/place/il-birecto-atrani"
+        "/place/la-grande-mela-supermarket-deco-amalfi"
       ],
       "metrics": [
         "6",
@@ -443,7 +443,7 @@
     },
     {
       "dimensions": [
-        "/place/la-grande-mela-supermarket-deco-amalfi"
+        "/place/path-of-the-gods-sentiero-degli-dei"
       ],
       "metrics": [
         "6",
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "84",
-        "20"
+        "81",
+        "17"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "(not set)"
       ],
       "metrics": [
-        "6",
-        "3"
+        "3",
+        "1"
       ]
     },
     {
@@ -486,8 +486,8 @@
         "Italy"
       ],
       "metrics": [
-        "64",
-        "15"
+        "60",
+        "13"
       ]
     },
     {
@@ -495,7 +495,7 @@
         "United States"
       ],
       "metrics": [
-        "8",
+        "11",
         "4"
       ]
     },
@@ -573,17 +573,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 86,
-    "users": 21,
-    "pageViews": 417,
-    "avgSessionDuration": 537,
-    "bounceRate": 0.4
+    "sessions": 83,
+    "users": 18,
+    "pageViews": 413,
+    "avgSessionDuration": 527,
+    "bounceRate": 0.3
   },
   "summary30d": {
-    "sessions": 288,
-    "users": 70,
-    "pageViews": 1482,
-    "avgSessionDuration": 486,
+    "sessions": 287,
+    "users": 69,
+    "pageViews": 1492,
+    "avgSessionDuration": 482,
     "bounceRate": 0.3
   }
 }
