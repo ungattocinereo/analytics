@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-06-17T09:53:22.605Z",
+  "updatedAt": "2026-06-18T09:19:35.856Z",
   "trend": [
     {
       "dimensions": [
@@ -75,16 +75,6 @@
     },
     {
       "dimensions": [
-        "20260518"
-      ],
-      "metrics": [
-        "27",
-        "20",
-        "44"
-      ]
-    },
-    {
-      "dimensions": [
         "20260616"
       ],
       "metrics": [
@@ -121,6 +111,16 @@
         "24",
         "19",
         "61"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260617"
+      ],
+      "metrics": [
+        "24",
+        "11",
+        "28"
       ]
     },
     {
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260617"
+        "20260618"
       ],
       "metrics": [
-        "4",
-        "2",
-        "5"
+        "3",
+        "1",
+        "4"
       ]
     }
   ],
@@ -321,7 +321,7 @@
       ],
       "metrics": [
         "76",
-        "75"
+        "74"
       ]
     },
     {
@@ -329,8 +329,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "69",
-        "58"
+        "58",
+        "48"
       ]
     },
     {
@@ -338,8 +338,8 @@
         "/"
       ],
       "metrics": [
-        "33",
-        "20"
+        "35",
+        "21"
       ]
     },
     {
@@ -347,8 +347,8 @@
         "/ferry-timetables"
       ],
       "metrics": [
-        "24",
-        "19"
+        "22",
+        "17"
       ]
     },
     {
@@ -356,8 +356,8 @@
         "/blog/license-plate-restrictions-return-to-the-amalfi-coast-april-25-may-2-2/"
       ],
       "metrics": [
-        "17",
-        "15"
+        "19",
+        "16"
       ]
     },
     {
@@ -374,26 +374,8 @@
         "/photolocations"
       ],
       "metrics": [
-        "9",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "/timetables"
-      ],
-      "metrics": [
-        "9",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/directions/"
-      ],
-      "metrics": [
-        "5",
-        "5"
+        "7",
+        "7"
       ]
     },
     {
@@ -408,6 +390,15 @@
     {
       "dimensions": [
         "/contact"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/directions/"
       ],
       "metrics": [
         "4",
@@ -449,6 +440,15 @@
         "3",
         "2"
       ]
+    },
+    {
+      "dimensions": [
+        "/blog/metro-del-mare-is-back-amalfi-coast-to-cilento-by-sea/"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
     }
   ],
   "sources": [
@@ -457,8 +457,8 @@
         "google"
       ],
       "metrics": [
-        "144",
-        "83"
+        "139",
+        "78"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "(direct)"
       ],
       "metrics": [
-        "41",
-        "23"
+        "37",
+        "22"
       ]
     },
     {
@@ -481,20 +481,20 @@
     },
     {
       "dimensions": [
-        "facebook.com"
+        "amalfi-guide-ungattocinereo-cinereos-projects.vercel.app"
       ],
       "metrics": [
         "4",
-        "4"
+        "1"
       ]
     },
     {
       "dimensions": [
-        "amalfi-guide-ungattocinereo-cinereos-projects.vercel.app"
+        "facebook.com"
       ],
       "metrics": [
         "3",
-        "1"
+        "3"
       ]
     },
     {
@@ -522,8 +522,8 @@
         "Italy"
       ],
       "metrics": [
-        "71",
-        "54"
+        "73",
+        "52"
       ]
     },
     {
@@ -531,7 +531,7 @@
         "Australia"
       ],
       "metrics": [
-        "18",
+        "17",
         "4"
       ]
     },
@@ -541,7 +541,7 @@
       ],
       "metrics": [
         "15",
-        "10"
+        "9"
       ]
     },
     {
@@ -550,7 +550,7 @@
       ],
       "metrics": [
         "14",
-        "8"
+        "9"
       ]
     },
     {
@@ -558,7 +558,7 @@
         "Netherlands"
       ],
       "metrics": [
-        "13",
+        "11",
         "8"
       ]
     },
@@ -567,35 +567,8 @@
         "Germany"
       ],
       "metrics": [
-        "11",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
-        "Belarus"
-      ],
-      "metrics": [
         "9",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "Norway"
-      ],
-      "metrics": [
-        "6",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "Finland"
-      ],
-      "metrics": [
-        "5",
-        "0"
+        "8"
       ]
     },
     {
@@ -603,23 +576,50 @@
         "Poland"
       ],
       "metrics": [
+        "8",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "Belarus"
+      ],
+      "metrics": [
+        "6",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Norway"
+      ],
+      "metrics": [
         "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "France"
+      ],
+      "metrics": [
+        "4",
         "3"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 201,
-    "users": 118,
-    "pageViews": 283,
-    "avgSessionDuration": 181,
+    "sessions": 192,
+    "users": 111,
+    "pageViews": 266,
+    "avgSessionDuration": 165,
     "bounceRate": 0.6
   },
   "summary30d": {
-    "sessions": 669,
-    "users": 404,
-    "pageViews": 921,
-    "avgSessionDuration": 173,
+    "sessions": 664,
+    "users": 395,
+    "pageViews": 904,
+    "avgSessionDuration": 167,
     "bounceRate": 0.6
   }
 }
