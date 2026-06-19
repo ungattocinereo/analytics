@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-06-18T09:19:35.003Z",
+  "updatedAt": "2026-06-19T09:46:44.635Z",
   "trend": [
     {
       "dimensions": [
@@ -195,16 +195,6 @@
     },
     {
       "dimensions": [
-        "20260519"
-      ],
-      "metrics": [
-        "44",
-        "43",
-        "44"
-      ]
-    },
-    {
-      "dimensions": [
         "20260529"
       ],
       "metrics": [
@@ -275,6 +265,16 @@
     },
     {
       "dimensions": [
+        "20260618"
+      ],
+      "metrics": [
+        "35",
+        "33",
+        "35"
+      ]
+    },
+    {
+      "dimensions": [
         "20260523"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260618"
+        "20260619"
       ],
       "metrics": [
-        "8",
-        "8",
-        "8"
+        "6",
+        "6",
+        "6"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "221",
-        "214"
+        "194",
+        "188"
       ]
     },
     {
@@ -329,8 +329,8 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "25",
-        "26"
+        "22",
+        "23"
       ]
     },
     {
@@ -338,8 +338,8 @@
         "/2019/03/duet-postscriptum-amalfi/"
       ],
       "metrics": [
-        "18",
-        "18"
+        "17",
+        "17"
       ]
     },
     {
@@ -347,17 +347,17 @@
         "/2019/11/weather-amalfi/"
       ],
       "metrics": [
-        "18",
-        "18"
+        "16",
+        "16"
       ]
     },
     {
       "dimensions": [
-        "/blog/li-galli-ostrov-nurieieva-u-pozitano-otbilsia-ot-liuksovogho-resorta"
+        "/blog/netflix-snimaiet-film-positano-s-makkonakhi-i-saldanoi-na-pobieriezhie-amalfi"
       ],
       "metrics": [
-        "16",
-        "14"
+        "10",
+        "7"
       ]
     },
     {
@@ -371,15 +371,6 @@
     },
     {
       "dimensions": [
-        "/blog/netflix-snimaiet-film-positano-s-makkonakhi-i-saldanoi-na-pobieriezhie-amalfi"
-      ],
-      "metrics": [
-        "9",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
         "/experience/"
       ],
       "metrics": [
@@ -389,29 +380,11 @@
     },
     {
       "dimensions": [
-        "/blog"
-      ],
-      "metrics": [
-        "7",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2018/06/camelia-photo-blogger-amalfi/"
-      ],
-      "metrics": [
-        "6",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
         "/2018/07/vintage-cars-amalfi-drive/"
       ],
       "metrics": [
-        "6",
-        "6"
+        "7",
+        "7"
       ]
     },
     {
@@ -419,8 +392,35 @@
         "/parking"
       ],
       "metrics": [
+        "7",
+        "11"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog"
+      ],
+      "metrics": [
         "6",
-        "9"
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2019/2/3/presepio-nativity-scene/"
+      ],
+      "metrics": [
+        "5",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2020/04/andra-tutto-bene/"
+      ],
+      "metrics": [
+        "5",
+        "5"
       ]
     },
     {
@@ -434,7 +434,7 @@
     },
     {
       "dimensions": [
-        "/2019/02/minori-to-amalfi/"
+        "/2018/06/camelia-photo-blogger-amalfi/"
       ],
       "metrics": [
         "4",
@@ -443,7 +443,7 @@
     },
     {
       "dimensions": [
-        "/2020/04/andra-tutto-bene/"
+        "/author/cinereo/page/7/"
       ],
       "metrics": [
         "4",
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "363",
-        "349"
+        "329",
+        "316"
       ]
     },
     {
@@ -466,7 +466,7 @@
         "google"
       ],
       "metrics": [
-        "26",
+        "27",
         "22"
       ]
     },
@@ -475,17 +475,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "20",
-        "17"
-      ]
-    },
-    {
-      "dimensions": [
-        "l.instagram.com"
-      ],
-      "metrics": [
-        "13",
-        "12"
+        "21",
+        "18"
       ]
     },
     {
@@ -493,8 +484,8 @@
         "ya.ru"
       ],
       "metrics": [
-        "6",
-        "1"
+        "5",
+        "0"
       ]
     },
     {
@@ -502,8 +493,8 @@
         "(not set)"
       ],
       "metrics": [
-        "3",
-        "3"
+        "4",
+        "4"
       ]
     },
     {
@@ -517,10 +508,10 @@
     },
     {
       "dimensions": [
-        "facebook.com"
+        "l.instagram.com"
       ],
       "metrics": [
-        "1",
+        "2",
         "1"
       ]
     }
@@ -531,13 +522,13 @@
         "Russia"
       ],
       "metrics": [
-        "219",
-        "212"
+        "194",
+        "187"
       ]
     },
     {
       "dimensions": [
-        "United Kingdom"
+        "Vietnam"
       ],
       "metrics": [
         "38",
@@ -549,26 +540,17 @@
         "Italy"
       ],
       "metrics": [
-        "37",
-        "19"
+        "33",
+        "16"
       ]
     },
     {
       "dimensions": [
-        "Vietnam"
+        "United Kingdom"
       ],
       "metrics": [
-        "37",
-        "37"
-      ]
-    },
-    {
-      "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "9",
-        "9"
+        "29",
+        "29"
       ]
     },
     {
@@ -585,13 +567,22 @@
         "Bangladesh"
       ],
       "metrics": [
-        "7",
-        "7"
+        "6",
+        "6"
       ]
     },
     {
       "dimensions": [
         "Brazil"
+      ],
+      "metrics": [
+        "6",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "China"
       ],
       "metrics": [
         "6",
@@ -609,25 +600,25 @@
     },
     {
       "dimensions": [
-        "Iraq"
+        "United States"
       ],
       "metrics": [
-        "5",
-        "5"
+        "6",
+        "6"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 434,
-    "users": 407,
-    "pageViews": 460,
-    "avgSessionDuration": 31,
+    "sessions": 391,
+    "users": 363,
+    "pageViews": 409,
+    "avgSessionDuration": 28,
     "bounceRate": 0.9
   },
   "summary30d": {
-    "sessions": 1558,
-    "users": 1503,
-    "pageViews": 1655,
+    "sessions": 1546,
+    "users": 1490,
+    "pageViews": 1644,
     "avgSessionDuration": 26,
     "bounceRate": 0.8
   }
