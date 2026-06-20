@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-06-19T09:46:44.635Z",
+  "updatedAt": "2026-06-20T08:23:38.207Z",
   "trend": [
     {
       "dimensions": [
@@ -41,16 +41,6 @@
         "72",
         "67",
         "72"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260520"
-      ],
-      "metrics": [
-        "70",
-        "69",
-        "70"
       ]
     },
     {
@@ -285,6 +275,16 @@
     },
     {
       "dimensions": [
+        "20260619"
+      ],
+      "metrics": [
+        "30",
+        "28",
+        "34"
+      ]
+    },
+    {
+      "dimensions": [
         "20260522"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260619"
+        "20260620"
       ],
       "metrics": [
-        "6",
-        "6",
-        "6"
+        "5",
+        "5",
+        "5"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "194",
-        "188"
+        "163",
+        "156"
       ]
     },
     {
@@ -362,11 +362,20 @@
     },
     {
       "dimensions": [
+        "/2018/07/vintage-cars-amalfi-drive/"
+      ],
+      "metrics": [
+        "8",
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
         "/2020/04/shoping-quarantine/"
       ],
       "metrics": [
-        "9",
-        "10"
+        "8",
+        "9"
       ]
     },
     {
@@ -376,15 +385,6 @@
       "metrics": [
         "8",
         "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2018/07/vintage-cars-amalfi-drive/"
-      ],
-      "metrics": [
-        "7",
-        "7"
       ]
     },
     {
@@ -419,8 +419,8 @@
         "/2020/04/andra-tutto-bene/"
       ],
       "metrics": [
-        "5",
-        "5"
+        "4",
+        "4"
       ]
     },
     {
@@ -428,17 +428,17 @@
         "/blog/how-to-get-to-amalfi"
       ],
       "metrics": [
-        "5",
-        "5"
+        "4",
+        "4"
       ]
     },
     {
       "dimensions": [
-        "/2018/06/camelia-photo-blogger-amalfi/"
+        "/2019/12/katastrofa/"
       ],
       "metrics": [
-        "4",
-        "4"
+        "3",
+        "3"
       ]
     },
     {
@@ -446,8 +446,8 @@
         "/author/cinereo/page/7/"
       ],
       "metrics": [
-        "4",
-        "4"
+        "3",
+        "3"
       ]
     }
   ],
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "329",
-        "316"
+        "291",
+        "278"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "27",
-        "22"
+        "24",
+        "20"
       ]
     },
     {
@@ -475,82 +475,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "21",
-        "18"
-      ]
-    },
-    {
-      "dimensions": [
-        "ya.ru"
-      ],
-      "metrics": [
-        "5",
-        "0"
-      ]
-    },
-    {
-      "dimensions": [
-        "(not set)"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "ig"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "l.instagram.com"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
-    }
-  ],
-  "countries": [
-    {
-      "dimensions": [
-        "Russia"
-      ],
-      "metrics": [
-        "194",
-        "187"
-      ]
-    },
-    {
-      "dimensions": [
-        "Vietnam"
-      ],
-      "metrics": [
-        "38",
-        "38"
-      ]
-    },
-    {
-      "dimensions": [
-        "Italy"
-      ],
-      "metrics": [
-        "33",
-        "16"
-      ]
-    },
-    {
-      "dimensions": [
-        "United Kingdom"
-      ],
-      "metrics": [
-        "29",
-        "29"
+        "20",
+        "17"
       ]
     },
     {
@@ -564,16 +490,54 @@
     },
     {
       "dimensions": [
-        "Bangladesh"
+        "ya.ru"
       ],
       "metrics": [
         "6",
-        "6"
+        "0"
+      ]
+    }
+  ],
+  "countries": [
+    {
+      "dimensions": [
+        "Russia"
+      ],
+      "metrics": [
+        "175",
+        "167"
       ]
     },
     {
       "dimensions": [
-        "Brazil"
+        "Vietnam"
+      ],
+      "metrics": [
+        "34",
+        "34"
+      ]
+    },
+    {
+      "dimensions": [
+        "Italy"
+      ],
+      "metrics": [
+        "29",
+        "14"
+      ]
+    },
+    {
+      "dimensions": [
+        "United Kingdom"
+      ],
+      "metrics": [
+        "16",
+        "16"
+      ]
+    },
+    {
+      "dimensions": [
+        "(not set)"
       ],
       "metrics": [
         "6",
@@ -606,20 +570,38 @@
         "6",
         "6"
       ]
+    },
+    {
+      "dimensions": [
+        "Brazil"
+      ],
+      "metrics": [
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "Poland"
+      ],
+      "metrics": [
+        "5",
+        "2"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 391,
-    "users": 363,
-    "pageViews": 409,
-    "avgSessionDuration": 28,
-    "bounceRate": 0.9
+    "sessions": 346,
+    "users": 320,
+    "pageViews": 363,
+    "avgSessionDuration": 32,
+    "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 1546,
-    "users": 1490,
-    "pageViews": 1644,
-    "avgSessionDuration": 26,
+    "sessions": 1506,
+    "users": 1448,
+    "pageViews": 1607,
+    "avgSessionDuration": 27,
     "bounceRate": 0.8
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-06-19T09:46:46.054Z",
+  "updatedAt": "2026-06-20T08:23:39.634Z",
   "trend": [
     {
       "dimensions": [
@@ -85,6 +85,16 @@
     },
     {
       "dimensions": [
+        "20260618"
+      ],
+      "metrics": [
+        "13",
+        "7",
+        "111"
+      ]
+    },
+    {
+      "dimensions": [
         "20260528"
       ],
       "metrics": [
@@ -145,16 +155,6 @@
     },
     {
       "dimensions": [
-        "20260618"
-      ],
-      "metrics": [
-        "10",
-        "7",
-        "64"
-      ]
-    },
-    {
-      "dimensions": [
         "20260531"
       ],
       "metrics": [
@@ -201,16 +201,6 @@
         "8",
         "3",
         "67"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260520"
-      ],
-      "metrics": [
-        "7",
-        "5",
-        "52"
       ]
     },
     {
@@ -275,6 +265,16 @@
     },
     {
       "dimensions": [
+        "20260619"
+      ],
+      "metrics": [
+        "4",
+        "2",
+        "56"
+      ]
+    },
+    {
+      "dimensions": [
         "20260604"
       ],
       "metrics": [
@@ -310,8 +310,17 @@
         "/"
       ],
       "metrics": [
-        "201",
-        "58"
+        "216",
+        "47"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/church-of-saint-mary-magdalene"
+      ],
+      "metrics": [
+        "24",
+        "9"
       ]
     },
     {
@@ -325,29 +334,29 @@
     },
     {
       "dimensions": [
-        "/place/castiglione-beach-lido-di-ravello"
+        "/place/belvedere-of-san-lorenzo"
       ],
       "metrics": [
         "13",
-        "12"
+        "9"
       ]
     },
     {
       "dimensions": [
-        "/place/le-palme-atrani"
+        "/place/castiglione-beach-lido-di-ravello"
       ],
       "metrics": [
-        "12",
+        "13",
         "11"
       ]
     },
     {
       "dimensions": [
-        "/place/belvedere-of-san-lorenzo"
+        "/place/secret-waterfall-valle-dei-mulini"
       ],
       "metrics": [
-        "11",
-        "9"
+        "12",
+        "12"
       ]
     },
     {
@@ -361,16 +370,7 @@
     },
     {
       "dimensions": [
-        "/place/ravello-infinity-terrace-villa-cimbrone"
-      ],
-      "metrics": [
-        "11",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/secret-waterfall-valle-dei-mulini"
+        "/place/lo-smeraldino-amalfi"
       ],
       "metrics": [
         "11",
@@ -379,11 +379,29 @@
     },
     {
       "dimensions": [
-        "/place/la-tramontina-amalfi"
+        "/place/ravello-infinity-terrace-villa-cimbrone"
       ],
       "metrics": [
         "10",
-        "8"
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/la-tramontina-amalfi"
+      ],
+      "metrics": [
+        "9",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/le-palme-atrani"
+      ],
+      "metrics": [
+        "9",
+        "9"
       ]
     },
     {
@@ -391,34 +409,7 @@
         "/place/apicella-bakery-amalfi"
       ],
       "metrics": [
-        "9",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/church-of-saint-mary-magdalene"
-      ],
-      "metrics": [
         "8",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/lo-smeraldino-amalfi"
-      ],
-      "metrics": [
-        "8",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/path-of-the-gods-sentiero-degli-dei"
-      ],
-      "metrics": [
-        "7",
         "7"
       ]
     },
@@ -433,11 +424,20 @@
     },
     {
       "dimensions": [
-        "/place/mimi-coco-di-tutto-un-po-atrani"
+        "/place/aparanza-atrani"
       ],
       "metrics": [
         "6",
         "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/le-arcate-atrani"
+      ],
+      "metrics": [
+        "6",
+        "5"
       ]
     }
   ],
@@ -447,8 +447,8 @@
         "(direct)"
       ],
       "metrics": [
-        "68",
-        "18"
+        "63",
+        "21"
       ]
     },
     {
@@ -456,8 +456,8 @@
         "(not set)"
       ],
       "metrics": [
-        "8",
-        "7"
+        "2",
+        "2"
       ]
     }
   ],
@@ -467,8 +467,8 @@
         "Italy"
       ],
       "metrics": [
-        "50",
-        "14"
+        "44",
+        "16"
       ]
     },
     {
@@ -476,8 +476,8 @@
         "United States"
       ],
       "metrics": [
-        "11",
-        "4"
+        "9",
+        "3"
       ]
     },
     {
@@ -527,17 +527,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 70,
-    "users": 19,
-    "pageViews": 387,
-    "avgSessionDuration": 634,
-    "bounceRate": 0.4
+    "sessions": 63,
+    "users": 21,
+    "pageViews": 430,
+    "avgSessionDuration": 527,
+    "bounceRate": 0.3
   },
   "summary30d": {
     "sessions": 291,
     "users": 73,
-    "pageViews": 1519,
-    "avgSessionDuration": 506,
+    "pageViews": 1570,
+    "avgSessionDuration": 462,
     "bounceRate": 0.3
   }
 }
