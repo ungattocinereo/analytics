@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-06-20T08:23:38.207Z",
+  "updatedAt": "2026-06-21T08:59:13.386Z",
   "trend": [
     {
       "dimensions": [
@@ -101,16 +101,6 @@
         "60",
         "51",
         "61"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260521"
-      ],
-      "metrics": [
-        "54",
-        "53",
-        "53"
       ]
     },
     {
@@ -235,6 +225,16 @@
     },
     {
       "dimensions": [
+        "20260620"
+      ],
+      "metrics": [
+        "40",
+        "35",
+        "41"
+      ]
+    },
+    {
+      "dimensions": [
         "20260530"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260620"
+        "20260621"
       ],
       "metrics": [
-        "5",
-        "5",
-        "5"
+        "11",
+        "11",
+        "11"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "163",
-        "156"
+        "134",
+        "125"
       ]
     },
     {
@@ -329,17 +329,8 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "22",
-        "23"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2019/03/duet-postscriptum-amalfi/"
-      ],
-      "metrics": [
-        "17",
-        "17"
+        "25",
+        "26"
       ]
     },
     {
@@ -353,11 +344,20 @@
     },
     {
       "dimensions": [
-        "/blog/netflix-snimaiet-film-positano-s-makkonakhi-i-saldanoi-na-pobieriezhie-amalfi"
+        "/2019/03/duet-postscriptum-amalfi/"
       ],
       "metrics": [
-        "10",
-        "7"
+        "15",
+        "15"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2020/04/shoping-quarantine/"
+      ],
+      "metrics": [
+        "11",
+        "11"
       ]
     },
     {
@@ -371,20 +371,20 @@
     },
     {
       "dimensions": [
-        "/2020/04/shoping-quarantine/"
-      ],
-      "metrics": [
-        "8",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
         "/experience/"
       ],
       "metrics": [
         "8",
         "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/netflix-snimaiet-film-positano-s-makkonakhi-i-saldanoi-na-pobieriezhie-amalfi"
+      ],
+      "metrics": [
+        "7",
+        "5"
       ]
     },
     {
@@ -398,6 +398,15 @@
     },
     {
       "dimensions": [
+        "/2019/2/3/presepio-nativity-scene/"
+      ],
+      "metrics": [
+        "6",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
         "/blog"
       ],
       "metrics": [
@@ -407,11 +416,20 @@
     },
     {
       "dimensions": [
-        "/2019/2/3/presepio-nativity-scene/"
+        "/blog/how-to-get-to-amalfi"
       ],
       "metrics": [
         "5",
-        "6"
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2019/12/katastrofa/"
+      ],
+      "metrics": [
+        "4",
+        "4"
       ]
     },
     {
@@ -425,25 +443,7 @@
     },
     {
       "dimensions": [
-        "/blog/how-to-get-to-amalfi"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2019/12/katastrofa/"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/author/cinereo/page/7/"
+        "/blog/opolzien-u-fuenti-dorogha-ss163-otkryvaietsia-na-dien-ranshie-sroka/"
       ],
       "metrics": [
         "3",
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "291",
-        "278"
+        "263",
+        "251"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "24",
-        "20"
+        "25",
+        "21"
       ]
     },
     {
@@ -475,17 +475,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "20",
-        "17"
-      ]
-    },
-    {
-      "dimensions": [
-        "(not set)"
-      ],
-      "metrics": [
-        "7",
-        "7"
+        "22",
+        "19"
       ]
     },
     {
@@ -496,6 +487,15 @@
         "6",
         "0"
       ]
+    },
+    {
+      "dimensions": [
+        "(not set)"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
     }
   ],
   "countries": [
@@ -504,17 +504,8 @@
         "Russia"
       ],
       "metrics": [
-        "175",
-        "167"
-      ]
-    },
-    {
-      "dimensions": [
-        "Vietnam"
-      ],
-      "metrics": [
-        "34",
-        "34"
+        "157",
+        "150"
       ]
     },
     {
@@ -522,26 +513,17 @@
         "Italy"
       ],
       "metrics": [
-        "29",
-        "14"
-      ]
-    },
-    {
-      "dimensions": [
-        "United Kingdom"
-      ],
-      "metrics": [
-        "16",
+        "32",
         "16"
       ]
     },
     {
       "dimensions": [
-        "(not set)"
+        "Vietnam"
       ],
       "metrics": [
-        "6",
-        "6"
+        "30",
+        "30"
       ]
     },
     {
@@ -549,13 +531,22 @@
         "China"
       ],
       "metrics": [
-        "6",
-        "6"
+        "8",
+        "8"
       ]
     },
     {
       "dimensions": [
         "India"
+      ],
+      "metrics": [
+        "7",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "(not set)"
       ],
       "metrics": [
         "6",
@@ -582,25 +573,34 @@
     },
     {
       "dimensions": [
-        "Poland"
+        "United Kingdom"
       ],
       "metrics": [
         "5",
-        "2"
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "Bangladesh"
+      ],
+      "metrics": [
+        "4",
+        "4"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 346,
-    "users": 320,
-    "pageViews": 363,
-    "avgSessionDuration": 32,
+    "sessions": 319,
+    "users": 294,
+    "pageViews": 338,
+    "avgSessionDuration": 33,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 1506,
-    "users": 1448,
-    "pageViews": 1607,
+    "sessions": 1492,
+    "users": 1436,
+    "pageViews": 1601,
     "avgSessionDuration": 27,
     "bounceRate": 0.8
   }
