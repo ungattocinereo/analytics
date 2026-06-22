@@ -2,7 +2,7 @@
   "Atrani.ru": {
     "name": "Atrani.ru",
     "propertyId": "properties/353046676",
-    "updatedAt": "2026-06-21T08:59:13.386Z",
+    "updatedAt": "2026-06-22T10:44:00.643Z",
     "trend": [
       {
         "dimensions": [
@@ -196,6 +196,16 @@
       },
       {
         "dimensions": [
+          "20260621"
+        ],
+        "metrics": [
+          "43",
+          "38",
+          "46"
+        ]
+      },
+      {
+        "dimensions": [
           "20260601"
         ],
         "metrics": [
@@ -286,16 +296,6 @@
       },
       {
         "dimensions": [
-          "20260522"
-        ],
-        "metrics": [
-          "29",
-          "29",
-          "31"
-        ]
-      },
-      {
-        "dimensions": [
           "20260524"
         ],
         "metrics": [
@@ -306,12 +306,12 @@
       },
       {
         "dimensions": [
-          "20260621"
+          "20260622"
         ],
         "metrics": [
-          "11",
-          "11",
-          "11"
+          "15",
+          "15",
+          "15"
         ]
       }
     ],
@@ -321,8 +321,8 @@
           "/"
         ],
         "metrics": [
-          "134",
-          "125"
+          "119",
+          "109"
         ]
       },
       {
@@ -330,17 +330,8 @@
           "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
         ],
         "metrics": [
-          "25",
-          "26"
-        ]
-      },
-      {
-        "dimensions": [
-          "/2019/11/weather-amalfi/"
-        ],
-        "metrics": [
-          "16",
-          "16"
+          "27",
+          "28"
         ]
       },
       {
@@ -348,8 +339,17 @@
           "/2019/03/duet-postscriptum-amalfi/"
         ],
         "metrics": [
-          "15",
-          "15"
+          "19",
+          "19"
+        ]
+      },
+      {
+        "dimensions": [
+          "/2019/11/weather-amalfi/"
+        ],
+        "metrics": [
+          "18",
+          "18"
         ]
       },
       {
@@ -363,10 +363,10 @@
       },
       {
         "dimensions": [
-          "/2018/07/vintage-cars-amalfi-drive/"
+          "/blog/netflix-snimaiet-film-positano-s-makkonakhi-i-saldanoi-na-pobieriezhie-amalfi"
         ],
         "metrics": [
-          "8",
+          "9",
           "8"
         ]
       },
@@ -381,20 +381,11 @@
       },
       {
         "dimensions": [
-          "/blog/netflix-snimaiet-film-positano-s-makkonakhi-i-saldanoi-na-pobieriezhie-amalfi"
+          "/2018/07/vintage-cars-amalfi-drive/"
         ],
         "metrics": [
           "7",
-          "5"
-        ]
-      },
-      {
-        "dimensions": [
-          "/parking"
-        ],
-        "metrics": [
-          "7",
-          "11"
+          "7"
         ]
       },
       {
@@ -408,20 +399,11 @@
       },
       {
         "dimensions": [
-          "/blog"
-        ],
-        "metrics": [
-          "6",
-          "4"
-        ]
-      },
-      {
-        "dimensions": [
-          "/blog/how-to-get-to-amalfi"
+          "/parking"
         ],
         "metrics": [
           "5",
-          "5"
+          "8"
         ]
       },
       {
@@ -444,7 +426,25 @@
       },
       {
         "dimensions": [
-          "/blog/opolzien-u-fuenti-dorogha-ss163-otkryvaietsia-na-dien-ranshie-sroka/"
+          "/blog/how-to-get-to-amalfi"
+        ],
+        "metrics": [
+          "4",
+          "4"
+        ]
+      },
+      {
+        "dimensions": [
+          "/2018/06/camelia-photo-blogger-amalfi/"
+        ],
+        "metrics": [
+          "3",
+          "3"
+        ]
+      },
+      {
+        "dimensions": [
+          "/author/cinereo/page/7/"
         ],
         "metrics": [
           "3",
@@ -458,8 +458,8 @@
           "(direct)"
         ],
         "metrics": [
-          "263",
-          "251"
+          "247",
+          "233"
         ]
       },
       {
@@ -467,8 +467,8 @@
           "google"
         ],
         "metrics": [
-          "25",
-          "21"
+          "26",
+          "23"
         ]
       },
       {
@@ -476,8 +476,8 @@
           "yandex.ru"
         ],
         "metrics": [
-          "22",
-          "19"
+          "21",
+          "18"
         ]
       },
       {
@@ -485,7 +485,7 @@
           "ya.ru"
         ],
         "metrics": [
-          "6",
+          "7",
           "0"
         ]
       },
@@ -497,6 +497,15 @@
           "3",
           "3"
         ]
+      },
+      {
+        "dimensions": [
+          "chatgpt.com"
+        ],
+        "metrics": [
+          "1",
+          "1"
+        ]
       }
     ],
     "countries": [
@@ -505,17 +514,8 @@
           "Russia"
         ],
         "metrics": [
-          "157",
-          "150"
-        ]
-      },
-      {
-        "dimensions": [
-          "Italy"
-        ],
-        "metrics": [
-          "32",
-          "16"
+          "145",
+          "136"
         ]
       },
       {
@@ -523,8 +523,17 @@
           "Vietnam"
         ],
         "metrics": [
-          "30",
-          "30"
+          "29",
+          "29"
+        ]
+      },
+      {
+        "dimensions": [
+          "Italy"
+        ],
+        "metrics": [
+          "28",
+          "13"
         ]
       },
       {
@@ -538,7 +547,7 @@
       },
       {
         "dimensions": [
-          "India"
+          "(not set)"
         ],
         "metrics": [
           "7",
@@ -547,11 +556,11 @@
       },
       {
         "dimensions": [
-          "(not set)"
+          "India"
         ],
         "metrics": [
-          "6",
-          "6"
+          "7",
+          "7"
         ]
       },
       {
@@ -574,42 +583,42 @@
       },
       {
         "dimensions": [
-          "United Kingdom"
-        ],
-        "metrics": [
-          "5",
-          "5"
-        ]
-      },
-      {
-        "dimensions": [
           "Bangladesh"
         ],
         "metrics": [
           "4",
           "4"
         ]
+      },
+      {
+        "dimensions": [
+          "Poland"
+        ],
+        "metrics": [
+          "4",
+          "2"
+        ]
       }
     ],
     "summary7d": {
-      "sessions": 319,
-      "users": 294,
-      "pageViews": 338,
-      "avgSessionDuration": 33,
+      "sessions": 305,
+      "users": 278,
+      "pageViews": 317,
+      "avgSessionDuration": 45,
       "bounceRate": 0.8
     },
     "summary30d": {
-      "sessions": 1492,
-      "users": 1436,
-      "pageViews": 1601,
-      "avgSessionDuration": 27,
+      "sessions": 1513,
+      "users": 1448,
+      "pageViews": 1620,
+      "avgSessionDuration": 29,
       "bounceRate": 0.8
     }
   },
   "Cinereo.it": {
     "name": "Cinereo.it",
     "propertyId": "properties/362803366",
-    "updatedAt": "2026-06-21T08:59:13.709Z",
+    "updatedAt": "2026-06-22T10:44:00.975Z",
     "trend": [],
     "topPages": [],
     "sources": [],
@@ -632,7 +641,7 @@
   "amalfi.day": {
     "name": "amalfi.day",
     "propertyId": "properties/306713351",
-    "updatedAt": "2026-06-21T08:59:14.295Z",
+    "updatedAt": "2026-06-22T10:44:01.598Z",
     "trend": [
       {
         "dimensions": [
@@ -756,6 +765,16 @@
       },
       {
         "dimensions": [
+          "20260621"
+        ],
+        "metrics": [
+          "23",
+          "13",
+          "33"
+        ]
+      },
+      {
+        "dimensions": [
           "20260528"
         ],
         "metrics": [
@@ -772,16 +791,6 @@
           "22",
           "14",
           "34"
-        ]
-      },
-      {
-        "dimensions": [
-          "20260522"
-        ],
-        "metrics": [
-          "21",
-          "19",
-          "25"
         ]
       },
       {
@@ -936,12 +945,12 @@
       },
       {
         "dimensions": [
-          "20260621"
+          "20260622"
         ],
         "metrics": [
+          "3",
           "2",
-          "1",
-          "5"
+          "3"
         ]
       }
     ],
@@ -951,8 +960,8 @@
           "/parking/"
         ],
         "metrics": [
-          "64",
-          "59"
+          "63",
+          "61"
         ]
       },
       {
@@ -960,8 +969,8 @@
           "/timetables/"
         ],
         "metrics": [
-          "48",
-          "39"
+          "42",
+          "33"
         ]
       },
       {
@@ -969,8 +978,8 @@
           "/"
         ],
         "metrics": [
-          "32",
-          "23"
+          "23",
+          "20"
         ]
       },
       {
@@ -978,7 +987,7 @@
           "/ferry-timetables"
         ],
         "metrics": [
-          "24",
+          "19",
           "17"
         ]
       },
@@ -987,35 +996,8 @@
           "/blog/license-plate-restrictions-return-to-the-amalfi-coast-april-25-may-2-2/"
         ],
         "metrics": [
-          "19",
-          "16"
-        ]
-      },
-      {
-        "dimensions": [
-          "/blog/"
-        ],
-        "metrics": [
-          "9",
-          "2"
-        ]
-      },
-      {
-        "dimensions": [
-          "/timetables"
-        ],
-        "metrics": [
-          "7",
-          "6"
-        ]
-      },
-      {
-        "dimensions": [
-          "/contact"
-        ],
-        "metrics": [
-          "5",
-          "5"
+          "18",
+          "15"
         ]
       },
       {
@@ -1023,7 +1005,16 @@
           "/directions/"
         ],
         "metrics": [
-          "5",
+          "10",
+          "10"
+        ]
+      },
+      {
+        "dimensions": [
+          "/timetables"
+        ],
+        "metrics": [
+          "6",
           "5"
         ]
       },
@@ -1033,7 +1024,16 @@
         ],
         "metrics": [
           "5",
-          "4"
+          "5"
+        ]
+      },
+      {
+        "dimensions": [
+          "/experience"
+        ],
+        "metrics": [
+          "4",
+          "3"
         ]
       },
       {
@@ -1065,11 +1065,11 @@
       },
       {
         "dimensions": [
-          "/experience"
+          "/contact"
         ],
         "metrics": [
           "3",
-          "2"
+          "3"
         ]
       },
       {
@@ -1080,6 +1080,15 @@
           "3",
           "2"
         ]
+      },
+      {
+        "dimensions": [
+          "/photolocations/"
+        ],
+        "metrics": [
+          "3",
+          "3"
+        ]
       }
     ],
     "sources": [
@@ -1088,8 +1097,8 @@
           "google"
         ],
         "metrics": [
-          "124",
-          "74"
+          "121",
+          "69"
         ]
       },
       {
@@ -1097,8 +1106,8 @@
           "(direct)"
         ],
         "metrics": [
-          "22",
-          "17"
+          "25",
+          "15"
         ]
       },
       {
@@ -1106,17 +1115,26 @@
           "chatgpt.com"
         ],
         "metrics": [
-          "11",
-          "10"
+          "12",
+          "11"
         ]
       },
       {
         "dimensions": [
-          "amalfi-guide-ungattocinereo-cinereos-projects.vercel.app"
+          "(not set)"
         ],
         "metrics": [
-          "3",
-          "1"
+          "2",
+          "2"
+        ]
+      },
+      {
+        "dimensions": [
+          "bing"
+        ],
+        "metrics": [
+          "2",
+          "2"
         ]
       },
       {
@@ -1130,29 +1148,11 @@
       },
       {
         "dimensions": [
-          "(not set)"
+          "amalfi-guide-ungattocinereo-cinereos-projects.vercel.app"
         ],
         "metrics": [
           "1",
-          "1"
-        ]
-      },
-      {
-        "dimensions": [
-          "bing"
-        ],
-        "metrics": [
-          "1",
-          "1"
-        ]
-      },
-      {
-        "dimensions": [
-          "facebook.com"
-        ],
-        "metrics": [
-          "1",
-          "1"
+          "0"
         ]
       },
       {
@@ -1171,8 +1171,8 @@
           "Italy"
         ],
         "metrics": [
-          "63",
-          "47"
+          "59",
+          "42"
         ]
       },
       {
@@ -1180,8 +1180,8 @@
           "Australia"
         ],
         "metrics": [
-          "19",
-          "4"
+          "20",
+          "3"
         ]
       },
       {
@@ -1189,17 +1189,8 @@
           "United States"
         ],
         "metrics": [
-          "14",
+          "13",
           "9"
-        ]
-      },
-      {
-        "dimensions": [
-          "Netherlands"
-        ],
-        "metrics": [
-          "9",
-          "7"
         ]
       },
       {
@@ -1213,20 +1204,38 @@
       },
       {
         "dimensions": [
-          "Germany"
-        ],
-        "metrics": [
-          "7",
-          "6"
-        ]
-      },
-      {
-        "dimensions": [
           "Russia"
         ],
         "metrics": [
           "7",
           "3"
+        ]
+      },
+      {
+        "dimensions": [
+          "Austria"
+        ],
+        "metrics": [
+          "6",
+          "4"
+        ]
+      },
+      {
+        "dimensions": [
+          "Germany"
+        ],
+        "metrics": [
+          "6",
+          "5"
+        ]
+      },
+      {
+        "dimensions": [
+          "Netherlands"
+        ],
+        "metrics": [
+          "6",
+          "5"
         ]
       },
       {
@@ -1240,53 +1249,34 @@
       },
       {
         "dimensions": [
-          "Austria"
+          "Belgium"
         ],
         "metrics": [
-          "4",
-          "3"
-        ]
-      },
-      {
-        "dimensions": [
-          "Spain"
-        ],
-        "metrics": [
-          "4",
-          "3"
+          "5",
+          "1"
         ]
       }
     ],
     "summary7d": {
       "sessions": 166,
-      "users": 105,
-      "pageViews": 257,
-      "avgSessionDuration": 231,
-      "bounceRate": 0.5
+      "users": 99,
+      "pageViews": 227,
+      "avgSessionDuration": 170,
+      "bounceRate": 0.6
     },
     "summary30d": {
-      "sessions": 663,
-      "users": 397,
-      "pageViews": 918,
-      "avgSessionDuration": 186,
+      "sessions": 666,
+      "users": 391,
+      "pageViews": 924,
+      "avgSessionDuration": 188,
       "bounceRate": 0.6
     }
   },
   "guide.amalfi.day": {
     "name": "guide.amalfi.day",
     "propertyId": "properties/533587112",
-    "updatedAt": "2026-06-21T08:59:15.192Z",
+    "updatedAt": "2026-06-22T10:44:02.066Z",
     "trend": [
-      {
-        "dimensions": [
-          "20260522"
-        ],
-        "metrics": [
-          "27",
-          "8",
-          "124"
-        ]
-      },
       {
         "dimensions": [
           "20260613"
@@ -1449,6 +1439,16 @@
       },
       {
         "dimensions": [
+          "20260621"
+        ],
+        "metrics": [
+          "9",
+          "7",
+          "28"
+        ]
+      },
+      {
+        "dimensions": [
           "20260523"
         ],
         "metrics": [
@@ -1544,7 +1544,7 @@
         "metrics": [
           "4",
           "2",
-          "39"
+          "43"
         ]
       },
       {
@@ -1576,16 +1576,6 @@
           "1",
           "4"
         ]
-      },
-      {
-        "dimensions": [
-          "20260621"
-        ],
-        "metrics": [
-          "1",
-          "1",
-          "1"
-        ]
       }
     ],
     "topPages": [
@@ -1594,17 +1584,8 @@
           "/"
         ],
         "metrics": [
-          "157",
-          "35"
-        ]
-      },
-      {
-        "dimensions": [
-          "/fr"
-        ],
-        "metrics": [
-          "14",
-          "6"
+          "152",
+          "37"
         ]
       },
       {
@@ -1618,19 +1599,19 @@
       },
       {
         "dimensions": [
-          "/place/belvedere-of-san-lorenzo"
+          "/fr"
         ],
         "metrics": [
-          "10",
-          "8"
+          "12",
+          "5"
         ]
       },
       {
         "dimensions": [
-          "/place/secret-waterfall-valle-dei-mulini"
+          "/place/church-of-saint-mary-magdalene"
         ],
         "metrics": [
-          "10",
+          "11",
           "10"
         ]
       },
@@ -1639,26 +1620,26 @@
           "/place/waterfall-of-atrani"
         ],
         "metrics": [
-          "10",
-          "9"
+          "11",
+          "10"
         ]
       },
       {
         "dimensions": [
-          "/place/church-of-saint-mary-magdalene"
+          "/place/belvedere-of-san-lorenzo"
         ],
         "metrics": [
           "9",
-          "8"
+          "7"
         ]
       },
       {
         "dimensions": [
-          "/place/ravello-infinity-terrace-villa-cimbrone"
+          "/place/secret-waterfall-valle-dei-mulini"
         ],
         "metrics": [
-          "8",
-          "5"
+          "9",
+          "9"
         ]
       },
       {
@@ -1666,34 +1647,16 @@
           "/place/church-santa-maria-del-bando"
         ],
         "metrics": [
-          "7",
-          "6"
-        ]
-      },
-      {
-        "dimensions": [
-          "/place/la-tramontina-amalfi"
-        ],
-        "metrics": [
-          "7",
+          "6",
           "5"
         ]
       },
       {
         "dimensions": [
-          "/place/lo-smeraldino-amalfi"
+          "/place/mimi-coco-di-tutto-un-po-atrani"
         ],
         "metrics": [
-          "7",
-          "7"
-        ]
-      },
-      {
-        "dimensions": [
-          "/place/apicella-bakery-amalfi"
-        ],
-        "metrics": [
-          "5",
+          "6",
           "5"
         ]
       },
@@ -1702,8 +1665,8 @@
           "/place/minori-and-sal-de-riso"
         ],
         "metrics": [
-          "5",
-          "3"
+          "6",
+          "4"
         ]
       },
       {
@@ -1711,8 +1674,35 @@
           "/place/path-of-the-gods-sentiero-degli-dei"
         ],
         "metrics": [
+          "6",
+          "6"
+        ]
+      },
+      {
+        "dimensions": [
+          "/place/la-tramontina-amalfi"
+        ],
+        "metrics": [
+          "5",
+          "4"
+        ]
+      },
+      {
+        "dimensions": [
+          "/place/lo-smeraldino-amalfi"
+        ],
+        "metrics": [
           "5",
           "5"
+        ]
+      },
+      {
+        "dimensions": [
+          "/place/ravello-infinity-terrace-villa-cimbrone"
+        ],
+        "metrics": [
+          "5",
+          "4"
         ]
       },
       {
@@ -1731,8 +1721,8 @@
           "(direct)"
         ],
         "metrics": [
-          "49",
-          "18"
+          "47",
+          "16"
         ]
       },
       {
@@ -1740,8 +1730,8 @@
           "(not set)"
         ],
         "metrics": [
-          "5",
-          "3"
+          "6",
+          "6"
         ]
       }
     ],
@@ -1751,17 +1741,8 @@
           "Italy"
         ],
         "metrics": [
-          "32",
-          "12"
-        ]
-      },
-      {
-        "dimensions": [
-          "United States"
-        ],
-        "metrics": [
-          "8",
-          "3"
+          "30",
+          "11"
         ]
       },
       {
@@ -1775,29 +1756,38 @@
       },
       {
         "dimensions": [
+          "United States"
+        ],
+        "metrics": [
+          "7",
+          "2"
+        ]
+      },
+      {
+        "dimensions": [
+          "Belgium"
+        ],
+        "metrics": [
+          "3",
+          "2"
+        ]
+      },
+      {
+        "dimensions": [
+          "Australia"
+        ],
+        "metrics": [
+          "1",
+          "1"
+        ]
+      },
+      {
+        "dimensions": [
           "Finland"
         ],
         "metrics": [
-          "2",
-          "1"
-        ]
-      },
-      {
-        "dimensions": [
-          "Czechia"
-        ],
-        "metrics": [
           "1",
           "1"
-        ]
-      },
-      {
-        "dimensions": [
-          "Germany"
-        ],
-        "metrics": [
-          "1",
-          "0"
         ]
       },
       {
@@ -1817,27 +1807,36 @@
           "1",
           "1"
         ]
+      },
+      {
+        "dimensions": [
+          "United Kingdom"
+        ],
+        "metrics": [
+          "1",
+          "0"
+        ]
       }
     ],
     "summary7d": {
-      "sessions": 50,
+      "sessions": 49,
       "users": 18,
-      "pageViews": 329,
-      "avgSessionDuration": 578,
-      "bounceRate": 0.3
+      "pageViews": 315,
+      "avgSessionDuration": 494,
+      "bounceRate": 0.4
     },
     "summary30d": {
-      "sessions": 290,
-      "users": 73,
-      "pageViews": 1545,
-      "avgSessionDuration": 459,
+      "sessions": 271,
+      "users": 74,
+      "pageViews": 1452,
+      "avgSessionDuration": 458,
       "bounceRate": 0.3
     }
   },
   "find.amalfi.day": {
     "name": "find.amalfi.day",
     "propertyId": "properties/531159837",
-    "updatedAt": "2026-06-21T08:59:15.804Z",
+    "updatedAt": "2026-06-22T10:44:02.604Z",
     "trend": [
       {
         "dimensions": [
@@ -1867,6 +1866,26 @@
           "15",
           "9",
           "21"
+        ]
+      },
+      {
+        "dimensions": [
+          "20260620"
+        ],
+        "metrics": [
+          "14",
+          "5",
+          "31"
+        ]
+      },
+      {
+        "dimensions": [
+          "20260621"
+        ],
+        "metrics": [
+          "14",
+          "5",
+          "28"
         ]
       },
       {
@@ -1901,32 +1920,12 @@
       },
       {
         "dimensions": [
-          "20260620"
-        ],
-        "metrics": [
-          "13",
-          "5",
-          "28"
-        ]
-      },
-      {
-        "dimensions": [
           "20260606"
         ],
         "metrics": [
           "11",
           "5",
           "21"
-        ]
-      },
-      {
-        "dimensions": [
-          "20260522"
-        ],
-        "metrics": [
-          "10",
-          "6",
-          "25"
         ]
       },
       {
@@ -1996,16 +1995,6 @@
         "metrics": [
           "8",
           "3",
-          "12"
-        ]
-      },
-      {
-        "dimensions": [
-          "20260621"
-        ],
-        "metrics": [
-          "6",
-          "4",
           "12"
         ]
       },
@@ -2138,6 +2127,16 @@
           "1",
           "2"
         ]
+      },
+      {
+        "dimensions": [
+          "20260622"
+        ],
+        "metrics": [
+          "1",
+          "0",
+          "1"
+        ]
       }
     ],
     "topPages": [
@@ -2146,8 +2145,8 @@
           "/"
         ],
         "metrics": [
-          "47",
-          "34"
+          "55",
+          "39"
         ]
       },
       {
@@ -2155,8 +2154,8 @@
           "/route/amalfi-house.html"
         ],
         "metrics": [
-          "29",
-          "26"
+          "33",
+          "31"
         ]
       },
       {
@@ -2164,8 +2163,8 @@
           "/route/atrani-house.html"
         ],
         "metrics": [
-          "11",
-          "11"
+          "15",
+          "14"
         ]
       },
       {
@@ -2174,7 +2173,7 @@
         ],
         "metrics": [
           "9",
-          "8"
+          "7"
         ]
       },
       {
@@ -2182,8 +2181,8 @@
           "/route/amalfi-awesome.html"
         ],
         "metrics": [
-          "8",
-          "6"
+          "7",
+          "5"
         ]
       },
       {
@@ -2202,17 +2201,8 @@
           "(direct)"
         ],
         "metrics": [
-          "37",
-          "18"
-        ]
-      },
-      {
-        "dimensions": [
-          "(not set)"
-        ],
-        "metrics": [
-          "10",
-          "8"
+          "41",
+          "19"
         ]
       },
       {
@@ -2220,8 +2210,26 @@
           "airbnb.it"
         ],
         "metrics": [
-          "7",
+          "8",
           "2"
+        ]
+      },
+      {
+        "dimensions": [
+          "(not set)"
+        ],
+        "metrics": [
+          "7",
+          "3"
+        ]
+      },
+      {
+        "dimensions": [
+          "airbnb.be"
+        ],
+        "metrics": [
+          "5",
+          "1"
         ]
       },
       {
@@ -2235,7 +2243,7 @@
       },
       {
         "dimensions": [
-          "airbnb.be"
+          "airbnb.at"
         ],
         "metrics": [
           "2",
@@ -2244,11 +2252,11 @@
       },
       {
         "dimensions": [
-          "airbnb.at"
+          "airbnb.ca"
         ],
         "metrics": [
           "1",
-          "1"
+          "0"
         ]
       },
       {
@@ -2271,15 +2279,6 @@
       },
       {
         "dimensions": [
-          "airbnb.es"
-        ],
-        "metrics": [
-          "1",
-          "1"
-        ]
-      },
-      {
-        "dimensions": [
           "google"
         ],
         "metrics": [
@@ -2294,8 +2293,8 @@
           "Italy"
         ],
         "metrics": [
-          "21",
-          "12"
+          "22",
+          "13"
         ]
       },
       {
@@ -2312,8 +2311,17 @@
           "Belgium"
         ],
         "metrics": [
-          "7",
+          "10",
           "4"
+        ]
+      },
+      {
+        "dimensions": [
+          "Australia"
+        ],
+        "metrics": [
+          "5",
+          "3"
         ]
       },
       {
@@ -2336,11 +2344,11 @@
       },
       {
         "dimensions": [
-          "Australia"
+          "Austria"
         ],
         "metrics": [
           "2",
-          "2"
+          "1"
         ]
       },
       {
@@ -2354,44 +2362,35 @@
       },
       {
         "dimensions": [
+          "Canada"
+        ],
+        "metrics": [
+          "2",
+          "0"
+        ]
+      },
+      {
+        "dimensions": [
           "Japan"
         ],
         "metrics": [
           "2",
           "1"
         ]
-      },
-      {
-        "dimensions": [
-          "Austria"
-        ],
-        "metrics": [
-          "1",
-          "1"
-        ]
-      },
-      {
-        "dimensions": [
-          "Canada"
-        ],
-        "metrics": [
-          "1",
-          "0"
-        ]
       }
     ],
     "summary7d": {
-      "sessions": 55,
+      "sessions": 63,
       "users": 27,
-      "pageViews": 106,
-      "avgSessionDuration": 261,
-      "bounceRate": 0.7
+      "pageViews": 121,
+      "avgSessionDuration": 243,
+      "bounceRate": 0.6
     },
     "summary30d": {
       "sessions": 240,
-      "users": 108,
-      "pageViews": 479,
-      "avgSessionDuration": 253,
+      "users": 104,
+      "pageViews": 474,
+      "avgSessionDuration": 251,
       "bounceRate": 0.4
     }
   }
