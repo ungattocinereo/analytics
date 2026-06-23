@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-06-22T10:44:00.643Z",
+  "updatedAt": "2026-06-23T08:31:37.275Z",
   "trend": [
     {
       "dimensions": [
@@ -255,6 +255,16 @@
     },
     {
       "dimensions": [
+        "20260622"
+      ],
+      "metrics": [
+        "39",
+        "39",
+        "43"
+      ]
+    },
+    {
+      "dimensions": [
         "20260528"
       ],
       "metrics": [
@@ -271,16 +281,6 @@
         "35",
         "33",
         "35"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260523"
-      ],
-      "metrics": [
-        "32",
-        "32",
-        "32"
       ]
     },
     {
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260622"
+        "20260623"
       ],
       "metrics": [
-        "15",
-        "15",
-        "15"
+        "13",
+        "13",
+        "12"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "119",
-        "109"
+        "114",
+        "105"
       ]
     },
     {
@@ -329,17 +329,8 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "27",
-        "28"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2019/03/duet-postscriptum-amalfi/"
-      ],
-      "metrics": [
-        "19",
-        "19"
+        "21",
+        "22"
       ]
     },
     {
@@ -347,8 +338,17 @@
         "/2019/11/weather-amalfi/"
       ],
       "metrics": [
-        "18",
-        "18"
+        "16",
+        "16"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2019/03/duet-postscriptum-amalfi/"
+      ],
+      "metrics": [
+        "15",
+        "16"
       ]
     },
     {
@@ -362,10 +362,19 @@
     },
     {
       "dimensions": [
+        "/blog/how-to-get-to-amalfi"
+      ],
+      "metrics": [
+        "10",
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
         "/blog/netflix-snimaiet-film-positano-s-makkonakhi-i-saldanoi-na-pobieriezhie-amalfi"
       ],
       "metrics": [
-        "9",
+        "10",
         "8"
       ]
     },
@@ -380,15 +389,6 @@
     },
     {
       "dimensions": [
-        "/2018/07/vintage-cars-amalfi-drive/"
-      ],
-      "metrics": [
-        "7",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
         "/2019/2/3/presepio-nativity-scene/"
       ],
       "metrics": [
@@ -398,11 +398,29 @@
     },
     {
       "dimensions": [
-        "/parking"
+        "/2020/04/andra-tutto-bene/"
       ],
       "metrics": [
         "5",
-        "8"
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2018/07/vintage-cars-amalfi-drive/"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/parking"
+      ],
+      "metrics": [
+        "4",
+        "5"
       ]
     },
     {
@@ -410,31 +428,13 @@
         "/2019/12/katastrofa/"
       ],
       "metrics": [
-        "4",
-        "4"
+        "3",
+        "3"
       ]
     },
     {
       "dimensions": [
-        "/2020/04/andra-tutto-bene/"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/how-to-get-to-amalfi"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2018/06/camelia-photo-blogger-amalfi/"
+        "/blog/ravello/"
       ],
       "metrics": [
         "3",
@@ -443,11 +443,11 @@
     },
     {
       "dimensions": [
-        "/author/cinereo/page/7/"
+        "/2018/05/photos-of-travel-italy-blog/"
       ],
       "metrics": [
-        "3",
-        "3"
+        "2",
+        "2"
       ]
     }
   ],
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "247",
-        "233"
+        "231",
+        "224"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "26",
-        "23"
+        "25",
+        "22"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "21",
-        "18"
+        "15",
+        "13"
       ]
     },
     {
@@ -484,7 +484,7 @@
         "ya.ru"
       ],
       "metrics": [
-        "7",
+        "5",
         "0"
       ]
     },
@@ -493,13 +493,22 @@
         "(not set)"
       ],
       "metrics": [
-        "3",
-        "3"
+        "4",
+        "4"
       ]
     },
     {
       "dimensions": [
         "chatgpt.com"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "yandex"
       ],
       "metrics": [
         "1",
@@ -513,8 +522,8 @@
         "Russia"
       ],
       "metrics": [
-        "145",
-        "136"
+        "140",
+        "133"
       ]
     },
     {
@@ -531,7 +540,7 @@
         "Italy"
       ],
       "metrics": [
-        "28",
+        "20",
         "13"
       ]
     },
@@ -546,25 +555,16 @@
     },
     {
       "dimensions": [
-        "(not set)"
-      ],
-      "metrics": [
-        "7",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "India"
-      ],
-      "metrics": [
-        "7",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
         "United States"
+      ],
+      "metrics": [
+        "7",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "(not set)"
       ],
       "metrics": [
         "6",
@@ -573,20 +573,11 @@
     },
     {
       "dimensions": [
-        "Brazil"
+        "India"
       ],
       "metrics": [
         "5",
         "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "Bangladesh"
-      ],
-      "metrics": [
-        "4",
-        "4"
       ]
     },
     {
@@ -597,20 +588,38 @@
         "4",
         "2"
       ]
+    },
+    {
+      "dimensions": [
+        "Bangladesh"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "Mexico"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 305,
-    "users": 278,
-    "pageViews": 317,
-    "avgSessionDuration": 45,
+    "sessions": 282,
+    "users": 265,
+    "pageViews": 296,
+    "avgSessionDuration": 29,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 1513,
-    "users": 1448,
-    "pageViews": 1620,
-    "avgSessionDuration": 29,
+    "sessions": 1518,
+    "users": 1453,
+    "pageViews": 1628,
+    "avgSessionDuration": 30,
     "bounceRate": 0.8
   }
 }
