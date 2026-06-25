@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-06-24T08:25:20.180Z",
+  "updatedAt": "2026-06-25T08:25:49.705Z",
   "trend": [
     {
       "dimensions": [
@@ -145,16 +145,6 @@
     },
     {
       "dimensions": [
-        "20260525"
-      ],
-      "metrics": [
-        "47",
-        "47",
-        "46"
-      ]
-    },
-    {
-      "dimensions": [
         "20260531"
       ],
       "metrics": [
@@ -285,6 +275,16 @@
     },
     {
       "dimensions": [
+        "20260624"
+      ],
+      "metrics": [
+        "35",
+        "34",
+        "45"
+      ]
+    },
+    {
+      "dimensions": [
         "20260623"
       ],
       "metrics": [
@@ -302,16 +302,6 @@
         "28",
         "34"
       ]
-    },
-    {
-      "dimensions": [
-        "20260624"
-      ],
-      "metrics": [
-        "2",
-        "2",
-        "2"
-      ]
     }
   ],
   "topPages": [
@@ -320,8 +310,8 @@
         "/"
       ],
       "metrics": [
-        "114",
-        "105"
+        "121",
+        "112"
       ]
     },
     {
@@ -329,8 +319,8 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "18",
-        "19"
+        "14",
+        "14"
       ]
     },
     {
@@ -344,15 +334,6 @@
     },
     {
       "dimensions": [
-        "/blog/how-to-get-to-amalfi"
-      ],
-      "metrics": [
-        "11",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/netflix-snimaiet-film-positano-s-makkonakhi-i-saldanoi-na-pobieriezhie-amalfi"
       ],
       "metrics": [
@@ -362,16 +343,16 @@
     },
     {
       "dimensions": [
-        "/2019/11/weather-amalfi/"
+        "/blog/how-to-get-to-amalfi"
       ],
       "metrics": [
         "10",
-        "10"
+        "8"
       ]
     },
     {
       "dimensions": [
-        "/experience/"
+        "/2019/11/weather-amalfi/"
       ],
       "metrics": [
         "8",
@@ -380,7 +361,7 @@
     },
     {
       "dimensions": [
-        "/2020/04/shoping-quarantine/"
+        "/experience/"
       ],
       "metrics": [
         "7",
@@ -389,20 +370,20 @@
     },
     {
       "dimensions": [
-        "/2019/2/3/presepio-nativity-scene/"
+        "/parking"
       ],
       "metrics": [
-        "5",
-        "6"
+        "7",
+        "8"
       ]
     },
     {
       "dimensions": [
-        "/parking"
+        "/2020/04/shoping-quarantine/"
       ],
       "metrics": [
         "5",
-        "6"
+        "5"
       ]
     },
     {
@@ -410,8 +391,26 @@
         "/photos"
       ],
       "metrics": [
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2019/2/3/presepio-nativity-scene/"
+      ],
+      "metrics": [
         "4",
-        "4"
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2018/05/photos-of-travel-italy-blog/"
+      ],
+      "metrics": [
+        "3",
+        "3"
       ]
     },
     {
@@ -434,20 +433,11 @@
     },
     {
       "dimensions": [
-        "/2020/04/andra-tutto-bene/"
+        "/category/todo/"
       ],
       "metrics": [
         "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2018/05/photos-of-travel-italy-blog/"
-      ],
-      "metrics": [
-        "2",
-        "2"
+        "4"
       ]
     }
   ],
@@ -457,8 +447,8 @@
         "(direct)"
       ],
       "metrics": [
-        "215",
-        "208"
+        "210",
+        "204"
       ]
     },
     {
@@ -466,8 +456,8 @@
         "google"
       ],
       "metrics": [
-        "25",
-        "21"
+        "22",
+        "18"
       ]
     },
     {
@@ -481,20 +471,20 @@
     },
     {
       "dimensions": [
+        "(not set)"
+      ],
+      "metrics": [
+        "7",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
         "ya.ru"
       ],
       "metrics": [
         "5",
         "0"
-      ]
-    },
-    {
-      "dimensions": [
-        "(not set)"
-      ],
-      "metrics": [
-        "4",
-        "4"
       ]
     },
     {
@@ -540,8 +530,8 @@
         "Russia"
       ],
       "metrics": [
-        "132",
-        "126"
+        "137",
+        "131"
       ]
     },
     {
@@ -549,8 +539,8 @@
         "Vietnam"
       ],
       "metrics": [
-        "29",
-        "29"
+        "26",
+        "26"
       ]
     },
     {
@@ -558,17 +548,8 @@
         "Italy"
       ],
       "metrics": [
-        "23",
-        "15"
-      ]
-    },
-    {
-      "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "7",
-        "7"
+        "21",
+        "14"
       ]
     },
     {
@@ -591,16 +572,25 @@
     },
     {
       "dimensions": [
-        "Belarus"
+        "United States"
       ],
       "metrics": [
-        "3",
-        "3"
+        "5",
+        "5"
       ]
     },
     {
       "dimensions": [
         "Brazil"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "Belarus"
       ],
       "metrics": [
         "3",
@@ -618,7 +608,7 @@
     },
     {
       "dimensions": [
-        ""
+        "Bangladesh"
       ],
       "metrics": [
         "2",
@@ -627,17 +617,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 264,
-    "users": 247,
-    "pageViews": 276,
-    "avgSessionDuration": 27,
+    "sessions": 256,
+    "users": 240,
+    "pageViews": 277,
+    "avgSessionDuration": 28,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 1511,
-    "users": 1448,
-    "pageViews": 1623,
-    "avgSessionDuration": 29,
+    "sessions": 1498,
+    "users": 1433,
+    "pageViews": 1620,
+    "avgSessionDuration": 30,
     "bounceRate": 0.8
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "find.amalfi.day",
   "propertyId": "properties/531159837",
-  "updatedAt": "2026-06-24T08:25:23.240Z",
+  "updatedAt": "2026-06-25T08:25:51.991Z",
   "trend": [
     {
       "dimensions": [
@@ -135,16 +135,6 @@
     },
     {
       "dimensions": [
-        "20260525"
-      ],
-      "metrics": [
-        "8",
-        "6",
-        "16"
-      ]
-    },
-    {
-      "dimensions": [
         "20260609"
       ],
       "metrics": [
@@ -165,12 +155,22 @@
     },
     {
       "dimensions": [
+        "20260624"
+      ],
+      "metrics": [
+        "8",
+        "6",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
         "20260623"
       ],
       "metrics": [
         "7",
         "2",
-        "17"
+        "18"
       ]
     },
     {
@@ -285,6 +285,16 @@
     },
     {
       "dimensions": [
+        "20260625"
+      ],
+      "metrics": [
+        "2",
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "20260528"
       ],
       "metrics": [
@@ -302,16 +312,6 @@
         "1",
         "2"
       ]
-    },
-    {
-      "dimensions": [
-        "20260624"
-      ],
-      "metrics": [
-        "1",
-        "0",
-        "1"
-      ]
     }
   ],
   "topPages": [
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "53",
-        "35"
+        "58",
+        "39"
       ]
     },
     {
@@ -329,8 +329,8 @@
         "/route/amalfi-house.html"
       ],
       "metrics": [
-        "24",
-        "23"
+        "26",
+        "26"
       ]
     },
     {
@@ -338,17 +338,8 @@
         "/route/atrani-house.html"
       ],
       "metrics": [
-        "15",
-        "14"
-      ]
-    },
-    {
-      "dimensions": [
-        "/a/"
-      ],
-      "metrics": [
-        "8",
-        "6"
+        "16",
+        "15"
       ]
     },
     {
@@ -362,11 +353,20 @@
     },
     {
       "dimensions": [
+        "/a/"
+      ],
+      "metrics": [
+        "5",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
         "/a"
       ],
       "metrics": [
-        "1",
-        "1"
+        "2",
+        "2"
       ]
     }
   ],
@@ -376,17 +376,8 @@
         "(direct)"
       ],
       "metrics": [
-        "28",
-        "10"
-      ]
-    },
-    {
-      "dimensions": [
-        "airbnb.be"
-      ],
-      "metrics": [
-        "5",
-        "1"
+        "34",
+        "15"
       ]
     },
     {
@@ -394,8 +385,26 @@
         "airbnb.it"
       ],
       "metrics": [
-        "3",
-        "2"
+        "9",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "airbnb.be"
+      ],
+      "metrics": [
+        "6",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "(not set)"
+      ],
+      "metrics": [
+        "4",
+        "4"
       ]
     },
     {
@@ -409,11 +418,11 @@
     },
     {
       "dimensions": [
-        "airbnb.co.uk"
+        "google"
       ],
       "metrics": [
         "2",
-        "0"
+        "2"
       ]
     },
     {
@@ -427,25 +436,16 @@
     },
     {
       "dimensions": [
-        "airbnb.com"
+        "airbnb.com.hk"
       ],
       "metrics": [
         "1",
-        "1"
+        "0"
       ]
     },
     {
       "dimensions": [
         "airbnb.dk"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "google"
       ],
       "metrics": [
         "1",
@@ -459,7 +459,7 @@
         "Italy"
       ],
       "metrics": [
-        "18",
+        "17",
         "9"
       ]
     },
@@ -483,10 +483,37 @@
     },
     {
       "dimensions": [
+        "United Kingdom"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
         "United States"
       ],
       "metrics": [
         "4",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Canada"
+      ],
+      "metrics": [
+        "3",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Singapore"
+      ],
+      "metrics": [
+        "3",
         "1"
       ]
     },
@@ -516,47 +543,20 @@
         "2",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "Bulgaria"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Canada"
-      ],
-      "metrics": [
-        "2",
-        "0"
-      ]
-    },
-    {
-      "dimensions": [
-        "Japan"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 52,
-    "users": 18,
-    "pageViews": 107,
-    "avgSessionDuration": 228,
+    "sessions": 57,
+    "users": 23,
+    "pageViews": 113,
+    "avgSessionDuration": 207,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 236,
-    "users": 101,
-    "pageViews": 466,
-    "avgSessionDuration": 256,
+    "sessions": 245,
+    "users": 104,
+    "pageViews": 479,
+    "avgSessionDuration": 259,
     "bounceRate": 0.4
   }
 }
