@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-06-26T08:32:25.110Z",
+  "updatedAt": "2026-06-27T07:51:49.971Z",
   "trend": [
     {
       "dimensions": [
@@ -165,16 +165,6 @@
     },
     {
       "dimensions": [
-        "20260527"
-      ],
-      "metrics": [
-        "43",
-        "42",
-        "43"
-      ]
-    },
-    {
-      "dimensions": [
         "20260621"
       ],
       "metrics": [
@@ -275,6 +265,16 @@
     },
     {
       "dimensions": [
+        "20260626"
+      ],
+      "metrics": [
+        "35",
+        "34",
+        "39"
+      ]
+    },
+    {
+      "dimensions": [
         "20260623"
       ],
       "metrics": [
@@ -310,8 +310,8 @@
         "/"
       ],
       "metrics": [
-        "124",
-        "116"
+        "133",
+        "125"
       ]
     },
     {
@@ -319,17 +319,8 @@
         "/2019/03/duet-postscriptum-amalfi/"
       ],
       "metrics": [
-        "15",
-        "16"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
-      ],
-      "metrics": [
-        "12",
-        "12"
+        "14",
+        "15"
       ]
     },
     {
@@ -343,25 +334,25 @@
     },
     {
       "dimensions": [
+        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
+      ],
+      "metrics": [
+        "10",
+        "10"
+      ]
+    },
+    {
+      "dimensions": [
         "/blog/netflix-snimaiet-film-positano-s-makkonakhi-i-saldanoi-na-pobieriezhie-amalfi"
       ],
       "metrics": [
-        "9",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2019/11/weather-amalfi/"
-      ],
-      "metrics": [
         "8",
-        "8"
+        "7"
       ]
     },
     {
       "dimensions": [
-        "/parking"
+        "/photos"
       ],
       "metrics": [
         "8",
@@ -379,16 +370,16 @@
     },
     {
       "dimensions": [
-        "/photos"
+        "/parking"
       ],
       "metrics": [
-        "6",
-        "6"
+        "7",
+        "7"
       ]
     },
     {
       "dimensions": [
-        "/2020/04/shoping-quarantine/"
+        "/2019/11/weather-amalfi/"
       ],
       "metrics": [
         "5",
@@ -400,7 +391,7 @@
         "/category/todo/"
       ],
       "metrics": [
-        "4",
+        "5",
         "5"
       ]
     },
@@ -409,13 +400,31 @@
         "/2018/05/photos-of-travel-italy-blog/"
       ],
       "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2020/04/shoping-quarantine/"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/contacts"
+      ],
+      "metrics": [
         "3",
         "3"
       ]
     },
     {
       "dimensions": [
-        "/2018/07/vintage-cars-amalfi-drive/"
+        "/2018/06/camelia-photo-blogger-amalfi/"
       ],
       "metrics": [
         "2",
@@ -430,15 +439,6 @@
         "2",
         "2"
       ]
-    },
-    {
-      "dimensions": [
-        "/2019/07/ferry-amalfi-2019/"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
     }
   ],
   "sources": [
@@ -447,8 +447,8 @@
         "(direct)"
       ],
       "metrics": [
-        "204",
-        "199"
+        "213",
+        "207"
       ]
     },
     {
@@ -456,8 +456,8 @@
         "google"
       ],
       "metrics": [
-        "22",
-        "20"
+        "21",
+        "19"
       ]
     },
     {
@@ -474,7 +474,7 @@
         "ya.ru"
       ],
       "metrics": [
-        "5",
+        "3",
         "0"
       ]
     },
@@ -483,8 +483,8 @@
         "(not set)"
       ],
       "metrics": [
-        "3",
-        "3"
+        "2",
+        "2"
       ]
     },
     {
@@ -530,17 +530,8 @@
         "Russia"
       ],
       "metrics": [
-        "136",
-        "130"
-      ]
-    },
-    {
-      "dimensions": [
-        "Vietnam"
-      ],
-      "metrics": [
-        "23",
-        "23"
+        "143",
+        "139"
       ]
     },
     {
@@ -548,13 +539,31 @@
         "Italy"
       ],
       "metrics": [
-        "21",
+        "22",
         "14"
       ]
     },
     {
       "dimensions": [
+        "Vietnam"
+      ],
+      "metrics": [
+        "22",
+        "22"
+      ]
+    },
+    {
+      "dimensions": [
         "(not set)"
+      ],
+      "metrics": [
+        "6",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "United Kingdom"
       ],
       "metrics": [
         "6",
@@ -581,24 +590,6 @@
     },
     {
       "dimensions": [
-        "China"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "United Kingdom"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
         "Belarus"
       ],
       "metrics": [
@@ -608,26 +599,35 @@
     },
     {
       "dimensions": [
-        "Bangladesh"
+        "China"
       ],
       "metrics": [
-        "2",
-        "2"
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "Türkiye"
+      ],
+      "metrics": [
+        "3",
+        "3"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 247,
-    "users": 234,
-    "pageViews": 278,
+    "sessions": 252,
+    "users": 240,
+    "pageViews": 283,
     "avgSessionDuration": 30,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 1481,
-    "users": 1415,
-    "pageViews": 1603,
-    "avgSessionDuration": 30,
+    "sessions": 1474,
+    "users": 1407,
+    "pageViews": 1599,
+    "avgSessionDuration": 31,
     "bounceRate": 0.8
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-06-26T08:32:26.661Z",
+  "updatedAt": "2026-06-27T07:51:51.592Z",
   "trend": [
     {
       "dimensions": [
@@ -11,16 +11,6 @@
         "18",
         "6",
         "114"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260527"
-      ],
-      "metrics": [
-        "16",
-        "6",
-        "105"
       ]
     },
     {
@@ -115,6 +105,16 @@
     },
     {
       "dimensions": [
+        "20260626"
+      ],
+      "metrics": [
+        "11",
+        "5",
+        "16"
+      ]
+    },
+    {
+      "dimensions": [
         "20260602"
       ],
       "metrics": [
@@ -190,7 +190,7 @@
       "metrics": [
         "8",
         "6",
-        "39"
+        "40"
       ]
     },
     {
@@ -292,16 +292,6 @@
         "1",
         "4"
       ]
-    },
-    {
-      "dimensions": [
-        "20260626"
-      ],
-      "metrics": [
-        "2",
-        "1",
-        "2"
-      ]
     }
   ],
   "topPages": [
@@ -310,8 +300,17 @@
         "/"
       ],
       "metrics": [
-        "116",
-        "31"
+        "112",
+        "37"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/waterfall-of-atrani"
+      ],
+      "metrics": [
+        "10",
+        "9"
       ]
     },
     {
@@ -334,24 +333,6 @@
     },
     {
       "dimensions": [
-        "/place/castiglione-beach-lido-di-ravello"
-      ],
-      "metrics": [
-        "8",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/church-of-saint-mary-magdalene"
-      ],
-      "metrics": [
-        "8",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
         "/place/le-arcate-atrani"
       ],
       "metrics": [
@@ -361,11 +342,29 @@
     },
     {
       "dimensions": [
-        "/place/waterfall-of-atrani"
+        "/place/castiglione-beach-lido-di-ravello"
       ],
       "metrics": [
-        "8",
-        "7"
+        "7",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/church-of-saint-mary-magdalene"
+      ],
+      "metrics": [
+        "6",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/church-santa-maria-del-bando"
+      ],
+      "metrics": [
+        "6",
+        "5"
       ]
     },
     {
@@ -379,25 +378,7 @@
     },
     {
       "dimensions": [
-        "/place/church-santa-maria-del-bando"
-      ],
-      "metrics": [
-        "5",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
         "/place/il-birecto-atrani"
-      ],
-      "metrics": [
-        "5",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/secret-waterfall-valle-dei-mulini"
       ],
       "metrics": [
         "5",
@@ -415,29 +396,38 @@
     },
     {
       "dimensions": [
-        "/place/aparanza-atrani"
+        "/place/secret-waterfall-valle-dei-mulini"
       ],
       "metrics": [
-        "3",
+        "4",
         "3"
       ]
     },
     {
       "dimensions": [
-        "/place/belvedere-of-san-lorenzo"
+        "/de"
       ],
       "metrics": [
-        "3",
-        "3"
+        "2",
+        "1"
       ]
     },
     {
       "dimensions": [
-        "/place/duomo-di-santandrea-amalfi-cathedral"
+        "/fr/place/church-of-saint-mary-magdalene"
       ],
       "metrics": [
-        "3",
-        "3"
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/fr/place/torre-dello-ziro"
+      ],
+      "metrics": [
+        "2",
+        "1"
       ]
     }
   ],
@@ -447,8 +437,8 @@
         "(direct)"
       ],
       "metrics": [
-        "37",
-        "15"
+        "41",
+        "14"
       ]
     },
     {
@@ -456,8 +446,8 @@
         "(not set)"
       ],
       "metrics": [
-        "7",
-        "5"
+        "4",
+        "4"
       ]
     }
   ],
@@ -467,8 +457,8 @@
         "Italy"
       ],
       "metrics": [
-        "23",
-        "11"
+        "24",
+        "10"
       ]
     },
     {
@@ -476,7 +466,7 @@
         "Belgium"
       ],
       "metrics": [
-        "4",
+        "6",
         "2"
       ]
     },
@@ -485,7 +475,7 @@
         "Netherlands"
       ],
       "metrics": [
-        "3",
+        "4",
         "1"
       ]
     },
@@ -494,7 +484,7 @@
         "Australia"
       ],
       "metrics": [
-        "2",
+        "3",
         "1"
       ]
     },
@@ -554,17 +544,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 38,
-    "users": 15,
-    "pageViews": 233,
-    "avgSessionDuration": 415,
+    "sessions": 43,
+    "users": 14,
+    "pageViews": 219,
+    "avgSessionDuration": 300,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 266,
-    "users": 72,
-    "pageViews": 1483,
-    "avgSessionDuration": 451,
+    "sessions": 259,
+    "users": 70,
+    "pageViews": 1393,
+    "avgSessionDuration": 408,
     "bounceRate": 0.3
   }
 }
