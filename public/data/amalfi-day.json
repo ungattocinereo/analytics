@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-06-27T07:51:50.969Z",
+  "updatedAt": "2026-06-28T08:25:07.584Z",
   "trend": [
     {
       "dimensions": [
@@ -125,16 +125,6 @@
     },
     {
       "dimensions": [
-        "20260528"
-      ],
-      "metrics": [
-        "22",
-        "14",
-        "28"
-      ]
-    },
-    {
-      "dimensions": [
         "20260618"
       ],
       "metrics": [
@@ -201,6 +191,16 @@
         "20",
         "16",
         "28"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260626"
+      ],
+      "metrics": [
+        "19",
+        "14",
+        "23"
       ]
     },
     {
@@ -285,6 +285,16 @@
     },
     {
       "dimensions": [
+        "20260627"
+      ],
+      "metrics": [
+        "13",
+        "10",
+        "22"
+      ]
+    },
+    {
+      "dimensions": [
         "20260605"
       ],
       "metrics": [
@@ -295,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260626"
+        "20260628"
       ],
       "metrics": [
-        "8",
-        "4",
-        "10"
+        "2",
+        "1",
+        "2"
       ]
     }
   ],
@@ -310,8 +320,8 @@
         "/parking/"
       ],
       "metrics": [
-        "58",
-        "53"
+        "54",
+        "50"
       ]
     },
     {
@@ -325,6 +335,24 @@
     },
     {
       "dimensions": [
+        "/timetables/"
+      ],
+      "metrics": [
+        "21",
+        "18"
+      ]
+    },
+    {
+      "dimensions": [
+        "/directions/"
+      ],
+      "metrics": [
+        "16",
+        "14"
+      ]
+    },
+    {
+      "dimensions": [
         "/ferry-timetables"
       ],
       "metrics": [
@@ -334,20 +362,11 @@
     },
     {
       "dimensions": [
-        "/timetables/"
+        "/ferry-timetables/"
       ],
       "metrics": [
-        "16",
-        "16"
-      ]
-    },
-    {
-      "dimensions": [
-        "/directions/"
-      ],
-      "metrics": [
-        "15",
-        "14"
+        "10",
+        "7"
       ]
     },
     {
@@ -355,8 +374,8 @@
         "/how-to-get/"
       ],
       "metrics": [
-        "9",
-        "2"
+        "10",
+        "3"
       ]
     },
     {
@@ -364,7 +383,7 @@
         "/parking"
       ],
       "metrics": [
-        "7",
+        "8",
         "8"
       ]
     },
@@ -373,8 +392,8 @@
         "/contact"
       ],
       "metrics": [
-        "5",
-        "5"
+        "6",
+        "6"
       ]
     },
     {
@@ -382,35 +401,8 @@
         "/experience"
       ],
       "metrics": [
-        "5",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/license-plate-restrictions-return-to-the-amalfi-coast-april-25-may-2-2/"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photoshootings/ayuna"
-      ],
-      "metrics": [
-        "4",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/timetables"
-      ],
-      "metrics": [
-        "4",
-        "3"
+        "6",
+        "6"
       ]
     },
     {
@@ -418,13 +410,22 @@
         "/apartments"
       ],
       "metrics": [
-        "2",
-        "2"
+        "3",
+        "3"
       ]
     },
     {
       "dimensions": [
         "/blog"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/"
       ],
       "metrics": [
         "2",
@@ -433,7 +434,16 @@
     },
     {
       "dimensions": [
-        "/blog/"
+        "/blog/frana-sulla-statale-amalfitana-strada-chiusa-a-vietri-sul-mare/"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/license-plate-restrictions-return-to-the-amalfi-coast-april-25-may-2-2/"
       ],
       "metrics": [
         "2",
@@ -447,8 +457,8 @@
         "google"
       ],
       "metrics": [
-        "75",
-        "46"
+        "70",
+        "40"
       ]
     },
     {
@@ -456,8 +466,8 @@
         "(direct)"
       ],
       "metrics": [
-        "44",
-        "23"
+        "47",
+        "28"
       ]
     },
     {
@@ -465,8 +475,8 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "16",
-        "16"
+        "22",
+        "21"
       ]
     },
     {
@@ -489,6 +499,24 @@
     },
     {
       "dimensions": [
+        "m.facebook.com"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "yahoo"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "(not set)"
       ],
       "metrics": [
@@ -504,24 +532,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "m.facebook.com"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "yahoo"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "countries": [
@@ -530,8 +540,8 @@
         "Italy"
       ],
       "metrics": [
-        "43",
-        "29"
+        "41",
+        "28"
       ]
     },
     {
@@ -548,8 +558,17 @@
         "United States"
       ],
       "metrics": [
-        "12",
-        "11"
+        "14",
+        "13"
+      ]
+    },
+    {
+      "dimensions": [
+        "Netherlands"
+      ],
+      "metrics": [
+        "9",
+        "8"
       ]
     },
     {
@@ -563,15 +582,6 @@
     },
     {
       "dimensions": [
-        "United Kingdom"
-      ],
-      "metrics": [
-        "7",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
         "Canada"
       ],
       "metrics": [
@@ -581,11 +591,11 @@
     },
     {
       "dimensions": [
-        "Austria"
+        "Germany"
       ],
       "metrics": [
-        "5",
-        "4"
+        "6",
+        "5"
       ]
     },
     {
@@ -599,35 +609,35 @@
     },
     {
       "dimensions": [
-        "Estonia"
+        "United Kingdom"
       ],
       "metrics": [
-        "4",
-        "1"
+        "5",
+        "5"
       ]
     },
     {
       "dimensions": [
-        "Germany"
+        "Austria"
       ],
       "metrics": [
         "4",
-        "4"
+        "3"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 144,
-    "users": 91,
-    "pageViews": 191,
-    "avgSessionDuration": 174,
+    "sessions": 150,
+    "users": 97,
+    "pageViews": 200,
+    "avgSessionDuration": 175,
     "bounceRate": 0.6
   },
   "summary30d": {
-    "sessions": 658,
-    "users": 393,
-    "pageViews": 917,
-    "avgSessionDuration": 181,
+    "sessions": 663,
+    "users": 400,
+    "pageViews": 926,
+    "avgSessionDuration": 179,
     "bounceRate": 0.6
   }
 }
