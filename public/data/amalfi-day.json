@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-06-28T08:25:07.584Z",
+  "updatedAt": "2026-06-29T09:52:13.569Z",
   "trend": [
     {
       "dimensions": [
@@ -225,16 +225,6 @@
     },
     {
       "dimensions": [
-        "20260529"
-      ],
-      "metrics": [
-        "16",
-        "11",
-        "29"
-      ]
-    },
-    {
-      "dimensions": [
         "20260601"
       ],
       "metrics": [
@@ -308,6 +298,16 @@
         "20260628"
       ],
       "metrics": [
+        "10",
+        "5",
+        "13"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260629"
+      ],
+      "metrics": [
         "2",
         "1",
         "2"
@@ -320,17 +320,8 @@
         "/parking/"
       ],
       "metrics": [
-        "54",
-        "50"
-      ]
-    },
-    {
-      "dimensions": [
-        "/"
-      ],
-      "metrics": [
-        "24",
-        "23"
+        "48",
+        "46"
       ]
     },
     {
@@ -338,8 +329,17 @@
         "/timetables/"
       ],
       "metrics": [
+        "22",
+        "19"
+      ]
+    },
+    {
+      "dimensions": [
+        "/"
+      ],
+      "metrics": [
         "21",
-        "18"
+        "20"
       ]
     },
     {
@@ -347,8 +347,8 @@
         "/directions/"
       ],
       "metrics": [
-        "16",
-        "14"
+        "12",
+        "10"
       ]
     },
     {
@@ -356,8 +356,8 @@
         "/ferry-timetables"
       ],
       "metrics": [
-        "16",
-        "12"
+        "12",
+        "10"
       ]
     },
     {
@@ -365,8 +365,8 @@
         "/ferry-timetables/"
       ],
       "metrics": [
-        "10",
-        "7"
+        "11",
+        "8"
       ]
     },
     {
@@ -374,8 +374,8 @@
         "/how-to-get/"
       ],
       "metrics": [
-        "10",
-        "3"
+        "9",
+        "2"
       ]
     },
     {
@@ -383,8 +383,8 @@
         "/parking"
       ],
       "metrics": [
-        "8",
-        "8"
+        "7",
+        "6"
       ]
     },
     {
@@ -401,8 +401,8 @@
         "/experience"
       ],
       "metrics": [
-        "6",
-        "6"
+        "5",
+        "5"
       ]
     },
     {
@@ -416,11 +416,20 @@
     },
     {
       "dimensions": [
-        "/blog"
+        "/timetables"
       ],
       "metrics": [
         "3",
-        "3"
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog"
+      ],
+      "metrics": [
+        "2",
+        "2"
       ]
     },
     {
@@ -440,15 +449,6 @@
         "2",
         "2"
       ]
-    },
-    {
-      "dimensions": [
-        "/blog/license-plate-restrictions-return-to-the-amalfi-coast-april-25-may-2-2/"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
     }
   ],
   "sources": [
@@ -457,8 +457,8 @@
         "google"
       ],
       "metrics": [
-        "70",
-        "40"
+        "65",
+        "33"
       ]
     },
     {
@@ -466,7 +466,7 @@
         "(direct)"
       ],
       "metrics": [
-        "47",
+        "41",
         "28"
       ]
     },
@@ -481,16 +481,16 @@
     },
     {
       "dimensions": [
-        "bing"
+        "amalfi-guide-ungattocinereo-cinereos-projects.vercel.app"
       ],
       "metrics": [
-        "3",
-        "2"
+        "2",
+        "1"
       ]
     },
     {
       "dimensions": [
-        "amalfi-guide-ungattocinereo-cinereos-projects.vercel.app"
+        "bing"
       ],
       "metrics": [
         "2",
@@ -517,15 +517,6 @@
     },
     {
       "dimensions": [
-        "(not set)"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "facebook.com"
       ],
       "metrics": [
@@ -540,8 +531,8 @@
         "Italy"
       ],
       "metrics": [
-        "41",
-        "28"
+        "39",
+        "25"
       ]
     },
     {
@@ -549,8 +540,8 @@
         "Australia"
       ],
       "metrics": [
-        "18",
-        "3"
+        "17",
+        "2"
       ]
     },
     {
@@ -558,8 +549,8 @@
         "United States"
       ],
       "metrics": [
-        "14",
-        "13"
+        "13",
+        "12"
       ]
     },
     {
@@ -576,17 +567,8 @@
         "Spain"
       ],
       "metrics": [
-        "7",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "Canada"
-      ],
-      "metrics": [
-        "6",
-        "4"
+        "8",
+        "7"
       ]
     },
     {
@@ -600,44 +582,53 @@
     },
     {
       "dimensions": [
-        "Belgium"
+        "Canada"
       ],
       "metrics": [
         "5",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "Estonia"
+      ],
+      "metrics": [
+        "4",
         "1"
       ]
     },
     {
       "dimensions": [
-        "United Kingdom"
+        "Poland"
       ],
       "metrics": [
-        "5",
-        "5"
+        "4",
+        "4"
       ]
     },
     {
       "dimensions": [
-        "Austria"
+        "Sweden"
       ],
       "metrics": [
         "4",
-        "3"
+        "2"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 150,
-    "users": 97,
-    "pageViews": 200,
-    "avgSessionDuration": 175,
+    "sessions": 137,
+    "users": 89,
+    "pageViews": 180,
+    "avgSessionDuration": 162,
     "bounceRate": 0.6
   },
   "summary30d": {
-    "sessions": 663,
-    "users": 400,
-    "pageViews": 926,
-    "avgSessionDuration": 179,
+    "sessions": 657,
+    "users": 395,
+    "pageViews": 910,
+    "avgSessionDuration": 174,
     "bounceRate": 0.6
   }
 }
