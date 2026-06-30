@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-06-29T09:52:12.329Z",
+  "updatedAt": "2026-06-30T08:32:30.903Z",
   "trend": [
     {
       "dimensions": [
@@ -205,16 +205,6 @@
     },
     {
       "dimensions": [
-        "20260530"
-      ],
-      "metrics": [
-        "39",
-        "37",
-        "50"
-      ]
-    },
-    {
-      "dimensions": [
         "20260622"
       ],
       "metrics": [
@@ -285,6 +275,16 @@
     },
     {
       "dimensions": [
+        "20260629"
+      ],
+      "metrics": [
+        "31",
+        "31",
+        "32"
+      ]
+    },
+    {
+      "dimensions": [
         "20260619"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260629"
+        "20260630"
       ],
       "metrics": [
-        "11",
-        "11",
-        "11"
+        "9",
+        "9",
+        "9"
       ]
     }
   ],
@@ -320,17 +320,8 @@
         "/"
       ],
       "metrics": [
-        "127",
-        "124"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/how-to-get-to-amalfi"
-      ],
-      "metrics": [
-        "15",
-        "13"
+        "125",
+        "123"
       ]
     },
     {
@@ -338,8 +329,8 @@
         "/2019/03/duet-postscriptum-amalfi/"
       ],
       "metrics": [
-        "14",
-        "15"
+        "15",
+        "16"
       ]
     },
     {
@@ -358,6 +349,15 @@
       "metrics": [
         "9",
         "9"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/how-to-get-to-amalfi"
+      ],
+      "metrics": [
+        "8",
+        "8"
       ]
     },
     {
@@ -383,8 +383,8 @@
         "/parking"
       ],
       "metrics": [
-        "7",
-        "7"
+        "5",
+        "5"
       ]
     },
     {
@@ -398,34 +398,16 @@
     },
     {
       "dimensions": [
-        "/blog/netflix-snimaiet-film-positano-s-makkonakhi-i-saldanoi-na-pobieriezhie-amalfi"
-      ],
-      "metrics": [
-        "4",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
         "/contacts"
       ],
       "metrics": [
         "4",
-        "4"
+        "5"
       ]
     },
     {
       "dimensions": [
         "/2018/06/camelia-photo-blogger-amalfi/"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2018/07/vintage-cars-amalfi-drive/"
       ],
       "metrics": [
         "3",
@@ -443,11 +425,29 @@
     },
     {
       "dimensions": [
-        "/blog/ravello/"
+        "/apartments"
       ],
       "metrics": [
         "3",
         "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/tours-car"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2018/07/vintage-cars-amalfi-drive/"
+      ],
+      "metrics": [
+        "2",
+        "2"
       ]
     }
   ],
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "204",
-        "203"
+        "196",
+        "195"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "21",
-        "20"
+        "22",
+        "21"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "google"
       ],
       "metrics": [
-        "18",
-        "15"
+        "16",
+        "13"
       ]
     },
     {
@@ -505,15 +505,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "yandex"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "countries": [
@@ -522,8 +513,8 @@
         "Russia"
       ],
       "metrics": [
-        "149",
-        "148"
+        "148",
+        "147"
       ]
     },
     {
@@ -540,8 +531,8 @@
         "Italy"
       ],
       "metrics": [
-        "13",
-        "11"
+        "11",
+        "9"
       ]
     },
     {
@@ -558,8 +549,8 @@
         "(not set)"
       ],
       "metrics": [
-        "7",
-        "7"
+        "6",
+        "6"
       ]
     },
     {
@@ -576,8 +567,8 @@
         "United States"
       ],
       "metrics": [
-        "6",
-        "6"
+        "5",
+        "5"
       ]
     },
     {
@@ -585,8 +576,8 @@
         "Belarus"
       ],
       "metrics": [
-        "5",
-        "3"
+        "4",
+        "2"
       ]
     },
     {
@@ -600,26 +591,26 @@
     },
     {
       "dimensions": [
-        "Netherlands"
+        "Iraq"
       ],
       "metrics": [
-        "4",
-        "4"
+        "3",
+        "3"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 252,
-    "users": 247,
-    "pageViews": 282,
-    "avgSessionDuration": 17,
+    "sessions": 242,
+    "users": 237,
+    "pageViews": 269,
+    "avgSessionDuration": 15,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 1476,
-    "users": 1410,
-    "pageViews": 1607,
-    "avgSessionDuration": 31,
+    "sessions": 1464,
+    "users": 1402,
+    "pageViews": 1587,
+    "avgSessionDuration": 30,
     "bounceRate": 0.8
   }
 }
