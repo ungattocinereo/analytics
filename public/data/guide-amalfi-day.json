@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-06-30T08:32:32.541Z",
+  "updatedAt": "2026-07-01T08:51:09.771Z",
   "trend": [
     {
       "dimensions": [
@@ -135,12 +135,12 @@
     },
     {
       "dimensions": [
-        "20260531"
+        "20260630"
       ],
       "metrics": [
-        "9",
-        "8",
-        "38"
+        "10",
+        "7",
+        "25"
       ]
     },
     {
@@ -185,22 +185,22 @@
     },
     {
       "dimensions": [
+        "20260629"
+      ],
+      "metrics": [
+        "8",
+        "3",
+        "64"
+      ]
+    },
+    {
+      "dimensions": [
         "20260607"
       ],
       "metrics": [
         "7",
         "5",
         "19"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260629"
-      ],
-      "metrics": [
-        "7",
-        "3",
-        "51"
       ]
     },
     {
@@ -292,16 +292,6 @@
         "1",
         "4"
       ]
-    },
-    {
-      "dimensions": [
-        "20260630"
-      ],
-      "metrics": [
-        "1",
-        "0",
-        "1"
-      ]
     }
   ],
   "topPages": [
@@ -310,8 +300,8 @@
         "/"
       ],
       "metrics": [
-        "146",
-        "47"
+        "140",
+        "53"
       ]
     },
     {
@@ -325,29 +315,20 @@
     },
     {
       "dimensions": [
+        "/place/le-palme-atrani"
+      ],
+      "metrics": [
+        "10",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
         "/place/secret-waterfall-valle-dei-mulini"
       ],
       "metrics": [
-        "12",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/castiglione-beach-lido-di-ravello"
-      ],
-      "metrics": [
-        "11",
-        "10"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/waterfall-of-atrani"
-      ],
-      "metrics": [
-        "11",
-        "11"
+        "10",
+        "7"
       ]
     },
     {
@@ -361,29 +342,11 @@
     },
     {
       "dimensions": [
-        "/place/belvedere-of-san-lorenzo"
+        "/place/church-santa-maria-del-bando"
       ],
       "metrics": [
         "9",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/church-of-saint-mary-magdalene"
-      ],
-      "metrics": [
-        "9",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/path-of-the-gods-sentiero-degli-dei"
-      ],
-      "metrics": [
-        "9",
-        "7"
+        "8"
       ]
     },
     {
@@ -397,11 +360,38 @@
     },
     {
       "dimensions": [
-        "/place/church-santa-maria-del-bando"
+        "/place/waterfall-of-atrani"
+      ],
+      "metrics": [
+        "9",
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/castiglione-beach-lido-di-ravello"
       ],
       "metrics": [
         "8",
-        "7"
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/church-of-saint-mary-magdalene"
+      ],
+      "metrics": [
+        "8",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/path-of-the-gods-sentiero-degli-dei"
+      ],
+      "metrics": [
+        "8",
+        "6"
       ]
     },
     {
@@ -415,20 +405,11 @@
     },
     {
       "dimensions": [
-        "/place/le-arcate-atrani"
+        "/place/belvedere-of-san-lorenzo"
       ],
       "metrics": [
-        "6",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/le-palme-atrani"
-      ],
-      "metrics": [
-        "5",
-        "4"
+        "7",
+        "5"
       ]
     },
     {
@@ -437,7 +418,16 @@
       ],
       "metrics": [
         "5",
-        "5"
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/fr/place/waterfall-of-atrani"
+      ],
+      "metrics": [
+        "4",
+        "4"
       ]
     }
   ],
@@ -447,8 +437,8 @@
         "(direct)"
       ],
       "metrics": [
-        "58",
-        "14"
+        "59",
+        "16"
       ]
     },
     {
@@ -459,6 +449,24 @@
         "6",
         "3"
       ]
+    },
+    {
+      "dimensions": [
+        "(data not available)"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "airbnb.it"
+      ],
+      "metrics": [
+        "1",
+        "0"
+      ]
     }
   ],
   "countries": [
@@ -467,7 +475,7 @@
         "Italy"
       ],
       "metrics": [
-        "40",
+        "39",
         "14"
       ]
     },
@@ -478,6 +486,24 @@
       "metrics": [
         "8",
         "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "5",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "France"
+      ],
+      "metrics": [
+        "4",
+        "2"
       ]
     },
     {
@@ -494,17 +520,8 @@
         "Belgium"
       ],
       "metrics": [
-        "3",
+        "2",
         "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "France"
-      ],
-      "metrics": [
-        "3",
-        "2"
       ]
     },
     {
@@ -518,6 +535,15 @@
     },
     {
       "dimensions": [
+        "United Kingdom"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "Malta"
       ],
       "metrics": [
@@ -527,35 +553,26 @@
     },
     {
       "dimensions": [
-        "United Kingdom"
+        "Norway"
       ],
       "metrics": [
         "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "1",
-        "1"
+        "0"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 61,
-    "users": 15,
-    "pageViews": 338,
-    "avgSessionDuration": 307,
+    "sessions": 66,
+    "users": 20,
+    "pageViews": 319,
+    "avgSessionDuration": 224,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 256,
-    "users": 70,
-    "pageViews": 1458,
-    "avgSessionDuration": 427,
+    "sessions": 257,
+    "users": 71,
+    "pageViews": 1457,
+    "avgSessionDuration": 402,
     "bounceRate": 0.3
   }
 }

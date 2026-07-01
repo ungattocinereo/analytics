@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-06-30T08:32:31.948Z",
+  "updatedAt": "2026-07-01T08:51:09.215Z",
   "trend": [
     {
       "dimensions": [
@@ -95,16 +95,6 @@
     },
     {
       "dimensions": [
-        "20260531"
-      ],
-      "metrics": [
-        "24",
-        "18",
-        "28"
-      ]
-    },
-    {
-      "dimensions": [
         "20260614"
       ],
       "metrics": [
@@ -160,6 +150,16 @@
       "metrics": [
         "22",
         "16",
+        "41"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260630"
+      ],
+      "metrics": [
+        "22",
+        "13",
         "41"
       ]
     },
@@ -310,8 +310,8 @@
         "/parking/"
       ],
       "metrics": [
-        "59",
-        "54"
+        "57",
+        "51"
       ]
     },
     {
@@ -319,8 +319,8 @@
         "/"
       ],
       "metrics": [
-        "26",
-        "22"
+        "25",
+        "21"
       ]
     },
     {
@@ -328,8 +328,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "20",
-        "16"
+        "23",
+        "19"
       ]
     },
     {
@@ -346,7 +346,16 @@
         "/directions/"
       ],
       "metrics": [
-        "14",
+        "17",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
+        "/apartments"
+      ],
+      "metrics": [
+        "12",
         "9"
       ]
     },
@@ -355,8 +364,8 @@
         "/ferry-timetables/"
       ],
       "metrics": [
-        "11",
-        "8"
+        "12",
+        "9"
       ]
     },
     {
@@ -370,6 +379,15 @@
     },
     {
       "dimensions": [
+        "/blog/license-plate-restrictions-return-to-the-amalfi-coast-april-25-may-2-2/"
+      ],
+      "metrics": [
+        "7",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
         "/parking"
       ],
       "metrics": [
@@ -379,7 +397,7 @@
     },
     {
       "dimensions": [
-        "/blog/license-plate-restrictions-return-to-the-amalfi-coast-april-25-may-2-2/"
+        "/contact"
       ],
       "metrics": [
         "5",
@@ -397,11 +415,11 @@
     },
     {
       "dimensions": [
-        "/contact"
+        "/photoshootings"
       ],
       "metrics": [
-        "4",
-        "4"
+        "5",
+        "3"
       ]
     },
     {
@@ -415,28 +433,10 @@
     },
     {
       "dimensions": [
-        "/apartments"
+        "/experience/car-tours"
       ],
       "metrics": [
         "3",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/praiano-turns-into-a-film-set-in-may-with-road-changes-on-the-ss163/"
-      ],
-      "metrics": [
-        "2",
         "2"
       ]
     }
@@ -447,8 +447,8 @@
         "google"
       ],
       "metrics": [
-        "70",
-        "37"
+        "75",
+        "44"
       ]
     },
     {
@@ -456,8 +456,8 @@
         "(direct)"
       ],
       "metrics": [
-        "35",
-        "23"
+        "29",
+        "19"
       ]
     },
     {
@@ -465,8 +465,8 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "25",
-        "23"
+        "27",
+        "24"
       ]
     },
     {
@@ -474,7 +474,7 @@
         "amalfi-guide-ungattocinereo-cinereos-projects.vercel.app"
       ],
       "metrics": [
-        "3",
+        "6",
         "1"
       ]
     },
@@ -521,8 +521,8 @@
         "Italy"
       ],
       "metrics": [
-        "42",
-        "29"
+        "45",
+        "31"
       ]
     },
     {
@@ -530,7 +530,7 @@
         "Australia"
       ],
       "metrics": [
-        "18",
+        "15",
         "3"
       ]
     },
@@ -540,7 +540,7 @@
       ],
       "metrics": [
         "12",
-        "9"
+        "10"
       ]
     },
     {
@@ -557,7 +557,7 @@
         "Spain"
       ],
       "metrics": [
-        "9",
+        "8",
         "7"
       ]
     },
@@ -566,8 +566,17 @@
         "United Kingdom"
       ],
       "metrics": [
+        "7",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "Canada"
+      ],
+      "metrics": [
         "5",
-        "5"
+        "3"
       ]
     },
     {
@@ -575,17 +584,8 @@
         "Estonia"
       ],
       "metrics": [
-        "4",
+        "5",
         "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Germany"
-      ],
-      "metrics": [
-        "4",
-        "3"
       ]
     },
     {
@@ -599,7 +599,7 @@
     },
     {
       "dimensions": [
-        "Canada"
+        "France"
       ],
       "metrics": [
         "3",
@@ -608,17 +608,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 139,
-    "users": 90,
-    "pageViews": 202,
+    "sessions": 143,
+    "users": 94,
+    "pageViews": 224,
     "avgSessionDuration": 448,
     "bounceRate": 0.6
   },
   "summary30d": {
-    "sessions": 668,
-    "users": 404,
-    "pageViews": 939,
-    "avgSessionDuration": 234,
+    "sessions": 665,
+    "users": 400,
+    "pageViews": 952,
+    "avgSessionDuration": 238,
     "bounceRate": 0.6
   }
 }
