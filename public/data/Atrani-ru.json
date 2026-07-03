@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-07-02T08:13:50.686Z",
+  "updatedAt": "2026-07-03T08:13:12.344Z",
   "trend": [
     {
       "dimensions": [
@@ -51,6 +51,16 @@
         "66",
         "65",
         "66"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260702"
+      ],
+      "metrics": [
+        "66",
+        "64",
+        "71"
       ]
     },
     {
@@ -121,16 +131,6 @@
         "49",
         "48",
         "57"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260602"
-      ],
-      "metrics": [
-        "48",
-        "47",
-        "50"
       ]
     },
     {
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260702"
+        "20260703"
       ],
       "metrics": [
-        "8",
-        "8",
-        "8"
+        "19",
+        "19",
+        "19"
       ]
     }
   ],
@@ -329,8 +329,8 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "19",
-        "17"
+        "20",
+        "18"
       ]
     },
     {
@@ -362,7 +362,7 @@
     },
     {
       "dimensions": [
-        "/blog/how-to-get-to-amalfi"
+        "/parking"
       ],
       "metrics": [
         "6",
@@ -371,16 +371,16 @@
     },
     {
       "dimensions": [
-        "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
+        "/2021/09/positano-steibek/"
       ],
       "metrics": [
         "5",
-        "6"
+        "4"
       ]
     },
     {
       "dimensions": [
-        "/parking"
+        "/blog/how-to-get-to-amalfi"
       ],
       "metrics": [
         "5",
@@ -389,20 +389,20 @@
     },
     {
       "dimensions": [
-        "/2021/09/positano-steibek/"
+        "/photos"
       ],
       "metrics": [
-        "4",
-        "3"
+        "5",
+        "5"
       ]
     },
     {
       "dimensions": [
-        "/photos"
+        "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
       ],
       "metrics": [
         "4",
-        "4"
+        "5"
       ]
     },
     {
@@ -434,20 +434,20 @@
     },
     {
       "dimensions": [
+        "/blog"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
         "/contacts"
       ],
       "metrics": [
         "3",
         "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2018/07/vintage-cars-amalfi-drive/"
-      ],
-      "metrics": [
-        "2",
-        "3"
       ]
     }
   ],
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "193",
-        "191"
+        "239",
+        "237"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "22",
-        "17"
+        "25",
+        "18"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "18",
-        "18"
+        "19",
+        "19"
       ]
     },
     {
@@ -522,17 +522,17 @@
         "Russia"
       ],
       "metrics": [
-        "146",
-        "145"
+        "150",
+        "149"
       ]
     },
     {
       "dimensions": [
-        "Vietnam"
+        "Singapore"
       ],
       "metrics": [
-        "11",
-        "11"
+        "45",
+        "45"
       ]
     },
     {
@@ -540,8 +540,17 @@
         "Italy"
       ],
       "metrics": [
-        "9",
+        "10",
         "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "Vietnam"
+      ],
+      "metrics": [
+        "9",
+        "9"
       ]
     },
     {
@@ -564,16 +573,16 @@
     },
     {
       "dimensions": [
-        "Brazil"
+        "India"
       ],
       "metrics": [
-        "5",
-        "5"
+        "6",
+        "6"
       ]
     },
     {
       "dimensions": [
-        "India"
+        "Brazil"
       ],
       "metrics": [
         "5",
@@ -597,28 +606,19 @@
         "4",
         "2"
       ]
-    },
-    {
-      "dimensions": [
-        "Singapore"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 240,
-    "users": 233,
-    "pageViews": 260,
+    "sessions": 290,
+    "users": 281,
+    "pageViews": 306,
     "avgSessionDuration": 17,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 1442,
-    "users": 1378,
-    "pageViews": 1556,
+    "sessions": 1471,
+    "users": 1406,
+    "pageViews": 1588,
     "avgSessionDuration": 30,
     "bounceRate": 0.8
   }
