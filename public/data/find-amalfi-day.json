@@ -1,7 +1,7 @@
 {
   "name": "find.amalfi.day",
   "propertyId": "properties/531159837",
-  "updatedAt": "2026-07-03T08:13:15.020Z",
+  "updatedAt": "2026-07-04T07:50:10.835Z",
   "trend": [
     {
       "dimensions": [
@@ -35,6 +35,16 @@
     },
     {
       "dimensions": [
+        "20260702"
+      ],
+      "metrics": [
+        "15",
+        "5",
+        "37"
+      ]
+    },
+    {
+      "dimensions": [
         "20260620"
       ],
       "metrics": [
@@ -51,16 +61,6 @@
         "14",
         "5",
         "29"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260702"
-      ],
-      "metrics": [
-        "14",
-        "5",
-        "32"
       ]
     },
     {
@@ -91,16 +91,6 @@
         "11",
         "3",
         "22"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260603"
-      ],
-      "metrics": [
-        "9",
-        "5",
-        "16"
       ]
     },
     {
@@ -320,8 +310,8 @@
         "/"
       ],
       "metrics": [
-        "52",
-        "35"
+        "49",
+        "33"
       ]
     },
     {
@@ -329,8 +319,8 @@
         "/route/amalfi-house.html"
       ],
       "metrics": [
-        "40",
-        "30"
+        "43",
+        "31"
       ]
     },
     {
@@ -338,7 +328,7 @@
         "/route/atrani-house.html"
       ],
       "metrics": [
-        "5",
+        "4",
         "4"
       ]
     }
@@ -349,17 +339,8 @@
         "(direct)"
       ],
       "metrics": [
-        "36",
-        "14"
-      ]
-    },
-    {
-      "dimensions": [
-        "(not set)"
-      ],
-      "metrics": [
-        "7",
-        "4"
+        "38",
+        "13"
       ]
     },
     {
@@ -388,15 +369,6 @@
         "2",
         "0"
       ]
-    },
-    {
-      "dimensions": [
-        "mail.google.com"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "countries": [
@@ -405,8 +377,8 @@
         "Italy"
       ],
       "metrics": [
-        "21",
-        "9"
+        "20",
+        "8"
       ]
     },
     {
@@ -432,8 +404,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "4",
-        "2"
+        "3",
+        "1"
       ]
     },
     {
@@ -456,7 +428,7 @@
     },
     {
       "dimensions": [
-        "United States"
+        "Germany"
       ],
       "metrics": [
         "2",
@@ -465,10 +437,10 @@
     },
     {
       "dimensions": [
-        "Germany"
+        "United States"
       ],
       "metrics": [
-        "1",
+        "2",
         "1"
       ]
     },
@@ -483,17 +455,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 46,
-    "users": 17,
-    "pageViews": 97,
-    "avgSessionDuration": 230,
-    "bounceRate": 0.6
+    "sessions": 45,
+    "users": 15,
+    "pageViews": 96,
+    "avgSessionDuration": 201,
+    "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 238,
-    "users": 97,
-    "pageViews": 490,
-    "avgSessionDuration": 263,
+    "sessions": 230,
+    "users": 94,
+    "pageViews": 479,
+    "avgSessionDuration": 261,
     "bounceRate": 0.4
   }
 }

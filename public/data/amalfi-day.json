@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-07-03T08:13:13.472Z",
+  "updatedAt": "2026-07-04T07:50:09.716Z",
   "trend": [
     {
       "dimensions": [
@@ -71,6 +71,16 @@
         "28",
         "18",
         "37"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260703"
+      ],
+      "metrics": [
+        "28",
+        "16",
+        "78"
       ]
     },
     {
@@ -235,16 +245,6 @@
     },
     {
       "dimensions": [
-        "20260603"
-      ],
-      "metrics": [
-        "15",
-        "11",
-        "28"
-      ]
-    },
-    {
-      "dimensions": [
         "20260606"
       ],
       "metrics": [
@@ -307,11 +307,20 @@
   "topPages": [
     {
       "dimensions": [
+        "/"
+      ],
+      "metrics": [
+        "65",
+        "23"
+      ]
+    },
+    {
+      "dimensions": [
         "/parking/"
       ],
       "metrics": [
-        "48",
-        "39"
+        "46",
+        "38"
       ]
     },
     {
@@ -319,8 +328,8 @@
         "/directions/"
       ],
       "metrics": [
-        "25",
-        "15"
+        "23",
+        "14"
       ]
     },
     {
@@ -328,8 +337,8 @@
         "/ferry-timetables"
       ],
       "metrics": [
-        "18",
-        "10"
+        "23",
+        "12"
       ]
     },
     {
@@ -337,17 +346,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "17",
-        "13"
-      ]
-    },
-    {
-      "dimensions": [
-        "/"
-      ],
-      "metrics": [
-        "14",
-        "11"
+        "18",
+        "14"
       ]
     },
     {
@@ -373,8 +373,8 @@
         "/blog/license-plate-restrictions-return-to-the-amalfi-coast-april-25-may-2-2/"
       ],
       "metrics": [
-        "8",
-        "7"
+        "9",
+        "8"
       ]
     },
     {
@@ -400,8 +400,8 @@
         "/photoshootings"
       ],
       "metrics": [
-        "5",
-        "3"
+        "4",
+        "2"
       ]
     },
     {
@@ -411,6 +411,15 @@
       "metrics": [
         "4",
         "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/beaches"
+      ],
+      "metrics": [
+        "3",
+        "3"
       ]
     },
     {
@@ -430,15 +439,6 @@
         "3",
         "3"
       ]
-    },
-    {
-      "dimensions": [
-        "/blog/a-local-3-or-4-day-amalfi-coast-itinerary-without-a-car/"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
     }
   ],
   "sources": [
@@ -448,7 +448,7 @@
       ],
       "metrics": [
         "64",
-        "41"
+        "45"
       ]
     },
     {
@@ -456,8 +456,8 @@
         "(direct)"
       ],
       "metrics": [
-        "25",
-        "17"
+        "28",
+        "14"
       ]
     },
     {
@@ -466,7 +466,7 @@
       ],
       "metrics": [
         "22",
-        "18"
+        "17"
       ]
     },
     {
@@ -474,7 +474,7 @@
         "amalfi-guide-ungattocinereo-cinereos-projects.vercel.app"
       ],
       "metrics": [
-        "5",
+        "10",
         "1"
       ]
     },
@@ -485,6 +485,15 @@
       "metrics": [
         "2",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "bing"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     },
     {
@@ -512,13 +521,13 @@
         "Italy"
       ],
       "metrics": [
-        "36",
-        "26"
+        "51",
+        "31"
       ]
     },
     {
       "dimensions": [
-        "Netherlands"
+        "United States"
       ],
       "metrics": [
         "10",
@@ -527,38 +536,38 @@
     },
     {
       "dimensions": [
-        "Australia"
-      ],
-      "metrics": [
-        "9",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "8",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
         "United Kingdom"
       ],
       "metrics": [
-        "7",
-        "7"
+        "9",
+        "8"
       ]
     },
     {
       "dimensions": [
-        "Canada"
+        "Australia"
       ],
       "metrics": [
-        "4",
+        "7",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Spain"
+      ],
+      "metrics": [
+        "6",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "Germany"
+      ],
+      "metrics": [
+        "5",
+        "3"
       ]
     },
     {
@@ -572,20 +581,20 @@
     },
     {
       "dimensions": [
+        "Netherlands"
+      ],
+      "metrics": [
+        "4",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "Romania"
       ],
       "metrics": [
         "4",
         "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "Spain"
-      ],
-      "metrics": [
-        "4",
-        "3"
       ]
     },
     {
@@ -599,17 +608,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 120,
-    "users": 81,
-    "pageViews": 196,
-    "avgSessionDuration": 528,
+    "sessions": 129,
+    "users": 82,
+    "pageViews": 251,
+    "avgSessionDuration": 596,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 662,
-    "users": 398,
-    "pageViews": 943,
-    "avgSessionDuration": 238,
+    "sessions": 675,
+    "users": 402,
+    "pageViews": 993,
+    "avgSessionDuration": 257,
     "bounceRate": 0.6
   }
 }
