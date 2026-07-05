@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-07-04T07:50:09.716Z",
+  "updatedAt": "2026-07-05T08:04:52.280Z",
   "trend": [
     {
       "dimensions": [
@@ -185,16 +185,6 @@
     },
     {
       "dimensions": [
-        "20260604"
-      ],
-      "metrics": [
-        "20",
-        "16",
-        "29"
-      ]
-    },
-    {
-      "dimensions": [
         "20260607"
       ],
       "metrics": [
@@ -295,12 +285,32 @@
     },
     {
       "dimensions": [
+        "20260704"
+      ],
+      "metrics": [
+        "10",
+        "7",
+        "16"
+      ]
+    },
+    {
+      "dimensions": [
         "20260702"
       ],
       "metrics": [
         "9",
         "9",
         "19"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260705"
+      ],
+      "metrics": [
+        "2",
+        "2",
+        "2"
       ]
     }
   ],
@@ -310,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "65",
-        "23"
+        "70",
+        "25"
       ]
     },
     {
@@ -319,8 +329,8 @@
         "/parking/"
       ],
       "metrics": [
-        "46",
-        "38"
+        "44",
+        "36"
       ]
     },
     {
@@ -328,8 +338,8 @@
         "/directions/"
       ],
       "metrics": [
-        "23",
-        "14"
+        "24",
+        "15"
       ]
     },
     {
@@ -337,8 +347,8 @@
         "/ferry-timetables"
       ],
       "metrics": [
-        "23",
-        "12"
+        "22",
+        "11"
       ]
     },
     {
@@ -347,16 +357,7 @@
       ],
       "metrics": [
         "18",
-        "14"
-      ]
-    },
-    {
-      "dimensions": [
-        "/ferry-timetables/"
-      ],
-      "metrics": [
-        "14",
-        "11"
+        "16"
       ]
     },
     {
@@ -373,8 +374,8 @@
         "/blog/license-plate-restrictions-return-to-the-amalfi-coast-april-25-may-2-2/"
       ],
       "metrics": [
-        "9",
-        "8"
+        "11",
+        "10"
       ]
     },
     {
@@ -382,7 +383,16 @@
         "/timetables"
       ],
       "metrics": [
-        "7",
+        "9",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/ferry-timetables/"
+      ],
+      "metrics": [
+        "5",
         "5"
       ]
     },
@@ -391,8 +401,8 @@
         "/parking"
       ],
       "metrics": [
-        "6",
-        "4"
+        "4",
+        "3"
       ]
     },
     {
@@ -456,8 +466,8 @@
         "(direct)"
       ],
       "metrics": [
-        "28",
-        "14"
+        "32",
+        "16"
       ]
     },
     {
@@ -465,8 +475,8 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "22",
-        "17"
+        "18",
+        "14"
       ]
     },
     {
@@ -474,17 +484,8 @@
         "amalfi-guide-ungattocinereo-cinereos-projects.vercel.app"
       ],
       "metrics": [
-        "10",
+        "11",
         "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "yahoo"
-      ],
-      "metrics": [
-        "2",
-        "2"
       ]
     },
     {
@@ -498,7 +499,7 @@
     },
     {
       "dimensions": [
-        "m.facebook.com"
+        "yahoo"
       ],
       "metrics": [
         "1",
@@ -522,16 +523,7 @@
       ],
       "metrics": [
         "51",
-        "31"
-      ]
-    },
-    {
-      "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "10",
-        "9"
+        "27"
       ]
     },
     {
@@ -539,8 +531,17 @@
         "United Kingdom"
       ],
       "metrics": [
-        "9",
+        "10",
         "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "7",
+        "7"
       ]
     },
     {
@@ -548,7 +549,7 @@
         "Australia"
       ],
       "metrics": [
-        "7",
+        "6",
         "2"
       ]
     },
@@ -563,10 +564,10 @@
     },
     {
       "dimensions": [
-        "Germany"
+        "Canada"
       ],
       "metrics": [
-        "5",
+        "4",
         "3"
       ]
     },
@@ -608,17 +609,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 129,
-    "users": 82,
-    "pageViews": 251,
-    "avgSessionDuration": 596,
+    "sessions": 128,
+    "users": 79,
+    "pageViews": 247,
+    "avgSessionDuration": 600,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 675,
-    "users": 402,
-    "pageViews": 993,
-    "avgSessionDuration": 257,
+    "sessions": 667,
+    "users": 391,
+    "pageViews": 982,
+    "avgSessionDuration": 259,
     "bounceRate": 0.6
   }
 }

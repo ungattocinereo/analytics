@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-07-04T07:50:08.881Z",
+  "updatedAt": "2026-07-05T08:04:51.432Z",
   "trend": [
     {
       "dimensions": [
@@ -91,16 +91,6 @@
         "62",
         "58",
         "71"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260604"
-      ],
-      "metrics": [
-        "61",
-        "60",
-        "77"
       ]
     },
     {
@@ -215,6 +205,16 @@
     },
     {
       "dimensions": [
+        "20260704"
+      ],
+      "metrics": [
+        "36",
+        "36",
+        "38"
+      ]
+    },
+    {
+      "dimensions": [
         "20260618"
       ],
       "metrics": [
@@ -305,11 +305,11 @@
     },
     {
       "dimensions": [
-        "20260704"
+        "20260705"
       ],
       "metrics": [
-        "11",
-        "11",
+        "12",
+        "12",
         "12"
       ]
     }
@@ -326,20 +326,29 @@
     },
     {
       "dimensions": [
-        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
+        "/2019/03/duet-postscriptum-amalfi/"
       ],
       "metrics": [
-        "23",
-        "21"
+        "15",
+        "16"
       ]
     },
     {
       "dimensions": [
-        "/2019/03/duet-postscriptum-amalfi/"
+        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "16",
-        "17"
+        "15",
+        "13"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/how-to-get-to-amalfi"
+      ],
+      "metrics": [
+        "7",
+        "7"
       ]
     },
     {
@@ -353,15 +362,6 @@
     },
     {
       "dimensions": [
-        "/category/todo/"
-      ],
-      "metrics": [
-        "6",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
         "/parking"
       ],
       "metrics": [
@@ -371,7 +371,7 @@
     },
     {
       "dimensions": [
-        "/blog/how-to-get-to-amalfi"
+        "/category/todo/"
       ],
       "metrics": [
         "5",
@@ -380,11 +380,11 @@
     },
     {
       "dimensions": [
-        "/photos"
+        "/2018/07/vintage-cars-amalfi-drive/"
       ],
       "metrics": [
-        "5",
-        "4"
+        "4",
+        "5"
       ]
     },
     {
@@ -407,11 +407,29 @@
     },
     {
       "dimensions": [
+        "/photos"
+      ],
+      "metrics": [
+        "4",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
         "/blog"
       ],
       "metrics": [
         "3",
         "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2018/05/photos-of-travel-italy-blog/"
+      ],
+      "metrics": [
+        "2",
+        "2"
       ]
     },
     {
@@ -425,25 +443,7 @@
     },
     {
       "dimensions": [
-        "/2018/07/vintage-cars-amalfi-drive/"
-      ],
-      "metrics": [
-        "2",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
         "/2019/06/pontone-apartments/"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/chiesa-maria-maddalena"
       ],
       "metrics": [
         "2",
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "233",
-        "232"
+        "245",
+        "244"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "26",
-        "19"
+        "27",
+        "20"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "21",
-        "21"
+        "12",
+        "12"
       ]
     },
     {
@@ -484,8 +484,17 @@
         "(not set)"
       ],
       "metrics": [
-        "5",
-        "5"
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "facebook.com"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     },
     {
@@ -493,13 +502,13 @@
         "m.facebook.com"
       ],
       "metrics": [
-        "2",
-        "2"
+        "1",
+        "1"
       ]
     },
     {
       "dimensions": [
-        "facebook.com"
+        "ya.ru"
       ],
       "metrics": [
         "1",
@@ -522,8 +531,8 @@
         "Russia"
       ],
       "metrics": [
-        "147",
-        "147"
+        "146",
+        "145"
       ]
     },
     {
@@ -531,8 +540,8 @@
         "Singapore"
       ],
       "metrics": [
-        "50",
-        "50"
+        "53",
+        "53"
       ]
     },
     {
@@ -540,8 +549,8 @@
         "Italy"
       ],
       "metrics": [
-        "10",
-        "9"
+        "11",
+        "10"
       ]
     },
     {
@@ -549,13 +558,22 @@
         "Brazil"
       ],
       "metrics": [
-        "6",
-        "6"
+        "7",
+        "7"
       ]
     },
     {
       "dimensions": [
-        "India"
+        "Vietnam"
+      ],
+      "metrics": [
+        "7",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "(not set)"
       ],
       "metrics": [
         "6",
@@ -573,16 +591,7 @@
     },
     {
       "dimensions": [
-        "Vietnam"
-      ],
-      "metrics": [
-        "6",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "(not set)"
+        "India"
       ],
       "metrics": [
         "5",
@@ -591,35 +600,35 @@
     },
     {
       "dimensions": [
-        "Belarus"
-      ],
-      "metrics": [
-        "4",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "Iraq"
+        "Bangladesh"
       ],
       "metrics": [
         "4",
         "4"
       ]
+    },
+    {
+      "dimensions": [
+        "Latvia"
+      ],
+      "metrics": [
+        "4",
+        "2"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 288,
-    "users": 281,
-    "pageViews": 301,
-    "avgSessionDuration": 17,
-    "bounceRate": 0.9
+    "sessions": 292,
+    "users": 284,
+    "pageViews": 300,
+    "avgSessionDuration": 18,
+    "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 1455,
-    "users": 1394,
-    "pageViews": 1567,
-    "avgSessionDuration": 29,
+    "sessions": 1433,
+    "users": 1371,
+    "pageViews": 1528,
+    "avgSessionDuration": 27,
     "bounceRate": 0.8
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "find.amalfi.day",
   "propertyId": "properties/531159837",
-  "updatedAt": "2026-07-04T07:50:10.835Z",
+  "updatedAt": "2026-07-05T08:04:53.557Z",
   "trend": [
     {
       "dimensions": [
@@ -165,12 +165,12 @@
     },
     {
       "dimensions": [
-        "20260604"
+        "20260704"
       ],
       "metrics": [
-        "5",
-        "3",
-        "14"
+        "6",
+        "4",
+        "10"
       ]
     },
     {
@@ -302,6 +302,16 @@
         "0",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "20260705"
+      ],
+      "metrics": [
+        "1",
+        "0",
+        "1"
+      ]
     }
   ],
   "topPages": [
@@ -310,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "49",
-        "33"
+        "47",
+        "31"
       ]
     },
     {
@@ -319,8 +329,8 @@
         "/route/amalfi-house.html"
       ],
       "metrics": [
-        "43",
-        "31"
+        "42",
+        "30"
       ]
     },
     {
@@ -328,8 +338,8 @@
         "/route/atrani-house.html"
       ],
       "metrics": [
-        "4",
-        "4"
+        "10",
+        "10"
       ]
     }
   ],
@@ -339,13 +349,13 @@
         "(direct)"
       ],
       "metrics": [
-        "38",
-        "13"
+        "39",
+        "15"
       ]
     },
     {
       "dimensions": [
-        "airbnb.com"
+        "airbnb.it"
       ],
       "metrics": [
         "3",
@@ -363,11 +373,20 @@
     },
     {
       "dimensions": [
-        "airbnb.it"
+        "airbnb.com"
       ],
       "metrics": [
         "2",
         "0"
+      ]
+    },
+    {
+      "dimensions": [
+        "(not set)"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     }
   ],
@@ -377,8 +396,8 @@
         "Italy"
       ],
       "metrics": [
-        "20",
-        "8"
+        "21",
+        "10"
       ]
     },
     {
@@ -437,10 +456,10 @@
     },
     {
       "dimensions": [
-        "United States"
+        "Argentina"
       ],
       "metrics": [
-        "2",
+        "1",
         "1"
       ]
     },
@@ -452,20 +471,29 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "1",
+        "0"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 45,
-    "users": 15,
-    "pageViews": 96,
-    "avgSessionDuration": 201,
+    "sessions": 46,
+    "users": 17,
+    "pageViews": 99,
+    "avgSessionDuration": 203,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 230,
-    "users": 94,
-    "pageViews": 479,
-    "avgSessionDuration": 261,
+    "sessions": 232,
+    "users": 95,
+    "pageViews": 476,
+    "avgSessionDuration": 256,
     "bounceRate": 0.4
   }
 }
