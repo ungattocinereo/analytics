@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-07-07T08:26:53.236Z",
+  "updatedAt": "2026-07-08T07:32:18.608Z",
   "trend": [
     {
       "dimensions": [
@@ -120,7 +120,7 @@
       "metrics": [
         "11",
         "6",
-        "68"
+        "72"
       ]
     },
     {
@@ -175,6 +175,16 @@
     },
     {
       "dimensions": [
+        "20260707"
+      ],
+      "metrics": [
+        "9",
+        "2",
+        "24"
+      ]
+    },
+    {
+      "dimensions": [
         "20260625"
       ],
       "metrics": [
@@ -201,16 +211,6 @@
         "8",
         "3",
         "30"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260607"
-      ],
-      "metrics": [
-        "7",
-        "5",
-        "19"
       ]
     },
     {
@@ -275,6 +275,16 @@
     },
     {
       "dimensions": [
+        "20260708"
+      ],
+      "metrics": [
+        "4",
+        "2",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
         "20260701"
       ],
       "metrics": [
@@ -292,16 +302,6 @@
         "1",
         "4"
       ]
-    },
-    {
-      "dimensions": [
-        "20260707"
-      ],
-      "metrics": [
-        "1",
-        "0",
-        "1"
-      ]
     }
   ],
   "topPages": [
@@ -310,17 +310,8 @@
         "/"
       ],
       "metrics": [
-        "170",
-        "70"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/mimi-coco-di-tutto-un-po-atrani"
-      ],
-      "metrics": [
-        "20",
-        "13"
+        "175",
+        "69"
       ]
     },
     {
@@ -328,8 +319,17 @@
         "/place/castiglione-beach-lido-di-ravello"
       ],
       "metrics": [
-        "15",
-        "12"
+        "22",
+        "17"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/mimi-coco-di-tutto-un-po-atrani"
+      ],
+      "metrics": [
+        "14",
+        "13"
       ]
     },
     {
@@ -347,7 +347,7 @@
       ],
       "metrics": [
         "11",
-        "10"
+        "9"
       ]
     },
     {
@@ -355,8 +355,8 @@
         "/place/secret-waterfall-valle-dei-mulini"
       ],
       "metrics": [
-        "11",
-        "10"
+        "10",
+        "9"
       ]
     },
     {
@@ -365,30 +365,39 @@
       ],
       "metrics": [
         "8",
-        "7"
+        "8"
       ]
     },
     {
       "dimensions": [
-        "/place/le-palme-atrani"
+        "/place/la-grande-mela-supermarket-deco-amalfi"
       ],
       "metrics": [
         "7",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/aparanza-atrani"
-      ],
-      "metrics": [
-        "5",
         "5"
       ]
     },
     {
       "dimensions": [
         "/place/church-of-saint-mary-magdalene"
+      ],
+      "metrics": [
+        "6",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/the-lemon-path-sentiero-dei-limoni"
+      ],
+      "metrics": [
+        "6",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/aparanza-atrani"
       ],
       "metrics": [
         "5",
@@ -406,11 +415,20 @@
     },
     {
       "dimensions": [
-        "/place/the-lemon-path-sentiero-dei-limoni"
+        "/place/le-palme-atrani"
       ],
       "metrics": [
         "5",
-        "4"
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/fr"
+      ],
+      "metrics": [
+        "4",
+        "2"
       ]
     },
     {
@@ -421,24 +439,6 @@
         "4",
         "3"
       ]
-    },
-    {
-      "dimensions": [
-        "/place/la-grande-mela-supermarket-deco-amalfi"
-      ],
-      "metrics": [
-        "4",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/le-arcate-atrani"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
     }
   ],
   "sources": [
@@ -447,7 +447,7 @@
         "(direct)"
       ],
       "metrics": [
-        "62",
+        "72",
         "14"
       ]
     },
@@ -457,16 +457,7 @@
       ],
       "metrics": [
         "12",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "facebook.com"
-      ],
-      "metrics": [
-        "5",
-        "5"
+        "4"
       ]
     },
     {
@@ -485,17 +476,8 @@
         "Italy"
       ],
       "metrics": [
-        "49",
+        "59",
         "13"
-      ]
-    },
-    {
-      "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "6",
-        "5"
       ]
     },
     {
@@ -503,17 +485,8 @@
         "Australia"
       ],
       "metrics": [
-        "4",
+        "3",
         "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "United Kingdom"
-      ],
-      "metrics": [
-        "4",
-        "4"
       ]
     },
     {
@@ -536,15 +509,6 @@
     },
     {
       "dimensions": [
-        "France"
-      ],
-      "metrics": [
-        "3",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "Netherlands"
       ],
       "metrics": [
@@ -554,7 +518,34 @@
     },
     {
       "dimensions": [
+        "United Kingdom"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "France"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "Germany"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States"
       ],
       "metrics": [
         "2",
@@ -572,17 +563,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 77,
-    "users": 22,
-    "pageViews": 309,
-    "avgSessionDuration": 276,
+    "sessions": 79,
+    "users": 15,
+    "pageViews": 322,
+    "avgSessionDuration": 262,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 277,
-    "users": 73,
-    "pageViews": 1389,
-    "avgSessionDuration": 360,
+    "sessions": 282,
+    "users": 69,
+    "pageViews": 1404,
+    "avgSessionDuration": 346,
     "bounceRate": 0.3
   }
 }
