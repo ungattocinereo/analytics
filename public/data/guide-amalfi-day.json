@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-07-08T07:32:18.608Z",
+  "updatedAt": "2026-07-09T08:37:03.555Z",
   "trend": [
     {
       "dimensions": [
@@ -61,6 +61,16 @@
         "13",
         "7",
         "111"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260708"
+      ],
+      "metrics": [
+        "13",
+        "4",
+        "79"
       ]
     },
     {
@@ -125,16 +135,6 @@
     },
     {
       "dimensions": [
-        "20260608"
-      ],
-      "metrics": [
-        "10",
-        "4",
-        "51"
-      ]
-    },
-    {
-      "dimensions": [
         "20260621"
       ],
       "metrics": [
@@ -180,7 +180,7 @@
       "metrics": [
         "9",
         "2",
-        "24"
+        "26"
       ]
     },
     {
@@ -275,22 +275,22 @@
     },
     {
       "dimensions": [
-        "20260708"
-      ],
-      "metrics": [
-        "4",
-        "2",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
         "20260701"
       ],
       "metrics": [
         "3",
         "2",
         "17"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260709"
+      ],
+      "metrics": [
+        "3",
+        "2",
+        "4"
       ]
     },
     {
@@ -310,8 +310,8 @@
         "/"
       ],
       "metrics": [
-        "175",
-        "69"
+        "200",
+        "76"
       ]
     },
     {
@@ -319,13 +319,31 @@
         "/place/castiglione-beach-lido-di-ravello"
       ],
       "metrics": [
-        "22",
+        "23",
         "17"
       ]
     },
     {
       "dimensions": [
+        "/place/church-of-saint-mary-magdalene"
+      ],
+      "metrics": [
+        "16",
+        "12"
+      ]
+    },
+    {
+      "dimensions": [
         "/place/mimi-coco-di-tutto-un-po-atrani"
+      ],
+      "metrics": [
+        "15",
+        "14"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/secret-waterfall-valle-dei-mulini"
       ],
       "metrics": [
         "14",
@@ -337,8 +355,8 @@
         "/place/waterfall-of-atrani"
       ],
       "metrics": [
-        "12",
-        "10"
+        "14",
+        "12"
       ]
     },
     {
@@ -346,17 +364,26 @@
         "/place/church-santa-maria-del-bando"
       ],
       "metrics": [
-        "11",
-        "9"
+        "12",
+        "10"
       ]
     },
     {
       "dimensions": [
-        "/place/secret-waterfall-valle-dei-mulini"
+        "/place/the-lemon-path-sentiero-dei-limoni"
       ],
       "metrics": [
         "10",
-        "9"
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/la-grande-mela-supermarket-deco-amalfi"
+      ],
+      "metrics": [
+        "8",
+        "6"
       ]
     },
     {
@@ -370,16 +397,7 @@
     },
     {
       "dimensions": [
-        "/place/la-grande-mela-supermarket-deco-amalfi"
-      ],
-      "metrics": [
-        "7",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/church-of-saint-mary-magdalene"
+        "/place/le-palme-atrani"
       ],
       "metrics": [
         "6",
@@ -388,11 +406,11 @@
     },
     {
       "dimensions": [
-        "/place/the-lemon-path-sentiero-dei-limoni"
+        "/fr"
       ],
       "metrics": [
-        "6",
-        "5"
+        "5",
+        "3"
       ]
     },
     {
@@ -415,29 +433,11 @@
     },
     {
       "dimensions": [
-        "/place/le-palme-atrani"
+        "/place/le-arcate-atrani"
       ],
       "metrics": [
         "5",
         "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/fr"
-      ],
-      "metrics": [
-        "4",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/belvedere-of-san-lorenzo"
-      ],
-      "metrics": [
-        "4",
-        "3"
       ]
     }
   ],
@@ -447,8 +447,8 @@
         "(direct)"
       ],
       "metrics": [
-        "72",
-        "14"
+        "82",
+        "16"
       ]
     },
     {
@@ -457,7 +457,7 @@
       ],
       "metrics": [
         "12",
-        "4"
+        "6"
       ]
     },
     {
@@ -468,6 +468,15 @@
         "4",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "fr.airbnb.ca"
+      ],
+      "metrics": [
+        "1",
+        "0"
+      ]
     }
   ],
   "countries": [
@@ -476,8 +485,17 @@
         "Italy"
       ],
       "metrics": [
-        "59",
-        "13"
+        "67",
+        "16"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "4",
+        "2"
       ]
     },
     {
@@ -545,16 +563,7 @@
     },
     {
       "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Austria"
+        "Spain"
       ],
       "metrics": [
         "1",
@@ -563,17 +572,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 79,
-    "users": 15,
-    "pageViews": 322,
-    "avgSessionDuration": 262,
+    "sessions": 88,
+    "users": 18,
+    "pageViews": 383,
+    "avgSessionDuration": 309,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 282,
+    "sessions": 284,
     "users": 69,
-    "pageViews": 1404,
-    "avgSessionDuration": 346,
+    "pageViews": 1431,
+    "avgSessionDuration": 347,
     "bounceRate": 0.3
   }
 }

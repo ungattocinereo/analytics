@@ -1,7 +1,7 @@
 {
   "name": "find.amalfi.day",
   "propertyId": "properties/531159837",
-  "updatedAt": "2026-07-08T07:32:19.126Z",
+  "updatedAt": "2026-07-09T08:37:04.083Z",
   "trend": [
     {
       "dimensions": [
@@ -215,6 +215,16 @@
     },
     {
       "dimensions": [
+        "20260707"
+      ],
+      "metrics": [
+        "5",
+        "1",
+        "14"
+      ]
+    },
+    {
+      "dimensions": [
         "20260617"
       ],
       "metrics": [
@@ -231,26 +241,6 @@
         "4",
         "3",
         "16"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260707"
-      ],
-      "metrics": [
-        "4",
-        "1",
-        "12"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260608"
-      ],
-      "metrics": [
-        "3",
-        "2",
-        "10"
       ]
     },
     {
@@ -310,8 +300,8 @@
         "/"
       ],
       "metrics": [
-        "59",
-        "36"
+        "55",
+        "33"
       ]
     },
     {
@@ -319,8 +309,8 @@
         "/route/amalfi-house.html"
       ],
       "metrics": [
-        "43",
-        "29"
+        "34",
+        "25"
       ]
     },
     {
@@ -328,8 +318,8 @@
         "/route/atrani-house.html"
       ],
       "metrics": [
-        "22",
-        "16"
+        "21",
+        "15"
       ]
     },
     {
@@ -366,8 +356,8 @@
         "(direct)"
       ],
       "metrics": [
-        "33",
-        "14"
+        "29",
+        "12"
       ]
     },
     {
@@ -399,15 +389,6 @@
     },
     {
       "dimensions": [
-        "(not set)"
-      ],
-      "metrics": [
-        "3",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "airbnb.be"
       ],
       "metrics": [
@@ -418,6 +399,15 @@
     {
       "dimensions": [
         "airbnb.fr"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "fr.airbnb.com"
       ],
       "metrics": [
         "2",
@@ -458,7 +448,7 @@
         "Spain"
       ],
       "metrics": [
-        "8",
+        "6",
         "3"
       ]
     },
@@ -478,15 +468,6 @@
       "metrics": [
         "2",
         "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Austria"
-      ],
-      "metrics": [
-        "2",
-        "2"
       ]
     },
     {
@@ -527,6 +508,15 @@
     },
     {
       "dimensions": [
+        "Tunisia"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "Argentina"
       ],
       "metrics": [
@@ -536,17 +526,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 56,
-    "users": 22,
-    "pageViews": 136,
-    "avgSessionDuration": 345,
+    "sessions": 53,
+    "users": 20,
+    "pageViews": 122,
+    "avgSessionDuration": 321,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 234,
-    "users": 91,
-    "pageViews": 482,
-    "avgSessionDuration": 233,
+    "sessions": 232,
+    "users": 89,
+    "pageViews": 474,
+    "avgSessionDuration": 230,
     "bounceRate": 0.4
   }
 }
