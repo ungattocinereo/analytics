@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-07-09T08:37:01.279Z",
+  "updatedAt": "2026-07-10T08:26:55.573Z",
   "trend": [
     {
       "dimensions": [
@@ -51,16 +51,6 @@
         "65",
         "64",
         "71"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260609"
-      ],
-      "metrics": [
-        "64",
-        "62",
-        "65"
       ]
     },
     {
@@ -160,6 +150,16 @@
       "metrics": [
         "39",
         "34",
+        "39"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260709"
+      ],
+      "metrics": [
+        "39",
+        "38",
         "39"
       ]
     },
@@ -302,16 +302,6 @@
         "26",
         "26"
       ]
-    },
-    {
-      "dimensions": [
-        "20260709"
-      ],
-      "metrics": [
-        "17",
-        "17",
-        "16"
-      ]
     }
   ],
   "topPages": [
@@ -320,8 +310,8 @@
         "/"
       ],
       "metrics": [
-        "115",
-        "115"
+        "104",
+        "104"
       ]
     },
     {
@@ -329,26 +319,8 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "14",
-        "16"
-      ]
-    },
-    {
-      "dimensions": [
-        "/parking"
-      ],
-      "metrics": [
-        "11",
-        "11"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2019/03/duet-postscriptum-amalfi/"
-      ],
-      "metrics": [
-        "9",
-        "10"
+        "15",
+        "17"
       ]
     },
     {
@@ -356,17 +328,17 @@
         "/blog/how-to-get-to-amalfi"
       ],
       "metrics": [
-        "9",
-        "9"
+        "12",
+        "11"
       ]
     },
     {
       "dimensions": [
-        "/category/todo/"
+        "/parking"
       ],
       "metrics": [
-        "7",
-        "7"
+        "9",
+        "9"
       ]
     },
     {
@@ -380,11 +352,11 @@
     },
     {
       "dimensions": [
-        "/photos"
+        "/2019/03/duet-postscriptum-amalfi/"
       ],
       "metrics": [
-        "5",
-        "4"
+        "6",
+        "7"
       ]
     },
     {
@@ -392,8 +364,17 @@
         "/2018/07/vintage-cars-amalfi-drive/"
       ],
       "metrics": [
-        "4",
-        "4"
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/category/todo/"
+      ],
+      "metrics": [
+        "5",
+        "5"
       ]
     },
     {
@@ -434,16 +415,25 @@
     },
     {
       "dimensions": [
-        "/blog/page/2/"
+        "/photos"
       ],
       "metrics": [
         "3",
-        "3"
+        "2"
       ]
     },
     {
       "dimensions": [
         "/2018/04/2018-4-28-2/"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2018/05/photos-of-travel-italy-blog/"
       ],
       "metrics": [
         "2",
@@ -457,8 +447,8 @@
         "(direct)"
       ],
       "metrics": [
-        "249",
-        "249"
+        "203",
+        "203"
       ]
     },
     {
@@ -466,7 +456,7 @@
         "google"
       ],
       "metrics": [
-        "27",
+        "25",
         "19"
       ]
     },
@@ -475,8 +465,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "13",
-        "11"
+        "15",
+        "12"
       ]
     },
     {
@@ -493,8 +483,8 @@
         "ya.ru"
       ],
       "metrics": [
-        "3",
-        "3"
+        "5",
+        "5"
       ]
     },
     {
@@ -513,8 +503,8 @@
         "Russia"
       ],
       "metrics": [
-        "137",
-        "135"
+        "129",
+        "127"
       ]
     },
     {
@@ -522,8 +512,8 @@
         "Singapore"
       ],
       "metrics": [
-        "58",
-        "58"
+        "33",
+        "33"
       ]
     },
     {
@@ -531,8 +521,8 @@
         "Italy"
       ],
       "metrics": [
-        "21",
-        "14"
+        "18",
+        "12"
       ]
     },
     {
@@ -540,17 +530,8 @@
         "Vietnam"
       ],
       "metrics": [
-        "12",
-        "12"
-      ]
-    },
-    {
-      "dimensions": [
-        "United Kingdom"
-      ],
-      "metrics": [
-        "8",
-        "8"
+        "11",
+        "11"
       ]
     },
     {
@@ -558,22 +539,22 @@
         "(not set)"
       ],
       "metrics": [
-        "5",
-        "5"
+        "6",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "United Kingdom"
+      ],
+      "metrics": [
+        "6",
+        "6"
       ]
     },
     {
       "dimensions": [
         "Bangladesh"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "India"
       ],
       "metrics": [
         "4",
@@ -597,19 +578,28 @@
         "3",
         "3"
       ]
+    },
+    {
+      "dimensions": [
+        "India"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 298,
-    "users": 288,
-    "pageViews": 302,
-    "avgSessionDuration": 23,
-    "bounceRate": 0.9
+    "sessions": 254,
+    "users": 245,
+    "pageViews": 254,
+    "avgSessionDuration": 26,
+    "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 1337,
-    "users": 1274,
-    "pageViews": 1419,
+    "sessions": 1295,
+    "users": 1233,
+    "pageViews": 1377,
     "avgSessionDuration": 27,
     "bounceRate": 0.8
   }
