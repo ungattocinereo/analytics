@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-07-10T08:27:01.270Z",
+  "updatedAt": "2026-07-11T07:14:36.593Z",
   "trend": [
     {
       "dimensions": [
@@ -21,16 +21,6 @@
         "18",
         "6",
         "114"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260610"
-      ],
-      "metrics": [
-        "14",
-        "6",
-        "38"
       ]
     },
     {
@@ -220,7 +210,7 @@
       "metrics": [
         "7",
         "4",
-        "27"
+        "28"
       ]
     },
     {
@@ -292,6 +282,16 @@
         "1",
         "4"
       ]
+    },
+    {
+      "dimensions": [
+        "20260710"
+      ],
+      "metrics": [
+        "2",
+        "2",
+        "4"
+      ]
     }
   ],
   "topPages": [
@@ -300,8 +300,8 @@
         "/"
       ],
       "metrics": [
-        "188",
-        "69"
+        "149",
+        "49"
       ]
     },
     {
@@ -309,8 +309,8 @@
         "/place/castiglione-beach-lido-di-ravello"
       ],
       "metrics": [
-        "20",
-        "15"
+        "14",
+        "11"
       ]
     },
     {
@@ -318,17 +318,8 @@
         "/place/secret-waterfall-valle-dei-mulini"
       ],
       "metrics": [
-        "16",
-        "14"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/waterfall-of-atrani"
-      ],
-      "metrics": [
-        "13",
-        "11"
+        "14",
+        "12"
       ]
     },
     {
@@ -351,6 +342,15 @@
     },
     {
       "dimensions": [
+        "/place/waterfall-of-atrani"
+      ],
+      "metrics": [
+        "11",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
         "/place/church-santa-maria-del-bando"
       ],
       "metrics": [
@@ -363,8 +363,17 @@
         "/place/lo-smeraldino-amalfi"
       ],
       "metrics": [
-        "10",
-        "9"
+        "9",
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "/fr"
+      ],
+      "metrics": [
+        "8",
+        "5"
       ]
     },
     {
@@ -378,38 +387,11 @@
     },
     {
       "dimensions": [
-        "/place/le-palme-atrani"
-      ],
-      "metrics": [
-        "7",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "/fr"
-      ],
-      "metrics": [
-        "6",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
         "/place/aparanza-atrani"
       ],
       "metrics": [
         "5",
         "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/belvedere-of-san-lorenzo"
-      ],
-      "metrics": [
-        "5",
-        "4"
       ]
     },
     {
@@ -423,10 +405,28 @@
     },
     {
       "dimensions": [
-        "/place/torre-dello-ziro"
+        "/place/le-palme-atrani"
       ],
       "metrics": [
         "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/belvedere-of-san-lorenzo"
+      ],
+      "metrics": [
+        "4",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/duomo-di-santandrea-amalfi-cathedral"
+      ],
+      "metrics": [
+        "4",
         "3"
       ]
     }
@@ -437,8 +437,8 @@
         "(direct)"
       ],
       "metrics": [
-        "77",
-        "15"
+        "60",
+        "11"
       ]
     },
     {
@@ -446,16 +446,16 @@
         "(not set)"
       ],
       "metrics": [
-        "4",
-        "4"
+        "3",
+        "3"
       ]
     },
     {
       "dimensions": [
-        "airbnb.be"
+        "(data not available)"
       ],
       "metrics": [
-        "4",
+        "1",
         "1"
       ]
     },
@@ -475,8 +475,8 @@
         "Italy"
       ],
       "metrics": [
-        "63",
-        "16"
+        "46",
+        "11"
       ]
     },
     {
@@ -491,15 +491,6 @@
     {
       "dimensions": [
         "Australia"
-      ],
-      "metrics": [
-        "3",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Belgium"
       ],
       "metrics": [
         "3",
@@ -526,15 +517,6 @@
     },
     {
       "dimensions": [
-        "United Kingdom"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
         "France"
       ],
       "metrics": [
@@ -550,20 +532,29 @@
         "2",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "United Kingdom"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 83,
-    "users": 17,
-    "pageViews": 357,
-    "avgSessionDuration": 229,
+    "sessions": 63,
+    "users": 13,
+    "pageViews": 296,
+    "avgSessionDuration": 238,
     "bounceRate": 0.3
   },
   "summary30d": {
-    "sessions": 283,
-    "users": 67,
-    "pageViews": 1438,
-    "avgSessionDuration": 334,
+    "sessions": 271,
+    "users": 64,
+    "pageViews": 1405,
+    "avgSessionDuration": 325,
     "bounceRate": 0.3
   }
 }
