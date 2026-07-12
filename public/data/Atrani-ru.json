@@ -1,18 +1,8 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-07-11T07:14:34.772Z",
+  "updatedAt": "2026-07-12T07:30:24.045Z",
   "trend": [
-    {
-      "dimensions": [
-        "20260611"
-      ],
-      "metrics": [
-        "76",
-        "76",
-        "84"
-      ]
-    },
     {
       "dimensions": [
         "20260612"
@@ -175,6 +165,16 @@
     },
     {
       "dimensions": [
+        "20260711"
+      ],
+      "metrics": [
+        "37",
+        "37",
+        "36"
+      ]
+    },
+    {
+      "dimensions": [
         "20260704"
       ],
       "metrics": [
@@ -215,6 +215,16 @@
     },
     {
       "dimensions": [
+        "20260710"
+      ],
+      "metrics": [
+        "35",
+        "34",
+        "35"
+      ]
+    },
+    {
+      "dimensions": [
         "20260623"
       ],
       "metrics": [
@@ -231,16 +241,6 @@
         "34",
         "34",
         "39"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260710"
-      ],
-      "metrics": [
-        "33",
-        "32",
-        "33"
       ]
     },
     {
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260711"
+        "20260712"
       ],
       "metrics": [
-        "1",
-        "1",
-        "1"
+        "6",
+        "6",
+        "6"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "94",
-        "94"
+        "95",
+        "95"
       ]
     },
     {
@@ -330,7 +330,7 @@
       ],
       "metrics": [
         "14",
-        "16"
+        "17"
       ]
     },
     {
@@ -338,8 +338,8 @@
         "/blog/how-to-get-to-amalfi"
       ],
       "metrics": [
-        "12",
-        "11"
+        "10",
+        "9"
       ]
     },
     {
@@ -349,6 +349,15 @@
       "metrics": [
         "10",
         "11"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2019/03/duet-postscriptum-amalfi/"
+      ],
+      "metrics": [
+        "8",
+        "9"
       ]
     },
     {
@@ -371,16 +380,7 @@
     },
     {
       "dimensions": [
-        "/2019/03/duet-postscriptum-amalfi/"
-      ],
-      "metrics": [
-        "6",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "/category/todo/"
+        "/2018/04/2018-4-28-2/"
       ],
       "metrics": [
         "5",
@@ -392,8 +392,17 @@
         "/2020/04/what-to-in-quarantine/"
       ],
       "metrics": [
-        "4",
-        "4"
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/category/todo/"
+      ],
+      "metrics": [
+        "5",
+        "5"
       ]
     },
     {
@@ -416,7 +425,7 @@
     },
     {
       "dimensions": [
-        "/blog/li-galli-ostrov-nurieieva-u-pozitano-otbilsia-ot-liuksovogho-resorta"
+        "/blog/page/2/"
       ],
       "metrics": [
         "3",
@@ -425,20 +434,11 @@
     },
     {
       "dimensions": [
-        "/photos"
+        "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
       ],
       "metrics": [
         "3",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2018/04/2018-4-28-2/"
-      ],
-      "metrics": [
-        "2",
-        "2"
+        "3"
       ]
     },
     {
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "190",
-        "190"
+        "194",
+        "194"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "29",
-        "22"
+        "31",
+        "24"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "14",
-        "11"
+        "16",
+        "12"
       ]
     },
     {
@@ -522,17 +522,8 @@
         "Russia"
       ],
       "metrics": [
-        "122",
-        "120"
-      ]
-    },
-    {
-      "dimensions": [
-        "Singapore"
-      ],
-      "metrics": [
-        "21",
-        "21"
+        "116",
+        "114"
       ]
     },
     {
@@ -540,8 +531,17 @@
         "Italy"
       ],
       "metrics": [
+        "20",
+        "14"
+      ]
+    },
+    {
+      "dimensions": [
+        "Singapore"
+      ],
+      "metrics": [
         "19",
-        "13"
+        "19"
       ]
     },
     {
@@ -549,8 +549,26 @@
         "Vietnam"
       ],
       "metrics": [
-        "12",
-        "12"
+        "14",
+        "14"
+      ]
+    },
+    {
+      "dimensions": [
+        "China"
+      ],
+      "metrics": [
+        "7",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "United Kingdom"
+      ],
+      "metrics": [
+        "7",
+        "7"
       ]
     },
     {
@@ -564,11 +582,20 @@
     },
     {
       "dimensions": [
-        "United Kingdom"
+        "Netherlands"
       ],
       "metrics": [
         "5",
-        "5"
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "Brazil"
+      ],
+      "metrics": [
+        "4",
+        "4"
       ]
     },
     {
@@ -579,47 +606,20 @@
         "4",
         "4"
       ]
-    },
-    {
-      "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "Bangladesh"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "China"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 244,
-    "users": 234,
-    "pageViews": 245,
-    "avgSessionDuration": 27,
-    "bounceRate": 0.8
+    "sessions": 252,
+    "users": 241,
+    "pageViews": 250,
+    "avgSessionDuration": 28,
+    "bounceRate": 0.9
   },
   "summary30d": {
-    "sessions": 1266,
-    "users": 1203,
-    "pageViews": 1340,
-    "avgSessionDuration": 26,
+    "sessions": 1234,
+    "users": 1171,
+    "pageViews": 1299,
+    "avgSessionDuration": 25,
     "bounceRate": 0.8
   }
 }
