@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-07-12T07:30:25.516Z",
+  "updatedAt": "2026-07-13T08:19:43.443Z",
   "trend": [
     {
       "dimensions": [
@@ -21,16 +21,6 @@
         "18",
         "6",
         "114"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260612"
-      ],
-      "metrics": [
-        "14",
-        "4",
-        "60"
       ]
     },
     {
@@ -275,22 +265,22 @@
     },
     {
       "dimensions": [
+        "20260712"
+      ],
+      "metrics": [
+        "3",
+        "1",
+        "15"
+      ]
+    },
+    {
+      "dimensions": [
         "20260616"
       ],
       "metrics": [
         "2",
         "1",
         "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260712"
-      ],
-      "metrics": [
-        "2",
-        "1",
-        "14"
       ]
     }
   ],
@@ -300,8 +290,8 @@
         "/"
       ],
       "metrics": [
-        "144",
-        "43"
+        "112",
+        "32"
       ]
     },
     {
@@ -309,8 +299,8 @@
         "/place/castiglione-beach-lido-di-ravello"
       ],
       "metrics": [
-        "15",
-        "12"
+        "13",
+        "10"
       ]
     },
     {
@@ -318,26 +308,8 @@
         "/place/church-of-saint-mary-magdalene"
       ],
       "metrics": [
-        "14",
-        "10"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/mimi-coco-di-tutto-un-po-atrani"
-      ],
-      "metrics": [
-        "11",
-        "11"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/secret-waterfall-valle-dei-mulini"
-      ],
-      "metrics": [
-        "11",
-        "10"
+        "13",
+        "9"
       ]
     },
     {
@@ -360,11 +332,20 @@
     },
     {
       "dimensions": [
-        "/place/la-grande-mela-supermarket-deco-amalfi"
+        "/place/secret-waterfall-valle-dei-mulini"
       ],
       "metrics": [
-        "8",
-        "6"
+        "9",
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/mimi-coco-di-tutto-un-po-atrani"
+      ],
+      "metrics": [
+        "7",
+        "7"
       ]
     },
     {
@@ -372,17 +353,8 @@
         "/place/church-santa-maria-del-bando"
       ],
       "metrics": [
-        "7",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/waterfall-of-atrani"
-      ],
-      "metrics": [
         "6",
-        "6"
+        "5"
       ]
     },
     {
@@ -396,7 +368,16 @@
     },
     {
       "dimensions": [
-        "/place/la-tramontina-amalfi"
+        "/place/la-grande-mela-supermarket-deco-amalfi"
+      ],
+      "metrics": [
+        "5",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/waterfall-of-atrani"
       ],
       "metrics": [
         "5",
@@ -408,8 +389,8 @@
         "/place/belvedere-of-san-lorenzo"
       ],
       "metrics": [
-        "4",
-        "3"
+        "3",
+        "2"
       ]
     },
     {
@@ -417,13 +398,22 @@
         "/place/duomo-di-santandrea-amalfi-cathedral"
       ],
       "metrics": [
-        "4",
-        "3"
+        "3",
+        "2"
       ]
     },
     {
       "dimensions": [
         "/place/il-birecto-atrani"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/pizza-express-amalfi"
       ],
       "metrics": [
         "3",
@@ -437,8 +427,8 @@
         "(direct)"
       ],
       "metrics": [
-        "53",
-        "9"
+        "42",
+        "8"
       ]
     },
     {
@@ -484,26 +474,8 @@
         "Italy"
       ],
       "metrics": [
-        "43",
+        "40",
         "11"
-      ]
-    },
-    {
-      "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "4",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "Australia"
-      ],
-      "metrics": [
-        "3",
-        "1"
       ]
     },
     {
@@ -520,13 +492,13 @@
         "Netherlands"
       ],
       "metrics": [
-        "3",
-        "3"
+        "2",
+        "2"
       ]
     },
     {
       "dimensions": [
-        "France"
+        "United States"
       ],
       "metrics": [
         "2",
@@ -535,26 +507,35 @@
     },
     {
       "dimensions": [
+        "Australia"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "United Kingdom"
       ],
       "metrics": [
-        "2",
-        "2"
+        "1",
+        "1"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 58,
-    "users": 12,
-    "pageViews": 282,
-    "avgSessionDuration": 242,
-    "bounceRate": 0.3
+    "sessions": 47,
+    "users": 11,
+    "pageViews": 229,
+    "avgSessionDuration": 222,
+    "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 263,
+    "sessions": 250,
     "users": 63,
-    "pageViews": 1362,
-    "avgSessionDuration": 326,
+    "pageViews": 1303,
+    "avgSessionDuration": 321,
     "bounceRate": 0.3
   }
 }
