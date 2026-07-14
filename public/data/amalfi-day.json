@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-07-13T08:19:42.714Z",
+  "updatedAt": "2026-07-14T07:11:44.103Z",
   "trend": [
     {
       "dimensions": [
@@ -21,16 +21,6 @@
         "32",
         "19",
         "36"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260613"
-      ],
-      "metrics": [
-        "28",
-        "18",
-        "37"
       ]
     },
     {
@@ -215,6 +205,16 @@
     },
     {
       "dimensions": [
+        "20260713"
+      ],
+      "metrics": [
+        "18",
+        "11",
+        "24"
+      ]
+    },
+    {
+      "dimensions": [
         "20260623"
       ],
       "metrics": [
@@ -302,22 +302,12 @@
         "9",
         "19"
       ]
-    },
-    {
-      "dimensions": [
-        "20260713"
-      ],
-      "metrics": [
-        "1",
-        "0",
-        "1"
-      ]
     }
   ],
   "topPages": [
     {
       "dimensions": [
-        "/timetables/"
+        "/parking/"
       ],
       "metrics": [
         "33",
@@ -326,11 +316,11 @@
     },
     {
       "dimensions": [
-        "/parking/"
+        "/timetables/"
       ],
       "metrics": [
-        "31",
-        "32"
+        "29",
+        "28"
       ]
     },
     {
@@ -338,8 +328,8 @@
         "/"
       ],
       "metrics": [
-        "12",
-        "10"
+        "16",
+        "14"
       ]
     },
     {
@@ -347,8 +337,8 @@
         "/blog/metro-del-mare-is-back-amalfi-coast-to-cilento-by-sea/"
       ],
       "metrics": [
-        "9",
-        "6"
+        "11",
+        "8"
       ]
     },
     {
@@ -356,8 +346,8 @@
         "/directions/"
       ],
       "metrics": [
-        "8",
-        "8"
+        "11",
+        "10"
       ]
     },
     {
@@ -383,8 +373,8 @@
         "/ferry-timetables"
       ],
       "metrics": [
-        "6",
-        "7"
+        "5",
+        "6"
       ]
     },
     {
@@ -392,8 +382,8 @@
         "/apartments"
       ],
       "metrics": [
-        "3",
-        "2"
+        "4",
+        "3"
       ]
     },
     {
@@ -434,20 +424,20 @@
     },
     {
       "dimensions": [
+        "/moto"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "/timetables"
       ],
       "metrics": [
         "2",
         "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog"
-      ],
-      "metrics": [
-        "1",
-        "1"
       ]
     }
   ],
@@ -457,8 +447,8 @@
         "google"
       ],
       "metrics": [
-        "67",
-        "45"
+        "72",
+        "48"
       ]
     },
     {
@@ -466,8 +456,8 @@
         "(direct)"
       ],
       "metrics": [
-        "18",
-        "11"
+        "20",
+        "13"
       ]
     },
     {
@@ -475,8 +465,8 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "18",
-        "17"
+        "16",
+        "15"
       ]
     },
     {
@@ -493,17 +483,8 @@
         "amalfi-guide-ungattocinereo-cinereos-projects.vercel.app"
       ],
       "metrics": [
-        "3",
+        "5",
         "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "duckduckgo"
-      ],
-      "metrics": [
-        "3",
-        "2"
       ]
     },
     {
@@ -531,8 +512,8 @@
         "Italy"
       ],
       "metrics": [
-        "32",
-        "23"
+        "36",
+        "25"
       ]
     },
     {
@@ -549,31 +530,13 @@
         "Australia"
       ],
       "metrics": [
-        "10",
+        "12",
         "2"
       ]
     },
     {
       "dimensions": [
-        "United Kingdom"
-      ],
-      "metrics": [
-        "9",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
         "France"
-      ],
-      "metrics": [
-        "7",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "Germany"
       ],
       "metrics": [
         "7",
@@ -591,6 +554,24 @@
     },
     {
       "dimensions": [
+        "United Kingdom"
+      ],
+      "metrics": [
+        "7",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "Germany"
+      ],
+      "metrics": [
+        "6",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
         "Hungary"
       ],
       "metrics": [
@@ -600,35 +581,35 @@
     },
     {
       "dimensions": [
-        "Czechia"
+        "Ireland"
       ],
       "metrics": [
         "3",
-        "3"
+        "1"
       ]
     },
     {
       "dimensions": [
-        "Sweden"
+        "Belarus"
       ],
       "metrics": [
-        "3",
-        "3"
+        "2",
+        "1"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 118,
+    "sessions": 122,
     "users": 83,
-    "pageViews": 138,
-    "avgSessionDuration": 105,
-    "bounceRate": 0.6
+    "pageViews": 150,
+    "avgSessionDuration": 109,
+    "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 610,
-    "users": 379,
-    "pageViews": 903,
-    "avgSessionDuration": 265,
+    "sessions": 599,
+    "users": 373,
+    "pageViews": 889,
+    "avgSessionDuration": 266,
     "bounceRate": 0.5
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-07-13T08:19:43.443Z",
+  "updatedAt": "2026-07-14T07:11:44.639Z",
   "trend": [
     {
       "dimensions": [
@@ -11,16 +11,6 @@
         "22",
         "8",
         "66"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260613"
-      ],
-      "metrics": [
-        "18",
-        "6",
-        "114"
       ]
     },
     {
@@ -131,6 +121,16 @@
         "10",
         "3",
         "52"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260713"
+      ],
+      "metrics": [
+        "10",
+        "4",
+        "49"
       ]
     },
     {
@@ -290,7 +290,7 @@
         "/"
       ],
       "metrics": [
-        "112",
+        "102",
         "32"
       ]
     },
@@ -323,56 +323,20 @@
     },
     {
       "dimensions": [
-        "/place/lo-smeraldino-amalfi"
-      ],
-      "metrics": [
-        "9",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
         "/place/secret-waterfall-valle-dei-mulini"
       ],
       "metrics": [
-        "9",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/mimi-coco-di-tutto-un-po-atrani"
-      ],
-      "metrics": [
-        "7",
+        "8",
         "7"
       ]
     },
     {
       "dimensions": [
-        "/place/church-santa-maria-del-bando"
+        "/place/lo-smeraldino-amalfi"
       ],
       "metrics": [
         "6",
         "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/aparanza-atrani"
-      ],
-      "metrics": [
-        "5",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/la-grande-mela-supermarket-deco-amalfi"
-      ],
-      "metrics": [
-        "5",
-        "4"
       ]
     },
     {
@@ -386,11 +350,47 @@
     },
     {
       "dimensions": [
-        "/place/belvedere-of-san-lorenzo"
+        "/place/aparanza-atrani"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/il-birecto-atrani"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/la-grande-mela-supermarket-deco-amalfi"
+      ],
+      "metrics": [
+        "4",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/mimi-coco-di-tutto-un-po-atrani"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/church-santa-maria-del-bando"
       ],
       "metrics": [
         "3",
-        "2"
+        "3"
       ]
     },
     {
@@ -404,7 +404,7 @@
     },
     {
       "dimensions": [
-        "/place/il-birecto-atrani"
+        "/place/le-arcate-atrani"
       ],
       "metrics": [
         "3",
@@ -413,7 +413,7 @@
     },
     {
       "dimensions": [
-        "/place/pizza-express-amalfi"
+        "/place/le-palme-atrani"
       ],
       "metrics": [
         "3",
@@ -436,7 +436,7 @@
         "(not set)"
       ],
       "metrics": [
-        "2",
+        "5",
         "2"
       ]
     },
@@ -475,24 +475,15 @@
       ],
       "metrics": [
         "40",
-        "11"
+        "9"
       ]
     },
     {
       "dimensions": [
-        "Egypt"
+        "Ireland"
       ],
       "metrics": [
         "3",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Netherlands"
-      ],
-      "metrics": [
-        "2",
         "2"
       ]
     },
@@ -507,16 +498,7 @@
     },
     {
       "dimensions": [
-        "Australia"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "United Kingdom"
+        "Netherlands"
       ],
       "metrics": [
         "1",
@@ -525,17 +507,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 47,
+    "sessions": 46,
     "users": 11,
-    "pageViews": 229,
-    "avgSessionDuration": 222,
+    "pageViews": 206,
+    "avgSessionDuration": 331,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 250,
-    "users": 63,
-    "pageViews": 1303,
-    "avgSessionDuration": 321,
+    "sessions": 242,
+    "users": 61,
+    "pageViews": 1238,
+    "avgSessionDuration": 336,
     "bounceRate": 0.3
   }
 }
