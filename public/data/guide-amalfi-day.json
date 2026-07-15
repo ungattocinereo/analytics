@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-07-14T07:11:44.639Z",
+  "updatedAt": "2026-07-15T07:18:20.700Z",
   "trend": [
     {
       "dimensions": [
@@ -130,17 +130,7 @@
       "metrics": [
         "10",
         "4",
-        "49"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260614"
-      ],
-      "metrics": [
-        "9",
-        "5",
-        "45"
+        "56"
       ]
     },
     {
@@ -245,6 +235,16 @@
     },
     {
       "dimensions": [
+        "20260714"
+      ],
+      "metrics": [
+        "4",
+        "4",
+        "17"
+      ]
+    },
+    {
+      "dimensions": [
         "20260701"
       ],
       "metrics": [
@@ -290,17 +290,8 @@
         "/"
       ],
       "metrics": [
-        "102",
-        "32"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/castiglione-beach-lido-di-ravello"
-      ],
-      "metrics": [
-        "13",
-        "10"
+        "106",
+        "28"
       ]
     },
     {
@@ -308,17 +299,17 @@
         "/place/church-of-saint-mary-magdalene"
       ],
       "metrics": [
-        "13",
-        "9"
+        "11",
+        "7"
       ]
     },
     {
       "dimensions": [
-        "/fr"
+        "/place/castiglione-beach-lido-di-ravello"
       ],
       "metrics": [
         "10",
-        "6"
+        "8"
       ]
     },
     {
@@ -326,16 +317,16 @@
         "/place/secret-waterfall-valle-dei-mulini"
       ],
       "metrics": [
-        "8",
-        "7"
+        "9",
+        "8"
       ]
     },
     {
       "dimensions": [
-        "/place/lo-smeraldino-amalfi"
+        "/fr"
       ],
       "metrics": [
-        "6",
+        "7",
         "5"
       ]
     },
@@ -344,13 +335,13 @@
         "/place/waterfall-of-atrani"
       ],
       "metrics": [
-        "5",
-        "5"
+        "6",
+        "6"
       ]
     },
     {
       "dimensions": [
-        "/place/aparanza-atrani"
+        "/place/church-santa-maria-del-bando"
       ],
       "metrics": [
         "4",
@@ -368,7 +359,7 @@
     },
     {
       "dimensions": [
-        "/place/la-grande-mela-supermarket-deco-amalfi"
+        "/place/lo-smeraldino-amalfi"
       ],
       "metrics": [
         "4",
@@ -386,11 +377,20 @@
     },
     {
       "dimensions": [
-        "/place/church-santa-maria-del-bando"
+        "/place/aparanza-atrani"
       ],
       "metrics": [
         "3",
         "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/apicella-bakery-amalfi"
+      ],
+      "metrics": [
+        "3",
+        "2"
       ]
     },
     {
@@ -404,16 +404,16 @@
     },
     {
       "dimensions": [
-        "/place/le-arcate-atrani"
+        "/place/la-grande-mela-supermarket-deco-amalfi"
       ],
       "metrics": [
         "3",
-        "3"
+        "2"
       ]
     },
     {
       "dimensions": [
-        "/place/le-palme-atrani"
+        "/place/la-rua-pizze-e-delizie-amalfi"
       ],
       "metrics": [
         "3",
@@ -427,8 +427,8 @@
         "(direct)"
       ],
       "metrics": [
-        "42",
-        "8"
+        "37",
+        "10"
       ]
     },
     {
@@ -436,7 +436,7 @@
         "(not set)"
       ],
       "metrics": [
-        "5",
+        "2",
         "2"
       ]
     },
@@ -474,8 +474,8 @@
         "Italy"
       ],
       "metrics": [
-        "40",
-        "9"
+        "32",
+        "10"
       ]
     },
     {
@@ -483,7 +483,7 @@
         "Ireland"
       ],
       "metrics": [
-        "3",
+        "4",
         "2"
       ]
     },
@@ -498,6 +498,24 @@
     },
     {
       "dimensions": [
+        "France"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Germany"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "Netherlands"
       ],
       "metrics": [
@@ -507,17 +525,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 46,
-    "users": 11,
-    "pageViews": 206,
-    "avgSessionDuration": 331,
+    "sessions": 41,
+    "users": 13,
+    "pageViews": 204,
+    "avgSessionDuration": 357,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 242,
-    "users": 61,
-    "pageViews": 1238,
-    "avgSessionDuration": 336,
+    "sessions": 237,
+    "users": 59,
+    "pageViews": 1217,
+    "avgSessionDuration": 322,
     "bounceRate": 0.3
   }
 }

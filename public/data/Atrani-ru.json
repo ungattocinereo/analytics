@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-07-14T07:11:43.245Z",
+  "updatedAt": "2026-07-15T07:18:19.271Z",
   "trend": [
     {
       "dimensions": [
@@ -10,16 +10,6 @@
       "metrics": [
         "66",
         "64",
-        "71"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260614"
-      ],
-      "metrics": [
-        "62",
-        "58",
         "71"
       ]
     },
@@ -235,6 +225,16 @@
     },
     {
       "dimensions": [
+        "20260713"
+      ],
+      "metrics": [
+        "33",
+        "31",
+        "34"
+      ]
+    },
+    {
+      "dimensions": [
         "20260629"
       ],
       "metrics": [
@@ -265,16 +265,6 @@
     },
     {
       "dimensions": [
-        "20260713"
-      ],
-      "metrics": [
-        "28",
-        "27",
-        "29"
-      ]
-    },
-    {
-      "dimensions": [
         "20260625"
       ],
       "metrics": [
@@ -295,12 +285,32 @@
     },
     {
       "dimensions": [
+        "20260714"
+      ],
+      "metrics": [
+        "27",
+        "26",
+        "27"
+      ]
+    },
+    {
+      "dimensions": [
         "20260708"
       ],
       "metrics": [
         "26",
         "26",
         "26"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260715"
+      ],
+      "metrics": [
+        "3",
+        "3",
+        "3"
       ]
     }
   ],
@@ -319,8 +329,8 @@
         "/2019/03/duet-postscriptum-amalfi/"
       ],
       "metrics": [
-        "12",
-        "13"
+        "13",
+        "14"
       ]
     },
     {
@@ -329,30 +339,30 @@
       ],
       "metrics": [
         "12",
-        "12"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/how-to-get-to-amalfi"
-      ],
-      "metrics": [
-        "9",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "/parking"
-      ],
-      "metrics": [
-        "9",
-        "9"
+        "11"
       ]
     },
     {
       "dimensions": [
         "/experience/"
+      ],
+      "metrics": [
+        "8",
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2018/07/vintage-cars-amalfi-drive/"
+      ],
+      "metrics": [
+        "7",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/page/2/"
       ],
       "metrics": [
         "7",
@@ -370,11 +380,11 @@
     },
     {
       "dimensions": [
-        "/2018/07/vintage-cars-amalfi-drive/"
+        "/blog/how-to-get-to-amalfi"
       ],
       "metrics": [
         "6",
-        "6"
+        "5"
       ]
     },
     {
@@ -388,25 +398,16 @@
     },
     {
       "dimensions": [
-        "/blog/page/2/"
+        "/parking"
       ],
       "metrics": [
-        "5",
-        "5"
+        "6",
+        "6"
       ]
     },
     {
       "dimensions": [
         "/2019/02/mozarella-buffala-campania-italia/"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/cdn-cgi/l/email-protection"
       ],
       "metrics": [
         "4",
@@ -424,20 +425,29 @@
     },
     {
       "dimensions": [
-        "/2018/06/camelia-photo-blogger-amalfi/"
+        "/2020/01/sal-de-riso-sweets/"
       ],
       "metrics": [
-        "2",
-        "2"
+        "3",
+        "3"
       ]
     },
     {
       "dimensions": [
-        "/2019/07/ferry-amalfi-2019/"
+        "/2020/04/la-caravella/"
       ],
       "metrics": [
-        "2",
-        "2"
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/tag/жилье/"
+      ],
+      "metrics": [
+        "3",
+        "4"
       ]
     }
   ],
@@ -447,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "189",
-        "190"
+        "190",
+        "189"
       ]
     },
     {
@@ -456,7 +466,7 @@
         "google"
       ],
       "metrics": [
-        "30",
+        "27",
         "23"
       ]
     },
@@ -465,8 +475,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "15",
-        "13"
+        "13",
+        "12"
       ]
     },
     {
@@ -485,6 +495,15 @@
       "metrics": [
         "3",
         "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "m.facebook.com"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     },
     {
@@ -512,17 +531,8 @@
         "Russia"
       ],
       "metrics": [
-        "98",
-        "96"
-      ]
-    },
-    {
-      "dimensions": [
-        "Singapore"
-      ],
-      "metrics": [
-        "19",
-        "19"
+        "93",
+        "92"
       ]
     },
     {
@@ -536,10 +546,19 @@
     },
     {
       "dimensions": [
+        "Singapore"
+      ],
+      "metrics": [
+        "17",
+        "17"
+      ]
+    },
+    {
+      "dimensions": [
         "Italy"
       ],
       "metrics": [
-        "16",
+        "13",
         "11"
       ]
     },
@@ -548,8 +567,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "13",
-        "13"
+        "12",
+        "12"
       ]
     },
     {
@@ -557,8 +576,8 @@
         "United States"
       ],
       "metrics": [
-        "7",
-        "7"
+        "8",
+        "8"
       ]
     },
     {
@@ -599,16 +618,16 @@
     }
   ],
   "summary7d": {
-    "sessions": 242,
-    "users": 234,
-    "pageViews": 249,
-    "avgSessionDuration": 40,
+    "sessions": 239,
+    "users": 233,
+    "pageViews": 245,
+    "avgSessionDuration": 35,
     "bounceRate": 0.9
   },
   "summary30d": {
-    "sessions": 1151,
-    "users": 1094,
-    "pageViews": 1216,
+    "sessions": 1125,
+    "users": 1070,
+    "pageViews": 1180,
     "avgSessionDuration": 29,
     "bounceRate": 0.8
   }
