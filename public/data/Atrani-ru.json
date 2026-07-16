@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-07-15T07:18:19.271Z",
+  "updatedAt": "2026-07-16T07:25:41.565Z",
   "trend": [
     {
       "dimensions": [
@@ -11,16 +11,6 @@
         "66",
         "64",
         "71"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260615"
-      ],
-      "metrics": [
-        "60",
-        "51",
-        "61"
       ]
     },
     {
@@ -308,9 +298,19 @@
         "20260715"
       ],
       "metrics": [
-        "3",
-        "3",
-        "3"
+        "22",
+        "21",
+        "24"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260716"
+      ],
+      "metrics": [
+        "7",
+        "7",
+        "7"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "87",
-        "87"
+        "83",
+        "83"
       ]
     },
     {
@@ -329,8 +329,8 @@
         "/2019/03/duet-postscriptum-amalfi/"
       ],
       "metrics": [
-        "13",
-        "14"
+        "14",
+        "15"
       ]
     },
     {
@@ -339,7 +339,7 @@
       ],
       "metrics": [
         "12",
-        "11"
+        "12"
       ]
     },
     {
@@ -353,11 +353,11 @@
     },
     {
       "dimensions": [
-        "/2018/07/vintage-cars-amalfi-drive/"
+        "/blog/how-to-get-to-amalfi"
       ],
       "metrics": [
         "7",
-        "7"
+        "6"
       ]
     },
     {
@@ -375,16 +375,16 @@
       ],
       "metrics": [
         "6",
-        "6"
+        "7"
       ]
     },
     {
       "dimensions": [
-        "/blog/how-to-get-to-amalfi"
+        "/2018/07/vintage-cars-amalfi-drive/"
       ],
       "metrics": [
         "6",
-        "5"
+        "6"
       ]
     },
     {
@@ -392,8 +392,8 @@
         "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
       ],
       "metrics": [
-        "6",
-        "6"
+        "5",
+        "5"
       ]
     },
     {
@@ -401,8 +401,8 @@
         "/parking"
       ],
       "metrics": [
-        "6",
-        "6"
+        "5",
+        "5"
       ]
     },
     {
@@ -416,7 +416,16 @@
     },
     {
       "dimensions": [
-        "/2018/05/photos-of-travel-italy-blog/"
+        "/tag/жилье/"
+      ],
+      "metrics": [
+        "4",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2019/12/katastrofa/"
       ],
       "metrics": [
         "3",
@@ -434,20 +443,11 @@
     },
     {
       "dimensions": [
-        "/2020/04/la-caravella/"
+        "/blog/colatura-di-alici-di-cetara"
       ],
       "metrics": [
         "3",
         "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/tag/жилье/"
-      ],
-      "metrics": [
-        "3",
-        "4"
       ]
     }
   ],
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "190",
-        "189"
+        "187",
+        "186"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "27",
-        "23"
+        "28",
+        "24"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "13",
-        "12"
+        "16",
+        "14"
       ]
     },
     {
@@ -484,8 +484,8 @@
         "(not set)"
       ],
       "metrics": [
-        "3",
-        "3"
+        "4",
+        "4"
       ]
     },
     {
@@ -514,15 +514,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "yandex.by"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "countries": [
@@ -531,8 +522,8 @@
         "Russia"
       ],
       "metrics": [
-        "93",
-        "92"
+        "96",
+        "95"
       ]
     },
     {
@@ -549,8 +540,8 @@
         "Singapore"
       ],
       "metrics": [
-        "17",
-        "17"
+        "16",
+        "16"
       ]
     },
     {
@@ -558,7 +549,7 @@
         "Italy"
       ],
       "metrics": [
-        "13",
+        "14",
         "11"
       ]
     },
@@ -567,8 +558,17 @@
         "United Kingdom"
       ],
       "metrics": [
-        "12",
-        "12"
+        "11",
+        "11"
+      ]
+    },
+    {
+      "dimensions": [
+        "China"
+      ],
+      "metrics": [
+        "7",
+        "7"
       ]
     },
     {
@@ -576,22 +576,13 @@
         "United States"
       ],
       "metrics": [
-        "8",
-        "8"
+        "7",
+        "7"
       ]
     },
     {
       "dimensions": [
         "(not set)"
-      ],
-      "metrics": [
-        "6",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "China"
       ],
       "metrics": [
         "6",
@@ -609,26 +600,26 @@
     },
     {
       "dimensions": [
-        "Netherlands"
+        "Ukraine"
       ],
       "metrics": [
-        "4",
-        "3"
+        "5",
+        "5"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 239,
-    "users": 233,
-    "pageViews": 245,
-    "avgSessionDuration": 35,
+    "sessions": 238,
+    "users": 232,
+    "pageViews": 247,
+    "avgSessionDuration": 29,
     "bounceRate": 0.9
   },
   "summary30d": {
-    "sessions": 1125,
-    "users": 1070,
-    "pageViews": 1180,
-    "avgSessionDuration": 29,
+    "sessions": 1090,
+    "users": 1045,
+    "pageViews": 1147,
+    "avgSessionDuration": 25,
     "bounceRate": 0.8
   }
 }

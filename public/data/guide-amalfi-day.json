@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-07-15T07:18:20.700Z",
+  "updatedAt": "2026-07-16T07:25:43.095Z",
   "trend": [
     {
       "dimensions": [
@@ -21,16 +21,6 @@
         "14",
         "4",
         "82"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260615"
-      ],
-      "metrics": [
-        "13",
-        "4",
-        "92"
       ]
     },
     {
@@ -205,6 +195,16 @@
     },
     {
       "dimensions": [
+        "20260714"
+      ],
+      "metrics": [
+        "5",
+        "4",
+        "18"
+      ]
+    },
+    {
+      "dimensions": [
         "20260617"
       ],
       "metrics": [
@@ -231,16 +231,6 @@
         "4",
         "2",
         "43"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260714"
-      ],
-      "metrics": [
-        "4",
-        "4",
-        "17"
       ]
     },
     {
@@ -282,6 +272,16 @@
         "1",
         "4"
       ]
+    },
+    {
+      "dimensions": [
+        "20260715"
+      ],
+      "metrics": [
+        "2",
+        "1",
+        "13"
+      ]
     }
   ],
   "topPages": [
@@ -290,35 +290,8 @@
         "/"
       ],
       "metrics": [
-        "106",
-        "28"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/church-of-saint-mary-magdalene"
-      ],
-      "metrics": [
-        "11",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/castiglione-beach-lido-di-ravello"
-      ],
-      "metrics": [
-        "10",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/secret-waterfall-valle-dei-mulini"
-      ],
-      "metrics": [
-        "9",
-        "8"
+        "74",
+        "20"
       ]
     },
     {
@@ -326,8 +299,35 @@
         "/fr"
       ],
       "metrics": [
-        "7",
+        "6",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/castiglione-beach-lido-di-ravello"
+      ],
+      "metrics": [
+        "6",
         "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/secret-waterfall-valle-dei-mulini"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/the-lemon-path-sentiero-dei-limoni"
+      ],
+      "metrics": [
+        "4",
+        "2"
       ]
     },
     {
@@ -335,53 +335,8 @@
         "/place/waterfall-of-atrani"
       ],
       "metrics": [
-        "6",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/church-santa-maria-del-bando"
-      ],
-      "metrics": [
         "4",
         "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/il-birecto-atrani"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/lo-smeraldino-amalfi"
-      ],
-      "metrics": [
-        "4",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/mimi-coco-di-tutto-un-po-atrani"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/aparanza-atrani"
-      ],
-      "metrics": [
-        "3",
-        "3"
       ]
     },
     {
@@ -395,7 +350,7 @@
     },
     {
       "dimensions": [
-        "/place/duomo-di-santandrea-amalfi-cathedral"
+        "/place/church-of-saint-mary-magdalene"
       ],
       "metrics": [
         "3",
@@ -404,10 +359,55 @@
     },
     {
       "dimensions": [
-        "/place/la-grande-mela-supermarket-deco-amalfi"
+        "/place/church-santa-maria-del-bando"
       ],
       "metrics": [
         "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/lido-degli-artisti-amalfi"
+      ],
+      "metrics": [
+        "3",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/lo-smeraldino-amalfi"
+      ],
+      "metrics": [
+        "3",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/mimi-coco-di-tutto-un-po-atrani"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/belvedere-of-san-lorenzo"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/il-birecto-atrani"
+      ],
+      "metrics": [
+        "2",
         "2"
       ]
     },
@@ -416,8 +416,8 @@
         "/place/la-rua-pizze-e-delizie-amalfi"
       ],
       "metrics": [
-        "3",
-        "3"
+        "2",
+        "2"
       ]
     }
   ],
@@ -427,17 +427,8 @@
         "(direct)"
       ],
       "metrics": [
-        "37",
-        "10"
-      ]
-    },
-    {
-      "dimensions": [
-        "(not set)"
-      ],
-      "metrics": [
-        "2",
-        "2"
+        "26",
+        "9"
       ]
     },
     {
@@ -446,6 +437,15 @@
       ],
       "metrics": [
         "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "(not set)"
+      ],
+      "metrics": [
+        "1",
         "1"
       ]
     },
@@ -474,8 +474,8 @@
         "Italy"
       ],
       "metrics": [
-        "32",
-        "10"
+        "22",
+        "9"
       ]
     },
     {
@@ -489,19 +489,10 @@
     },
     {
       "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "France"
       ],
       "metrics": [
-        "1",
+        "2",
         "1"
       ]
     },
@@ -525,17 +516,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 41,
-    "users": 13,
-    "pageViews": 204,
-    "avgSessionDuration": 357,
+    "sessions": 30,
+    "users": 12,
+    "pageViews": 136,
+    "avgSessionDuration": 386,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 237,
-    "users": 59,
-    "pageViews": 1217,
-    "avgSessionDuration": 322,
+    "sessions": 227,
+    "users": 58,
+    "pageViews": 1139,
+    "avgSessionDuration": 273,
     "bounceRate": 0.3
   }
 }
