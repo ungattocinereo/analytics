@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-07-16T07:25:43.095Z",
+  "updatedAt": "2026-07-17T07:20:28.134Z",
   "trend": [
     {
       "dimensions": [
@@ -265,22 +265,22 @@
     },
     {
       "dimensions": [
-        "20260616"
-      ],
-      "metrics": [
-        "2",
-        "1",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
         "20260715"
       ],
       "metrics": [
         "2",
         "1",
-        "13"
+        "14"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260716"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "4"
       ]
     }
   ],
@@ -290,17 +290,8 @@
         "/"
       ],
       "metrics": [
-        "74",
-        "20"
-      ]
-    },
-    {
-      "dimensions": [
-        "/fr"
-      ],
-      "metrics": [
-        "6",
-        "4"
+        "64",
+        "18"
       ]
     },
     {
@@ -308,17 +299,26 @@
         "/place/castiglione-beach-lido-di-ravello"
       ],
       "metrics": [
-        "6",
-        "5"
+        "5",
+        "4"
       ]
     },
     {
       "dimensions": [
-        "/place/secret-waterfall-valle-dei-mulini"
+        "/place/waterfall-of-atrani"
+      ],
+      "metrics": [
+        "5",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/fr"
       ],
       "metrics": [
         "4",
-        "4"
+        "3"
       ]
     },
     {
@@ -328,15 +328,6 @@
       "metrics": [
         "4",
         "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/waterfall-of-atrani"
-      ],
-      "metrics": [
-        "4",
-        "4"
       ]
     },
     {
@@ -368,24 +359,6 @@
     },
     {
       "dimensions": [
-        "/place/lido-degli-artisti-amalfi"
-      ],
-      "metrics": [
-        "3",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/lo-smeraldino-amalfi"
-      ],
-      "metrics": [
-        "3",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "/place/mimi-coco-di-tutto-un-po-atrani"
       ],
       "metrics": [
@@ -395,11 +368,11 @@
     },
     {
       "dimensions": [
-        "/place/belvedere-of-san-lorenzo"
+        "/place/secret-waterfall-valle-dei-mulini"
       ],
       "metrics": [
-        "2",
-        "2"
+        "3",
+        "3"
       ]
     },
     {
@@ -419,21 +392,10 @@
         "2",
         "2"
       ]
-    }
-  ],
-  "sources": [
-    {
-      "dimensions": [
-        "(direct)"
-      ],
-      "metrics": [
-        "26",
-        "9"
-      ]
     },
     {
       "dimensions": [
-        "airbnb.it"
+        "/place/lido-degli-artisti-amalfi"
       ],
       "metrics": [
         "2",
@@ -442,7 +404,7 @@
     },
     {
       "dimensions": [
-        "(not set)"
+        "/de"
       ],
       "metrics": [
         "1",
@@ -451,10 +413,30 @@
     },
     {
       "dimensions": [
-        "fr.airbnb.ca"
+        "/it"
       ],
       "metrics": [
         "1",
+        "1"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "dimensions": [
+        "(direct)"
+      ],
+      "metrics": [
+        "21",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "airbnb.it"
+      ],
+      "metrics": [
+        "2",
         "1"
       ]
     },
@@ -474,8 +456,8 @@
         "Italy"
       ],
       "metrics": [
-        "22",
-        "9"
+        "16",
+        "6"
       ]
     },
     {
@@ -516,17 +498,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 30,
-    "users": 12,
-    "pageViews": 136,
-    "avgSessionDuration": 386,
-    "bounceRate": 0.4
+    "sessions": 24,
+    "users": 9,
+    "pageViews": 113,
+    "avgSessionDuration": 403,
+    "bounceRate": 0.3
   },
   "summary30d": {
-    "sessions": 227,
+    "sessions": 226,
     "users": 58,
-    "pageViews": 1139,
-    "avgSessionDuration": 273,
+    "pageViews": 1140,
+    "avgSessionDuration": 272,
     "bounceRate": 0.3
   }
 }
