@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-07-17T07:20:28.134Z",
+  "updatedAt": "2026-07-18T07:01:42.067Z",
   "trend": [
     {
       "dimensions": [
@@ -205,16 +205,6 @@
     },
     {
       "dimensions": [
-        "20260617"
-      ],
-      "metrics": [
-        "4",
-        "2",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
         "20260619"
       ],
       "metrics": [
@@ -231,6 +221,16 @@
         "4",
         "2",
         "43"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260717"
+      ],
+      "metrics": [
+        "4",
+        "4",
+        "30"
       ]
     },
     {
@@ -290,8 +290,17 @@
         "/"
       ],
       "metrics": [
-        "64",
+        "65",
         "18"
+      ]
+    },
+    {
+      "dimensions": [
+        "/de"
+      ],
+      "metrics": [
+        "13",
+        "2"
       ]
     },
     {
@@ -310,15 +319,6 @@
       "metrics": [
         "5",
         "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/fr"
-      ],
-      "metrics": [
-        "4",
-        "3"
       ]
     },
     {
@@ -377,6 +377,24 @@
     },
     {
       "dimensions": [
+        "/de/place/church-of-saint-mary-magdalene"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/de/place/secret-waterfall-valle-dei-mulini"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "/place/il-birecto-atrani"
       ],
       "metrics": [
@@ -401,24 +419,6 @@
         "2",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "/de"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/it"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "sources": [
@@ -427,16 +427,25 @@
         "(direct)"
       ],
       "metrics": [
-        "21",
-        "7"
+        "23",
+        "10"
       ]
     },
     {
       "dimensions": [
-        "airbnb.it"
+        "(not set)"
       ],
       "metrics": [
         "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "bing"
+      ],
+      "metrics": [
+        "1",
         "1"
       ]
     },
@@ -456,8 +465,8 @@
         "Italy"
       ],
       "metrics": [
-        "16",
-        "6"
+        "17",
+        "8"
       ]
     },
     {
@@ -489,7 +498,16 @@
     },
     {
       "dimensions": [
-        "Netherlands"
+        "Greece"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States"
       ],
       "metrics": [
         "1",
@@ -498,17 +516,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 24,
-    "users": 9,
-    "pageViews": 113,
-    "avgSessionDuration": 403,
+    "sessions": 25,
+    "users": 12,
+    "pageViews": 137,
+    "avgSessionDuration": 464,
     "bounceRate": 0.3
   },
   "summary30d": {
     "sessions": 226,
-    "users": 58,
-    "pageViews": 1140,
-    "avgSessionDuration": 272,
+    "users": 60,
+    "pageViews": 1162,
+    "avgSessionDuration": 283,
     "bounceRate": 0.3
   }
 }
