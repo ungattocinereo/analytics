@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-07-18T07:01:42.067Z",
+  "updatedAt": "2026-07-19T07:28:56.262Z",
   "trend": [
     {
       "dimensions": [
@@ -21,16 +21,6 @@
         "14",
         "4",
         "82"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260618"
-      ],
-      "metrics": [
-        "13",
-        "7",
-        "111"
       ]
     },
     {
@@ -205,6 +195,16 @@
     },
     {
       "dimensions": [
+        "20260718"
+      ],
+      "metrics": [
+        "5",
+        "5",
+        "24"
+      ]
+    },
+    {
+      "dimensions": [
         "20260619"
       ],
       "metrics": [
@@ -230,7 +230,7 @@
       "metrics": [
         "4",
         "4",
-        "30"
+        "31"
       ]
     },
     {
@@ -290,8 +290,8 @@
         "/"
       ],
       "metrics": [
-        "65",
-        "18"
+        "73",
+        "21"
       ]
     },
     {
@@ -318,6 +318,33 @@
       ],
       "metrics": [
         "5",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/es"
+      ],
+      "metrics": [
+        "4",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/church-santa-maria-del-bando"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/secret-waterfall-valle-dei-mulini"
+      ],
+      "metrics": [
+        "4",
         "4"
       ]
     },
@@ -350,15 +377,6 @@
     },
     {
       "dimensions": [
-        "/place/church-santa-maria-del-bando"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
         "/place/mimi-coco-di-tutto-un-po-atrani"
       ],
       "metrics": [
@@ -368,11 +386,11 @@
     },
     {
       "dimensions": [
-        "/place/secret-waterfall-valle-dei-mulini"
+        "/place/valle-delle-ferriere"
       ],
       "metrics": [
         "3",
-        "3"
+        "2"
       ]
     },
     {
@@ -386,34 +404,16 @@
     },
     {
       "dimensions": [
+        "/de/place/la-tramontina-amalfi"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "/de/place/secret-waterfall-valle-dei-mulini"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/il-birecto-atrani"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/la-rua-pizze-e-delizie-amalfi"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/lido-degli-artisti-amalfi"
       ],
       "metrics": [
         "2",
@@ -427,8 +427,8 @@
         "(direct)"
       ],
       "metrics": [
-        "23",
-        "10"
+        "27",
+        "13"
       ]
     },
     {
@@ -436,13 +436,22 @@
         "(not set)"
       ],
       "metrics": [
-        "2",
-        "2"
+        "4",
+        "4"
       ]
     },
     {
       "dimensions": [
         "bing"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "copilot.com"
       ],
       "metrics": [
         "1",
@@ -465,8 +474,8 @@
         "Italy"
       ],
       "metrics": [
-        "17",
-        "8"
+        "20",
+        "10"
       ]
     },
     {
@@ -507,6 +516,24 @@
     },
     {
       "dimensions": [
+        "Norway"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Spain"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "United States"
       ],
       "metrics": [
@@ -516,17 +543,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 25,
-    "users": 12,
-    "pageViews": 137,
-    "avgSessionDuration": 464,
-    "bounceRate": 0.3
+    "sessions": 30,
+    "users": 16,
+    "pageViews": 162,
+    "avgSessionDuration": 371,
+    "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 226,
-    "users": 60,
-    "pageViews": 1162,
-    "avgSessionDuration": 283,
+    "sessions": 218,
+    "users": 59,
+    "pageViews": 1076,
+    "avgSessionDuration": 274,
     "bounceRate": 0.3
   }
 }
