@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-07-19T07:28:56.262Z",
+  "updatedAt": "2026-07-20T08:09:14.470Z",
   "trend": [
     {
       "dimensions": [
@@ -205,12 +205,12 @@
     },
     {
       "dimensions": [
-        "20260619"
+        "20260719"
       ],
       "metrics": [
-        "4",
+        "5",
         "2",
-        "29"
+        "17"
       ]
     },
     {
@@ -290,8 +290,8 @@
         "/"
       ],
       "metrics": [
-        "73",
-        "21"
+        "66",
+        "22"
       ]
     },
     {
@@ -305,11 +305,11 @@
     },
     {
       "dimensions": [
-        "/place/castiglione-beach-lido-di-ravello"
+        "/es"
       ],
       "metrics": [
-        "5",
-        "4"
+        "11",
+        "3"
       ]
     },
     {
@@ -317,26 +317,26 @@
         "/place/waterfall-of-atrani"
       ],
       "metrics": [
-        "5",
-        "4"
+        "6",
+        "5"
       ]
     },
     {
       "dimensions": [
-        "/es"
+        "/es/place/la-grande-mela-supermarket-deco-amalfi"
       ],
       "metrics": [
         "4",
-        "1"
+        "3"
       ]
     },
     {
       "dimensions": [
-        "/place/church-santa-maria-del-bando"
+        "/place/castiglione-beach-lido-di-ravello"
       ],
       "metrics": [
         "4",
-        "4"
+        "3"
       ]
     },
     {
@@ -359,6 +359,24 @@
     },
     {
       "dimensions": [
+        "/es/place/dogi-market-amalfi"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/es/place/ravello-infinity-terrace-villa-cimbrone"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
         "/place/apicella-bakery-amalfi"
       ],
       "metrics": [
@@ -368,11 +386,11 @@
     },
     {
       "dimensions": [
-        "/place/church-of-saint-mary-magdalene"
+        "/place/church-santa-maria-del-bando"
       ],
       "metrics": [
         "3",
-        "2"
+        "3"
       ]
     },
     {
@@ -401,24 +419,6 @@
         "2",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "/de/place/la-tramontina-amalfi"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/de/place/secret-waterfall-valle-dei-mulini"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
     }
   ],
   "sources": [
@@ -427,8 +427,8 @@
         "(direct)"
       ],
       "metrics": [
-        "27",
-        "13"
+        "30",
+        "14"
       ]
     },
     {
@@ -436,8 +436,8 @@
         "(not set)"
       ],
       "metrics": [
-        "4",
-        "4"
+        "2",
+        "2"
       ]
     },
     {
@@ -457,15 +457,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "vercel.com"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "countries": [
@@ -474,8 +465,8 @@
         "Italy"
       ],
       "metrics": [
-        "20",
-        "10"
+        "22",
+        "11"
       ]
     },
     {
@@ -543,17 +534,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 30,
+    "sessions": 32,
     "users": 16,
-    "pageViews": 162,
-    "avgSessionDuration": 371,
-    "bounceRate": 0.4
+    "pageViews": 164,
+    "avgSessionDuration": 300,
+    "bounceRate": 0.3
   },
   "summary30d": {
-    "sessions": 218,
-    "users": 59,
-    "pageViews": 1076,
-    "avgSessionDuration": 274,
+    "sessions": 219,
+    "users": 58,
+    "pageViews": 1064,
+    "avgSessionDuration": 271,
     "bounceRate": 0.3
   }
 }

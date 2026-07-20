@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-07-19T07:28:55.554Z",
+  "updatedAt": "2026-07-20T08:09:13.816Z",
   "trend": [
     {
       "dimensions": [
@@ -175,6 +175,16 @@
     },
     {
       "dimensions": [
+        "20260719"
+      ],
+      "metrics": [
+        "19",
+        "12",
+        "22"
+      ]
+    },
+    {
+      "dimensions": [
         "20260710"
       ],
       "metrics": [
@@ -211,16 +221,6 @@
         "17",
         "9",
         "22"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260619"
-      ],
-      "metrics": [
-        "14",
-        "9",
-        "26"
       ]
     },
     {
@@ -305,7 +305,7 @@
     },
     {
       "dimensions": [
-        "20260719"
+        "20260720"
       ],
       "metrics": [
         "2",
@@ -320,8 +320,8 @@
         "/parking/"
       ],
       "metrics": [
-        "37",
-        "36"
+        "36",
+        "35"
       ]
     },
     {
@@ -329,8 +329,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "27",
-        "24"
+        "28",
+        "23"
       ]
     },
     {
@@ -338,8 +338,17 @@
         "/"
       ],
       "metrics": [
-        "26",
-        "21"
+        "27",
+        "22"
+      ]
+    },
+    {
+      "dimensions": [
+        "/directions/"
+      ],
+      "metrics": [
+        "17",
+        "15"
       ]
     },
     {
@@ -353,29 +362,11 @@
     },
     {
       "dimensions": [
-        "/directions/"
-      ],
-      "metrics": [
-        "15",
-        "13"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/metro-del-mare-is-back-amalfi-coast-to-cilento-by-sea/"
       ],
       "metrics": [
-        "13",
-        "10"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photolocations/"
-      ],
-      "metrics": [
-        "7",
-        "4"
+        "8",
+        "7"
       ]
     },
     {
@@ -389,19 +380,10 @@
     },
     {
       "dimensions": [
-        "/ferry-timetables/"
-      ],
-      "metrics": [
-        "6",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/license-plate-restrictions-return-to-the-amalfi-coast-april-25-may-2-2/"
       ],
       "metrics": [
-        "5",
+        "6",
         "4"
       ]
     },
@@ -410,8 +392,35 @@
         "/ferry-timetables"
       ],
       "metrics": [
+        "6",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photolocations/"
+      ],
+      "metrics": [
+        "6",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/ferry-timetables/"
+      ],
+      "metrics": [
         "5",
-        "6"
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/how-to-get/"
+      ],
+      "metrics": [
+        "5",
+        "5"
       ]
     },
     {
@@ -425,20 +434,11 @@
     },
     {
       "dimensions": [
-        "/how-to-get/"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
         "/timetables"
       ],
       "metrics": [
-        "4",
-        "4"
+        "3",
+        "3"
       ]
     },
     {
@@ -457,8 +457,8 @@
         "google"
       ],
       "metrics": [
-        "83",
-        "42"
+        "80",
+        "41"
       ]
     },
     {
@@ -466,7 +466,7 @@
         "(direct)"
       ],
       "metrics": [
-        "21",
+        "24",
         "12"
       ]
     },
@@ -475,7 +475,7 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "13",
+        "14",
         "11"
       ]
     },
@@ -508,7 +508,7 @@
     },
     {
       "dimensions": [
-        "bing"
+        "duckduckgo"
       ],
       "metrics": [
         "2",
@@ -517,16 +517,7 @@
     },
     {
       "dimensions": [
-        "copilot.com"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "duckduckgo"
+        "bing"
       ],
       "metrics": [
         "1",
@@ -541,6 +532,15 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "facebook.com"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "countries": [
@@ -549,8 +549,8 @@
         "Italy"
       ],
       "metrics": [
-        "45",
-        "22"
+        "44",
+        "21"
       ]
     },
     {
@@ -558,8 +558,8 @@
         "Australia"
       ],
       "metrics": [
-        "21",
-        "3"
+        "19",
+        "2"
       ]
     },
     {
@@ -567,8 +567,8 @@
         "United States"
       ],
       "metrics": [
-        "12",
-        "10"
+        "13",
+        "8"
       ]
     },
     {
@@ -576,31 +576,22 @@
         "United Kingdom"
       ],
       "metrics": [
-        "9",
-        "7"
+        "12",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
+        "Spain"
+      ],
+      "metrics": [
+        "6",
+        "5"
       ]
     },
     {
       "dimensions": [
         "Netherlands"
-      ],
-      "metrics": [
-        "7",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "Germany"
-      ],
-      "metrics": [
-        "5",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "Ireland"
       ],
       "metrics": [
         "5",
@@ -609,19 +600,19 @@
     },
     {
       "dimensions": [
-        "Spain"
+        "Germany"
       ],
       "metrics": [
-        "5",
+        "4",
         "4"
       ]
     },
     {
       "dimensions": [
-        "Switzerland"
+        "Ireland"
       ],
       "metrics": [
-        "3",
+        "4",
         "2"
       ]
     },
@@ -630,23 +621,32 @@
         "France"
       ],
       "metrics": [
-        "2",
+        "3",
         "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Norway"
+      ],
+      "metrics": [
+        "3",
+        "3"
       ]
     }
   ],
   "summary7d": {
     "sessions": 134,
-    "users": 73,
-    "pageViews": 191,
-    "avgSessionDuration": 336,
-    "bounceRate": 0.5
+    "users": 72,
+    "pageViews": 189,
+    "avgSessionDuration": 328,
+    "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 565,
-    "users": 347,
-    "pageViews": 834,
-    "avgSessionDuration": 315,
+    "sessions": 570,
+    "users": 350,
+    "pageViews": 830,
+    "avgSessionDuration": 295,
     "bounceRate": 0.5
   }
 }

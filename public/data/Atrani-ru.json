@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-07-19T07:28:54.661Z",
+  "updatedAt": "2026-07-20T08:09:13.043Z",
   "trend": [
     {
       "dimensions": [
@@ -195,6 +195,16 @@
     },
     {
       "dimensions": [
+        "20260719"
+      ],
+      "metrics": [
+        "35",
+        "34",
+        "37"
+      ]
+    },
+    {
+      "dimensions": [
         "20260623"
       ],
       "metrics": [
@@ -241,16 +251,6 @@
         "31",
         "29",
         "35"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260619"
-      ],
-      "metrics": [
-        "30",
-        "28",
-        "34"
       ]
     },
     {
@@ -305,7 +305,7 @@
     },
     {
       "dimensions": [
-        "20260719"
+        "20260720"
       ],
       "metrics": [
         "6",
@@ -320,8 +320,17 @@
         "/"
       ],
       "metrics": [
-        "91",
-        "88"
+        "81",
+        "78"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
+      ],
+      "metrics": [
+        "21",
+        "20"
       ]
     },
     {
@@ -335,29 +344,11 @@
     },
     {
       "dimensions": [
-        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
-      ],
-      "metrics": [
-        "17",
-        "16"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/page/2/"
       ],
       "metrics": [
         "8",
         "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "/parking"
-      ],
-      "metrics": [
-        "8",
-        "7"
       ]
     },
     {
@@ -371,29 +362,29 @@
     },
     {
       "dimensions": [
+        "/parking"
+      ],
+      "metrics": [
+        "7",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
         "/experience"
       ],
       "metrics": [
-        "5",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2018/04/2018-4-28-2/"
-      ],
-      "metrics": [
-        "4",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2018/07/vintage-cars-amalfi-drive/"
-      ],
-      "metrics": [
-        "4",
+        "6",
         "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
+      ],
+      "metrics": [
+        "5",
+        "5"
       ]
     },
     {
@@ -402,12 +393,21 @@
       ],
       "metrics": [
         "4",
-        "4"
+        "5"
       ]
     },
     {
       "dimensions": [
         "/2020/04/la-caravella/"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/how-to-get-to-amalfi"
       ],
       "metrics": [
         "4",
@@ -425,11 +425,11 @@
     },
     {
       "dimensions": [
-        "/tag/жилье/"
+        "/contacts"
       ],
       "metrics": [
         "4",
-        "4"
+        "3"
       ]
     },
     {
@@ -443,7 +443,7 @@
     },
     {
       "dimensions": [
-        "/2020/01/sal-de-riso-sweets/"
+        "/2018/07/vintage-cars-amalfi-drive/"
       ],
       "metrics": [
         "3",
@@ -457,17 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "185",
-        "183"
-      ]
-    },
-    {
-      "dimensions": [
-        "google"
-      ],
-      "metrics": [
-        "26",
-        "21"
+        "177",
+        "175"
       ]
     },
     {
@@ -475,7 +466,16 @@
         "yandex.ru"
       ],
       "metrics": [
-        "18",
+        "23",
+        "22"
+      ]
+    },
+    {
+      "dimensions": [
+        "google"
+      ],
+      "metrics": [
+        "22",
         "17"
       ]
     },
@@ -484,13 +484,22 @@
         "(not set)"
       ],
       "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "m.facebook.com"
+      ],
+      "metrics": [
         "2",
         "2"
       ]
     },
     {
       "dimensions": [
-        "m.facebook.com"
+        "ya.ru"
       ],
       "metrics": [
         "2",
@@ -523,15 +532,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "ya.ru"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "countries": [
@@ -540,17 +540,8 @@
         "Russia"
       ],
       "metrics": [
-        "102",
-        "101"
-      ]
-    },
-    {
-      "dimensions": [
-        "Vietnam"
-      ],
-      "metrics": [
-        "20",
-        "20"
+        "103",
+        "103"
       ]
     },
     {
@@ -559,7 +550,16 @@
       ],
       "metrics": [
         "18",
-        "12"
+        "11"
+      ]
+    },
+    {
+      "dimensions": [
+        "Vietnam"
+      ],
+      "metrics": [
+        "18",
+        "18"
       ]
     },
     {
@@ -567,22 +567,13 @@
         "United States"
       ],
       "metrics": [
-        "11",
-        "10"
+        "13",
+        "12"
       ]
     },
     {
       "dimensions": [
-        "United Kingdom"
-      ],
-      "metrics": [
-        "8",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "Singapore"
+        "(not set)"
       ],
       "metrics": [
         "6",
@@ -591,20 +582,11 @@
     },
     {
       "dimensions": [
-        "(not set)"
+        "Brazil"
       ],
       "metrics": [
-        "5",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "Argentina"
-      ],
-      "metrics": [
-        "5",
-        "5"
+        "6",
+        "6"
       ]
     },
     {
@@ -618,7 +600,25 @@
     },
     {
       "dimensions": [
-        "Brazil"
+        "China"
+      ],
+      "metrics": [
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "Singapore"
+      ],
+      "metrics": [
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "United Kingdom"
       ],
       "metrics": [
         "5",
@@ -627,16 +627,16 @@
     }
   ],
   "summary7d": {
-    "sessions": 239,
-    "users": 229,
-    "pageViews": 264,
-    "avgSessionDuration": 53,
+    "sessions": 234,
+    "users": 224,
+    "pageViews": 256,
+    "avgSessionDuration": 50,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 1083,
-    "users": 1038,
-    "pageViews": 1154,
+    "sessions": 1089,
+    "users": 1044,
+    "pageViews": 1157,
     "avgSessionDuration": 31,
     "bounceRate": 0.8
   }
