@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-07-20T08:09:14.470Z",
+  "updatedAt": "2026-07-21T07:34:15.953Z",
   "trend": [
     {
       "dimensions": [
@@ -210,17 +210,7 @@
       "metrics": [
         "5",
         "2",
-        "17"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260620"
-      ],
-      "metrics": [
-        "4",
-        "2",
-        "43"
+        "18"
       ]
     },
     {
@@ -275,6 +265,16 @@
     },
     {
       "dimensions": [
+        "20260720"
+      ],
+      "metrics": [
+        "2",
+        "1",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
         "20260716"
       ],
       "metrics": [
@@ -290,8 +290,8 @@
         "/"
       ],
       "metrics": [
-        "66",
-        "22"
+        "31",
+        "12"
       ]
     },
     {
@@ -299,8 +299,8 @@
         "/de"
       ],
       "metrics": [
-        "13",
-        "2"
+        "17",
+        "4"
       ]
     },
     {
@@ -314,47 +314,11 @@
     },
     {
       "dimensions": [
-        "/place/waterfall-of-atrani"
-      ],
-      "metrics": [
-        "6",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
         "/es/place/la-grande-mela-supermarket-deco-amalfi"
       ],
       "metrics": [
         "4",
         "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/castiglione-beach-lido-di-ravello"
-      ],
-      "metrics": [
-        "4",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/secret-waterfall-valle-dei-mulini"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/the-lemon-path-sentiero-dei-limoni"
-      ],
-      "metrics": [
-        "4",
-        "2"
       ]
     },
     {
@@ -368,6 +332,15 @@
     },
     {
       "dimensions": [
+        "/es/place/mimi-coco-di-tutto-un-po-atrani"
+      ],
+      "metrics": [
+        "3",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "/es/place/ravello-infinity-terrace-villa-cimbrone"
       ],
       "metrics": [
@@ -377,16 +350,7 @@
     },
     {
       "dimensions": [
-        "/place/apicella-bakery-amalfi"
-      ],
-      "metrics": [
-        "3",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/church-santa-maria-del-bando"
+        "/place/secret-waterfall-valle-dei-mulini"
       ],
       "metrics": [
         "3",
@@ -395,16 +359,7 @@
     },
     {
       "dimensions": [
-        "/place/mimi-coco-di-tutto-un-po-atrani"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/valle-delle-ferriere"
+        "/place/waterfall-of-atrani"
       ],
       "metrics": [
         "3",
@@ -419,6 +374,51 @@
         "2",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "/de/place/la-tramontina-amalfi"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/de/place/secret-waterfall-valle-dei-mulini"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/church-santa-maria-del-bando"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/lido-degli-artisti-amalfi"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/mimi-coco-di-tutto-un-po-atrani"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
     }
   ],
   "sources": [
@@ -427,8 +427,8 @@
         "(direct)"
       ],
       "metrics": [
-        "30",
-        "14"
+        "22",
+        "13"
       ]
     },
     {
@@ -436,8 +436,8 @@
         "(not set)"
       ],
       "metrics": [
-        "2",
-        "2"
+        "1",
+        "1"
       ]
     },
     {
@@ -465,16 +465,16 @@
         "Italy"
       ],
       "metrics": [
-        "22",
-        "11"
+        "15",
+        "10"
       ]
     },
     {
       "dimensions": [
-        "Ireland"
+        "Germany"
       ],
       "metrics": [
-        "4",
+        "3",
         "2"
       ]
     },
@@ -489,7 +489,7 @@
     },
     {
       "dimensions": [
-        "Germany"
+        "Greece"
       ],
       "metrics": [
         "1",
@@ -498,7 +498,7 @@
     },
     {
       "dimensions": [
-        "Greece"
+        "Ireland"
       ],
       "metrics": [
         "1",
@@ -534,17 +534,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 32,
-    "users": 16,
-    "pageViews": 164,
-    "avgSessionDuration": 300,
-    "bounceRate": 0.3
+    "sessions": 24,
+    "users": 15,
+    "pageViews": 116,
+    "avgSessionDuration": 162,
+    "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 219,
-    "users": 58,
-    "pageViews": 1064,
-    "avgSessionDuration": 271,
+    "sessions": 217,
+    "users": 59,
+    "pageViews": 1029,
+    "avgSessionDuration": 261,
     "bounceRate": 0.3
   }
 }
