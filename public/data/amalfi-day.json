@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-07-21T07:34:15.360Z",
+  "updatedAt": "2026-07-22T07:37:05.654Z",
   "trend": [
     {
       "dimensions": [
@@ -55,12 +55,12 @@
     },
     {
       "dimensions": [
-        "20260621"
+        "20260721"
       ],
       "metrics": [
         "23",
-        "13",
-        "33"
+        "17",
+        "30"
       ]
     },
     {
@@ -302,16 +302,6 @@
         "9",
         "19"
       ]
-    },
-    {
-      "dimensions": [
-        "20260721"
-      ],
-      "metrics": [
-        "1",
-        "0",
-        "1"
-      ]
     }
   ],
   "topPages": [
@@ -320,7 +310,7 @@
         "/parking/"
       ],
       "metrics": [
-        "36",
+        "35",
         "36"
       ]
     },
@@ -329,8 +319,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "35",
-        "29"
+        "32",
+        "27"
       ]
     },
     {
@@ -338,8 +328,8 @@
         "/"
       ],
       "metrics": [
-        "26",
-        "21"
+        "25",
+        "20"
       ]
     },
     {
@@ -347,8 +337,8 @@
         "/directions/"
       ],
       "metrics": [
-        "16",
-        "15"
+        "13",
+        "12"
       ]
     },
     {
@@ -356,8 +346,17 @@
         "/moto"
       ],
       "metrics": [
-        "15",
-        "11"
+        "12",
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photolocations/"
+      ],
+      "metrics": [
+        "7",
+        "5"
       ]
     },
     {
@@ -365,22 +364,13 @@
         "/ferry-timetables"
       ],
       "metrics": [
-        "7",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/metro-del-mare-is-back-amalfi-coast-to-cilento-by-sea/"
-      ],
-      "metrics": [
         "6",
-        "5"
+        "6"
       ]
     },
     {
       "dimensions": [
-        "/photolocations/"
+        "/ferry-timetables/"
       ],
       "metrics": [
         "6",
@@ -398,47 +388,29 @@
     },
     {
       "dimensions": [
-        "/blog/license-plate-restrictions-return-to-the-amalfi-coast-april-25-may-2-2/"
-      ],
-      "metrics": [
-        "5",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/contact"
-      ],
-      "metrics": [
-        "4",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/ferry-timetables/"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
         "/how-to-get/"
       ],
       "metrics": [
-        "4",
-        "4"
+        "5",
+        "5"
       ]
     },
     {
       "dimensions": [
-        "/timetables"
+        "/blog/license-plate-restrictions-return-to-the-amalfi-coast-april-25-may-2-2/"
       ],
       "metrics": [
-        "3",
+        "4",
         "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/metro-del-mare-is-back-amalfi-coast-to-cilento-by-sea/"
+      ],
+      "metrics": [
+        "4",
+        "4"
       ]
     },
     {
@@ -449,48 +421,10 @@
         "2",
         "2"
       ]
-    }
-  ],
-  "sources": [
-    {
-      "dimensions": [
-        "google"
-      ],
-      "metrics": [
-        "75",
-        "40"
-      ]
     },
     {
       "dimensions": [
-        "(direct)"
-      ],
-      "metrics": [
-        "23",
-        "13"
-      ]
-    },
-    {
-      "dimensions": [
-        "chatgpt.com"
-      ],
-      "metrics": [
-        "15",
-        "12"
-      ]
-    },
-    {
-      "dimensions": [
-        "ca.search.yahoo.com"
-      ],
-      "metrics": [
-        "3",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "(not set)"
+        "/blog/amalfis-scala-santa-caterina-reopens-above-the-port/"
       ],
       "metrics": [
         "2",
@@ -499,11 +433,58 @@
     },
     {
       "dimensions": [
-        "amalfi-guide-ungattocinereo-cinereos-projects.vercel.app"
+        "/experience/car-tours"
       ],
       "metrics": [
         "2",
         "1"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "dimensions": [
+        "google"
+      ],
+      "metrics": [
+        "71",
+        "42"
+      ]
+    },
+    {
+      "dimensions": [
+        "(direct)"
+      ],
+      "metrics": [
+        "20",
+        "10"
+      ]
+    },
+    {
+      "dimensions": [
+        "chatgpt.com"
+      ],
+      "metrics": [
+        "17",
+        "14"
+      ]
+    },
+    {
+      "dimensions": [
+        "amalfi-guide-ungattocinereo-cinereos-projects.vercel.app"
+      ],
+      "metrics": [
+        "4",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "(not set)"
+      ],
+      "metrics": [
+        "3",
+        "2"
       ]
     },
     {
@@ -511,7 +492,7 @@
         "bing"
       ],
       "metrics": [
-        "2",
+        "3",
         "2"
       ]
     },
@@ -541,6 +522,15 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "facebook.com"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "countries": [
@@ -558,7 +548,7 @@
         "Australia"
       ],
       "metrics": [
-        "19",
+        "18",
         "2"
       ]
     },
@@ -567,7 +557,7 @@
         "United States"
       ],
       "metrics": [
-        "14",
+        "15",
         "8"
       ]
     },
@@ -576,17 +566,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "13",
-        "10"
-      ]
-    },
-    {
-      "dimensions": [
-        "Spain"
-      ],
-      "metrics": [
-        "6",
-        "5"
+        "12",
+        "11"
       ]
     },
     {
@@ -609,15 +590,6 @@
     },
     {
       "dimensions": [
-        "Germany"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
         "Finland"
       ],
       "metrics": [
@@ -627,26 +599,44 @@
     },
     {
       "dimensions": [
-        "Hong Kong"
+        "Germany"
       ],
       "metrics": [
-        "2",
-        "1"
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "Norway"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "Poland"
+      ],
+      "metrics": [
+        "3",
+        "3"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 129,
-    "users": 75,
-    "pageViews": 183,
-    "avgSessionDuration": 340,
+    "sessions": 126,
+    "users": 77,
+    "pageViews": 169,
+    "avgSessionDuration": 237,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 564,
-    "users": 344,
-    "pageViews": 821,
-    "avgSessionDuration": 297,
+    "sessions": 563,
+    "users": 347,
+    "pageViews": 817,
+    "avgSessionDuration": 304,
     "bounceRate": 0.5
   }
 }

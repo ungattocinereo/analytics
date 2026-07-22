@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-07-21T07:34:15.953Z",
+  "updatedAt": "2026-07-22T07:37:06.375Z",
   "trend": [
     {
       "dimensions": [
@@ -71,16 +71,6 @@
         "11",
         "6",
         "72"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260621"
-      ],
-      "metrics": [
-        "10",
-        "7",
-        "38"
       ]
     },
     {
@@ -215,6 +205,16 @@
     },
     {
       "dimensions": [
+        "20260721"
+      ],
+      "metrics": [
+        "5",
+        "4",
+        "24"
+      ]
+    },
+    {
+      "dimensions": [
         "20260717"
       ],
       "metrics": [
@@ -270,7 +270,7 @@
       "metrics": [
         "2",
         "1",
-        "7"
+        "8"
       ]
     },
     {
@@ -287,20 +287,20 @@
   "topPages": [
     {
       "dimensions": [
-        "/"
+        "/de"
       ],
       "metrics": [
-        "31",
-        "12"
+        "32",
+        "5"
       ]
     },
     {
       "dimensions": [
-        "/de"
+        "/"
       ],
       "metrics": [
-        "17",
-        "4"
+        "30",
+        "12"
       ]
     },
     {
@@ -350,15 +350,6 @@
     },
     {
       "dimensions": [
-        "/place/secret-waterfall-valle-dei-mulini"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
         "/place/waterfall-of-atrani"
       ],
       "metrics": [
@@ -395,15 +386,6 @@
     },
     {
       "dimensions": [
-        "/place/church-santa-maria-del-bando"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "/place/lido-degli-artisti-amalfi"
       ],
       "metrics": [
@@ -413,11 +395,29 @@
     },
     {
       "dimensions": [
-        "/place/mimi-coco-di-tutto-un-po-atrani"
+        "/place/secret-waterfall-valle-dei-mulini"
       ],
       "metrics": [
         "2",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/the-lemon-path-sentiero-dei-limoni"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/valle-delle-ferriere"
+      ],
+      "metrics": [
+        "2",
+        "1"
       ]
     }
   ],
@@ -427,7 +427,7 @@
         "(direct)"
       ],
       "metrics": [
-        "22",
+        "20",
         "13"
       ]
     },
@@ -436,8 +436,8 @@
         "(not set)"
       ],
       "metrics": [
-        "1",
-        "1"
+        "2",
+        "2"
       ]
     },
     {
@@ -457,6 +457,15 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "vercel.com"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "countries": [
@@ -465,22 +474,13 @@
         "Italy"
       ],
       "metrics": [
-        "15",
-        "10"
+        "18",
+        "12"
       ]
     },
     {
       "dimensions": [
         "Germany"
-      ],
-      "metrics": [
-        "3",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "France"
       ],
       "metrics": [
         "2",
@@ -490,15 +490,6 @@
     {
       "dimensions": [
         "Greece"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Ireland"
       ],
       "metrics": [
         "1",
@@ -525,6 +516,15 @@
     },
     {
       "dimensions": [
+        "Türkiye"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "United States"
       ],
       "metrics": [
@@ -534,17 +534,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 24,
-    "users": 15,
-    "pageViews": 116,
-    "avgSessionDuration": 162,
+    "sessions": 23,
+    "users": 16,
+    "pageViews": 123,
+    "avgSessionDuration": 189,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 217,
-    "users": 59,
-    "pageViews": 1029,
-    "avgSessionDuration": 261,
+    "sessions": 211,
+    "users": 56,
+    "pageViews": 1016,
+    "avgSessionDuration": 267,
     "bounceRate": 0.3
   }
 }

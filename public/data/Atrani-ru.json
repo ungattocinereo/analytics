@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-07-21T07:34:14.488Z",
+  "updatedAt": "2026-07-22T07:37:04.840Z",
   "trend": [
     {
       "dimensions": [
@@ -21,16 +21,6 @@
         "44",
         "44",
         "43"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260621"
-      ],
-      "metrics": [
-        "43",
-        "38",
-        "46"
       ]
     },
     {
@@ -245,6 +235,16 @@
     },
     {
       "dimensions": [
+        "20260721"
+      ],
+      "metrics": [
+        "30",
+        "29",
+        "50"
+      ]
+    },
+    {
+      "dimensions": [
         "20260625"
       ],
       "metrics": [
@@ -305,11 +305,11 @@
     },
     {
       "dimensions": [
-        "20260721"
+        "20260722"
       ],
       "metrics": [
         "3",
-        "3",
+        "2",
         "3"
       ]
     }
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "77",
-        "74"
+        "81",
+        "76"
       ]
     },
     {
@@ -329,8 +329,8 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "25",
-        "24"
+        "23",
+        "22"
       ]
     },
     {
@@ -344,11 +344,20 @@
     },
     {
       "dimensions": [
-        "/blog/page/2/"
+        "/experience"
       ],
       "metrics": [
-        "8",
+        "14",
         "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "/parking"
+      ],
+      "metrics": [
+        "9",
+        "9"
       ]
     },
     {
@@ -362,7 +371,7 @@
     },
     {
       "dimensions": [
-        "/experience/"
+        "/blog/page/2/"
       ],
       "metrics": [
         "7",
@@ -371,20 +380,29 @@
     },
     {
       "dimensions": [
-        "/parking"
+        "/tours-gastronomy"
       ],
       "metrics": [
         "7",
-        "7"
+        "4"
       ]
     },
     {
       "dimensions": [
-        "/experience"
+        "/blog/netflix-snimaiet-film-positano-s-makkonakhi-i-saldanoi-na-pobieriezhie-amalfi"
       ],
       "metrics": [
         "6",
-        "4"
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/experience/"
+      ],
+      "metrics": [
+        "6",
+        "6"
       ]
     },
     {
@@ -398,7 +416,7 @@
     },
     {
       "dimensions": [
-        "/blog/netflix-snimaiet-film-positano-s-makkonakhi-i-saldanoi-na-pobieriezhie-amalfi"
+        "/blog/colatura-di-alici-di-cetara"
       ],
       "metrics": [
         "4",
@@ -431,24 +449,6 @@
         "4",
         "3"
       ]
-    },
-    {
-      "dimensions": [
-        "/2019/02/roads-of-amalf-coast-atrani/"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2020/04/la-caravella/"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
     }
   ],
   "sources": [
@@ -457,17 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "163",
-        "163"
-      ]
-    },
-    {
-      "dimensions": [
-        "google"
-      ],
-      "metrics": [
-        "24",
-        "19"
+        "161",
+        "161"
       ]
     },
     {
@@ -475,8 +466,17 @@
         "yandex.ru"
       ],
       "metrics": [
-        "24",
-        "23"
+        "27",
+        "25"
+      ]
+    },
+    {
+      "dimensions": [
+        "google"
+      ],
+      "metrics": [
+        "25",
+        "20"
       ]
     },
     {
@@ -490,28 +490,19 @@
     },
     {
       "dimensions": [
+        "ya.ru"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
         "yandex.by"
       ],
       "metrics": [
         "3",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "m.facebook.com"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "ya.ru"
-      ],
-      "metrics": [
-        "2",
         "2"
       ]
     },
@@ -526,7 +517,25 @@
     },
     {
       "dimensions": [
+        "(data not available)"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "google.com"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "m.facebook.com"
       ],
       "metrics": [
         "1",
@@ -549,8 +558,8 @@
         "Italy"
       ],
       "metrics": [
-        "16",
-        "12"
+        "20",
+        "13"
       ]
     },
     {
@@ -558,8 +567,8 @@
         "Vietnam"
       ],
       "metrics": [
-        "14",
-        "14"
+        "15",
+        "15"
       ]
     },
     {
@@ -567,8 +576,8 @@
         "United States"
       ],
       "metrics": [
-        "11",
-        "10"
+        "9",
+        "8"
       ]
     },
     {
@@ -576,31 +585,13 @@
         "Brazil"
       ],
       "metrics": [
-        "6",
-        "6"
+        "8",
+        "8"
       ]
     },
     {
       "dimensions": [
         "(not set)"
-      ],
-      "metrics": [
-        "5",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "Argentina"
-      ],
-      "metrics": [
-        "5",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "Bangladesh"
       ],
       "metrics": [
         "5",
@@ -618,7 +609,25 @@
     },
     {
       "dimensions": [
-        "Singapore"
+        "Argentina"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "Bangladesh"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "Germany"
       ],
       "metrics": [
         "4",
@@ -627,17 +636,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 225,
-    "users": 217,
-    "pageViews": 245,
-    "avgSessionDuration": 45,
+    "sessions": 228,
+    "users": 218,
+    "pageViews": 268,
+    "avgSessionDuration": 68,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 1072,
-    "users": 1032,
-    "pageViews": 1139,
-    "avgSessionDuration": 31,
+    "sessions": 1061,
+    "users": 1022,
+    "pageViews": 1143,
+    "avgSessionDuration": 33,
     "bounceRate": 0.8
   }
 }
