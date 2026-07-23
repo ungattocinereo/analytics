@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-07-22T07:37:06.375Z",
+  "updatedAt": "2026-07-23T07:35:11.208Z",
   "trend": [
     {
       "dimensions": [
@@ -210,7 +210,7 @@
       "metrics": [
         "5",
         "4",
-        "24"
+        "26"
       ]
     },
     {
@@ -290,7 +290,7 @@
         "/de"
       ],
       "metrics": [
-        "32",
+        "33",
         "5"
       ]
     },
@@ -299,8 +299,8 @@
         "/"
       ],
       "metrics": [
-        "30",
-        "12"
+        "23",
+        "10"
       ]
     },
     {
@@ -386,37 +386,37 @@
     },
     {
       "dimensions": [
-        "/place/lido-degli-artisti-amalfi"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/secret-waterfall-valle-dei-mulini"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/the-lemon-path-sentiero-dei-limoni"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "/place/valle-delle-ferriere"
       ],
       "metrics": [
         "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/de/place/al-valico-di-chiunzi-tramonti"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/de/place/belvedere-of-san-lorenzo"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/de/place/church-santa-maria-del-bando"
+      ],
+      "metrics": [
+        "1",
         "1"
       ]
     }
@@ -427,17 +427,8 @@
         "(direct)"
       ],
       "metrics": [
-        "20",
-        "13"
-      ]
-    },
-    {
-      "dimensions": [
-        "(not set)"
-      ],
-      "metrics": [
-        "2",
-        "2"
+        "19",
+        "12"
       ]
     },
     {
@@ -474,8 +465,8 @@
         "Italy"
       ],
       "metrics": [
-        "18",
-        "12"
+        "16",
+        "11"
       ]
     },
     {
@@ -534,17 +525,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 23,
-    "users": 16,
-    "pageViews": 123,
-    "avgSessionDuration": 189,
-    "bounceRate": 0.4
+    "sessions": 22,
+    "users": 15,
+    "pageViews": 111,
+    "avgSessionDuration": 158,
+    "bounceRate": 0.3
   },
   "summary30d": {
-    "sessions": 211,
+    "sessions": 212,
     "users": 56,
-    "pageViews": 1016,
-    "avgSessionDuration": 267,
+    "pageViews": 1018,
+    "avgSessionDuration": 264,
     "bounceRate": 0.3
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-07-22T07:37:04.840Z",
+  "updatedAt": "2026-07-23T07:35:09.640Z",
   "trend": [
     {
       "dimensions": [
@@ -41,16 +41,6 @@
         "40",
         "39",
         "45"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260622"
-      ],
-      "metrics": [
-        "39",
-        "39",
-        "43"
       ]
     },
     {
@@ -295,6 +285,16 @@
     },
     {
       "dimensions": [
+        "20260722"
+      ],
+      "metrics": [
+        "23",
+        "22",
+        "23"
+      ]
+    },
+    {
+      "dimensions": [
         "20260715"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260722"
+        "20260723"
       ],
       "metrics": [
-        "3",
-        "2",
-        "3"
+        "1",
+        "1",
+        "1"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "81",
-        "76"
+        "84",
+        "79"
       ]
     },
     {
@@ -329,17 +329,8 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "23",
-        "22"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2019/03/duet-postscriptum-amalfi/"
-      ],
-      "metrics": [
-        "15",
-        "15"
+        "21",
+        "20"
       ]
     },
     {
@@ -349,6 +340,15 @@
       "metrics": [
         "14",
         "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2019/03/duet-postscriptum-amalfi/"
+      ],
+      "metrics": [
+        "13",
+        "13"
       ]
     },
     {
@@ -365,8 +365,8 @@
         "/blog/how-to-get-to-amalfi"
       ],
       "metrics": [
-        "7",
-        "7"
+        "8",
+        "8"
       ]
     },
     {
@@ -401,26 +401,8 @@
         "/experience/"
       ],
       "metrics": [
-        "6",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2019/12/katastrofa/"
-      ],
-      "metrics": [
-        "4",
+        "5",
         "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/colatura-di-alici-di-cetara"
-      ],
-      "metrics": [
-        "4",
-        "4"
       ]
     },
     {
@@ -449,6 +431,24 @@
         "4",
         "3"
       ]
+    },
+    {
+      "dimensions": [
+        "/2019/02/roads-of-amalf-coast-atrani"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2019/02/roads-of-amalf-coast-atrani/"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
     }
   ],
   "sources": [
@@ -457,17 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "161",
-        "161"
-      ]
-    },
-    {
-      "dimensions": [
-        "yandex.ru"
-      ],
-      "metrics": [
-        "27",
-        "25"
+        "160",
+        "160"
       ]
     },
     {
@@ -475,8 +466,17 @@
         "google"
       ],
       "metrics": [
-        "25",
-        "20"
+        "28",
+        "23"
+      ]
+    },
+    {
+      "dimensions": [
+        "yandex.ru"
+      ],
+      "metrics": [
+        "26",
+        "25"
       ]
     },
     {
@@ -484,8 +484,8 @@
         "(not set)"
       ],
       "metrics": [
-        "4",
-        "4"
+        "3",
+        "3"
       ]
     },
     {
@@ -517,15 +517,6 @@
     },
     {
       "dimensions": [
-        "(data not available)"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "google.com"
       ],
       "metrics": [
@@ -549,8 +540,8 @@
         "Russia"
       ],
       "metrics": [
-        "105",
-        "105"
+        "103",
+        "103"
       ]
     },
     {
@@ -558,8 +549,8 @@
         "Italy"
       ],
       "metrics": [
-        "20",
-        "13"
+        "21",
+        "15"
       ]
     },
     {
@@ -576,8 +567,8 @@
         "United States"
       ],
       "metrics": [
-        "9",
-        "8"
+        "10",
+        "9"
       ]
     },
     {
@@ -600,7 +591,7 @@
     },
     {
       "dimensions": [
-        "China"
+        "Germany"
       ],
       "metrics": [
         "5",
@@ -618,7 +609,7 @@
     },
     {
       "dimensions": [
-        "Bangladesh"
+        "China"
       ],
       "metrics": [
         "4",
@@ -627,25 +618,25 @@
     },
     {
       "dimensions": [
-        "Germany"
+        "Bangladesh"
       ],
       "metrics": [
-        "4",
-        "4"
+        "3",
+        "3"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 228,
+    "sessions": 227,
     "users": 218,
-    "pageViews": 268,
+    "pageViews": 265,
     "avgSessionDuration": 68,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 1061,
-    "users": 1022,
-    "pageViews": 1143,
+    "sessions": 1043,
+    "users": 1004,
+    "pageViews": 1121,
     "avgSessionDuration": 33,
     "bounceRate": 0.8
   }
