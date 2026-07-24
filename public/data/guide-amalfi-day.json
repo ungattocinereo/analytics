@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-07-23T07:35:11.208Z",
+  "updatedAt": "2026-07-24T07:35:32.580Z",
   "trend": [
     {
       "dimensions": [
@@ -155,16 +155,6 @@
     },
     {
       "dimensions": [
-        "20260623"
-      ],
-      "metrics": [
-        "6",
-        "4",
-        "56"
-      ]
-    },
-    {
-      "dimensions": [
         "20260624"
       ],
       "metrics": [
@@ -299,8 +289,8 @@
         "/"
       ],
       "metrics": [
-        "23",
-        "10"
+        "21",
+        "9"
       ]
     },
     {
@@ -346,15 +336,6 @@
       "metrics": [
         "3",
         "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/waterfall-of-atrani"
-      ],
-      "metrics": [
-        "3",
-        "2"
       ]
     },
     {
@@ -419,6 +400,15 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "/de/place/duomo-di-santandrea-amalfi-cathedral"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "sources": [
@@ -427,8 +417,8 @@
         "(direct)"
       ],
       "metrics": [
-        "19",
-        "12"
+        "18",
+        "11"
       ]
     },
     {
@@ -465,8 +455,8 @@
         "Italy"
       ],
       "metrics": [
-        "16",
-        "11"
+        "15",
+        "10"
       ]
     },
     {
@@ -525,17 +515,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 22,
-    "users": 15,
-    "pageViews": 111,
-    "avgSessionDuration": 158,
+    "sessions": 21,
+    "users": 14,
+    "pageViews": 107,
+    "avgSessionDuration": 165,
     "bounceRate": 0.3
   },
   "summary30d": {
-    "sessions": 212,
+    "sessions": 207,
     "users": 56,
-    "pageViews": 1018,
-    "avgSessionDuration": 264,
+    "pageViews": 962,
+    "avgSessionDuration": 261,
     "bounceRate": 0.3
   }
 }

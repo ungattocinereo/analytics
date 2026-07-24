@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-07-23T07:35:09.640Z",
+  "updatedAt": "2026-07-24T07:35:30.859Z",
   "trend": [
     {
       "dimensions": [
@@ -175,16 +175,6 @@
     },
     {
       "dimensions": [
-        "20260623"
-      ],
-      "metrics": [
-        "34",
-        "33",
-        "33"
-      ]
-    },
-    {
-      "dimensions": [
         "20260627"
       ],
       "metrics": [
@@ -275,6 +265,16 @@
     },
     {
       "dimensions": [
+        "20260723"
+      ],
+      "metrics": [
+        "27",
+        "26",
+        "32"
+      ]
+    },
+    {
+      "dimensions": [
         "20260708"
       ],
       "metrics": [
@@ -302,16 +302,6 @@
         "21",
         "24"
       ]
-    },
-    {
-      "dimensions": [
-        "20260723"
-      ],
-      "metrics": [
-        "1",
-        "1",
-        "1"
-      ]
     }
   ],
   "topPages": [
@@ -320,8 +310,8 @@
         "/"
       ],
       "metrics": [
-        "84",
-        "79"
+        "76",
+        "71"
       ]
     },
     {
@@ -329,8 +319,8 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "21",
-        "20"
+        "15",
+        "15"
       ]
     },
     {
@@ -356,8 +346,8 @@
         "/parking"
       ],
       "metrics": [
-        "9",
-        "9"
+        "10",
+        "10"
       ]
     },
     {
@@ -371,6 +361,15 @@
     },
     {
       "dimensions": [
+        "/tours-gastronomy"
+      ],
+      "metrics": [
+        "8",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
         "/blog/page/2/"
       ],
       "metrics": [
@@ -380,29 +379,11 @@
     },
     {
       "dimensions": [
-        "/tours-gastronomy"
-      ],
-      "metrics": [
-        "7",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/netflix-snimaiet-film-positano-s-makkonakhi-i-saldanoi-na-pobieriezhie-amalfi"
       ],
       "metrics": [
         "6",
         "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "/experience/"
-      ],
-      "metrics": [
-        "5",
-        "5"
       ]
     },
     {
@@ -425,7 +406,16 @@
     },
     {
       "dimensions": [
-        "/tours-car"
+        "/experience/"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/transport"
       ],
       "metrics": [
         "4",
@@ -457,8 +447,8 @@
         "(direct)"
       ],
       "metrics": [
-        "160",
-        "160"
+        "155",
+        "155"
       ]
     },
     {
@@ -475,8 +465,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "26",
-        "25"
+        "23",
+        "22"
       ]
     },
     {
@@ -493,16 +483,7 @@
         "ya.ru"
       ],
       "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "yandex.by"
-      ],
-      "metrics": [
-        "3",
+        "2",
         "2"
       ]
     },
@@ -532,6 +513,15 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "yandex.by"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "countries": [
@@ -540,8 +530,8 @@
         "Russia"
       ],
       "metrics": [
-        "103",
-        "103"
+        "91",
+        "91"
       ]
     },
     {
@@ -549,8 +539,8 @@
         "Italy"
       ],
       "metrics": [
-        "21",
-        "15"
+        "22",
+        "16"
       ]
     },
     {
@@ -558,22 +548,22 @@
         "Vietnam"
       ],
       "metrics": [
-        "15",
-        "15"
-      ]
-    },
-    {
-      "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "10",
-        "9"
+        "18",
+        "18"
       ]
     },
     {
       "dimensions": [
         "Brazil"
+      ],
+      "metrics": [
+        "8",
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States"
       ],
       "metrics": [
         "8",
@@ -591,7 +581,7 @@
     },
     {
       "dimensions": [
-        "Germany"
+        "Argentina"
       ],
       "metrics": [
         "5",
@@ -600,7 +590,7 @@
     },
     {
       "dimensions": [
-        "Argentina"
+        "China"
       ],
       "metrics": [
         "4",
@@ -609,7 +599,7 @@
     },
     {
       "dimensions": [
-        "China"
+        "Germany"
       ],
       "metrics": [
         "4",
@@ -627,17 +617,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 227,
-    "users": 218,
-    "pageViews": 265,
-    "avgSessionDuration": 68,
-    "bounceRate": 0.8
+    "sessions": 215,
+    "users": 208,
+    "pageViews": 256,
+    "avgSessionDuration": 70,
+    "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 1043,
-    "users": 1004,
-    "pageViews": 1121,
-    "avgSessionDuration": 33,
+    "sessions": 1034,
+    "users": 996,
+    "pageViews": 1119,
+    "avgSessionDuration": 35,
     "bounceRate": 0.8
   }
 }
