@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-07-24T07:35:30.859Z",
+  "updatedAt": "2026-07-25T07:21:33.994Z",
   "trend": [
     {
       "dimensions": [
@@ -135,16 +135,6 @@
     },
     {
       "dimensions": [
-        "20260624"
-      ],
-      "metrics": [
-        "35",
-        "34",
-        "45"
-      ]
-    },
-    {
-      "dimensions": [
         "20260628"
       ],
       "metrics": [
@@ -191,6 +181,16 @@
         "33",
         "31",
         "34"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260724"
+      ],
+      "metrics": [
+        "33",
+        "33",
+        "86"
       ]
     },
     {
@@ -302,6 +302,16 @@
         "21",
         "24"
       ]
+    },
+    {
+      "dimensions": [
+        "20260725"
+      ],
+      "metrics": [
+        "7",
+        "7",
+        "11"
+      ]
     }
   ],
   "topPages": [
@@ -310,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "76",
-        "71"
+        "78",
+        "74"
       ]
     },
     {
@@ -319,8 +329,8 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "15",
-        "15"
+        "16",
+        "16"
       ]
     },
     {
@@ -328,17 +338,8 @@
         "/experience"
       ],
       "metrics": [
-        "14",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2019/03/duet-postscriptum-amalfi/"
-      ],
-      "metrics": [
-        "13",
-        "13"
+        "15",
+        "11"
       ]
     },
     {
@@ -346,8 +347,35 @@
         "/parking"
       ],
       "metrics": [
+        "12",
+        "11"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2019/03/duet-postscriptum-amalfi/"
+      ],
+      "metrics": [
         "10",
         "10"
+      ]
+    },
+    {
+      "dimensions": [
+        "/contacts"
+      ],
+      "metrics": [
+        "9",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/tours-gastronomy"
+      ],
+      "metrics": [
+        "9",
+        "6"
       ]
     },
     {
@@ -361,20 +389,29 @@
     },
     {
       "dimensions": [
-        "/tours-gastronomy"
-      ],
-      "metrics": [
-        "8",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/page/2/"
       ],
       "metrics": [
         "7",
         "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photos"
+      ],
+      "metrics": [
+        "7",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog"
+      ],
+      "metrics": [
+        "6",
+        "6"
       ]
     },
     {
@@ -388,29 +425,11 @@
     },
     {
       "dimensions": [
-        "/blog/page/8/"
+        "/tours-boat"
       ],
       "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/contacts"
-      ],
-      "metrics": [
-        "4",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/experience/"
-      ],
-      "metrics": [
-        "4",
-        "4"
+        "6",
+        "5"
       ]
     },
     {
@@ -418,26 +437,17 @@
         "/transport"
       ],
       "metrics": [
-        "4",
-        "3"
+        "6",
+        "5"
       ]
     },
     {
       "dimensions": [
-        "/2019/02/roads-of-amalf-coast-atrani"
+        "/privacy-policy"
       ],
       "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2019/02/roads-of-amalf-coast-atrani/"
-      ],
-      "metrics": [
-        "3",
-        "3"
+        "5",
+        "5"
       ]
     }
   ],
@@ -447,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "155",
-        "155"
+        "163",
+        "163"
       ]
     },
     {
@@ -456,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "28",
-        "23"
+        "25",
+        "21"
       ]
     },
     {
@@ -465,8 +475,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "23",
-        "22"
+        "21",
+        "20"
       ]
     },
     {
@@ -474,8 +484,8 @@
         "(not set)"
       ],
       "metrics": [
-        "3",
-        "3"
+        "4",
+        "4"
       ]
     },
     {
@@ -489,10 +499,19 @@
     },
     {
       "dimensions": [
-        "yandex"
+        "chatgpt.com"
       ],
       "metrics": [
-        "2",
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "facebook.com"
+      ],
+      "metrics": [
+        "1",
         "1"
       ]
     },
@@ -507,7 +526,7 @@
     },
     {
       "dimensions": [
-        "m.facebook.com"
+        "yandex"
       ],
       "metrics": [
         "1",
@@ -530,8 +549,8 @@
         "Russia"
       ],
       "metrics": [
-        "91",
-        "91"
+        "93",
+        "93"
       ]
     },
     {
@@ -539,8 +558,8 @@
         "Italy"
       ],
       "metrics": [
-        "22",
-        "16"
+        "17",
+        "14"
       ]
     },
     {
@@ -548,17 +567,8 @@
         "Vietnam"
       ],
       "metrics": [
-        "18",
-        "18"
-      ]
-    },
-    {
-      "dimensions": [
-        "Brazil"
-      ],
-      "metrics": [
-        "8",
-        "8"
+        "17",
+        "17"
       ]
     },
     {
@@ -572,11 +582,20 @@
     },
     {
       "dimensions": [
+        "Brazil"
+      ],
+      "metrics": [
+        "7",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
         "(not set)"
       ],
       "metrics": [
-        "5",
-        "5"
+        "6",
+        "6"
       ]
     },
     {
@@ -584,8 +603,8 @@
         "Argentina"
       ],
       "metrics": [
-        "5",
-        "5"
+        "6",
+        "6"
       ]
     },
     {
@@ -593,8 +612,8 @@
         "China"
       ],
       "metrics": [
-        "4",
-        "4"
+        "5",
+        "5"
       ]
     },
     {
@@ -602,32 +621,32 @@
         "Germany"
       ],
       "metrics": [
-        "4",
-        "4"
+        "5",
+        "5"
       ]
     },
     {
       "dimensions": [
-        "Bangladesh"
+        "Armenia"
       ],
       "metrics": [
-        "3",
-        "3"
+        "4",
+        "4"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 215,
-    "users": 208,
-    "pageViews": 256,
-    "avgSessionDuration": 70,
+    "sessions": 218,
+    "users": 214,
+    "pageViews": 303,
+    "avgSessionDuration": 56,
     "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 1034,
-    "users": 996,
-    "pageViews": 1119,
-    "avgSessionDuration": 35,
+    "sessions": 1039,
+    "users": 1002,
+    "pageViews": 1171,
+    "avgSessionDuration": 36,
     "bounceRate": 0.8
   }
 }

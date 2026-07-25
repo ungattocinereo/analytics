@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-07-24T07:35:32.580Z",
+  "updatedAt": "2026-07-25T07:21:35.724Z",
   "trend": [
     {
       "dimensions": [
@@ -155,16 +155,6 @@
     },
     {
       "dimensions": [
-        "20260624"
-      ],
-      "metrics": [
-        "5",
-        "2",
-        "26"
-      ]
-    },
-    {
-      "dimensions": [
         "20260714"
       ],
       "metrics": [
@@ -272,6 +262,16 @@
         "1",
         "4"
       ]
+    },
+    {
+      "dimensions": [
+        "20260724"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "6"
+      ]
     }
   ],
   "topPages": [
@@ -280,7 +280,7 @@
         "/de"
       ],
       "metrics": [
-        "33",
+        "25",
         "5"
       ]
     },
@@ -289,8 +289,8 @@
         "/"
       ],
       "metrics": [
-        "21",
-        "9"
+        "19",
+        "8"
       ]
     },
     {
@@ -331,25 +331,7 @@
     },
     {
       "dimensions": [
-        "/es/place/ravello-infinity-terrace-villa-cimbrone"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/de/place/church-of-saint-mary-magdalene"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/de/place/la-tramontina-amalfi"
+        "/de/place/le-palme-atrani"
       ],
       "metrics": [
         "2",
@@ -358,11 +340,11 @@
     },
     {
       "dimensions": [
-        "/de/place/secret-waterfall-valle-dei-mulini"
+        "/es/place/ravello-infinity-terrace-villa-cimbrone"
       ],
       "metrics": [
         "2",
-        "1"
+        "2"
       ]
     },
     {
@@ -385,7 +367,7 @@
     },
     {
       "dimensions": [
-        "/de/place/belvedere-of-san-lorenzo"
+        "/de/place/castiglione-beach-lido-di-ravello"
       ],
       "metrics": [
         "1",
@@ -394,7 +376,7 @@
     },
     {
       "dimensions": [
-        "/de/place/church-santa-maria-del-bando"
+        "/de/place/la-grande-mela-supermarket-deco-amalfi"
       ],
       "metrics": [
         "1",
@@ -403,7 +385,25 @@
     },
     {
       "dimensions": [
-        "/de/place/duomo-di-santandrea-amalfi-cathedral"
+        "/de/place/la-tramontina-amalfi"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/de/place/lido-degli-artisti-amalfi"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/church-of-saint-mary-magdalene"
       ],
       "metrics": [
         "1",
@@ -417,13 +417,13 @@
         "(direct)"
       ],
       "metrics": [
-        "18",
-        "11"
+        "16",
+        "10"
       ]
     },
     {
       "dimensions": [
-        "bing"
+        "(not set)"
       ],
       "metrics": [
         "1",
@@ -455,8 +455,8 @@
         "Italy"
       ],
       "metrics": [
-        "15",
-        "10"
+        "13",
+        "9"
       ]
     },
     {
@@ -465,15 +465,6 @@
       ],
       "metrics": [
         "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Greece"
-      ],
-      "metrics": [
-        "1",
         "1"
       ]
     },
@@ -503,29 +494,20 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 21,
-    "users": 14,
-    "pageViews": 107,
-    "avgSessionDuration": 165,
-    "bounceRate": 0.3
+    "sessions": 18,
+    "users": 12,
+    "pageViews": 82,
+    "avgSessionDuration": 156,
+    "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 207,
+    "sessions": 203,
     "users": 56,
-    "pageViews": 962,
-    "avgSessionDuration": 261,
+    "pageViews": 942,
+    "avgSessionDuration": 263,
     "bounceRate": 0.3
   }
 }
