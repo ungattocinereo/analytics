@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-07-25T07:21:34.987Z",
+  "updatedAt": "2026-07-26T07:38:18.037Z",
   "trend": [
     {
       "dimensions": [
@@ -51,16 +51,6 @@
         "23",
         "17",
         "30"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260625"
-      ],
-      "metrics": [
-        "22",
-        "16",
-        "41"
       ]
     },
     {
@@ -225,6 +215,16 @@
     },
     {
       "dimensions": [
+        "20260725"
+      ],
+      "metrics": [
+        "15",
+        "13",
+        "16"
+      ]
+    },
+    {
+      "dimensions": [
         "20260707"
       ],
       "metrics": [
@@ -305,11 +305,11 @@
     },
     {
       "dimensions": [
-        "20260725"
+        "20260726"
       ],
       "metrics": [
         "2",
-        "2",
+        "1",
         "2"
       ]
     }
@@ -320,8 +320,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "34",
-        "32"
+        "35",
+        "33"
       ]
     },
     {
@@ -329,8 +329,8 @@
         "/parking/"
       ],
       "metrics": [
-        "30",
-        "30"
+        "33",
+        "31"
       ]
     },
     {
@@ -338,8 +338,8 @@
         "/"
       ],
       "metrics": [
-        "25",
-        "19"
+        "26",
+        "20"
       ]
     },
     {
@@ -347,8 +347,8 @@
         "/directions/"
       ],
       "metrics": [
-        "11",
-        "8"
+        "12",
+        "9"
       ]
     },
     {
@@ -356,8 +356,8 @@
         "/how-to-get/"
       ],
       "metrics": [
-        "11",
-        "9"
+        "10",
+        "8"
       ]
     },
     {
@@ -365,8 +365,8 @@
         "/ferry-timetables"
       ],
       "metrics": [
-        "9",
-        "9"
+        "8",
+        "7"
       ]
     },
     {
@@ -389,24 +389,6 @@
     },
     {
       "dimensions": [
-        "/blog/metro-del-mare-is-back-amalfi-coast-to-cilento-by-sea/"
-      ],
-      "metrics": [
-        "5",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/license-plate-restrictions-return-to-the-amalfi-coast-april-25-may-2-2/"
-      ],
-      "metrics": [
-        "4",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/why-silver-moon-and-mar-di-cobalto-are-closed-in-amalfi"
       ],
       "metrics": [
@@ -425,16 +407,16 @@
     },
     {
       "dimensions": [
-        "/apartments"
+        "/blog/license-plate-restrictions-return-to-the-amalfi-coast-april-25-may-2-2/"
       ],
       "metrics": [
         "3",
-        "1"
+        "2"
       ]
     },
     {
       "dimensions": [
-        "/photolocations/"
+        "/blog/metro-del-mare-is-back-amalfi-coast-to-cilento-by-sea/"
       ],
       "metrics": [
         "3",
@@ -449,6 +431,24 @@
         "3",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "/blog/amalfis-scala-santa-caterina-reopens-above-the-port/"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/coppa-della-primavera-returns-april-18-19-slalom-racing-on-the-amalfi-coast/"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
     }
   ],
   "sources": [
@@ -458,7 +458,7 @@
       ],
       "metrics": [
         "60",
-        "40"
+        "42"
       ]
     },
     {
@@ -466,7 +466,7 @@
         "(direct)"
       ],
       "metrics": [
-        "29",
+        "26",
         "18"
       ]
     },
@@ -475,8 +475,8 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "22",
-        "19"
+        "23",
+        "20"
       ]
     },
     {
@@ -535,7 +535,7 @@
     },
     {
       "dimensions": [
-        "gemini.google.com"
+        "l.instagram.com"
       ],
       "metrics": [
         "1",
@@ -549,8 +549,17 @@
         "Italy"
       ],
       "metrics": [
-        "42",
+        "40",
         "34"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "15",
+        "9"
       ]
     },
     {
@@ -567,17 +576,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "12",
-        "10"
-      ]
-    },
-    {
-      "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "12",
-        "6"
+        "10",
+        "8"
       ]
     },
     {
@@ -591,29 +591,20 @@
     },
     {
       "dimensions": [
+        "Romania"
+      ],
+      "metrics": [
+        "7",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
         "France"
       ],
       "metrics": [
         "5",
         "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "Netherlands"
-      ],
-      "metrics": [
-        "5",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "Romania"
-      ],
-      "metrics": [
-        "5",
-        "4"
       ]
     },
     {
@@ -627,25 +618,34 @@
     },
     {
       "dimensions": [
-        "Finland"
+        "Argentina"
       ],
       "metrics": [
-        "3",
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Bulgaria"
+      ],
+      "metrics": [
+        "2",
         "2"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 129,
-    "users": 89,
-    "pageViews": 178,
-    "avgSessionDuration": 201,
+    "sessions": 127,
+    "users": 91,
+    "pageViews": 172,
+    "avgSessionDuration": 221,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 546,
-    "users": 347,
-    "pageViews": 822,
+    "sessions": 539,
+    "users": 342,
+    "pageViews": 797,
     "avgSessionDuration": 318,
     "bounceRate": 0.5
   }

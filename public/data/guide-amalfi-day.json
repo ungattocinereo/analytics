@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-07-25T07:21:35.724Z",
+  "updatedAt": "2026-07-26T07:38:18.590Z",
   "trend": [
     {
       "dimensions": [
@@ -111,16 +111,6 @@
         "9",
         "2",
         "26"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260625"
-      ],
-      "metrics": [
-        "8",
-        "6",
-        "40"
       ]
     },
     {
@@ -270,7 +260,17 @@
       "metrics": [
         "1",
         "1",
-        "6"
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260725"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "1"
       ]
     }
   ],
@@ -280,7 +280,7 @@
         "/de"
       ],
       "metrics": [
-        "25",
+        "26",
         "5"
       ]
     },
@@ -289,8 +289,8 @@
         "/"
       ],
       "metrics": [
-        "19",
-        "8"
+        "11",
+        "5"
       ]
     },
     {
@@ -298,34 +298,7 @@
         "/es"
       ],
       "metrics": [
-        "11",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/es/place/la-grande-mela-supermarket-deco-amalfi"
-      ],
-      "metrics": [
-        "4",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/es/place/dogi-market-amalfi"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/es/place/mimi-coco-di-tutto-un-po-atrani"
-      ],
-      "metrics": [
-        "3",
+        "7",
         "2"
       ]
     },
@@ -340,7 +313,7 @@
     },
     {
       "dimensions": [
-        "/es/place/ravello-infinity-terrace-villa-cimbrone"
+        "/es/place/dogi-market-amalfi"
       ],
       "metrics": [
         "2",
@@ -349,11 +322,20 @@
     },
     {
       "dimensions": [
-        "/place/valle-delle-ferriere"
+        "/es/place/la-grande-mela-supermarket-deco-amalfi"
       ],
       "metrics": [
         "2",
-        "1"
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/es/place/ravello-infinity-terrace-villa-cimbrone"
+      ],
+      "metrics": [
+        "2",
+        "2"
       ]
     },
     {
@@ -376,7 +358,7 @@
     },
     {
       "dimensions": [
-        "/de/place/la-grande-mela-supermarket-deco-amalfi"
+        "/de/place/church-of-saint-mary-magdalene"
       ],
       "metrics": [
         "1",
@@ -385,7 +367,7 @@
     },
     {
       "dimensions": [
-        "/de/place/la-tramontina-amalfi"
+        "/de/place/la-grande-mela-supermarket-deco-amalfi"
       ],
       "metrics": [
         "1",
@@ -403,7 +385,25 @@
     },
     {
       "dimensions": [
+        "/es/place/mimi-coco-di-tutto-un-po-atrani"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "/place/church-of-saint-mary-magdalene"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/waterfall-of-atrani"
       ],
       "metrics": [
         "1",
@@ -417,8 +417,8 @@
         "(direct)"
       ],
       "metrics": [
-        "16",
-        "10"
+        "12",
+        "7"
       ]
     },
     {
@@ -432,7 +432,7 @@
     },
     {
       "dimensions": [
-        "copilot.com"
+        "google"
       ],
       "metrics": [
         "1",
@@ -455,8 +455,8 @@
         "Italy"
       ],
       "metrics": [
-        "13",
-        "9"
+        "10",
+        "6"
       ]
     },
     {
@@ -470,25 +470,16 @@
     },
     {
       "dimensions": [
-        "Norway"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Spain"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "Türkiye"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "United Kingdom"
       ],
       "metrics": [
         "1",
@@ -497,17 +488,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 18,
-    "users": 12,
-    "pageViews": 82,
-    "avgSessionDuration": 156,
+    "sessions": 14,
+    "users": 9,
+    "pageViews": 61,
+    "avgSessionDuration": 168,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 203,
-    "users": 56,
-    "pageViews": 942,
-    "avgSessionDuration": 263,
+    "sessions": 196,
+    "users": 54,
+    "pageViews": 905,
+    "avgSessionDuration": 250,
     "bounceRate": 0.3
   }
 }

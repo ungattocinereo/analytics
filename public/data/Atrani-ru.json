@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-07-25T07:21:33.994Z",
+  "updatedAt": "2026-07-26T07:38:17.138Z",
   "trend": [
     {
       "dimensions": [
@@ -225,12 +225,12 @@
     },
     {
       "dimensions": [
-        "20260625"
+        "20260725"
       ],
       "metrics": [
-        "27",
-        "27",
-        "36"
+        "28",
+        "26",
+        "50"
       ]
     },
     {
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260725"
+        "20260726"
       ],
       "metrics": [
-        "7",
-        "7",
-        "11"
+        "8",
+        "8",
+        "8"
       ]
     }
   ],
@@ -320,8 +320,17 @@
         "/"
       ],
       "metrics": [
-        "78",
-        "74"
+        "72",
+        "68"
+      ]
+    },
+    {
+      "dimensions": [
+        "/experience"
+      ],
+      "metrics": [
+        "17",
+        "13"
       ]
     },
     {
@@ -335,29 +344,11 @@
     },
     {
       "dimensions": [
-        "/experience"
-      ],
-      "metrics": [
-        "15",
-        "11"
-      ]
-    },
-    {
-      "dimensions": [
         "/parking"
       ],
       "metrics": [
-        "12",
-        "11"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2019/03/duet-postscriptum-amalfi/"
-      ],
-      "metrics": [
-        "10",
-        "10"
+        "13",
+        "12"
       ]
     },
     {
@@ -365,8 +356,8 @@
         "/contacts"
       ],
       "metrics": [
-        "9",
-        "5"
+        "12",
+        "8"
       ]
     },
     {
@@ -374,8 +365,17 @@
         "/tours-gastronomy"
       ],
       "metrics": [
+        "11",
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photos"
+      ],
+      "metrics": [
         "9",
-        "6"
+        "9"
       ]
     },
     {
@@ -389,16 +389,25 @@
     },
     {
       "dimensions": [
-        "/blog/page/2/"
+        "/tours-boat"
       ],
       "metrics": [
-        "7",
+        "8",
         "7"
       ]
     },
     {
       "dimensions": [
-        "/photos"
+        "/transport"
+      ],
+      "metrics": [
+        "8",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2019/03/duet-postscriptum-amalfi/"
       ],
       "metrics": [
         "7",
@@ -410,8 +419,8 @@
         "/blog"
       ],
       "metrics": [
-        "6",
-        "6"
+        "7",
+        "7"
       ]
     },
     {
@@ -420,30 +429,21 @@
       ],
       "metrics": [
         "6",
-        "6"
+        "7"
       ]
     },
     {
       "dimensions": [
-        "/tours-boat"
+        "/2019/12/katastrofa"
       ],
       "metrics": [
-        "6",
+        "5",
         "5"
       ]
     },
     {
       "dimensions": [
-        "/transport"
-      ],
-      "metrics": [
-        "6",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/privacy-policy"
+        "/blog/page/2/"
       ],
       "metrics": [
         "5",
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "163",
-        "163"
+        "152",
+        "152"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "25",
-        "21"
+        "28",
+        "23"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "21",
-        "20"
+        "23",
+        "21"
       ]
     },
     {
@@ -484,8 +484,8 @@
         "(not set)"
       ],
       "metrics": [
-        "4",
-        "4"
+        "3",
+        "3"
       ]
     },
     {
@@ -517,24 +517,6 @@
     },
     {
       "dimensions": [
-        "google.com"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "yandex"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "yandex.by"
       ],
       "metrics": [
@@ -549,8 +531,17 @@
         "Russia"
       ],
       "metrics": [
-        "93",
-        "93"
+        "86",
+        "86"
+      ]
+    },
+    {
+      "dimensions": [
+        "Vietnam"
+      ],
+      "metrics": [
+        "21",
+        "21"
       ]
     },
     {
@@ -559,16 +550,7 @@
       ],
       "metrics": [
         "17",
-        "14"
-      ]
-    },
-    {
-      "dimensions": [
-        "Vietnam"
-      ],
-      "metrics": [
-        "17",
-        "17"
+        "13"
       ]
     },
     {
@@ -576,17 +558,8 @@
         "United States"
       ],
       "metrics": [
-        "8",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "Brazil"
-      ],
-      "metrics": [
-        "7",
-        "7"
+        "9",
+        "9"
       ]
     },
     {
@@ -600,7 +573,7 @@
     },
     {
       "dimensions": [
-        "Argentina"
+        "Brazil"
       ],
       "metrics": [
         "6",
@@ -609,11 +582,20 @@
     },
     {
       "dimensions": [
-        "China"
+        "Argentina"
       ],
       "metrics": [
         "5",
         "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "Armenia"
+      ],
+      "metrics": [
+        "5",
+        "4"
       ]
     },
     {
@@ -627,25 +609,25 @@
     },
     {
       "dimensions": [
-        "Armenia"
+        "Iran"
       ],
       "metrics": [
-        "4",
-        "4"
+        "5",
+        "5"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 218,
-    "users": 214,
-    "pageViews": 303,
-    "avgSessionDuration": 56,
+    "sessions": 210,
+    "users": 204,
+    "pageViews": 312,
+    "avgSessionDuration": 59,
     "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 1039,
+    "sessions": 1041,
     "users": 1002,
-    "pageViews": 1171,
+    "pageViews": 1182,
     "avgSessionDuration": 36,
     "bounceRate": 0.8
   }
