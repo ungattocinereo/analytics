@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-07-26T07:38:17.138Z",
+  "updatedAt": "2026-07-27T08:34:56.464Z",
   "trend": [
     {
       "dimensions": [
@@ -35,6 +35,16 @@
     },
     {
       "dimensions": [
+        "20260726"
+      ],
+      "metrics": [
+        "41",
+        "34",
+        "65"
+      ]
+    },
+    {
+      "dimensions": [
         "20260712"
       ],
       "metrics": [
@@ -61,16 +71,6 @@
         "39",
         "38",
         "39"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260626"
-      ],
-      "metrics": [
-        "37",
-        "36",
-        "41"
       ]
     },
     {
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260726"
+        "20260727"
       ],
       "metrics": [
-        "8",
-        "8",
-        "8"
+        "5",
+        "5",
+        "5"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "72",
-        "68"
+        "85",
+        "79"
       ]
     },
     {
@@ -329,8 +329,8 @@
         "/experience"
       ],
       "metrics": [
-        "17",
-        "13"
+        "20",
+        "16"
       ]
     },
     {
@@ -338,8 +338,17 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "16",
-        "16"
+        "15",
+        "15"
+      ]
+    },
+    {
+      "dimensions": [
+        "/contacts"
+      ],
+      "metrics": [
+        "14",
+        "10"
       ]
     },
     {
@@ -353,11 +362,11 @@
     },
     {
       "dimensions": [
-        "/contacts"
+        "/tours-boat"
       ],
       "metrics": [
-        "12",
-        "8"
+        "11",
+        "10"
       ]
     },
     {
@@ -380,7 +389,7 @@
     },
     {
       "dimensions": [
-        "/blog/how-to-get-to-amalfi"
+        "/blog"
       ],
       "metrics": [
         "8",
@@ -389,11 +398,11 @@
     },
     {
       "dimensions": [
-        "/tours-boat"
+        "/blog/how-to-get-to-amalfi"
       ],
       "metrics": [
         "8",
-        "7"
+        "8"
       ]
     },
     {
@@ -407,29 +416,20 @@
     },
     {
       "dimensions": [
-        "/2019/03/duet-postscriptum-amalfi/"
-      ],
-      "metrics": [
-        "7",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog"
-      ],
-      "metrics": [
-        "7",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/netflix-snimaiet-film-positano-s-makkonakhi-i-saldanoi-na-pobieriezhie-amalfi"
       ],
       "metrics": [
-        "6",
-        "7"
+        "7",
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2019/03/duet-postscriptum-amalfi/"
+      ],
+      "metrics": [
+        "5",
+        "5"
       ]
     },
     {
@@ -443,7 +443,7 @@
     },
     {
       "dimensions": [
-        "/blog/page/2/"
+        "/apartments"
       ],
       "metrics": [
         "5",
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "152",
-        "152"
+        "148",
+        "148"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "28",
-        "23"
+        "36",
+        "25"
       ]
     },
     {
@@ -475,22 +475,13 @@
         "yandex.ru"
       ],
       "metrics": [
-        "23",
-        "21"
+        "22",
+        "19"
       ]
     },
     {
       "dimensions": [
         "(not set)"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "ya.ru"
       ],
       "metrics": [
         "2",
@@ -517,6 +508,33 @@
     },
     {
       "dimensions": [
+        "instagram.com"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "m.facebook.com"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "ya.ru"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "yandex.by"
       ],
       "metrics": [
@@ -531,17 +549,8 @@
         "Russia"
       ],
       "metrics": [
-        "86",
-        "86"
-      ]
-    },
-    {
-      "dimensions": [
-        "Vietnam"
-      ],
-      "metrics": [
-        "21",
-        "21"
+        "87",
+        "87"
       ]
     },
     {
@@ -549,17 +558,17 @@
         "Italy"
       ],
       "metrics": [
-        "17",
-        "13"
+        "27",
+        "17"
       ]
     },
     {
       "dimensions": [
-        "United States"
+        "Vietnam"
       ],
       "metrics": [
-        "9",
-        "9"
+        "19",
+        "19"
       ]
     },
     {
@@ -567,26 +576,8 @@
         "(not set)"
       ],
       "metrics": [
-        "6",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "Brazil"
-      ],
-      "metrics": [
-        "6",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "Argentina"
-      ],
-      "metrics": [
-        "5",
-        "5"
+        "7",
+        "7"
       ]
     },
     {
@@ -594,8 +585,17 @@
         "Armenia"
       ],
       "metrics": [
+        "6",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "Brazil"
+      ],
+      "metrics": [
         "5",
-        "4"
+        "5"
       ]
     },
     {
@@ -609,26 +609,44 @@
     },
     {
       "dimensions": [
-        "Iran"
+        "Poland"
       ],
       "metrics": [
         "5",
-        "5"
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "Iran"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "Netherlands"
+      ],
+      "metrics": [
+        "4",
+        "4"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 210,
-    "users": 204,
-    "pageViews": 312,
-    "avgSessionDuration": 59,
+    "sessions": 213,
+    "users": 200,
+    "pageViews": 337,
+    "avgSessionDuration": 82,
     "bounceRate": 0.7
   },
   "summary30d": {
     "sessions": 1041,
-    "users": 1002,
-    "pageViews": 1182,
-    "avgSessionDuration": 36,
+    "users": 995,
+    "pageViews": 1203,
+    "avgSessionDuration": 42,
     "bounceRate": 0.8
   }
 }

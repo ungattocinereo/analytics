@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-07-26T07:38:18.590Z",
+  "updatedAt": "2026-07-27T08:34:58.209Z",
   "trend": [
     {
       "dimensions": [
@@ -51,16 +51,6 @@
         "12",
         "4",
         "54"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260626"
-      ],
-      "metrics": [
-        "11",
-        "5",
-        "20"
       ]
     },
     {
@@ -272,6 +262,16 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "20260726"
+      ],
+      "metrics": [
+        "1",
+        "0",
+        "1"
+      ]
     }
   ],
   "topPages": [
@@ -289,49 +289,13 @@
         "/"
       ],
       "metrics": [
-        "11",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/es"
-      ],
-      "metrics": [
-        "7",
-        "2"
+        "10",
+        "4"
       ]
     },
     {
       "dimensions": [
         "/de/place/le-palme-atrani"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/es/place/dogi-market-amalfi"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/es/place/la-grande-mela-supermarket-deco-amalfi"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/es/place/ravello-infinity-terrace-villa-cimbrone"
       ],
       "metrics": [
         "2",
@@ -385,25 +349,7 @@
     },
     {
       "dimensions": [
-        "/es/place/mimi-coco-di-tutto-un-po-atrani"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/church-of-saint-mary-magdalene"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/waterfall-of-atrani"
+        "/ru/place/the-lemon-path-sentiero-dei-limoni"
       ],
       "metrics": [
         "1",
@@ -417,17 +363,8 @@
         "(direct)"
       ],
       "metrics": [
-        "12",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "(not set)"
-      ],
-      "metrics": [
-        "1",
-        "1"
+        "8",
+        "5"
       ]
     },
     {
@@ -455,8 +392,8 @@
         "Italy"
       ],
       "metrics": [
-        "10",
-        "6"
+        "6",
+        "4"
       ]
     },
     {
@@ -488,17 +425,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 14,
-    "users": 9,
-    "pageViews": 61,
-    "avgSessionDuration": 168,
-    "bounceRate": 0.4
+    "sessions": 10,
+    "users": 7,
+    "pageViews": 44,
+    "avgSessionDuration": 215,
+    "bounceRate": 0.3
   },
   "summary30d": {
-    "sessions": 196,
-    "users": 54,
-    "pageViews": 905,
-    "avgSessionDuration": 250,
+    "sessions": 186,
+    "users": 53,
+    "pageViews": 886,
+    "avgSessionDuration": 258,
     "bounceRate": 0.3
   }
 }
