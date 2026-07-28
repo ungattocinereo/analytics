@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-07-27T08:34:58.209Z",
+  "updatedAt": "2026-07-28T07:41:33.658Z",
   "trend": [
     {
       "dimensions": [
@@ -21,16 +21,6 @@
         "14",
         "4",
         "82"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260627"
-      ],
-      "metrics": [
-        "12",
-        "6",
-        "105"
       ]
     },
     {
@@ -272,6 +262,16 @@
         "0",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "20260727"
+      ],
+      "metrics": [
+        "1",
+        "0",
+        "1"
+      ]
     }
   ],
   "topPages": [
@@ -280,8 +280,8 @@
         "/de"
       ],
       "metrics": [
-        "26",
-        "5"
+        "22",
+        "3"
       ]
     },
     {
@@ -289,26 +289,8 @@
         "/"
       ],
       "metrics": [
-        "10",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/de/place/le-palme-atrani"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/de/place/al-valico-di-chiunzi-tramonti"
-      ],
-      "metrics": [
-        "1",
-        "1"
+        "11",
+        "5"
       ]
     },
     {
@@ -331,16 +313,7 @@
     },
     {
       "dimensions": [
-        "/de/place/la-grande-mela-supermarket-deco-amalfi"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/de/place/lido-degli-artisti-amalfi"
+        "/de/place/le-palme-atrani"
       ],
       "metrics": [
         "1",
@@ -363,8 +336,8 @@
         "(direct)"
       ],
       "metrics": [
-        "8",
-        "5"
+        "7",
+        "4"
       ]
     },
     {
@@ -392,17 +365,8 @@
         "Italy"
       ],
       "metrics": [
-        "6",
+        "7",
         "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "Germany"
-      ],
-      "metrics": [
-        "2",
-        "1"
       ]
     },
     {
@@ -425,17 +389,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 10,
-    "users": 7,
-    "pageViews": 44,
-    "avgSessionDuration": 215,
-    "bounceRate": 0.3
+    "sessions": 9,
+    "users": 6,
+    "pageViews": 37,
+    "avgSessionDuration": 147,
+    "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 186,
-    "users": 53,
-    "pageViews": 886,
-    "avgSessionDuration": 258,
+    "sessions": 175,
+    "users": 52,
+    "pageViews": 782,
+    "avgSessionDuration": 255,
     "bounceRate": 0.3
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-07-27T08:34:57.524Z",
+  "updatedAt": "2026-07-28T07:41:32.721Z",
   "trend": [
     {
       "dimensions": [
@@ -51,6 +51,16 @@
         "25",
         "16",
         "43"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260727"
+      ],
+      "metrics": [
+        "24",
+        "14",
+        "34"
       ]
     },
     {
@@ -255,16 +265,6 @@
     },
     {
       "dimensions": [
-        "20260627"
-      ],
-      "metrics": [
-        "13",
-        "10",
-        "22"
-      ]
-    },
-    {
-      "dimensions": [
         "20260706"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260727"
+        "20260728"
       ],
       "metrics": [
+        "3",
         "2",
-        "0",
-        "2"
+        "5"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/parking/"
       ],
       "metrics": [
-        "40",
-        "37"
+        "47",
+        "42"
       ]
     },
     {
@@ -329,8 +329,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "35",
-        "35"
+        "32",
+        "33"
       ]
     },
     {
@@ -338,7 +338,7 @@
         "/"
       ],
       "metrics": [
-        "27",
+        "28",
         "21"
       ]
     },
@@ -347,8 +347,8 @@
         "/directions/"
       ],
       "metrics": [
-        "15",
-        "12"
+        "14",
+        "11"
       ]
     },
     {
@@ -356,7 +356,7 @@
         "/ferry-timetables"
       ],
       "metrics": [
-        "12",
+        "11",
         "11"
       ]
     },
@@ -380,11 +380,29 @@
     },
     {
       "dimensions": [
+        "/contact"
+      ],
+      "metrics": [
+        "6",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
         "/photoshootings"
       ],
       "metrics": [
         "6",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/apartments/"
+      ],
+      "metrics": [
+        "5",
+        "3"
       ]
     },
     {
@@ -416,37 +434,19 @@
     },
     {
       "dimensions": [
+        "/photolocations/"
+      ],
+      "metrics": [
+        "3",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "/photoshootings/shifa"
       ],
       "metrics": [
         "3",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/amalfis-scala-santa-caterina-reopens-above-the-port/"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/coppa-della-primavera-returns-april-18-19-slalom-racing-on-the-amalfi-coast/"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/contact"
-      ],
-      "metrics": [
-        "2",
         "1"
       ]
     }
@@ -457,8 +457,8 @@
         "google"
       ],
       "metrics": [
-        "70",
-        "50"
+        "79",
+        "55"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "(direct)"
       ],
       "metrics": [
-        "33",
-        "22"
+        "35",
+        "23"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "19",
-        "18"
+        "16",
+        "16"
       ]
     },
     {
@@ -484,8 +484,8 @@
         "bing"
       ],
       "metrics": [
-        "6",
-        "4"
+        "7",
+        "5"
       ]
     },
     {
@@ -517,15 +517,6 @@
     },
     {
       "dimensions": [
-        "de.search.yahoo.com"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "ecosia.org"
       ],
       "metrics": [
@@ -541,6 +532,15 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "l.instagram.com"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "countries": [
@@ -549,8 +549,8 @@
         "Italy"
       ],
       "metrics": [
-        "52",
-        "40"
+        "56",
+        "41"
       ]
     },
     {
@@ -558,17 +558,8 @@
         "United States"
       ],
       "metrics": [
-        "16",
+        "17",
         "11"
-      ]
-    },
-    {
-      "dimensions": [
-        "Australia"
-      ],
-      "metrics": [
-        "13",
-        "2"
       ]
     },
     {
@@ -582,11 +573,11 @@
     },
     {
       "dimensions": [
-        "Romania"
+        "Australia"
       ],
       "metrics": [
-        "8",
-        "5"
+        "11",
+        "3"
       ]
     },
     {
@@ -600,16 +591,25 @@
     },
     {
       "dimensions": [
-        "Finland"
+        "Romania"
       ],
       "metrics": [
-        "4",
+        "7",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "Canada"
+      ],
+      "metrics": [
+        "3",
         "2"
       ]
     },
     {
       "dimensions": [
-        "France"
+        "Poland"
       ],
       "metrics": [
         "3",
@@ -627,25 +627,25 @@
     },
     {
       "dimensions": [
-        "Bulgaria"
+        "Belgium"
       ],
       "metrics": [
         "2",
-        "2"
+        "1"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 141,
-    "users": 101,
-    "pageViews": 187,
-    "avgSessionDuration": 198,
+    "sessions": 150,
+    "users": 106,
+    "pageViews": 204,
+    "avgSessionDuration": 209,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 553,
-    "users": 349,
-    "pageViews": 811,
+    "sessions": 564,
+    "users": 353,
+    "pageViews": 826,
     "avgSessionDuration": 306,
     "bounceRate": 0.5
   }

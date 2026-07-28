@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-07-27T08:34:56.464Z",
+  "updatedAt": "2026-07-28T07:41:31.773Z",
   "trend": [
     {
       "dimensions": [
@@ -165,16 +165,6 @@
     },
     {
       "dimensions": [
-        "20260627"
-      ],
-      "metrics": [
-        "34",
-        "34",
-        "39"
-      ]
-    },
-    {
-      "dimensions": [
         "20260713"
       ],
       "metrics": [
@@ -308,9 +298,19 @@
         "20260727"
       ],
       "metrics": [
-        "5",
-        "5",
-        "5"
+        "14",
+        "13",
+        "27"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260728"
+      ],
+      "metrics": [
+        "6",
+        "6",
+        "9"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "85",
-        "79"
+        "83",
+        "77"
       ]
     },
     {
@@ -329,17 +329,8 @@
         "/experience"
       ],
       "metrics": [
-        "20",
-        "16"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
-      ],
-      "metrics": [
-        "15",
-        "15"
+        "27",
+        "19"
       ]
     },
     {
@@ -347,8 +338,17 @@
         "/contacts"
       ],
       "metrics": [
+        "15",
+        "11"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
+      ],
+      "metrics": [
         "14",
-        "10"
+        "14"
       ]
     },
     {
@@ -356,8 +356,8 @@
         "/parking"
       ],
       "metrics": [
-        "13",
-        "12"
+        "14",
+        "14"
       ]
     },
     {
@@ -365,8 +365,26 @@
         "/tours-boat"
       ],
       "metrics": [
+        "13",
+        "11"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photos"
+      ],
+      "metrics": [
         "11",
-        "10"
+        "11"
+      ]
+    },
+    {
+      "dimensions": [
+        "/tours-car"
+      ],
+      "metrics": [
+        "11",
+        "7"
       ]
     },
     {
@@ -380,25 +398,7 @@
     },
     {
       "dimensions": [
-        "/photos"
-      ],
-      "metrics": [
-        "9",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog"
-      ],
-      "metrics": [
-        "8",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/how-to-get-to-amalfi"
       ],
       "metrics": [
         "8",
@@ -419,17 +419,8 @@
         "/blog/netflix-snimaiet-film-positano-s-makkonakhi-i-saldanoi-na-pobieriezhie-amalfi"
       ],
       "metrics": [
-        "7",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2019/03/duet-postscriptum-amalfi/"
-      ],
-      "metrics": [
-        "5",
-        "5"
+        "6",
+        "7"
       ]
     },
     {
@@ -449,6 +440,15 @@
         "5",
         "5"
       ]
+    },
+    {
+      "dimensions": [
+        "/blog/how-to-get-to-amalfi"
+      ],
+      "metrics": [
+        "5",
+        "5"
+      ]
     }
   ],
   "sources": [
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "148",
-        "148"
+        "137",
+        "137"
       ]
     },
     {
@@ -466,7 +466,7 @@
         "google"
       ],
       "metrics": [
-        "36",
+        "35",
         "25"
       ]
     },
@@ -475,8 +475,17 @@
         "yandex.ru"
       ],
       "metrics": [
-        "22",
+        "23",
         "19"
+      ]
+    },
+    {
+      "dimensions": [
+        "instagram.com"
+      ],
+      "metrics": [
+        "2",
+        "2"
       ]
     },
     {
@@ -484,8 +493,8 @@
         "(not set)"
       ],
       "metrics": [
-        "2",
-        "2"
+        "1",
+        "1"
       ]
     },
     {
@@ -500,15 +509,6 @@
     {
       "dimensions": [
         "facebook.com"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "instagram.com"
       ],
       "metrics": [
         "1",
@@ -532,15 +532,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "yandex.by"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "countries": [
@@ -549,8 +540,8 @@
         "Russia"
       ],
       "metrics": [
-        "87",
-        "87"
+        "82",
+        "81"
       ]
     },
     {
@@ -558,8 +549,8 @@
         "Italy"
       ],
       "metrics": [
-        "27",
-        "17"
+        "25",
+        "15"
       ]
     },
     {
@@ -567,8 +558,8 @@
         "Vietnam"
       ],
       "metrics": [
-        "19",
-        "19"
+        "17",
+        "17"
       ]
     },
     {
@@ -576,8 +567,8 @@
         "(not set)"
       ],
       "metrics": [
-        "7",
-        "7"
+        "6",
+        "6"
       ]
     },
     {
@@ -587,6 +578,15 @@
       "metrics": [
         "6",
         "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "Iran"
+      ],
+      "metrics": [
+        "6",
+        "6"
       ]
     },
     {
@@ -603,22 +603,13 @@
         "Germany"
       ],
       "metrics": [
-        "5",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "Poland"
-      ],
-      "metrics": [
-        "5",
+        "4",
         "4"
       ]
     },
     {
       "dimensions": [
-        "Iran"
+        "Poland"
       ],
       "metrics": [
         "4",
@@ -627,7 +618,7 @@
     },
     {
       "dimensions": [
-        "Netherlands"
+        "United States"
       ],
       "metrics": [
         "4",
@@ -636,17 +627,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 213,
-    "users": 200,
-    "pageViews": 337,
-    "avgSessionDuration": 82,
-    "bounceRate": 0.7
+    "sessions": 201,
+    "users": 188,
+    "pageViews": 342,
+    "avgSessionDuration": 93,
+    "bounceRate": 0.6
   },
   "summary30d": {
-    "sessions": 1041,
-    "users": 995,
-    "pageViews": 1203,
-    "avgSessionDuration": 42,
+    "sessions": 1022,
+    "users": 975,
+    "pageViews": 1195,
+    "avgSessionDuration": 44,
     "bounceRate": 0.8
   }
 }
