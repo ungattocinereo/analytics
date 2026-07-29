@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-07-28T07:41:32.721Z",
+  "updatedAt": "2026-07-29T07:46:26.759Z",
   "trend": [
     {
       "dimensions": [
@@ -185,6 +185,16 @@
     },
     {
       "dimensions": [
+        "20260728"
+      ],
+      "metrics": [
+        "18",
+        "14",
+        "26"
+      ]
+    },
+    {
+      "dimensions": [
         "20260718"
       ],
       "metrics": [
@@ -275,16 +285,6 @@
     },
     {
       "dimensions": [
-        "20260628"
-      ],
-      "metrics": [
-        "10",
-        "5",
-        "13"
-      ]
-    },
-    {
-      "dimensions": [
         "20260704"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260728"
+        "20260729"
       ],
       "metrics": [
-        "3",
-        "2",
-        "5"
+        "1",
+        "1",
+        "1"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/parking/"
       ],
       "metrics": [
-        "47",
-        "42"
+        "44",
+        "39"
       ]
     },
     {
@@ -329,7 +329,7 @@
         "/timetables/"
       ],
       "metrics": [
-        "32",
+        "33",
         "33"
       ]
     },
@@ -338,8 +338,8 @@
         "/"
       ],
       "metrics": [
-        "28",
-        "21"
+        "31",
+        "22"
       ]
     },
     {
@@ -347,8 +347,8 @@
         "/directions/"
       ],
       "metrics": [
-        "14",
-        "11"
+        "11",
+        "9"
       ]
     },
     {
@@ -362,11 +362,11 @@
     },
     {
       "dimensions": [
-        "/ferry-timetables/"
+        "/contact"
       ],
       "metrics": [
-        "9",
-        "7"
+        "7",
+        "5"
       ]
     },
     {
@@ -374,17 +374,8 @@
         "/how-to-get/"
       ],
       "metrics": [
-        "8",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "/contact"
-      ],
-      "metrics": [
-        "6",
-        "4"
+        "7",
+        "5"
       ]
     },
     {
@@ -407,7 +398,7 @@
     },
     {
       "dimensions": [
-        "/blog/why-silver-moon-and-mar-di-cobalto-are-closed-in-amalfi/"
+        "/ferry-timetables/"
       ],
       "metrics": [
         "5",
@@ -416,25 +407,16 @@
     },
     {
       "dimensions": [
-        "/blog/why-silver-moon-and-mar-di-cobalto-are-closed-in-amalfi"
+        "/blog/why-silver-moon-and-mar-di-cobalto-are-closed-in-amalfi/"
       ],
       "metrics": [
         "4",
-        "3"
+        "4"
       ]
     },
     {
       "dimensions": [
-        "/blog/metro-del-mare-is-back-amalfi-coast-to-cilento-by-sea/"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photolocations/"
+        "/blog/why-silver-moon-and-mar-di-cobalto-are-closed-in-amalfi"
       ],
       "metrics": [
         "3",
@@ -449,6 +431,24 @@
         "3",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "/timetables"
+      ],
+      "metrics": [
+        "3",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/apartments"
+      ],
+      "metrics": [
+        "2",
+        "3"
+      ]
     }
   ],
   "sources": [
@@ -457,8 +457,8 @@
         "google"
       ],
       "metrics": [
-        "79",
-        "55"
+        "76",
+        "51"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "(direct)"
       ],
       "metrics": [
-        "35",
-        "23"
+        "37",
+        "24"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "16",
-        "16"
+        "14",
+        "14"
       ]
     },
     {
@@ -484,17 +484,8 @@
         "bing"
       ],
       "metrics": [
-        "7",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "amalfi-guide-ungattocinereo-cinereos-projects.vercel.app"
-      ],
-      "metrics": [
-        "4",
-        "1"
+        "8",
+        "7"
       ]
     },
     {
@@ -508,7 +499,7 @@
     },
     {
       "dimensions": [
-        "(not set)"
+        "amalfi-guide-ungattocinereo-cinereos-projects.vercel.app"
       ],
       "metrics": [
         "1",
@@ -541,6 +532,15 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "m.facebook.com"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "countries": [
@@ -549,8 +549,8 @@
         "Italy"
       ],
       "metrics": [
-        "56",
-        "41"
+        "51",
+        "39"
       ]
     },
     {
@@ -558,7 +558,7 @@
         "United States"
       ],
       "metrics": [
-        "17",
+        "16",
         "11"
       ]
     },
@@ -567,8 +567,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "13",
-        "11"
+        "14",
+        "10"
       ]
     },
     {
@@ -576,8 +576,8 @@
         "Australia"
       ],
       "metrics": [
-        "11",
-        "3"
+        "9",
+        "2"
       ]
     },
     {
@@ -595,7 +595,7 @@
       ],
       "metrics": [
         "7",
-        "4"
+        "5"
       ]
     },
     {
@@ -627,7 +627,7 @@
     },
     {
       "dimensions": [
-        "Belgium"
+        "Belarus"
       ],
       "metrics": [
         "2",
@@ -636,17 +636,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 150,
-    "users": 106,
-    "pageViews": 204,
-    "avgSessionDuration": 209,
+    "sessions": 143,
+    "users": 102,
+    "pageViews": 196,
+    "avgSessionDuration": 170,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 564,
-    "users": 353,
-    "pageViews": 826,
-    "avgSessionDuration": 306,
+    "sessions": 571,
+    "users": 361,
+    "pageViews": 835,
+    "avgSessionDuration": 304,
     "bounceRate": 0.5
   }
 }

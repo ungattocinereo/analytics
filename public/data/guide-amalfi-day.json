@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-07-28T07:41:33.658Z",
+  "updatedAt": "2026-07-29T07:46:27.466Z",
   "trend": [
     {
       "dimensions": [
@@ -21,16 +21,6 @@
         "14",
         "4",
         "82"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260628"
-      ],
-      "metrics": [
-        "12",
-        "4",
-        "39"
       ]
     },
     {
@@ -272,25 +262,35 @@
         "0",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "20260728"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "4"
+      ]
     }
   ],
   "topPages": [
     {
       "dimensions": [
-        "/de"
+        "/"
       ],
       "metrics": [
-        "22",
+        "5",
         "3"
       ]
     },
     {
       "dimensions": [
-        "/"
+        "/de"
       ],
       "metrics": [
-        "11",
-        "5"
+        "5",
+        "1"
       ]
     },
     {
@@ -322,6 +322,15 @@
     },
     {
       "dimensions": [
+        "/place/la-tramontina-amalfi"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "/ru/place/the-lemon-path-sentiero-dei-limoni"
       ],
       "metrics": [
@@ -336,22 +345,13 @@
         "(direct)"
       ],
       "metrics": [
-        "7",
-        "4"
+        "4",
+        "2"
       ]
     },
     {
       "dimensions": [
         "google"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "vercel.com"
       ],
       "metrics": [
         "1",
@@ -365,17 +365,8 @@
         "Italy"
       ],
       "metrics": [
-        "7",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "Türkiye"
-      ],
-      "metrics": [
-        "1",
-        "1"
+        "4",
+        "2"
       ]
     },
     {
@@ -389,17 +380,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 9,
-    "users": 6,
-    "pageViews": 37,
-    "avgSessionDuration": 147,
+    "sessions": 5,
+    "users": 3,
+    "pageViews": 15,
+    "avgSessionDuration": 163,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 175,
-    "users": 52,
-    "pageViews": 782,
-    "avgSessionDuration": 255,
+    "sessions": 164,
+    "users": 48,
+    "pageViews": 747,
+    "avgSessionDuration": 260,
     "bounceRate": 0.3
   }
 }
