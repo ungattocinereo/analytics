@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-07-30T07:36:48.120Z",
+  "updatedAt": "2026-07-31T07:52:57.778Z",
   "trend": [
     {
       "dimensions": [
@@ -71,16 +71,6 @@
         "23",
         "17",
         "30"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260630"
-      ],
-      "metrics": [
-        "22",
-        "13",
-        "41"
       ]
     },
     {
@@ -190,6 +180,16 @@
       "metrics": [
         "18",
         "14",
+        "26"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260730"
+      ],
+      "metrics": [
+        "18",
+        "10",
         "26"
       ]
     },
@@ -307,20 +307,20 @@
   "topPages": [
     {
       "dimensions": [
-        "/parking/"
+        "/timetables/"
       ],
       "metrics": [
-        "42",
-        "38"
+        "45",
+        "40"
       ]
     },
     {
       "dimensions": [
-        "/timetables/"
+        "/parking/"
       ],
       "metrics": [
-        "40",
-        "39"
+        "44",
+        "42"
       ]
     },
     {
@@ -328,7 +328,7 @@
         "/"
       ],
       "metrics": [
-        "30",
+        "29",
         "23"
       ]
     },
@@ -337,8 +337,8 @@
         "/directions/"
       ],
       "metrics": [
-        "12",
-        "10"
+        "14",
+        "12"
       ]
     },
     {
@@ -346,8 +346,8 @@
         "/ferry-timetables"
       ],
       "metrics": [
-        "11",
-        "11"
+        "9",
+        "9"
       ]
     },
     {
@@ -355,26 +355,8 @@
         "/contact"
       ],
       "metrics": [
-        "7",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/ferry-timetables/"
-      ],
-      "metrics": [
-        "7",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photoshootings"
-      ],
-      "metrics": [
         "6",
-        "2"
+        "5"
       ]
     },
     {
@@ -388,10 +370,10 @@
     },
     {
       "dimensions": [
-        "/blog/why-silver-moon-and-mar-di-cobalto-are-closed-in-amalfi/"
+        "/ferry-timetables/"
       ],
       "metrics": [
-        "4",
+        "5",
         "4"
       ]
     },
@@ -400,35 +382,8 @@
         "/apartments"
       ],
       "metrics": [
-        "3",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/metro-del-mare-is-back-amalfi-coast-to-cilento-by-sea/"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/parking"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photoshootings/shifa"
-      ],
-      "metrics": [
-        "3",
-        "1"
+        "4",
+        "5"
       ]
     },
     {
@@ -436,8 +391,53 @@
         "/timetables"
       ],
       "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/why-silver-moon-and-mar-di-cobalto-are-closed-in-amalfi/"
+      ],
+      "metrics": [
         "3",
         "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/metro-del-mare-is-back-amalfi-coast-to-cilento-by-sea/"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/moto"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/parking"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photolocations/"
+      ],
+      "metrics": [
+        "2",
+        "1"
       ]
     }
   ],
@@ -447,8 +447,8 @@
         "google"
       ],
       "metrics": [
-        "76",
-        "49"
+        "73",
+        "44"
       ]
     },
     {
@@ -457,7 +457,7 @@
       ],
       "metrics": [
         "37",
-        "24"
+        "23"
       ]
     },
     {
@@ -474,8 +474,8 @@
         "bing"
       ],
       "metrics": [
-        "10",
-        "9"
+        "8",
+        "8"
       ]
     },
     {
@@ -483,7 +483,7 @@
         "amalfi-guide-ungattocinereo-cinereos-projects.vercel.app"
       ],
       "metrics": [
-        "2",
+        "3",
         "1"
       ]
     },
@@ -492,7 +492,16 @@
         "duckduckgo"
       ],
       "metrics": [
-        "2",
+        "3",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "yahoo"
+      ],
+      "metrics": [
+        "3",
         "1"
       ]
     },
@@ -503,15 +512,6 @@
       "metrics": [
         "2",
         "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "yahoo"
-      ],
-      "metrics": [
-        "2",
-        "0"
       ]
     },
     {
@@ -539,8 +539,8 @@
         "Italy"
       ],
       "metrics": [
-        "50",
-        "34"
+        "51",
+        "29"
       ]
     },
     {
@@ -548,8 +548,8 @@
         "United States"
       ],
       "metrics": [
-        "20",
-        "14"
+        "18",
+        "13"
       ]
     },
     {
@@ -557,8 +557,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "16",
-        "11"
+        "17",
+        "13"
       ]
     },
     {
@@ -566,17 +566,8 @@
         "Australia"
       ],
       "metrics": [
-        "8",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "Germany"
-      ],
-      "metrics": [
         "7",
-        "6"
+        "2"
       ]
     },
     {
@@ -585,6 +576,15 @@
       ],
       "metrics": [
         "7",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "Germany"
+      ],
+      "metrics": [
+        "6",
         "5"
       ]
     },
@@ -626,17 +626,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 150,
-    "users": 104,
-    "pageViews": 200,
-    "avgSessionDuration": 137,
-    "bounceRate": 0.5
+    "sessions": 148,
+    "users": 99,
+    "pageViews": 191,
+    "avgSessionDuration": 138,
+    "bounceRate": 0.6
   },
   "summary30d": {
-    "sessions": 569,
-    "users": 360,
-    "pageViews": 816,
-    "avgSessionDuration": 233,
+    "sessions": 564,
+    "users": 357,
+    "pageViews": 801,
+    "avgSessionDuration": 232,
     "bounceRate": 0.5
   }
 }
