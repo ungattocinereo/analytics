@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-07-31T07:52:56.947Z",
+  "updatedAt": "2026-08-01T07:30:01.135Z",
   "trend": [
     {
       "dimensions": [
@@ -165,16 +165,6 @@
     },
     {
       "dimensions": [
-        "20260701"
-      ],
-      "metrics": [
-        "31",
-        "29",
-        "35"
-      ]
-    },
-    {
-      "dimensions": [
         "20260721"
       ],
       "metrics": [
@@ -285,6 +275,16 @@
     },
     {
       "dimensions": [
+        "20260731"
+      ],
+      "metrics": [
+        "15",
+        "13",
+        "18"
+      ]
+    },
+    {
+      "dimensions": [
         "20260727"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260731"
+        "20260801"
       ],
       "metrics": [
-        "5",
-        "5",
-        "8"
+        "4",
+        "4",
+        "4"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "80",
-        "76"
+        "72",
+        "69"
       ]
     },
     {
@@ -329,8 +329,8 @@
         "/experience"
       ],
       "metrics": [
-        "24",
-        "20"
+        "22",
+        "18"
       ]
     },
     {
@@ -338,8 +338,8 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "21",
-        "23"
+        "18",
+        "20"
       ]
     },
     {
@@ -347,26 +347,8 @@
         "/contacts"
       ],
       "metrics": [
-        "19",
-        "13"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photos"
-      ],
-      "metrics": [
-        "13",
-        "13"
-      ]
-    },
-    {
-      "dimensions": [
-        "/tours-boat"
-      ],
-      "metrics": [
         "12",
-        "11"
+        "10"
       ]
     },
     {
@@ -374,8 +356,26 @@
         "/tours-car"
       ],
       "metrics": [
-        "12",
-        "8"
+        "11",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "/tours-boat"
+      ],
+      "metrics": [
+        "10",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photos"
+      ],
+      "metrics": [
+        "9",
+        "9"
       ]
     },
     {
@@ -383,40 +383,13 @@
         "/parking"
       ],
       "metrics": [
-        "10",
-        "10"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog"
-      ],
-      "metrics": [
         "7",
-        "7"
+        "8"
       ]
     },
     {
       "dimensions": [
         "/apartments"
-      ],
-      "metrics": [
-        "6",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "/orel-i-reshka-amalfi"
-      ],
-      "metrics": [
-        "5",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "/tours-vespa"
       ],
       "metrics": [
         "5",
@@ -425,7 +398,7 @@
     },
     {
       "dimensions": [
-        "/transport"
+        "/blog"
       ],
       "metrics": [
         "5",
@@ -443,11 +416,38 @@
     },
     {
       "dimensions": [
-        "/blog/netflix-snimaiet-film-positano-s-makkonakhi-i-saldanoi-na-pobieriezhie-amalfi"
+        "/orel-i-reshka-amalfi"
       ],
       "metrics": [
         "4",
         "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/tours-vespa"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2019/03/duet-postscriptum-amalfi"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2019/12/katastrofa"
+      ],
+      "metrics": [
+        "3",
+        "3"
       ]
     }
   ],
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "113",
-        "113"
+        "94",
+        "94"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "34",
-        "25"
+        "33",
+        "23"
       ]
     },
     {
@@ -475,7 +475,7 @@
         "yandex.ru"
       ],
       "metrics": [
-        "23",
+        "24",
         "17"
       ]
     },
@@ -484,8 +484,8 @@
         "(not set)"
       ],
       "metrics": [
-        "4",
-        "4"
+        "3",
+        "3"
       ]
     },
     {
@@ -523,6 +523,15 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "velikie-luki.vsezhkh.ru"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "countries": [
@@ -531,8 +540,8 @@
         "Russia"
       ],
       "metrics": [
-        "81",
-        "77"
+        "75",
+        "70"
       ]
     },
     {
@@ -540,8 +549,8 @@
         "Italy"
       ],
       "metrics": [
-        "19",
-        "11"
+        "22",
+        "13"
       ]
     },
     {
@@ -549,17 +558,8 @@
         "United States"
       ],
       "metrics": [
-        "8",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "Vietnam"
-      ],
-      "metrics": [
-        "8",
-        "8"
+        "7",
+        "7"
       ]
     },
     {
@@ -573,11 +573,20 @@
     },
     {
       "dimensions": [
+        "Vietnam"
+      ],
+      "metrics": [
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
         "Iran"
       ],
       "metrics": [
-        "6",
-        "6"
+        "4",
+        "4"
       ]
     },
     {
@@ -585,31 +594,31 @@
         "Armenia"
       ],
       "metrics": [
-        "4",
+        "3",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Latvia"
+      ],
+      "metrics": [
+        "3",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Morocco"
+      ],
+      "metrics": [
+        "3",
         "3"
       ]
     },
     {
       "dimensions": [
-        "China"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "Netherlands"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "Brazil"
+        "Poland"
       ],
       "metrics": [
         "3",
@@ -618,17 +627,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 179,
-    "users": 164,
-    "pageViews": 312,
-    "avgSessionDuration": 75,
+    "sessions": 160,
+    "users": 143,
+    "pageViews": 240,
+    "avgSessionDuration": 70,
     "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 977,
-    "users": 928,
-    "pageViews": 1169,
-    "avgSessionDuration": 47,
+    "sessions": 958,
+    "users": 911,
+    "pageViews": 1148,
+    "avgSessionDuration": 46,
     "bounceRate": 0.8
   }
 }

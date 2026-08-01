@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-07-31T07:52:58.503Z",
+  "updatedAt": "2026-08-01T07:30:02.545Z",
   "trend": [
     {
       "dimensions": [
@@ -145,16 +145,6 @@
     },
     {
       "dimensions": [
-        "20260701"
-      ],
-      "metrics": [
-        "3",
-        "2",
-        "17"
-      ]
-    },
-    {
-      "dimensions": [
         "20260710"
       ],
       "metrics": [
@@ -171,6 +161,16 @@
         "3",
         "1",
         "15"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260731"
+      ],
+      "metrics": [
+        "3",
+        "2",
+        "8"
       ]
     },
     {
@@ -262,16 +262,6 @@
         "0",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "20260731"
-      ],
-      "metrics": [
-        "1",
-        "1",
-        "1"
-      ]
     }
   ],
   "topPages": [
@@ -280,31 +270,22 @@
         "/"
       ],
       "metrics": [
-        "7",
-        "5"
+        "8",
+        "6"
       ]
     },
     {
       "dimensions": [
-        "/de"
+        "/fr"
       ],
       "metrics": [
-        "5",
+        "4",
         "1"
       ]
     },
     {
       "dimensions": [
-        "/de/place/castiglione-beach-lido-di-ravello"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/de/place/church-of-saint-mary-magdalene"
+        "/fr/place/da-ciccio-cielo-mare-terra-vettica-amalfi"
       ],
       "metrics": [
         "1",
@@ -313,7 +294,7 @@
     },
     {
       "dimensions": [
-        "/de/place/le-palme-atrani"
+        "/fr/place/lo-smeraldino-amalfi"
       ],
       "metrics": [
         "1",
@@ -345,7 +326,7 @@
         "(direct)"
       ],
       "metrics": [
-        "6",
+        "7",
         "2"
       ]
     },
@@ -354,7 +335,7 @@
         "(not set)"
       ],
       "metrics": [
-        "1",
+        "2",
         "1"
       ]
     },
@@ -375,7 +356,16 @@
       ],
       "metrics": [
         "6",
-        "2"
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "France"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     },
     {
@@ -389,17 +379,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 7,
+    "sessions": 8,
     "users": 3,
-    "pageViews": 17,
-    "avgSessionDuration": 116,
-    "bounceRate": 0.6
+    "pageViews": 16,
+    "avgSessionDuration": 239,
+    "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 148,
-    "users": 39,
-    "pageViews": 664,
-    "avgSessionDuration": 269,
+    "sessions": 147,
+    "users": 40,
+    "pageViews": 654,
+    "avgSessionDuration": 280,
     "bounceRate": 0.3
   }
 }
