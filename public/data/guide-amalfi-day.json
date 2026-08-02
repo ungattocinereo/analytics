@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-08-01T07:30:02.545Z",
+  "updatedAt": "2026-08-02T07:33:32.032Z",
   "trend": [
     {
       "dimensions": [
@@ -41,16 +41,6 @@
         "11",
         "6",
         "72"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260702"
-      ],
-      "metrics": [
-        "10",
-        "3",
-        "52"
       ]
     },
     {
@@ -262,6 +252,16 @@
         "0",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "20260801"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "2"
+      ]
     }
   ],
   "topPages": [
@@ -279,8 +279,8 @@
         "/fr"
       ],
       "metrics": [
-        "4",
-        "1"
+        "5",
+        "2"
       ]
     },
     {
@@ -303,7 +303,7 @@
     },
     {
       "dimensions": [
-        "/place/la-tramontina-amalfi"
+        "/fr/place/secret-waterfall-valle-dei-mulini"
       ],
       "metrics": [
         "1",
@@ -312,7 +312,7 @@
     },
     {
       "dimensions": [
-        "/ru/place/the-lemon-path-sentiero-dei-limoni"
+        "/place/la-tramontina-amalfi"
       ],
       "metrics": [
         "1",
@@ -326,26 +326,8 @@
         "(direct)"
       ],
       "metrics": [
-        "7",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "(not set)"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "google"
-      ],
-      "metrics": [
-        "1",
-        "1"
+        "8",
+        "3"
       ]
     }
   ],
@@ -355,8 +337,8 @@
         "Italy"
       ],
       "metrics": [
-        "6",
-        "1"
+        "7",
+        "2"
       ]
     },
     {
@@ -367,29 +349,20 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "United Kingdom"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "summary7d": {
     "sessions": 8,
     "users": 3,
-    "pageViews": 16,
-    "avgSessionDuration": 239,
-    "bounceRate": 0.8
+    "pageViews": 17,
+    "avgSessionDuration": 234,
+    "bounceRate": 0.6
   },
   "summary30d": {
-    "sessions": 147,
+    "sessions": 138,
     "users": 40,
-    "pageViews": 654,
-    "avgSessionDuration": 280,
+    "pageViews": 604,
+    "avgSessionDuration": 259,
     "bounceRate": 0.3
   }
 }
