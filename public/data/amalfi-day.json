@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-08-02T07:33:31.415Z",
+  "updatedAt": "2026-08-03T08:33:09.446Z",
   "trend": [
     {
       "dimensions": [
@@ -11,16 +11,6 @@
         "33",
         "22",
         "37"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260703"
-      ],
-      "metrics": [
-        "28",
-        "16",
-        "78"
       ]
     },
     {
@@ -111,6 +101,16 @@
         "20",
         "16",
         "35"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260802"
+      ],
+      "metrics": [
+        "20",
+        "16",
+        "27"
       ]
     },
     {
@@ -302,12 +302,22 @@
         "6",
         "16"
       ]
+    },
+    {
+      "dimensions": [
+        "20260803"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "1"
+      ]
     }
   ],
   "topPages": [
     {
       "dimensions": [
-        "/timetables/"
+        "/parking/"
       ],
       "metrics": [
         "44",
@@ -316,11 +326,11 @@
     },
     {
       "dimensions": [
-        "/parking/"
+        "/timetables/"
       ],
       "metrics": [
-        "43",
-        "40"
+        "41",
+        "37"
       ]
     },
     {
@@ -328,8 +338,8 @@
         "/"
       ],
       "metrics": [
-        "34",
-        "27"
+        "32",
+        "25"
       ]
     },
     {
@@ -337,8 +347,8 @@
         "/directions/"
       ],
       "metrics": [
-        "22",
-        "19"
+        "16",
+        "13"
       ]
     },
     {
@@ -346,17 +356,8 @@
         "/ferry-timetables/"
       ],
       "metrics": [
-        "10",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "/ferry-timetables"
-      ],
-      "metrics": [
-        "9",
-        "8"
+        "12",
+        "10"
       ]
     },
     {
@@ -370,11 +371,38 @@
     },
     {
       "dimensions": [
+        "/timetables"
+      ],
+      "metrics": [
+        "7",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
         "/parking"
+      ],
+      "metrics": [
+        "6",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/experience"
       ],
       "metrics": [
         "5",
         "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/ferry-timetables"
+      ],
+      "metrics": [
+        "5",
+        "4"
       ]
     },
     {
@@ -384,15 +412,6 @@
       "metrics": [
         "5",
         "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/timetables"
-      ],
-      "metrics": [
-        "5",
-        "5"
       ]
     },
     {
@@ -415,11 +434,11 @@
     },
     {
       "dimensions": [
-        "/experience"
+        "/photolocations/"
       ],
       "metrics": [
         "4",
-        "4"
+        "2"
       ]
     },
     {
@@ -430,15 +449,6 @@
         "2",
         "2"
       ]
-    },
-    {
-      "dimensions": [
-        "/photolocations/"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
     }
   ],
   "sources": [
@@ -447,8 +457,8 @@
         "google"
       ],
       "metrics": [
-        "70",
-        "43"
+        "64",
+        "40"
       ]
     },
     {
@@ -456,8 +466,8 @@
         "(direct)"
       ],
       "metrics": [
-        "48",
-        "25"
+        "40",
+        "22"
       ]
     },
     {
@@ -465,17 +475,8 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "12",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
-        "duckduckgo"
-      ],
-      "metrics": [
-        "7",
-        "2"
+        "13",
+        "10"
       ]
     },
     {
@@ -483,8 +484,17 @@
         "bing"
       ],
       "metrics": [
-        "6",
+        "7",
         "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "yahoo"
+      ],
+      "metrics": [
+        "6",
+        "3"
       ]
     },
     {
@@ -498,10 +508,10 @@
     },
     {
       "dimensions": [
-        "yahoo"
+        "duckduckgo"
       ],
       "metrics": [
-        "3",
+        "5",
         "1"
       ]
     },
@@ -510,8 +520,8 @@
         "ecosia.org"
       ],
       "metrics": [
-        "2",
-        "2"
+        "1",
+        "1"
       ]
     },
     {
@@ -539,8 +549,8 @@
         "Italy"
       ],
       "metrics": [
-        "51",
-        "27"
+        "45",
+        "24"
       ]
     },
     {
@@ -548,7 +558,7 @@
         "United States"
       ],
       "metrics": [
-        "21",
+        "20",
         "11"
       ]
     },
@@ -557,8 +567,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "18",
-        "14"
+        "13",
+        "9"
       ]
     },
     {
@@ -566,8 +576,8 @@
         "Romania"
       ],
       "metrics": [
-        "10",
-        "3"
+        "12",
+        "5"
       ]
     },
     {
@@ -586,15 +596,6 @@
       "metrics": [
         "7",
         "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "Australia"
-      ],
-      "metrics": [
-        "4",
-        "2"
       ]
     },
     {
@@ -623,20 +624,29 @@
         "3",
         "2"
       ]
+    },
+    {
+      "dimensions": [
+        "Hungary"
+      ],
+      "metrics": [
+        "3",
+        "2"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 159,
-    "users": 94,
-    "pageViews": 218,
-    "avgSessionDuration": 145,
+    "sessions": 147,
+    "users": 89,
+    "pageViews": 209,
+    "avgSessionDuration": 175,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 574,
-    "users": 355,
-    "pageViews": 817,
-    "avgSessionDuration": 228,
+    "sessions": 568,
+    "users": 356,
+    "pageViews": 767,
+    "avgSessionDuration": 208,
     "bounceRate": 0.5
   }
 }

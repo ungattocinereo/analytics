@@ -1,18 +1,8 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-08-02T07:33:32.032Z",
+  "updatedAt": "2026-08-03T08:33:09.939Z",
   "trend": [
-    {
-      "dimensions": [
-        "20260703"
-      ],
-      "metrics": [
-        "22",
-        "8",
-        "66"
-      ]
-    },
     {
       "dimensions": [
         "20260708"
@@ -262,6 +252,16 @@
         "1",
         "2"
       ]
+    },
+    {
+      "dimensions": [
+        "20260802"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "1"
+      ]
     }
   ],
   "topPages": [
@@ -270,8 +270,8 @@
         "/"
       ],
       "metrics": [
-        "8",
-        "6"
+        "7",
+        "5"
       ]
     },
     {
@@ -281,6 +281,15 @@
       "metrics": [
         "5",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/fr/place/castiglione-beach-lido-di-ravello"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     },
     {
@@ -327,7 +336,7 @@
       ],
       "metrics": [
         "8",
-        "3"
+        "4"
       ]
     }
   ],
@@ -338,7 +347,7 @@
       ],
       "metrics": [
         "7",
-        "2"
+        "3"
       ]
     },
     {
@@ -353,15 +362,15 @@
   ],
   "summary7d": {
     "sessions": 8,
-    "users": 3,
+    "users": 4,
     "pageViews": 17,
-    "avgSessionDuration": 234,
-    "bounceRate": 0.6
+    "avgSessionDuration": 266,
+    "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 138,
-    "users": 40,
-    "pageViews": 604,
+    "sessions": 117,
+    "users": 37,
+    "pageViews": 539,
     "avgSessionDuration": 259,
     "bounceRate": 0.3
   }
