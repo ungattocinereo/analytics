@@ -1,7 +1,7 @@
 {
   "name": "find.amalfi.day",
   "propertyId": "properties/531159837",
-  "updatedAt": "2026-08-03T08:33:10.824Z",
+  "updatedAt": "2026-08-04T07:42:36.308Z",
   "trend": [
     {
       "dimensions": [
@@ -120,7 +120,7 @@
       "metrics": [
         "11",
         "5",
-        "19"
+        "21"
       ]
     },
     {
@@ -215,16 +215,6 @@
     },
     {
       "dimensions": [
-        "20260704"
-      ],
-      "metrics": [
-        "6",
-        "4",
-        "10"
-      ]
-    },
-    {
-      "dimensions": [
         "20260707"
       ],
       "metrics": [
@@ -248,9 +238,9 @@
         "20260803"
       ],
       "metrics": [
-        "4",
-        "1",
-        "7"
+        "5",
+        "2",
+        "9"
       ]
     },
     {
@@ -292,6 +282,16 @@
         "1",
         "2"
       ]
+    },
+    {
+      "dimensions": [
+        "20260804"
+      ],
+      "metrics": [
+        "1",
+        "0",
+        "1"
+      ]
     }
   ],
   "topPages": [
@@ -300,8 +300,8 @@
         "/"
       ],
       "metrics": [
-        "51",
-        "44"
+        "43",
+        "36"
       ]
     },
     {
@@ -309,8 +309,8 @@
         "/route/amalfi-house.html"
       ],
       "metrics": [
-        "19",
-        "15"
+        "21",
+        "16"
       ]
     },
     {
@@ -318,8 +318,8 @@
         "/route/atrani-house.html"
       ],
       "metrics": [
-        "15",
-        "13"
+        "9",
+        "8"
       ]
     },
     {
@@ -327,7 +327,7 @@
         "/a/"
       ],
       "metrics": [
-        "7",
+        "8",
         "7"
       ]
     },
@@ -347,8 +347,8 @@
         "(direct)"
       ],
       "metrics": [
-        "36",
-        "20"
+        "29",
+        "14"
       ]
     },
     {
@@ -357,21 +357,12 @@
       ],
       "metrics": [
         "10",
-        "5"
+        "4"
       ]
     },
     {
       "dimensions": [
-        "(not set)"
-      ],
-      "metrics": [
-        "7",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "airbnb.es"
+        "airbnb.ie"
       ],
       "metrics": [
         "4",
@@ -380,11 +371,20 @@
     },
     {
       "dimensions": [
-        "airbnb.ie"
+        "airbnb.es"
       ],
       "metrics": [
         "3",
-        "1"
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "(not set)"
+      ],
+      "metrics": [
+        "2",
+        "2"
       ]
     },
     {
@@ -398,7 +398,7 @@
     },
     {
       "dimensions": [
-        "airbnb.nl"
+        "airbnb.com"
       ],
       "metrics": [
         "1",
@@ -412,17 +412,8 @@
         "Italy"
       ],
       "metrics": [
-        "30",
-        "15"
-      ]
-    },
-    {
-      "dimensions": [
-        "Spain"
-      ],
-      "metrics": [
-        "10",
-        "6"
+        "29",
+        "13"
       ]
     },
     {
@@ -445,6 +436,15 @@
     },
     {
       "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "3",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "Bulgaria"
       ],
       "metrics": [
@@ -454,7 +454,7 @@
     },
     {
       "dimensions": [
-        "France"
+        "Spain"
       ],
       "metrics": [
         "2",
@@ -472,20 +472,20 @@
     },
     {
       "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "Belgium"
       ],
       "metrics": [
         "1",
         "0"
+      ]
+    },
+    {
+      "dimensions": [
+        "France"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     },
     {
@@ -499,17 +499,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 58,
-    "users": 27,
-    "pageViews": 99,
-    "avgSessionDuration": 171,
-    "bounceRate": 0.6
+    "sessions": 49,
+    "users": 21,
+    "pageViews": 88,
+    "avgSessionDuration": 169,
+    "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 271,
-    "users": 118,
-    "pageViews": 517,
-    "avgSessionDuration": 217,
+    "sessions": 267,
+    "users": 115,
+    "pageViews": 512,
+    "avgSessionDuration": 218,
     "bounceRate": 0.4
   }
 }
