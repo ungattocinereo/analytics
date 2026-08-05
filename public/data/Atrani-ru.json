@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-08-04T07:42:34.147Z",
+  "updatedAt": "2026-08-05T07:43:27.234Z",
   "trend": [
     {
       "dimensions": [
@@ -11,16 +11,6 @@
         "52",
         "50",
         "52"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260705"
-      ],
-      "metrics": [
-        "43",
-        "41",
-        "44"
       ]
     },
     {
@@ -121,6 +111,16 @@
         "35",
         "34",
         "37"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260804"
+      ],
+      "metrics": [
+        "35",
+        "35",
+        "36"
       ]
     },
     {
@@ -265,16 +265,6 @@
     },
     {
       "dimensions": [
-        "20260804"
-      ],
-      "metrics": [
-        "18",
-        "18",
-        "19"
-      ]
-    },
-    {
-      "dimensions": [
         "20260731"
       ],
       "metrics": [
@@ -312,6 +302,16 @@
         "11",
         "16"
       ]
+    },
+    {
+      "dimensions": [
+        "20260805"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "1"
+      ]
     }
   ],
   "topPages": [
@@ -320,17 +320,8 @@
         "/"
       ],
       "metrics": [
-        "62",
-        "59"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
-      ],
-      "metrics": [
-        "15",
-        "17"
+        "55",
+        "51"
       ]
     },
     {
@@ -344,11 +335,20 @@
     },
     {
       "dimensions": [
+        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
+      ],
+      "metrics": [
+        "11",
+        "11"
+      ]
+    },
+    {
+      "dimensions": [
         "/contacts"
       ],
       "metrics": [
-        "12",
-        "6"
+        "11",
+        "5"
       ]
     },
     {
@@ -357,15 +357,6 @@
       ],
       "metrics": [
         "9",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "/tours-car"
-      ],
-      "metrics": [
-        "7",
         "6"
       ]
     },
@@ -380,20 +371,20 @@
     },
     {
       "dimensions": [
-        "/photos"
+        "/tours-car"
       ],
       "metrics": [
         "6",
-        "6"
+        "5"
       ]
     },
     {
       "dimensions": [
-        "/tours-boat"
+        "/orel-i-reshka-amalfi"
       ],
       "metrics": [
         "5",
-        "5"
+        "6"
       ]
     },
     {
@@ -407,7 +398,7 @@
     },
     {
       "dimensions": [
-        "/blog/giorgio-armani-vybral-raviello-dlia-kampanii-mare-2026"
+        "/photos"
       ],
       "metrics": [
         "4",
@@ -416,11 +407,11 @@
     },
     {
       "dimensions": [
-        "/orel-i-reshka-amalfi"
+        "/tours-boat"
       ],
       "metrics": [
         "4",
-        "5"
+        "4"
       ]
     },
     {
@@ -443,7 +434,16 @@
     },
     {
       "dimensions": [
-        "/blog"
+        "/blog/events-of-amalfi-2025"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/giorgio-armani-vybral-raviello-dlia-kampanii-mare-2026"
       ],
       "metrics": [
         "2",
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "23",
-        "20"
+        "18",
+        "16"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "17",
-        "12"
+        "10",
+        "8"
       ]
     },
     {
@@ -549,8 +549,8 @@
         "Russia"
       ],
       "metrics": [
-        "62",
-        "57"
+        "52",
+        "50"
       ]
     },
     {
@@ -558,8 +558,8 @@
         "Singapore"
       ],
       "metrics": [
-        "44",
-        "44"
+        "50",
+        "50"
       ]
     },
     {
@@ -567,8 +567,8 @@
         "Italy"
       ],
       "metrics": [
-        "13",
-        "11"
+        "10",
+        "9"
       ]
     },
     {
@@ -576,8 +576,8 @@
         "United States"
       ],
       "metrics": [
-        "10",
-        "10"
+        "9",
+        "9"
       ]
     },
     {
@@ -600,29 +600,20 @@
     },
     {
       "dimensions": [
+        "China"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
         "Ukraine"
       ],
       "metrics": [
-        "5",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "Brazil"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "Iran"
-      ],
-      "metrics": [
-        "3",
-        "3"
+        "4",
+        "4"
       ]
     },
     {
@@ -633,20 +624,29 @@
         "3",
         "3"
       ]
+    },
+    {
+      "dimensions": [
+        "Poland"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 181,
-    "users": 172,
-    "pageViews": 235,
-    "avgSessionDuration": 52,
+    "sessions": 170,
+    "users": 165,
+    "pageViews": 216,
+    "avgSessionDuration": 47,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 915,
-    "users": 869,
-    "pageViews": 1133,
-    "avgSessionDuration": 53,
+    "sessions": 892,
+    "users": 846,
+    "pageViews": 1107,
+    "avgSessionDuration": 55,
     "bounceRate": 0.8
   }
 }
