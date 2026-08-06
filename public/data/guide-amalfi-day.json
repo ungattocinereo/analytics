@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-08-05T07:43:29.145Z",
+  "updatedAt": "2026-08-06T07:42:49.528Z",
   "trend": [
     {
       "dimensions": [
@@ -11,16 +11,6 @@
         "14",
         "4",
         "82"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260706"
-      ],
-      "metrics": [
-        "11",
-        "6",
-        "72"
       ]
     },
     {
@@ -140,7 +130,7 @@
       "metrics": [
         "3",
         "3",
-        "17"
+        "18"
       ]
     },
     {
@@ -262,6 +252,16 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "20260806"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "2"
+      ]
     }
   ],
   "topPages": [
@@ -270,7 +270,7 @@
         "/"
       ],
       "metrics": [
-        "10",
+        "12",
         "6"
       ]
     },
@@ -288,22 +288,22 @@
         "/place/marina-di-praia-praiano"
       ],
       "metrics": [
-        "4",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/lido-degli-artisti-amalfi"
-      ],
-      "metrics": [
-        "2",
+        "3",
         "1"
       ]
     },
     {
       "dimensions": [
         "/ru"
+      ],
+      "metrics": [
+        "3",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/lido-degli-artisti-amalfi"
       ],
       "metrics": [
         "2",
@@ -380,17 +380,8 @@
         "(direct)"
       ],
       "metrics": [
-        "9",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "(not set)"
-      ],
-      "metrics": [
-        "3",
-        "3"
+        "10",
+        "7"
       ]
     }
   ],
@@ -435,15 +426,15 @@
   "summary7d": {
     "sessions": 10,
     "users": 7,
-    "pageViews": 30,
-    "avgSessionDuration": 290,
-    "bounceRate": 0.5
+    "pageViews": 32,
+    "avgSessionDuration": 282,
+    "bounceRate": 0.3
   },
   "summary30d": {
-    "sessions": 101,
-    "users": 37,
-    "pageViews": 473,
-    "avgSessionDuration": 262,
+    "sessions": 91,
+    "users": 34,
+    "pageViews": 404,
+    "avgSessionDuration": 248,
     "bounceRate": 0.3
   }
 }

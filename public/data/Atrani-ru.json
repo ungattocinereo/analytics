@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-08-05T07:43:27.234Z",
+  "updatedAt": "2026-08-06T07:42:46.237Z",
   "trend": [
     {
       "dimensions": [
@@ -175,16 +175,6 @@
     },
     {
       "dimensions": [
-        "20260706"
-      ],
-      "metrics": [
-        "27",
-        "26",
-        "25"
-      ]
-    },
-    {
-      "dimensions": [
         "20260714"
       ],
       "metrics": [
@@ -295,6 +285,16 @@
     },
     {
       "dimensions": [
+        "20260805"
+      ],
+      "metrics": [
+        "12",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "dimensions": [
         "20260730"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260805"
+        "20260806"
       ],
       "metrics": [
-        "1",
-        "1",
-        "1"
+        "3",
+        "3",
+        "3"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "55",
-        "51"
+        "50",
+        "47"
       ]
     },
     {
@@ -329,8 +329,8 @@
         "/experience"
       ],
       "metrics": [
-        "14",
-        "14"
+        "12",
+        "12"
       ]
     },
     {
@@ -356,8 +356,8 @@
         "/transport"
       ],
       "metrics": [
-        "9",
-        "6"
+        "8",
+        "5"
       ]
     },
     {
@@ -380,16 +380,16 @@
     },
     {
       "dimensions": [
-        "/orel-i-reshka-amalfi"
+        "/apartments"
       ],
       "metrics": [
-        "5",
-        "6"
+        "4",
+        "4"
       ]
     },
     {
       "dimensions": [
-        "/apartments"
+        "/orel-i-reshka-amalfi"
       ],
       "metrics": [
         "4",
@@ -407,11 +407,20 @@
     },
     {
       "dimensions": [
+        "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
         "/tours-boat"
       ],
       "metrics": [
-        "4",
-        "4"
+        "3",
+        "3"
       ]
     },
     {
@@ -419,17 +428,8 @@
         "/2019/12/katastrofa"
       ],
       "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/papa-liev-xiv-priiediet-v-pompiei-i-nieapol-8-maia"
-      ],
-      "metrics": [
-        "3",
-        "3"
+        "2",
+        "2"
       ]
     },
     {
@@ -443,7 +443,7 @@
     },
     {
       "dimensions": [
-        "/blog/giorgio-armani-vybral-raviello-dlia-kampanii-mare-2026"
+        "/blog/forbes-about-off-season-amalfi"
       ],
       "metrics": [
         "2",
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "130",
-        "130"
+        "124",
+        "124"
       ]
     },
     {
@@ -481,20 +481,38 @@
     },
     {
       "dimensions": [
-        "(not set)"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
         "perplexity"
       ],
       "metrics": [
         "3",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "(not set)"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "(data not available)"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "away.vk.ru"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     },
     {
@@ -517,29 +535,11 @@
     },
     {
       "dimensions": [
-        "m.facebook.com"
+        "l.instagram.com"
       ],
       "metrics": [
         "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "velikie-luki.vsezhkh.ru"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "ya.ru"
-      ],
-      "metrics": [
-        "1",
-        "1"
+        "0"
       ]
     }
   ],
@@ -549,8 +549,8 @@
         "Russia"
       ],
       "metrics": [
-        "52",
-        "50"
+        "51",
+        "49"
       ]
     },
     {
@@ -567,8 +567,8 @@
         "Italy"
       ],
       "metrics": [
-        "10",
-        "9"
+        "11",
+        "10"
       ]
     },
     {
@@ -576,8 +576,8 @@
         "United States"
       ],
       "metrics": [
-        "9",
-        "9"
+        "8",
+        "8"
       ]
     },
     {
@@ -600,20 +600,29 @@
     },
     {
       "dimensions": [
-        "China"
+        "Poland"
       ],
       "metrics": [
         "4",
-        "4"
+        "3"
       ]
     },
     {
       "dimensions": [
-        "Ukraine"
+        "United Kingdom"
       ],
       "metrics": [
         "4",
-        "4"
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "China"
+      ],
+      "metrics": [
+        "3",
+        "3"
       ]
     },
     {
@@ -624,29 +633,20 @@
         "3",
         "3"
       ]
-    },
-    {
-      "dimensions": [
-        "Poland"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 170,
-    "users": 165,
-    "pageViews": 216,
-    "avgSessionDuration": 47,
+    "sessions": 166,
+    "users": 160,
+    "pageViews": 206,
+    "avgSessionDuration": 58,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 892,
-    "users": 846,
-    "pageViews": 1107,
-    "avgSessionDuration": 55,
+    "sessions": 880,
+    "users": 832,
+    "pageViews": 1095,
+    "avgSessionDuration": 58,
     "bounceRate": 0.8
   }
 }
