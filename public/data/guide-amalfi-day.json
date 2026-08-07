@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-08-06T07:42:49.528Z",
+  "updatedAt": "2026-08-07T06:10:38.234Z",
   "trend": [
     {
       "dimensions": [
@@ -25,12 +25,12 @@
     },
     {
       "dimensions": [
-        "20260707"
+        "20260806"
       ],
       "metrics": [
         "9",
-        "2",
-        "26"
+        "3",
+        "19"
       ]
     },
     {
@@ -252,16 +252,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "20260806"
-      ],
-      "metrics": [
-        "1",
-        "1",
-        "2"
-      ]
     }
   ],
   "topPages": [
@@ -270,8 +260,8 @@
         "/"
       ],
       "metrics": [
-        "12",
-        "6"
+        "22",
+        "13"
       ]
     },
     {
@@ -280,6 +270,15 @@
       ],
       "metrics": [
         "5",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/lido-degli-artisti-amalfi"
+      ],
+      "metrics": [
+        "3",
         "2"
       ]
     },
@@ -303,7 +302,7 @@
     },
     {
       "dimensions": [
-        "/place/lido-degli-artisti-amalfi"
+        "/place/la-grande-mela-supermarket-deco-amalfi"
       ],
       "metrics": [
         "2",
@@ -348,25 +347,43 @@
     },
     {
       "dimensions": [
+        "/place/castiglione-beach-lido-di-ravello"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/il-birecto-atrani"
+      ],
+      "metrics": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/le-arcate-atrani"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/le-palme-atrani"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "/place/secret-waterfall-valle-dei-mulini"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/ru/place/castiglione-beach-lido-di-ravello"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/ru/place/lido-degli-artisti-amalfi"
       ],
       "metrics": [
         "1",
@@ -380,8 +397,26 @@
         "(direct)"
       ],
       "metrics": [
-        "10",
-        "7"
+        "15",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
+        "(not set)"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "vercel.com"
+      ],
+      "metrics": [
+        "2",
+        "0"
       ]
     }
   ],
@@ -391,8 +426,8 @@
         "Italy"
       ],
       "metrics": [
-        "7",
-        "4"
+        "14",
+        "5"
       ]
     },
     {
@@ -421,20 +456,29 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 10,
-    "users": 7,
-    "pageViews": 32,
-    "avgSessionDuration": 282,
-    "bounceRate": 0.3
+    "sessions": 18,
+    "users": 9,
+    "pageViews": 49,
+    "avgSessionDuration": 236,
+    "bounceRate": 0.6
   },
   "summary30d": {
-    "sessions": 91,
-    "users": 34,
-    "pageViews": 404,
-    "avgSessionDuration": 248,
-    "bounceRate": 0.3
+    "sessions": 90,
+    "users": 36,
+    "pageViews": 395,
+    "avgSessionDuration": 259,
+    "bounceRate": 0.4
   }
 }
