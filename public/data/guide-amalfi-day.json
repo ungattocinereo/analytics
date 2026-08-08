@@ -1,18 +1,8 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-08-07T06:10:38.234Z",
+  "updatedAt": "2026-08-08T05:44:58.986Z",
   "trend": [
-    {
-      "dimensions": [
-        "20260708"
-      ],
-      "metrics": [
-        "14",
-        "4",
-        "82"
-      ]
-    },
     {
       "dimensions": [
         "20260713"
@@ -28,9 +18,9 @@
         "20260806"
       ],
       "metrics": [
-        "9",
-        "3",
-        "19"
+        "10",
+        "5",
+        "26"
       ]
     },
     {
@@ -252,6 +242,16 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "20260807"
+      ],
+      "metrics": [
+        "1",
+        "0",
+        "1"
+      ]
     }
   ],
   "topPages": [
@@ -260,16 +260,16 @@
         "/"
       ],
       "metrics": [
-        "22",
+        "25",
         "13"
       ]
     },
     {
       "dimensions": [
-        "/fr"
+        "/place/la-grande-mela-supermarket-deco-amalfi"
       ],
       "metrics": [
-        "5",
+        "3",
         "2"
       ]
     },
@@ -302,34 +302,16 @@
     },
     {
       "dimensions": [
-        "/place/la-grande-mela-supermarket-deco-amalfi"
+        "/fr"
       ],
       "metrics": [
-        "2",
+        "1",
         "1"
       ]
     },
     {
       "dimensions": [
         "/fr/place/castiglione-beach-lido-di-ravello"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/fr/place/da-ciccio-cielo-mare-terra-vettica-amalfi"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/fr/place/lo-smeraldino-amalfi"
       ],
       "metrics": [
         "1",
@@ -389,6 +371,24 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "/place/the-lemon-path-sentiero-dei-limoni"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/ru/place/castiglione-beach-lido-di-ravello"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "sources": [
@@ -397,17 +397,8 @@
         "(direct)"
       ],
       "metrics": [
-        "15",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
-        "(not set)"
-      ],
-      "metrics": [
-        "2",
-        "2"
+        "14",
+        "8"
       ]
     },
     {
@@ -416,7 +407,16 @@
       ],
       "metrics": [
         "2",
-        "0"
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "google"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     }
   ],
@@ -426,13 +426,13 @@
         "Italy"
       ],
       "metrics": [
-        "14",
-        "5"
+        "13",
+        "6"
       ]
     },
     {
       "dimensions": [
-        "France"
+        "Poland"
       ],
       "metrics": [
         "1",
@@ -468,17 +468,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 18,
-    "users": 9,
+    "sessions": 17,
+    "users": 10,
     "pageViews": 49,
-    "avgSessionDuration": 236,
-    "bounceRate": 0.6
+    "avgSessionDuration": 153,
+    "bounceRate": 0.2
   },
   "summary30d": {
-    "sessions": 90,
-    "users": 36,
-    "pageViews": 395,
-    "avgSessionDuration": 259,
-    "bounceRate": 0.4
+    "sessions": 78,
+    "users": 35,
+    "pageViews": 321,
+    "avgSessionDuration": 256,
+    "bounceRate": 0.3
   }
 }

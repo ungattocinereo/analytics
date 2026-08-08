@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-08-07T06:10:36.739Z",
+  "updatedAt": "2026-08-08T05:44:57.319Z",
   "trend": [
     {
       "dimensions": [
@@ -165,6 +165,16 @@
     },
     {
       "dimensions": [
+        "20260807"
+      ],
+      "metrics": [
+        "28",
+        "26",
+        "30"
+      ]
+    },
+    {
+      "dimensions": [
         "20260714"
       ],
       "metrics": [
@@ -191,16 +201,6 @@
         "27",
         "26",
         "32"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260708"
-      ],
-      "metrics": [
-        "26",
-        "26",
-        "26"
       ]
     },
     {
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260807"
+        "20260808"
       ],
       "metrics": [
-        "1",
-        "1",
-        "1"
+        "2",
+        "2",
+        "2"
       ]
     }
   ],
@@ -320,8 +320,17 @@
         "/"
       ],
       "metrics": [
-        "51",
-        "48"
+        "52",
+        "49"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
+      ],
+      "metrics": [
+        "15",
+        "14"
       ]
     },
     {
@@ -331,15 +340,6 @@
       "metrics": [
         "11",
         "11"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
-      ],
-      "metrics": [
-        "9",
-        "9"
       ]
     },
     {
@@ -356,8 +356,8 @@
         "/contacts"
       ],
       "metrics": [
-        "8",
-        "4"
+        "7",
+        "3"
       ]
     },
     {
@@ -389,7 +389,34 @@
     },
     {
       "dimensions": [
+        "/2019/12/katastrofa"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
         "/apartments"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/colatura-di-alici-di-cetara"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/positano-steibek"
       ],
       "metrics": [
         "3",
@@ -416,34 +443,7 @@
     },
     {
       "dimensions": [
-        "/2019/12/katastrofa"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/colatura-di-alici-di-cetara"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/events-of-amalfi-2025"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/forbes-about-off-season-amalfi"
+        "/blog/52-i-karnaval-v-maiori-tiema-miechta-parady-i-videomapping"
       ],
       "metrics": [
         "2",
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "124",
-        "124"
+        "135",
+        "135"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "19",
-        "16"
+        "22",
+        "19"
       ]
     },
     {
@@ -485,6 +485,15 @@
       ],
       "metrics": [
         "3",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "ya.ru"
+      ],
+      "metrics": [
+        "2",
         "2"
       ]
     },
@@ -532,15 +541,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "velikie-luki.vsezhkh.ru"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "countries": [
@@ -549,8 +549,8 @@
         "Russia"
       ],
       "metrics": [
-        "52",
-        "50"
+        "59",
+        "57"
       ]
     },
     {
@@ -567,7 +567,7 @@
         "Italy"
       ],
       "metrics": [
-        "10",
+        "9",
         "9"
       ]
     },
@@ -576,8 +576,8 @@
         "United States"
       ],
       "metrics": [
-        "7",
-        "7"
+        "9",
+        "9"
       ]
     },
     {
@@ -600,16 +600,16 @@
     },
     {
       "dimensions": [
-        "Poland"
+        "United Kingdom"
       ],
       "metrics": [
-        "4",
-        "3"
+        "5",
+        "4"
       ]
     },
     {
       "dimensions": [
-        "United Kingdom"
+        "Poland"
       ],
       "metrics": [
         "4",
@@ -627,25 +627,25 @@
     },
     {
       "dimensions": [
-        "Argentina"
+        "Kazakhstan"
       ],
       "metrics": [
-        "2",
-        "2"
+        "3",
+        "1"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 165,
-    "users": 158,
-    "pageViews": 200,
-    "avgSessionDuration": 60,
+    "sessions": 179,
+    "users": 172,
+    "pageViews": 213,
+    "avgSessionDuration": 64,
     "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 851,
-    "users": 807,
-    "pageViews": 1066,
+    "sessions": 853,
+    "users": 808,
+    "pageViews": 1071,
     "avgSessionDuration": 58,
     "bounceRate": 0.8
   }
