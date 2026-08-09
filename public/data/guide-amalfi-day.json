@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-08-08T05:44:58.986Z",
+  "updatedAt": "2026-08-09T05:49:29.606Z",
   "trend": [
     {
       "dimensions": [
@@ -21,16 +21,6 @@
         "10",
         "5",
         "26"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260709"
-      ],
-      "metrics": [
-        "7",
-        "4",
-        "28"
       ]
     },
     {
@@ -302,25 +292,7 @@
     },
     {
       "dimensions": [
-        "/fr"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "/fr/place/castiglione-beach-lido-di-ravello"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/fr/place/secret-waterfall-valle-dei-mulini"
       ],
       "metrics": [
         "1",
@@ -389,6 +361,24 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "/ru/place/lido-degli-artisti-amalfi"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/ru/place/the-lemon-path-sentiero-dei-limoni"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "sources": [
@@ -397,8 +387,8 @@
         "(direct)"
       ],
       "metrics": [
-        "14",
-        "8"
+        "13",
+        "7"
       ]
     },
     {
@@ -426,8 +416,8 @@
         "Italy"
       ],
       "metrics": [
-        "13",
-        "6"
+        "12",
+        "5"
       ]
     },
     {
@@ -468,17 +458,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 17,
-    "users": 10,
-    "pageViews": 49,
-    "avgSessionDuration": 153,
-    "bounceRate": 0.2
+    "sessions": 16,
+    "users": 9,
+    "pageViews": 47,
+    "avgSessionDuration": 161,
+    "bounceRate": 0.3
   },
   "summary30d": {
-    "sessions": 78,
-    "users": 35,
-    "pageViews": 321,
-    "avgSessionDuration": 256,
+    "sessions": 71,
+    "users": 32,
+    "pageViews": 293,
+    "avgSessionDuration": 259,
     "bounceRate": 0.3
   }
 }
