@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-08-09T05:49:28.081Z",
+  "updatedAt": "2026-08-10T06:12:43.736Z",
   "trend": [
     {
       "dimensions": [
@@ -71,16 +71,6 @@
         "37",
         "37",
         "38"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260710"
-      ],
-      "metrics": [
-        "35",
-        "34",
-        "35"
       ]
     },
     {
@@ -195,6 +185,16 @@
     },
     {
       "dimensions": [
+        "20260809"
+      ],
+      "metrics": [
+        "27",
+        "24",
+        "31"
+      ]
+    },
+    {
+      "dimensions": [
         "20260802"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260809"
+        "20260810"
       ],
       "metrics": [
-        "6",
-        "6",
-        "6"
+        "2",
+        "2",
+        "2"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "50",
-        "47"
+        "49",
+        "49"
       ]
     },
     {
@@ -329,17 +329,8 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "18",
-        "17"
-      ]
-    },
-    {
-      "dimensions": [
-        "/contacts"
-      ],
-      "metrics": [
-        "8",
-        "3"
+        "22",
+        "19"
       ]
     },
     {
@@ -353,11 +344,11 @@
     },
     {
       "dimensions": [
-        "/transport"
+        "/orel-i-reshka-amalfi"
       ],
       "metrics": [
-        "6",
-        "5"
+        "4",
+        "4"
       ]
     },
     {
@@ -365,22 +356,13 @@
         "/parking"
       ],
       "metrics": [
-        "5",
-        "5"
+        "4",
+        "4"
       ]
     },
     {
       "dimensions": [
         "/photos"
-      ],
-      "metrics": [
-        "5",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/orel-i-reshka-amalfi"
       ],
       "metrics": [
         "4",
@@ -398,33 +380,6 @@
     },
     {
       "dimensions": [
-        "/apartments"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/colatura-di-alici-di-cetara"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/forbes-about-off-season-amalfi"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/positano-steibek"
       ],
       "metrics": [
@@ -434,7 +389,7 @@
     },
     {
       "dimensions": [
-        "/tours-car"
+        "/book-atrani"
       ],
       "metrics": [
         "3",
@@ -443,7 +398,52 @@
     },
     {
       "dimensions": [
+        "/contacts"
+      ],
+      "metrics": [
+        "3",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/transport"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2020/06/paura"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/colatura-di-alici-di-cetara"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "/blog/events-of-amalfi-2025"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/forbes-about-off-season-amalfi"
       ],
       "metrics": [
         "2",
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "134",
-        "134"
+        "132",
+        "132"
       ]
     },
     {
@@ -467,7 +467,7 @@
       ],
       "metrics": [
         "22",
-        "18"
+        "16"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "12",
-        "10"
+        "14",
+        "12"
       ]
     },
     {
@@ -484,8 +484,8 @@
         "perplexity"
       ],
       "metrics": [
-        "3",
-        "2"
+        "2",
+        "0"
       ]
     },
     {
@@ -549,8 +549,8 @@
         "Russia"
       ],
       "metrics": [
-        "56",
-        "54"
+        "58",
+        "56"
       ]
     },
     {
@@ -567,8 +567,8 @@
         "Italy"
       ],
       "metrics": [
-        "9",
-        "9"
+        "12",
+        "10"
       ]
     },
     {
@@ -576,8 +576,8 @@
         "United States"
       ],
       "metrics": [
-        "9",
-        "9"
+        "7",
+        "7"
       ]
     },
     {
@@ -603,8 +603,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "6",
-        "4"
+        "5",
+        "2"
       ]
     },
     {
@@ -618,35 +618,35 @@
     },
     {
       "dimensions": [
+        "Bangladesh"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
         "Kazakhstan"
       ],
       "metrics": [
         "3",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "Poland"
-      ],
-      "metrics": [
-        "3",
-        "2"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 179,
-    "users": 171,
-    "pageViews": 205,
-    "avgSessionDuration": 47,
+    "sessions": 178,
+    "users": 167,
+    "pageViews": 188,
+    "avgSessionDuration": 51,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 829,
-    "users": 783,
-    "pageViews": 1050,
-    "avgSessionDuration": 59,
+    "sessions": 818,
+    "users": 770,
+    "pageViews": 1042,
+    "avgSessionDuration": 63,
     "bounceRate": 0.8
   }
 }
