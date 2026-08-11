@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-08-10T06:12:43.736Z",
+  "updatedAt": "2026-08-11T05:55:20.552Z",
   "trend": [
     {
       "dimensions": [
@@ -31,16 +31,6 @@
         "40",
         "39",
         "45"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260711"
-      ],
-      "metrics": [
-        "37",
-        "37",
-        "36"
       ]
     },
     {
@@ -235,6 +225,16 @@
     },
     {
       "dimensions": [
+        "20260810"
+      ],
+      "metrics": [
+        "18",
+        "14",
+        "18"
+      ]
+    },
+    {
+      "dimensions": [
         "20260731"
       ],
       "metrics": [
@@ -305,7 +305,7 @@
     },
     {
       "dimensions": [
-        "20260810"
+        "20260811"
       ],
       "metrics": [
         "2",
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "49",
-        "49"
+        "42",
+        "42"
       ]
     },
     {
@@ -329,8 +329,8 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "22",
-        "19"
+        "31",
+        "28"
       ]
     },
     {
@@ -353,15 +353,6 @@
     },
     {
       "dimensions": [
-        "/parking"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
         "/photos"
       ],
       "metrics": [
@@ -371,7 +362,7 @@
     },
     {
       "dimensions": [
-        "/2019/12/katastrofa"
+        "/blog/how-to-get-to-amalfi"
       ],
       "metrics": [
         "3",
@@ -407,20 +398,11 @@
     },
     {
       "dimensions": [
-        "/transport"
+        "/parking"
       ],
       "metrics": [
         "3",
         "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2020/06/paura"
-      ],
-      "metrics": [
-        "2",
-        "2"
       ]
     },
     {
@@ -449,6 +431,24 @@
         "2",
         "2"
       ]
+    },
+    {
+      "dimensions": [
+        "/blog/page/6"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/photo-praiano"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
     }
   ],
   "sources": [
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "132",
-        "132"
+        "90",
+        "90"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "22",
-        "16"
+        "27",
+        "17"
       ]
     },
     {
@@ -475,22 +475,22 @@
         "yandex.ru"
       ],
       "metrics": [
-        "14",
-        "12"
-      ]
-    },
-    {
-      "dimensions": [
-        "perplexity"
-      ],
-      "metrics": [
-        "2",
-        "0"
+        "16",
+        "15"
       ]
     },
     {
       "dimensions": [
         "ya.ru"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "yandex"
       ],
       "metrics": [
         "2",
@@ -526,16 +526,16 @@
     },
     {
       "dimensions": [
-        "m.facebook.com"
+        "perplexity"
       ],
       "metrics": [
         "1",
-        "1"
+        "0"
       ]
     },
     {
       "dimensions": [
-        "yandex"
+        "yandex.com.tr"
       ],
       "metrics": [
         "1",
@@ -549,8 +549,8 @@
         "Russia"
       ],
       "metrics": [
-        "58",
-        "56"
+        "61",
+        "60"
       ]
     },
     {
@@ -558,8 +558,8 @@
         "Singapore"
       ],
       "metrics": [
-        "50",
-        "50"
+        "20",
+        "20"
       ]
     },
     {
@@ -567,26 +567,8 @@
         "Italy"
       ],
       "metrics": [
-        "12",
-        "10"
-      ]
-    },
-    {
-      "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "7",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "Vietnam"
-      ],
-      "metrics": [
-        "7",
-        "7"
+        "13",
+        "11"
       ]
     },
     {
@@ -600,11 +582,11 @@
     },
     {
       "dimensions": [
-        "United Kingdom"
+        "United States"
       ],
       "metrics": [
-        "5",
-        "2"
+        "6",
+        "6"
       ]
     },
     {
@@ -618,11 +600,20 @@
     },
     {
       "dimensions": [
-        "Bangladesh"
+        "Netherlands"
       ],
       "metrics": [
-        "3",
-        "3"
+        "4",
+        "0"
+      ]
+    },
+    {
+      "dimensions": [
+        "United Kingdom"
+      ],
+      "metrics": [
+        "4",
+        "2"
       ]
     },
     {
@@ -633,20 +624,29 @@
         "3",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        ""
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 178,
-    "users": 167,
-    "pageViews": 188,
-    "avgSessionDuration": 51,
+    "sessions": 144,
+    "users": 131,
+    "pageViews": 154,
+    "avgSessionDuration": 64,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 818,
-    "users": 770,
-    "pageViews": 1042,
-    "avgSessionDuration": 63,
-    "bounceRate": 0.8
+    "sessions": 797,
+    "users": 747,
+    "pageViews": 1024,
+    "avgSessionDuration": 64,
+    "bounceRate": 0.7
   }
 }
