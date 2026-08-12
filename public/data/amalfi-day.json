@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-08-11T05:55:21.469Z",
+  "updatedAt": "2026-08-12T06:17:56.044Z",
   "trend": [
     {
       "dimensions": [
@@ -95,16 +95,6 @@
     },
     {
       "dimensions": [
-        "20260712"
-      ],
-      "metrics": [
-        "19",
-        "14",
-        "24"
-      ]
-    },
-    {
-      "dimensions": [
         "20260713"
       ],
       "metrics": [
@@ -121,6 +111,16 @@
         "19",
         "12",
         "22"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260811"
+      ],
+      "metrics": [
+        "19",
+        "15",
+        "23"
       ]
     },
     {
@@ -302,16 +302,6 @@
         "6",
         "8"
       ]
-    },
-    {
-      "dimensions": [
-        "20260811"
-      ],
-      "metrics": [
-        "1",
-        "1",
-        "1"
-      ]
     }
   ],
   "topPages": [
@@ -320,8 +310,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "35",
-        "32"
+        "41",
+        "36"
       ]
     },
     {
@@ -330,16 +320,7 @@
       ],
       "metrics": [
         "20",
-        "20"
-      ]
-    },
-    {
-      "dimensions": [
-        "/directions/"
-      ],
-      "metrics": [
-        "11",
-        "9"
+        "21"
       ]
     },
     {
@@ -347,8 +328,8 @@
         "/"
       ],
       "metrics": [
-        "10",
-        "9"
+        "11",
+        "10"
       ]
     },
     {
@@ -356,13 +337,40 @@
         "/ferry-timetables"
       ],
       "metrics": [
-        "8",
-        "8"
+        "7",
+        "7"
       ]
     },
     {
       "dimensions": [
         "/apartments"
+      ],
+      "metrics": [
+        "6",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/directions/"
+      ],
+      "metrics": [
+        "6",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/contact"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/ferry-timetables/"
       ],
       "metrics": [
         "4",
@@ -371,10 +379,10 @@
     },
     {
       "dimensions": [
-        "/ferry-timetables/"
+        "/photoshootings"
       ],
       "metrics": [
-        "3",
+        "4",
         "2"
       ]
     },
@@ -389,25 +397,7 @@
     },
     {
       "dimensions": [
-        "/photoshootings"
-      ],
-      "metrics": [
-        "3",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/license-plate-restrictions-return-to-the-amalfi-coast-april-25-may-2-2/"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/contact"
       ],
       "metrics": [
         "2",
@@ -457,8 +447,8 @@
         "google"
       ],
       "metrics": [
-        "42",
-        "31"
+        "44",
+        "35"
       ]
     },
     {
@@ -467,7 +457,7 @@
       ],
       "metrics": [
         "21",
-        "12"
+        "13"
       ]
     },
     {
@@ -475,7 +465,7 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "16",
+        "17",
         "15"
       ]
     },
@@ -484,7 +474,7 @@
         "bing"
       ],
       "metrics": [
-        "6",
+        "5",
         "4"
       ]
     },
@@ -495,15 +485,6 @@
       "metrics": [
         "2",
         "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "yahoo"
-      ],
-      "metrics": [
-        "2",
-        "2"
       ]
     },
     {
@@ -541,6 +522,15 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "yahoo"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "countries": [
@@ -550,7 +540,7 @@
       ],
       "metrics": [
         "35",
-        "28"
+        "27"
       ]
     },
     {
@@ -559,7 +549,7 @@
       ],
       "metrics": [
         "11",
-        "9"
+        "10"
       ]
     },
     {
@@ -576,8 +566,17 @@
         "Romania"
       ],
       "metrics": [
-        "6",
-        "2"
+        "5",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "Norway"
+      ],
+      "metrics": [
+        "4",
+        "3"
       ]
     },
     {
@@ -624,29 +623,20 @@
         "2",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "Ireland"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 93,
-    "users": 69,
-    "pageViews": 111,
-    "avgSessionDuration": 99,
+    "sessions": 95,
+    "users": 74,
+    "pageViews": 116,
+    "avgSessionDuration": 106,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 536,
-    "users": 336,
-    "pageViews": 723,
-    "avgSessionDuration": 206,
+    "sessions": 535,
+    "users": 337,
+    "pageViews": 721,
+    "avgSessionDuration": 204,
     "bounceRate": 0.5
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-08-11T05:55:20.552Z",
+  "updatedAt": "2026-08-12T06:17:54.858Z",
   "trend": [
     {
       "dimensions": [
@@ -21,16 +21,6 @@
         "41",
         "34",
         "65"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260712"
-      ],
-      "metrics": [
-        "40",
-        "39",
-        "45"
       ]
     },
     {
@@ -215,6 +205,16 @@
     },
     {
       "dimensions": [
+        "20260811"
+      ],
+      "metrics": [
+        "21",
+        "20",
+        "20"
+      ]
+    },
+    {
+      "dimensions": [
         "20260729"
       ],
       "metrics": [
@@ -302,16 +302,6 @@
         "9",
         "14"
       ]
-    },
-    {
-      "dimensions": [
-        "20260811"
-      ],
-      "metrics": [
-        "2",
-        "2",
-        "2"
-      ]
     }
   ],
   "topPages": [
@@ -330,7 +320,7 @@
       ],
       "metrics": [
         "31",
-        "28"
+        "29"
       ]
     },
     {
@@ -338,17 +328,8 @@
         "/experience"
       ],
       "metrics": [
-        "8",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "/orel-i-reshka-amalfi"
-      ],
-      "metrics": [
-        "4",
-        "4"
+        "7",
+        "7"
       ]
     },
     {
@@ -362,25 +343,7 @@
     },
     {
       "dimensions": [
-        "/blog/how-to-get-to-amalfi"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/positano-steibek"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/book-atrani"
       ],
       "metrics": [
         "3",
@@ -398,7 +361,7 @@
     },
     {
       "dimensions": [
-        "/parking"
+        "/orel-i-reshka-amalfi"
       ],
       "metrics": [
         "3",
@@ -407,7 +370,7 @@
     },
     {
       "dimensions": [
-        "/blog/colatura-di-alici-di-cetara"
+        "/2018/06/eva-green-amalfi-atrani"
       ],
       "metrics": [
         "2",
@@ -416,7 +379,16 @@
     },
     {
       "dimensions": [
-        "/blog/events-of-amalfi-2025"
+        "/apartments"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/colatura-di-alici-di-cetara"
       ],
       "metrics": [
         "2",
@@ -434,7 +406,7 @@
     },
     {
       "dimensions": [
-        "/blog/page/6"
+        "/blog/how-to-get-to-amalfi"
       ],
       "metrics": [
         "2",
@@ -449,6 +421,24 @@
         "2",
         "2"
       ]
+    },
+    {
+      "dimensions": [
+        "/blog/riekordnyi-rassviet-nad-atrani-k-santa-maria-del-bando-podnialis-turisty-iz-9-stran"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/book-atrani"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
     }
   ],
   "sources": [
@@ -457,8 +447,8 @@
         "(direct)"
       ],
       "metrics": [
-        "90",
-        "90"
+        "76",
+        "76"
       ]
     },
     {
@@ -466,8 +456,8 @@
         "google"
       ],
       "metrics": [
-        "27",
-        "17"
+        "26",
+        "16"
       ]
     },
     {
@@ -475,8 +465,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "16",
-        "15"
+        "15",
+        "13"
       ]
     },
     {
@@ -484,17 +474,8 @@
         "ya.ru"
       ],
       "metrics": [
-        "4",
+        "5",
         "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "yandex"
-      ],
-      "metrics": [
-        "2",
-        "2"
       ]
     },
     {
@@ -535,6 +516,15 @@
     },
     {
       "dimensions": [
+        "yandex"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "yandex.com.tr"
       ],
       "metrics": [
@@ -549,17 +539,8 @@
         "Russia"
       ],
       "metrics": [
-        "61",
+        "63",
         "60"
-      ]
-    },
-    {
-      "dimensions": [
-        "Singapore"
-      ],
-      "metrics": [
-        "20",
-        "20"
       ]
     },
     {
@@ -567,8 +548,17 @@
         "Italy"
       ],
       "metrics": [
-        "13",
-        "11"
+        "14",
+        "12"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "10",
+        "10"
       ]
     },
     {
@@ -582,20 +572,11 @@
     },
     {
       "dimensions": [
-        "United States"
+        "Vietnam"
       ],
       "metrics": [
-        "6",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "Germany"
-      ],
-      "metrics": [
-        "4",
-        "4"
+        "5",
+        "5"
       ]
     },
     {
@@ -618,6 +599,15 @@
     },
     {
       "dimensions": [
+        "Germany"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
         "Kazakhstan"
       ],
       "metrics": [
@@ -627,7 +617,7 @@
     },
     {
       "dimensions": [
-        ""
+        "Bangladesh"
       ],
       "metrics": [
         "2",
@@ -636,17 +626,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 144,
-    "users": 131,
-    "pageViews": 154,
-    "avgSessionDuration": 64,
+    "sessions": 128,
+    "users": 113,
+    "pageViews": 136,
+    "avgSessionDuration": 74,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 797,
-    "users": 747,
-    "pageViews": 1024,
+    "sessions": 776,
+    "users": 725,
+    "pageViews": 997,
     "avgSessionDuration": 64,
-    "bounceRate": 0.7
+    "bounceRate": 0.8
   }
 }
