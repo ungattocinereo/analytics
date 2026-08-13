@@ -1,18 +1,8 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-08-12T06:17:56.512Z",
+  "updatedAt": "2026-08-13T06:19:57.345Z",
   "trend": [
-    {
-      "dimensions": [
-        "20260713"
-      ],
-      "metrics": [
-        "10",
-        "4",
-        "56"
-      ]
-    },
     {
       "dimensions": [
         "20260806"
@@ -232,6 +222,16 @@
         "0",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "20260812"
+      ],
+      "metrics": [
+        "1",
+        "0",
+        "1"
+      ]
     }
   ],
   "topPages": [
@@ -240,8 +240,8 @@
         "/"
       ],
       "metrics": [
-        "18",
-        "11"
+        "19",
+        "12"
       ]
     },
     {
@@ -323,7 +323,7 @@
         "(direct)"
       ],
       "metrics": [
-        "9",
+        "10",
         "3"
       ]
     },
@@ -352,7 +352,7 @@
         "Italy"
       ],
       "metrics": [
-        "10",
+        "11",
         "3"
       ]
     },
@@ -376,17 +376,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 12,
+    "sessions": 13,
     "users": 5,
-    "pageViews": 28,
-    "avgSessionDuration": 134,
-    "bounceRate": 0.3
+    "pageViews": 29,
+    "avgSessionDuration": 124,
+    "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 66,
-    "users": 31,
-    "pageViews": 273,
-    "avgSessionDuration": 245,
-    "bounceRate": 0.3
+    "sessions": 57,
+    "users": 30,
+    "pageViews": 218,
+    "avgSessionDuration": 169,
+    "bounceRate": 0.4
   }
 }

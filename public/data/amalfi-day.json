@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-08-12T06:17:56.044Z",
+  "updatedAt": "2026-08-13T06:19:56.678Z",
   "trend": [
     {
       "dimensions": [
@@ -91,16 +91,6 @@
         "20",
         "16",
         "27"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260713"
-      ],
-      "metrics": [
-        "19",
-        "12",
-        "25"
       ]
     },
     {
@@ -245,6 +235,16 @@
     },
     {
       "dimensions": [
+        "20260812"
+      ],
+      "metrics": [
+        "14",
+        "9",
+        "16"
+      ]
+    },
+    {
+      "dimensions": [
         "20260805"
       ],
       "metrics": [
@@ -310,8 +310,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "41",
-        "36"
+        "38",
+        "35"
       ]
     },
     {
@@ -325,29 +325,29 @@
     },
     {
       "dimensions": [
-        "/"
-      ],
-      "metrics": [
-        "11",
-        "10"
-      ]
-    },
-    {
-      "dimensions": [
-        "/ferry-timetables"
-      ],
-      "metrics": [
-        "7",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
         "/apartments"
       ],
       "metrics": [
+        "11",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
+        "/"
+      ],
+      "metrics": [
+        "10",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
+        "/contact"
+      ],
+      "metrics": [
         "6",
-        "5"
+        "6"
       ]
     },
     {
@@ -356,16 +356,16 @@
       ],
       "metrics": [
         "6",
-        "5"
+        "6"
       ]
     },
     {
       "dimensions": [
-        "/contact"
+        "/ferry-timetables"
       ],
       "metrics": [
-        "4",
-        "4"
+        "6",
+        "6"
       ]
     },
     {
@@ -447,8 +447,8 @@
         "google"
       ],
       "metrics": [
-        "44",
-        "35"
+        "40",
+        "33"
       ]
     },
     {
@@ -456,8 +456,8 @@
         "(direct)"
       ],
       "metrics": [
-        "21",
-        "13"
+        "24",
+        "14"
       ]
     },
     {
@@ -465,8 +465,8 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "17",
-        "15"
+        "16",
+        "14"
       ]
     },
     {
@@ -483,7 +483,25 @@
         "amalfi-guide-ungattocinereo-cinereos-projects.vercel.app"
       ],
       "metrics": [
-        "2",
+        "3",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "yahoo"
+      ],
+      "metrics": [
+        "3",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "airbnb.de"
+      ],
+      "metrics": [
+        "1",
         "1"
       ]
     },
@@ -507,25 +525,7 @@
     },
     {
       "dimensions": [
-        "perplexity"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "withjoy.com"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "yahoo"
       ],
       "metrics": [
         "1",
@@ -539,17 +539,8 @@
         "Italy"
       ],
       "metrics": [
-        "35",
-        "27"
-      ]
-    },
-    {
-      "dimensions": [
-        "United Kingdom"
-      ],
-      "metrics": [
-        "11",
-        "10"
+        "33",
+        "23"
       ]
     },
     {
@@ -557,8 +548,17 @@
         "United States"
       ],
       "metrics": [
-        "11",
-        "8"
+        "12",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
+        "United Kingdom"
+      ],
+      "metrics": [
+        "10",
+        "10"
       ]
     },
     {
@@ -568,6 +568,15 @@
       "metrics": [
         "5",
         "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "Germany"
+      ],
+      "metrics": [
+        "4",
+        "4"
       ]
     },
     {
@@ -590,7 +599,7 @@
     },
     {
       "dimensions": [
-        "Germany"
+        "Canada"
       ],
       "metrics": [
         "3",
@@ -608,15 +617,6 @@
     },
     {
       "dimensions": [
-        "Canada"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "Cayman Islands"
       ],
       "metrics": [
@@ -626,17 +626,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 95,
-    "users": 74,
-    "pageViews": 116,
-    "avgSessionDuration": 106,
+    "sessions": 96,
+    "users": 73,
+    "pageViews": 117,
+    "avgSessionDuration": 105,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 535,
-    "users": 337,
-    "pageViews": 721,
-    "avgSessionDuration": 204,
+    "sessions": 531,
+    "users": 339,
+    "pageViews": 712,
+    "avgSessionDuration": 203,
     "bounceRate": 0.5
   }
 }

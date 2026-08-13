@@ -1,7 +1,7 @@
 {
   "name": "find.amalfi.day",
   "propertyId": "properties/531159837",
-  "updatedAt": "2026-08-12T06:17:57.043Z",
+  "updatedAt": "2026-08-13T06:19:57.913Z",
   "trend": [
     {
       "dimensions": [
@@ -145,12 +145,12 @@
     },
     {
       "dimensions": [
-        "20260713"
+        "20260812"
       ],
       "metrics": [
-        "8",
+        "9",
         "3",
-        "14"
+        "15"
       ]
     },
     {
@@ -275,16 +275,6 @@
     },
     {
       "dimensions": [
-        "20260812"
-      ],
-      "metrics": [
-        "2",
-        "1",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
         "20260728"
       ],
       "metrics": [
@@ -300,8 +290,8 @@
         "/"
       ],
       "metrics": [
-        "25",
-        "22"
+        "24",
+        "21"
       ]
     },
     {
@@ -309,8 +299,8 @@
         "/route/amalfi-house.html"
       ],
       "metrics": [
-        "13",
-        "10"
+        "16",
+        "12"
       ]
     },
     {
@@ -318,17 +308,8 @@
         "/a/"
       ],
       "metrics": [
-        "9",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "/route/atrani-house.html"
-      ],
-      "metrics": [
-        "5",
-        "5"
+        "13",
+        "12"
       ]
     },
     {
@@ -336,8 +317,17 @@
         "/route/amalfi-awesome.html"
       ],
       "metrics": [
-        "4",
-        "5"
+        "6",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/route/atrani-house.html"
+      ],
+      "metrics": [
+        "2",
+        "2"
       ]
     }
   ],
@@ -347,8 +337,8 @@
         "(direct)"
       ],
       "metrics": [
-        "14",
-        "10"
+        "13",
+        "8"
       ]
     },
     {
@@ -356,7 +346,7 @@
         "airbnb.com"
       ],
       "metrics": [
-        "7",
+        "8",
         "1"
       ]
     },
@@ -365,7 +355,7 @@
         "(not set)"
       ],
       "metrics": [
-        "4",
+        "5",
         "4"
       ]
     },
@@ -380,19 +370,10 @@
     },
     {
       "dimensions": [
-        "airbnb.com.au"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "airbnb.fr"
       ],
       "metrics": [
-        "2",
+        "4",
         "1"
       ]
     },
@@ -401,8 +382,17 @@
         "airbnb.it"
       ],
       "metrics": [
-        "2",
+        "4",
         "0"
+      ]
+    },
+    {
+      "dimensions": [
+        "airbnb.com.au"
+      ],
+      "metrics": [
+        "2",
+        "1"
       ]
     },
     {
@@ -422,15 +412,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "airbnb.ie"
-      ],
-      "metrics": [
-        "1",
-        "0"
-      ]
     }
   ],
   "countries": [
@@ -439,8 +420,8 @@
         "Italy"
       ],
       "metrics": [
-        "15",
-        "7"
+        "18",
+        "8"
       ]
     },
     {
@@ -454,25 +435,34 @@
     },
     {
       "dimensions": [
-        "Germany"
-      ],
-      "metrics": [
-        "5",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
         "Netherlands"
       ],
       "metrics": [
-        "4",
+        "5",
         "3"
       ]
     },
     {
       "dimensions": [
+        "Germany"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "Malta"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Slovakia"
       ],
       "metrics": [
         "2",
@@ -499,17 +489,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 36,
-    "users": 16,
-    "pageViews": 56,
-    "avgSessionDuration": 235,
-    "bounceRate": 0.6
+    "sessions": 39,
+    "users": 14,
+    "pageViews": 61,
+    "avgSessionDuration": 291,
+    "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 229,
-    "users": 98,
-    "pageViews": 405,
-    "avgSessionDuration": 195,
+    "sessions": 228,
+    "users": 97,
+    "pageViews": 403,
+    "avgSessionDuration": 209,
     "bounceRate": 0.5
   }
 }
