@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-08-14T06:17:23.985Z",
+  "updatedAt": "2026-08-15T05:28:44.134Z",
   "trend": [
     {
       "dimensions": [
@@ -51,16 +51,6 @@
         "23",
         "17",
         "30"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260715"
-      ],
-      "metrics": [
-        "20",
-        "13",
-        "29"
       ]
     },
     {
@@ -302,6 +292,16 @@
         "6",
         "8"
       ]
+    },
+    {
+      "dimensions": [
+        "20260814"
+      ],
+      "metrics": [
+        "6",
+        "4",
+        "9"
+      ]
     }
   ],
   "topPages": [
@@ -319,8 +319,8 @@
         "/parking/"
       ],
       "metrics": [
-        "20",
-        "21"
+        "18",
+        "19"
       ]
     },
     {
@@ -343,20 +343,20 @@
     },
     {
       "dimensions": [
-        "/contact"
+        "/ferry-timetables/"
       ],
       "metrics": [
-        "5",
+        "7",
         "5"
       ]
     },
     {
       "dimensions": [
-        "/ferry-timetables/"
+        "/contact"
       ],
       "metrics": [
         "5",
-        "4"
+        "5"
       ]
     },
     {
@@ -397,10 +397,10 @@
     },
     {
       "dimensions": [
-        "/how-to-get/"
+        "/blog/a-local-3-or-4-day-amalfi-coast-itinerary-without-a-car/"
       ],
       "metrics": [
-        "3",
+        "2",
         "2"
       ]
     },
@@ -415,15 +415,6 @@
     },
     {
       "dimensions": [
-        "/parking"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "/beaches"
       ],
       "metrics": [
@@ -433,7 +424,7 @@
     },
     {
       "dimensions": [
-        "/blog/a-local-3-or-4-day-amalfi-coast-itinerary-without-a-car/"
+        "/blog/license-plate-restrictions-return-to-the-amalfi-coast-april-25-may-2-2/"
       ],
       "metrics": [
         "1",
@@ -447,7 +438,7 @@
         "google"
       ],
       "metrics": [
-        "38",
+        "39",
         "31"
       ]
     },
@@ -456,8 +447,8 @@
         "(direct)"
       ],
       "metrics": [
-        "20",
-        "11"
+        "16",
+        "9"
       ]
     },
     {
@@ -465,8 +456,8 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "16",
-        "14"
+        "14",
+        "12"
       ]
     },
     {
@@ -474,8 +465,8 @@
         "bing"
       ],
       "metrics": [
-        "5",
-        "4"
+        "6",
+        "5"
       ]
     },
     {
@@ -516,7 +507,7 @@
     },
     {
       "dimensions": [
-        "duckduckgo"
+        "withjoy.com"
       ],
       "metrics": [
         "1",
@@ -525,7 +516,7 @@
     },
     {
       "dimensions": [
-        "withjoy.com"
+        "yandex.ru"
       ],
       "metrics": [
         "1",
@@ -539,8 +530,8 @@
         "Italy"
       ],
       "metrics": [
-        "25",
-        "18"
+        "24",
+        "17"
       ]
     },
     {
@@ -548,17 +539,8 @@
         "United States"
       ],
       "metrics": [
-        "12",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
-        "United Kingdom"
-      ],
-      "metrics": [
-        "9",
-        "9"
+        "11",
+        "8"
       ]
     },
     {
@@ -566,13 +548,22 @@
         "Germany"
       ],
       "metrics": [
-        "7",
-        "5"
+        "8",
+        "6"
       ]
     },
     {
       "dimensions": [
-        "Romania"
+        "United Kingdom"
+      ],
+      "metrics": [
+        "7",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "Norway"
       ],
       "metrics": [
         "5",
@@ -590,28 +581,10 @@
     },
     {
       "dimensions": [
-        "Norway"
+        "Romania"
       ],
       "metrics": [
         "4",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "Australia"
-      ],
-      "metrics": [
-        "3",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Canada"
-      ],
-      "metrics": [
-        "3",
         "3"
       ]
     },
@@ -623,20 +596,38 @@
         "3",
         "3"
       ]
+    },
+    {
+      "dimensions": [
+        "Australia"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Belgium"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 93,
-    "users": 69,
-    "pageViews": 112,
-    "avgSessionDuration": 120,
+    "sessions": 88,
+    "users": 65,
+    "pageViews": 108,
+    "avgSessionDuration": 123,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 514,
-    "users": 332,
-    "pageViews": 682,
-    "avgSessionDuration": 170,
+    "sessions": 501,
+    "users": 326,
+    "pageViews": 662,
+    "avgSessionDuration": 164,
     "bounceRate": 0.5
   }
 }

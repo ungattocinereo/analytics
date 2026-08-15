@@ -1,7 +1,7 @@
 {
   "name": "find.amalfi.day",
   "propertyId": "properties/531159837",
-  "updatedAt": "2026-08-14T06:17:25.040Z",
+  "updatedAt": "2026-08-15T05:28:45.213Z",
   "trend": [
     {
       "dimensions": [
@@ -115,16 +115,6 @@
     },
     {
       "dimensions": [
-        "20260715"
-      ],
-      "metrics": [
-        "9",
-        "4",
-        "19"
-      ]
-    },
-    {
-      "dimensions": [
         "20260725"
       ],
       "metrics": [
@@ -185,6 +175,16 @@
     },
     {
       "dimensions": [
+        "20260814"
+      ],
+      "metrics": [
+        "7",
+        "7",
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
         "20260803"
       ],
       "metrics": [
@@ -211,16 +211,6 @@
         "5",
         "2",
         "9"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260814"
-      ],
-      "metrics": [
-        "5",
-        "5",
-        "5"
       ]
     },
     {
@@ -300,8 +290,8 @@
         "/"
       ],
       "metrics": [
-        "28",
-        "25"
+        "29",
+        "26"
       ]
     },
     {
@@ -318,8 +308,8 @@
         "/a/"
       ],
       "metrics": [
-        "8",
-        "7"
+        "10",
+        "8"
       ]
     },
     {
@@ -338,8 +328,8 @@
         "(direct)"
       ],
       "metrics": [
-        "17",
-        "11"
+        "18",
+        "12"
       ]
     },
     {
@@ -371,20 +361,20 @@
     },
     {
       "dimensions": [
-        "airbnb.com.au"
+        "airbnb.it"
       ],
       "metrics": [
-        "2",
+        "3",
         "1"
       ]
     },
     {
       "dimensions": [
-        "airbnb.it"
+        "airbnb.com.au"
       ],
       "metrics": [
         "2",
-        "0"
+        "1"
       ]
     },
     {
@@ -421,8 +411,17 @@
         "Italy"
       ],
       "metrics": [
-        "15",
+        "16",
         "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "India"
+      ],
+      "metrics": [
+        "4",
+        "4"
       ]
     },
     {
@@ -432,15 +431,6 @@
       "metrics": [
         "4",
         "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "India"
-      ],
-      "metrics": [
-        "3",
-        "3"
       ]
     },
     {
@@ -508,17 +498,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 35,
-    "users": 16,
-    "pageViews": 56,
-    "avgSessionDuration": 255,
+    "sessions": 37,
+    "users": 17,
+    "pageViews": 59,
+    "avgSessionDuration": 265,
     "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 219,
-    "users": 93,
-    "pageViews": 374,
-    "avgSessionDuration": 197,
+    "sessions": 211,
+    "users": 90,
+    "pageViews": 358,
+    "avgSessionDuration": 203,
     "bounceRate": 0.5
   }
 }
