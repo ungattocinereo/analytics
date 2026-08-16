@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-08-15T05:28:43.344Z",
+  "updatedAt": "2026-08-16T05:31:54.133Z",
   "trend": [
     {
       "dimensions": [
@@ -41,16 +41,6 @@
         "41",
         "34",
         "65"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260716"
-      ],
-      "metrics": [
-        "37",
-        "35",
-        "40"
       ]
     },
     {
@@ -185,6 +175,16 @@
     },
     {
       "dimensions": [
+        "20260815"
+      ],
+      "metrics": [
+        "24",
+        "22",
+        "26"
+      ]
+    },
+    {
+      "dimensions": [
         "20260722"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260815"
+        "20260816"
       ],
       "metrics": [
-        "5",
-        "5",
-        "8"
+        "2",
+        "2",
+        "2"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "61",
-        "61"
+        "66",
+        "65"
       ]
     },
     {
@@ -329,8 +329,8 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "29",
-        "28"
+        "28",
+        "27"
       ]
     },
     {
@@ -344,25 +344,25 @@
     },
     {
       "dimensions": [
-        "/photos"
+        "/blog/how-to-get-to-amalfi"
       ],
       "metrics": [
-        "7",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "/contacts"
-      ],
-      "metrics": [
-        "6",
+        "5",
         "5"
       ]
     },
     {
       "dimensions": [
-        "/blog/how-to-get-to-amalfi"
+        "/photos"
+      ],
+      "metrics": [
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/contacts"
       ],
       "metrics": [
         "4",
@@ -372,15 +372,6 @@
     {
       "dimensions": [
         "/2018/06/eva-green-amalfi-atrani"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/apartments"
       ],
       "metrics": [
         "3",
@@ -443,7 +434,16 @@
     },
     {
       "dimensions": [
-        "/2018/05/photos-of-travel-italy-blog"
+        "/apartments"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/atrani-ghotovitsia-k-prazdniku-santa-maria-maddalena-protsiessiia-muzyka-i-fieiiervierk-22-iiulia"
       ],
       "metrics": [
         "2",
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "183",
-        "183"
+        "189",
+        "189"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "26",
-        "18"
+        "32",
+        "23"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "18",
-        "15"
+        "17",
+        "14"
       ]
     },
     {
@@ -484,8 +484,8 @@
         "ya.ru"
       ],
       "metrics": [
-        "4",
-        "3"
+        "5",
+        "4"
       ]
     },
     {
@@ -558,8 +558,8 @@
         "Russia"
       ],
       "metrics": [
-        "68",
-        "64"
+        "73",
+        "69"
       ]
     },
     {
@@ -576,8 +576,8 @@
         "United States"
       ],
       "metrics": [
-        "9",
-        "9"
+        "12",
+        "11"
       ]
     },
     {
@@ -585,8 +585,8 @@
         "Vietnam"
       ],
       "metrics": [
-        "7",
-        "7"
+        "9",
+        "9"
       ]
     },
     {
@@ -618,16 +618,16 @@
     },
     {
       "dimensions": [
-        "Iran"
+        "Kazakhstan"
       ],
       "metrics": [
         "3",
-        "3"
+        "2"
       ]
     },
     {
       "dimensions": [
-        "Kazakhstan"
+        "United Kingdom"
       ],
       "metrics": [
         "3",
@@ -636,17 +636,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 240,
-    "users": 227,
-    "pageViews": 266,
-    "avgSessionDuration": 41,
+    "sessions": 251,
+    "users": 237,
+    "pageViews": 272,
+    "avgSessionDuration": 39,
     "bounceRate": 0.9
   },
   "summary30d": {
-    "sessions": 860,
-    "users": 809,
-    "pageViews": 1095,
-    "avgSessionDuration": 61,
+    "sessions": 844,
+    "users": 793,
+    "pageViews": 1075,
+    "avgSessionDuration": 59,
     "bounceRate": 0.8
   }
 }

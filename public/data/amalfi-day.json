@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-08-15T05:28:44.134Z",
+  "updatedAt": "2026-08-16T05:31:55.002Z",
   "trend": [
     {
       "dimensions": [
@@ -205,16 +205,6 @@
     },
     {
       "dimensions": [
-        "20260716"
-      ],
-      "metrics": [
-        "14",
-        "8",
-        "20"
-      ]
-    },
-    {
-      "dimensions": [
         "20260812"
       ],
       "metrics": [
@@ -295,12 +285,22 @@
     },
     {
       "dimensions": [
+        "20260815"
+      ],
+      "metrics": [
+        "8",
+        "6",
+        "11"
+      ]
+    },
+    {
+      "dimensions": [
         "20260814"
       ],
       "metrics": [
-        "6",
-        "4",
-        "9"
+        "7",
+        "5",
+        "10"
       ]
     }
   ],
@@ -310,8 +310,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "36",
-        "33"
+        "27",
+        "25"
       ]
     },
     {
@@ -319,8 +319,8 @@
         "/parking/"
       ],
       "metrics": [
-        "18",
-        "19"
+        "17",
+        "17"
       ]
     },
     {
@@ -328,8 +328,8 @@
         "/"
       ],
       "metrics": [
-        "13",
-        "11"
+        "15",
+        "13"
       ]
     },
     {
@@ -370,25 +370,25 @@
     },
     {
       "dimensions": [
-        "/photoshootings"
+        "/how-to-get"
       ],
       "metrics": [
         "4",
-        "2"
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/apartments/"
+      ],
+      "metrics": [
+        "3",
+        "1"
       ]
     },
     {
       "dimensions": [
         "/directions/"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/how-to-get"
       ],
       "metrics": [
         "3",
@@ -424,7 +424,7 @@
     },
     {
       "dimensions": [
-        "/blog/license-plate-restrictions-return-to-the-amalfi-coast-april-25-may-2-2/"
+        "/photoshootings"
       ],
       "metrics": [
         "1",
@@ -438,8 +438,8 @@
         "google"
       ],
       "metrics": [
-        "39",
-        "31"
+        "34",
+        "27"
       ]
     },
     {
@@ -447,8 +447,8 @@
         "(direct)"
       ],
       "metrics": [
-        "16",
-        "9"
+        "18",
+        "10"
       ]
     },
     {
@@ -456,17 +456,8 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "14",
-        "12"
-      ]
-    },
-    {
-      "dimensions": [
-        "bing"
-      ],
-      "metrics": [
-        "6",
-        "5"
+        "12",
+        "11"
       ]
     },
     {
@@ -489,11 +480,11 @@
     },
     {
       "dimensions": [
-        "yahoo"
+        "bing"
       ],
       "metrics": [
         "3",
-        "2"
+        "3"
       ]
     },
     {
@@ -503,6 +494,15 @@
       "metrics": [
         "2",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "yahoo"
+      ],
+      "metrics": [
+        "2",
+        "1"
       ]
     },
     {
@@ -530,17 +530,8 @@
         "Italy"
       ],
       "metrics": [
-        "24",
+        "25",
         "17"
-      ]
-    },
-    {
-      "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "11",
-        "8"
       ]
     },
     {
@@ -548,16 +539,16 @@
         "Germany"
       ],
       "metrics": [
-        "8",
+        "9",
         "6"
       ]
     },
     {
       "dimensions": [
-        "United Kingdom"
+        "United States"
       ],
       "metrics": [
-        "7",
+        "9",
         "7"
       ]
     },
@@ -572,6 +563,15 @@
     },
     {
       "dimensions": [
+        "United Kingdom"
+      ],
+      "metrics": [
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
         "Netherlands"
       ],
       "metrics": [
@@ -581,29 +581,11 @@
     },
     {
       "dimensions": [
-        "Romania"
-      ],
-      "metrics": [
-        "4",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "Sweden"
+        "South Korea"
       ],
       "metrics": [
         "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "Australia"
-      ],
-      "metrics": [
-        "2",
-        "1"
+        "2"
       ]
     },
     {
@@ -614,19 +596,37 @@
         "2",
         "2"
       ]
+    },
+    {
+      "dimensions": [
+        "Cayman Islands"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Hungary"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 88,
-    "users": 65,
-    "pageViews": 108,
-    "avgSessionDuration": 123,
+    "sessions": 79,
+    "users": 58,
+    "pageViews": 100,
+    "avgSessionDuration": 183,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 501,
+    "sessions": 496,
     "users": 326,
-    "pageViews": 662,
+    "pageViews": 654,
     "avgSessionDuration": 164,
     "bounceRate": 0.5
   }
