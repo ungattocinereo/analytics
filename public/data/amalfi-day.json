@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-08-16T05:31:55.002Z",
+  "updatedAt": "2026-08-17T05:38:39.950Z",
   "trend": [
     {
       "dimensions": [
@@ -95,16 +95,6 @@
     },
     {
       "dimensions": [
-        "20260717"
-      ],
-      "metrics": [
-        "18",
-        "14",
-        "26"
-      ]
-    },
-    {
-      "dimensions": [
         "20260728"
       ],
       "metrics": [
@@ -181,6 +171,16 @@
         "16",
         "9",
         "17"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260816"
+      ],
+      "metrics": [
+        "16",
+        "10",
+        "21"
       ]
     },
     {
@@ -310,17 +310,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "27",
-        "25"
-      ]
-    },
-    {
-      "dimensions": [
-        "/parking/"
-      ],
-      "metrics": [
-        "17",
-        "17"
+        "29",
+        "27"
       ]
     },
     {
@@ -328,13 +319,22 @@
         "/"
       ],
       "metrics": [
-        "15",
-        "13"
+        "16",
+        "14"
       ]
     },
     {
       "dimensions": [
-        "/apartments"
+        "/parking/"
+      ],
+      "metrics": [
+        "15",
+        "15"
+      ]
+    },
+    {
+      "dimensions": [
+        "/ferry-timetables/"
       ],
       "metrics": [
         "9",
@@ -343,11 +343,11 @@
     },
     {
       "dimensions": [
-        "/ferry-timetables/"
+        "/apartments"
       ],
       "metrics": [
-        "7",
-        "5"
+        "8",
+        "7"
       ]
     },
     {
@@ -355,8 +355,8 @@
         "/contact"
       ],
       "metrics": [
-        "5",
-        "5"
+        "7",
+        "7"
       ]
     },
     {
@@ -364,8 +364,8 @@
         "/ferry-timetables"
       ],
       "metrics": [
-        "4",
-        "4"
+        "5",
+        "6"
       ]
     },
     {
@@ -397,10 +397,10 @@
     },
     {
       "dimensions": [
-        "/blog/a-local-3-or-4-day-amalfi-coast-itinerary-without-a-car/"
+        "/photoshootings"
       ],
       "metrics": [
-        "2",
+        "3",
         "2"
       ]
     },
@@ -424,7 +424,16 @@
     },
     {
       "dimensions": [
-        "/photoshootings"
+        "/blog/a-local-3-or-4-day-amalfi-coast-itinerary-without-a-car/"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/experience"
       ],
       "metrics": [
         "1",
@@ -439,7 +448,7 @@
       ],
       "metrics": [
         "34",
-        "27"
+        "23"
       ]
     },
     {
@@ -447,8 +456,8 @@
         "(direct)"
       ],
       "metrics": [
-        "18",
-        "10"
+        "20",
+        "11"
       ]
     },
     {
@@ -456,8 +465,17 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "12",
-        "11"
+        "11",
+        "10"
+      ]
+    },
+    {
+      "dimensions": [
+        "bing"
+      ],
+      "metrics": [
+        "4",
+        "4"
       ]
     },
     {
@@ -471,20 +489,11 @@
     },
     {
       "dimensions": [
-        "amalfi-guide-ungattocinereo-cinereos-projects.vercel.app"
+        "ecosia.org"
       ],
       "metrics": [
-        "3",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "bing"
-      ],
-      "metrics": [
-        "3",
-        "3"
+        "2",
+        "2"
       ]
     },
     {
@@ -507,16 +516,16 @@
     },
     {
       "dimensions": [
-        "withjoy.com"
+        "amalfi-guide-ungattocinereo-cinereos-projects.vercel.app"
       ],
       "metrics": [
         "1",
-        "1"
+        "0"
       ]
     },
     {
       "dimensions": [
-        "yandex.ru"
+        "ca.search.yahoo.com"
       ],
       "metrics": [
         "1",
@@ -530,8 +539,8 @@
         "Italy"
       ],
       "metrics": [
-        "25",
-        "17"
+        "23",
+        "16"
       ]
     },
     {
@@ -539,8 +548,8 @@
         "Germany"
       ],
       "metrics": [
-        "9",
-        "6"
+        "12",
+        "8"
       ]
     },
     {
@@ -548,17 +557,8 @@
         "United States"
       ],
       "metrics": [
-        "9",
+        "10",
         "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "Norway"
-      ],
-      "metrics": [
-        "5",
-        "3"
       ]
     },
     {
@@ -566,8 +566,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "5",
-        "5"
+        "9",
+        "7"
       ]
     },
     {
@@ -577,6 +577,24 @@
       "metrics": [
         "4",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Norway"
+      ],
+      "metrics": [
+        "4",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Hungary"
+      ],
+      "metrics": [
+        "3",
+        "1"
       ]
     },
     {
@@ -605,28 +623,19 @@
         "2",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "Hungary"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 79,
+    "sessions": 84,
     "users": 58,
-    "pageViews": 100,
-    "avgSessionDuration": 183,
+    "pageViews": 109,
+    "avgSessionDuration": 185,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 496,
-    "users": 326,
-    "pageViews": 654,
+    "sessions": 494,
+    "users": 323,
+    "pageViews": 649,
     "avgSessionDuration": 164,
     "bounceRate": 0.5
   }
