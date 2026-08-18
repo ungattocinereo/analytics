@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-08-17T05:38:38.942Z",
+  "updatedAt": "2026-08-18T05:33:35.312Z",
   "trend": [
     {
       "dimensions": [
@@ -41,16 +41,6 @@
         "41",
         "34",
         "65"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260718"
-      ],
-      "metrics": [
-        "37",
-        "37",
-        "38"
       ]
     },
     {
@@ -195,6 +185,16 @@
     },
     {
       "dimensions": [
+        "20260817"
+      ],
+      "metrics": [
+        "20",
+        "20",
+        "20"
+      ]
+    },
+    {
+      "dimensions": [
         "20260814"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260817"
+        "20260818"
       ],
       "metrics": [
-        "3",
-        "3",
-        "3"
+        "5",
+        "5",
+        "5"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "64",
-        "63"
+        "65",
+        "64"
       ]
     },
     {
@@ -329,8 +329,8 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "21",
-        "22"
+        "13",
+        "14"
       ]
     },
     {
@@ -344,7 +344,7 @@
     },
     {
       "dimensions": [
-        "/blog/how-to-get-to-amalfi"
+        "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
       ],
       "metrics": [
         "5",
@@ -354,6 +354,15 @@
     {
       "dimensions": [
         "/blog"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/how-to-get-to-amalfi"
       ],
       "metrics": [
         "4",
@@ -389,6 +398,15 @@
     },
     {
       "dimensions": [
+        "/blog/li-galli-ostrov-nurieieva-u-pozitano-otbilsia-ot-liuksovogho-resorta"
+      ],
+      "metrics": [
+        "3",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
         "/blog/page/4"
       ],
       "metrics": [
@@ -407,25 +425,16 @@
     },
     {
       "dimensions": [
-        "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/book-atrani"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
         "/contacts"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/parking"
       ],
       "metrics": [
         "3",
@@ -440,15 +449,6 @@
         "3",
         "3"
       ]
-    },
-    {
-      "dimensions": [
-        "/transport"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
     }
   ],
   "sources": [
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "183",
-        "183"
+        "193",
+        "193"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "28",
-        "21"
+        "23",
+        "20"
       ]
     },
     {
@@ -484,7 +484,7 @@
         "ya.ru"
       ],
       "metrics": [
-        "5",
+        "4",
         "4"
       ]
     },
@@ -508,16 +508,25 @@
     },
     {
       "dimensions": [
-        "yandex"
+        "google.com"
       ],
       "metrics": [
-        "2",
-        "2"
+        "1",
+        "1"
       ]
     },
     {
       "dimensions": [
         "readlife.net"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "yandex"
       ],
       "metrics": [
         "1",
@@ -549,8 +558,8 @@
         "Russia"
       ],
       "metrics": [
-        "69",
-        "65"
+        "72",
+        "69"
       ]
     },
     {
@@ -564,16 +573,16 @@
     },
     {
       "dimensions": [
-        "Italy"
+        "Vietnam"
       ],
       "metrics": [
-        "10",
-        "10"
+        "12",
+        "12"
       ]
     },
     {
       "dimensions": [
-        "Vietnam"
+        "Italy"
       ],
       "metrics": [
         "9",
@@ -591,20 +600,20 @@
     },
     {
       "dimensions": [
-        "Netherlands"
-      ],
-      "metrics": [
-        "4",
-        "0"
-      ]
-    },
-    {
-      "dimensions": [
         "Kazakhstan"
       ],
       "metrics": [
         "3",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "United Kingdom"
+      ],
+      "metrics": [
+        "3",
+        "3"
       ]
     },
     {
@@ -618,7 +627,7 @@
     },
     {
       "dimensions": [
-        "Germany"
+        "China"
       ],
       "metrics": [
         "2",
@@ -627,16 +636,16 @@
     }
   ],
   "summary7d": {
-    "sessions": 238,
-    "users": 227,
-    "pageViews": 257,
+    "sessions": 242,
+    "users": 236,
+    "pageViews": 261,
     "avgSessionDuration": 29,
     "bounceRate": 0.9
   },
   "summary30d": {
-    "sessions": 820,
-    "users": 774,
-    "pageViews": 1041,
+    "sessions": 804,
+    "users": 759,
+    "pageViews": 1025,
     "avgSessionDuration": 56,
     "bounceRate": 0.8
   }
