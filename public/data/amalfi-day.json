@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-08-18T05:33:36.253Z",
+  "updatedAt": "2026-08-19T05:34:22.125Z",
   "trend": [
     {
       "dimensions": [
@@ -75,12 +75,12 @@
     },
     {
       "dimensions": [
-        "20260719"
+        "20260818"
       ],
       "metrics": [
-        "19",
-        "12",
-        "22"
+        "20",
+        "14",
+        "29"
       ]
     },
     {
@@ -307,20 +307,11 @@
   "topPages": [
     {
       "dimensions": [
-        "/timetables/"
-      ],
-      "metrics": [
-        "23",
-        "22"
-      ]
-    },
-    {
-      "dimensions": [
         "/parking/"
       ],
       "metrics": [
-        "20",
-        "19"
+        "25",
+        "21"
       ]
     },
     {
@@ -328,8 +319,17 @@
         "/"
       ],
       "metrics": [
-        "16",
-        "14"
+        "20",
+        "18"
+      ]
+    },
+    {
+      "dimensions": [
+        "/timetables/"
+      ],
+      "metrics": [
+        "19",
+        "19"
       ]
     },
     {
@@ -343,15 +343,6 @@
     },
     {
       "dimensions": [
-        "/apartments"
-      ],
-      "metrics": [
-        "9",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
         "/how-to-get"
       ],
       "metrics": [
@@ -361,11 +352,20 @@
     },
     {
       "dimensions": [
+        "/apartments"
+      ],
+      "metrics": [
+        "7",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
         "/contact"
       ],
       "metrics": [
-        "8",
-        "8"
+        "6",
+        "6"
       ]
     },
     {
@@ -388,10 +388,10 @@
     },
     {
       "dimensions": [
-        "/photoshootings"
+        "/beaches"
       ],
       "metrics": [
-        "3",
+        "2",
         "2"
       ]
     },
@@ -406,37 +406,37 @@
     },
     {
       "dimensions": [
+        "/directions/"
+      ],
+      "metrics": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/parking"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photoshootings"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "/photoshootings/"
       ],
       "metrics": [
         "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/beaches"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/a-local-3-or-4-day-amalfi-coast-itinerary-without-a-car/"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/directions/"
-      ],
-      "metrics": [
-        "1",
         "2"
       ]
     }
@@ -447,8 +447,8 @@
         "google"
       ],
       "metrics": [
-        "40",
-        "27"
+        "39",
+        "26"
       ]
     },
     {
@@ -456,7 +456,7 @@
         "(direct)"
       ],
       "metrics": [
-        "20",
+        "23",
         "10"
       ]
     },
@@ -465,8 +465,17 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "12",
+        "11",
         "11"
+      ]
+    },
+    {
+      "dimensions": [
+        "bing"
+      ],
+      "metrics": [
+        "4",
+        "3"
       ]
     },
     {
@@ -485,15 +494,6 @@
       "metrics": [
         "3",
         "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "bing"
-      ],
-      "metrics": [
-        "2",
-        "2"
       ]
     },
     {
@@ -539,8 +539,8 @@
         "Italy"
       ],
       "metrics": [
-        "25",
-        "16"
+        "26",
+        "18"
       ]
     },
     {
@@ -548,8 +548,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "13",
-        "7"
+        "17",
+        "9"
       ]
     },
     {
@@ -558,7 +558,7 @@
       ],
       "metrics": [
         "10",
-        "6"
+        "5"
       ]
     },
     {
@@ -566,22 +566,22 @@
         "United States"
       ],
       "metrics": [
-        "9",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "Netherlands"
-      ],
-      "metrics": [
-        "5",
+        "7",
         "3"
       ]
     },
     {
       "dimensions": [
-        "Norway"
+        "Greece"
+      ],
+      "metrics": [
+        "4",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Netherlands"
       ],
       "metrics": [
         "4",
@@ -599,7 +599,7 @@
     },
     {
       "dimensions": [
-        "South Korea"
+        "Poland"
       ],
       "metrics": [
         "3",
@@ -626,17 +626,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 91,
-    "users": 59,
-    "pageViews": 119,
-    "avgSessionDuration": 219,
+    "sessions": 92,
+    "users": 57,
+    "pageViews": 125,
+    "avgSessionDuration": 259,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 494,
-    "users": 324,
-    "pageViews": 652,
-    "avgSessionDuration": 173,
+    "sessions": 495,
+    "users": 326,
+    "pageViews": 659,
+    "avgSessionDuration": 180,
     "bounceRate": 0.5
   }
 }

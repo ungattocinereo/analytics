@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-08-18T05:33:35.312Z",
+  "updatedAt": "2026-08-19T05:34:21.159Z",
   "trend": [
     {
       "dimensions": [
@@ -41,16 +41,6 @@
         "41",
         "34",
         "65"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260719"
-      ],
-      "metrics": [
-        "35",
-        "34",
-        "37"
       ]
     },
     {
@@ -185,6 +175,16 @@
     },
     {
       "dimensions": [
+        "20260818"
+      ],
+      "metrics": [
+        "21",
+        "21",
+        "21"
+      ]
+    },
+    {
+      "dimensions": [
         "20260817"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260818"
+        "20260819"
       ],
       "metrics": [
-        "5",
-        "5",
-        "5"
+        "2",
+        "2",
+        "2"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "65",
-        "64"
+        "66",
+        "65"
       ]
     },
     {
@@ -329,8 +329,8 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "13",
-        "14"
+        "11",
+        "11"
       ]
     },
     {
@@ -344,6 +344,15 @@
     },
     {
       "dimensions": [
+        "/blog/how-to-get-to-amalfi"
+      ],
+      "metrics": [
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
         "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
       ],
       "metrics": [
@@ -353,47 +362,20 @@
     },
     {
       "dimensions": [
+        "/2018/07/vintage-cars-amalfi-drive"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
         "/blog"
       ],
       "metrics": [
         "4",
         "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/how-to-get-to-amalfi"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photos"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2018/06/eva-green-amalfi-atrani"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/apartments"
-      ],
-      "metrics": [
-        "3",
-        "3"
       ]
     },
     {
@@ -443,11 +425,29 @@
     },
     {
       "dimensions": [
-        "/tours-car"
+        "/photos"
       ],
       "metrics": [
         "3",
         "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/transport"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2021/09/positano-steibek"
+      ],
+      "metrics": [
+        "2",
+        "2"
       ]
     }
   ],
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "193",
-        "193"
+        "191",
+        "191"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "23",
-        "20"
+        "22",
+        "19"
       ]
     },
     {
@@ -475,22 +475,22 @@
         "yandex.ru"
       ],
       "metrics": [
-        "14",
-        "11"
-      ]
-    },
-    {
-      "dimensions": [
-        "ya.ru"
-      ],
-      "metrics": [
-        "4",
-        "4"
+        "15",
+        "13"
       ]
     },
     {
       "dimensions": [
         "ig"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "m.facebook.com"
       ],
       "metrics": [
         "2",
@@ -499,7 +499,7 @@
     },
     {
       "dimensions": [
-        "m.facebook.com"
+        "yandex"
       ],
       "metrics": [
         "2",
@@ -526,7 +526,7 @@
     },
     {
       "dimensions": [
-        "yandex"
+        "ya.ru"
       ],
       "metrics": [
         "1",
@@ -558,17 +558,8 @@
         "Russia"
       ],
       "metrics": [
-        "72",
-        "69"
-      ]
-    },
-    {
-      "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "12",
-        "11"
+        "73",
+        "71"
       ]
     },
     {
@@ -576,8 +567,8 @@
         "Vietnam"
       ],
       "metrics": [
-        "12",
-        "12"
+        "10",
+        "10"
       ]
     },
     {
@@ -585,8 +576,17 @@
         "Italy"
       ],
       "metrics": [
-        "9",
-        "9"
+        "8",
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "8",
+        "7"
       ]
     },
     {
@@ -627,7 +627,7 @@
     },
     {
       "dimensions": [
-        "China"
+        "Brazil"
       ],
       "metrics": [
         "2",
@@ -636,17 +636,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 242,
-    "users": 236,
-    "pageViews": 261,
-    "avgSessionDuration": 29,
+    "sessions": 239,
+    "users": 234,
+    "pageViews": 259,
+    "avgSessionDuration": 28,
     "bounceRate": 0.9
   },
   "summary30d": {
-    "sessions": 804,
-    "users": 759,
-    "pageViews": 1025,
-    "avgSessionDuration": 56,
+    "sessions": 787,
+    "users": 743,
+    "pageViews": 1006,
+    "avgSessionDuration": 57,
     "bounceRate": 0.8
   }
 }
