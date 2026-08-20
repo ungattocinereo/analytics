@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-08-19T05:34:22.872Z",
+  "updatedAt": "2026-08-20T05:35:06.834Z",
   "trend": [
     {
       "dimensions": [
@@ -45,12 +45,12 @@
     },
     {
       "dimensions": [
-        "20260720"
+        "20260819"
       ],
       "metrics": [
         "2",
-        "1",
-        "8"
+        "2",
+        "7"
       ]
     },
     {
@@ -220,13 +220,40 @@
         "/"
       ],
       "metrics": [
-        "4",
-        "4"
+        "7",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/church-santa-maria-del-bando"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     },
     {
       "dimensions": [
         "/place/la-grande-mela-supermarket-deco-amalfi"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/secret-waterfall-valle-dei-mulini"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/waterfall-of-atrani"
       ],
       "metrics": [
         "1",
@@ -240,8 +267,8 @@
         "(direct)"
       ],
       "metrics": [
-        "4",
-        "0"
+        "5",
+        "2"
       ]
     },
     {
@@ -269,8 +296,8 @@
         "Italy"
       ],
       "metrics": [
-        "4",
-        "0"
+        "5",
+        "2"
       ]
     },
     {
@@ -284,17 +311,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 5,
-    "users": 1,
-    "pageViews": 5,
-    "avgSessionDuration": 0,
-    "bounceRate": 1
+    "sessions": 6,
+    "users": 3,
+    "pageViews": 11,
+    "avgSessionDuration": 61,
+    "bounceRate": 0.8
   },
   "summary30d": {
     "sessions": 39,
     "users": 17,
-    "pageViews": 113,
-    "avgSessionDuration": 169,
+    "pageViews": 112,
+    "avgSessionDuration": 157,
     "bounceRate": 0.4
   }
 }
