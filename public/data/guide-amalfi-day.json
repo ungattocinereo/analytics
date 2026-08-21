@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-08-20T05:35:06.834Z",
+  "updatedAt": "2026-08-21T05:36:11.366Z",
   "trend": [
     {
       "dimensions": [
@@ -10,16 +10,6 @@
       "metrics": [
         "10",
         "5",
-        "26"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260721"
-      ],
-      "metrics": [
-        "5",
-        "4",
         "26"
       ]
     },
@@ -212,6 +202,16 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "20260820"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "1"
+      ]
     }
   ],
   "topPages": [
@@ -220,8 +220,8 @@
         "/"
       ],
       "metrics": [
-        "7",
-        "5"
+        "6",
+        "4"
       ]
     },
     {
@@ -236,6 +236,15 @@
     {
       "dimensions": [
         "/place/la-grande-mela-supermarket-deco-amalfi"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/path-of-the-gods-sentiero-degli-dei"
       ],
       "metrics": [
         "1",
@@ -267,17 +276,8 @@
         "(direct)"
       ],
       "metrics": [
-        "5",
+        "4",
         "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "(not set)"
-      ],
-      "metrics": [
-        "1",
-        "1"
       ]
     },
     {
@@ -285,8 +285,8 @@
         "google"
       ],
       "metrics": [
-        "1",
-        "1"
+        "2",
+        "2"
       ]
     }
   ],
@@ -296,7 +296,7 @@
         "Italy"
       ],
       "metrics": [
-        "5",
+        "4",
         "2"
       ]
     },
@@ -308,20 +308,29 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "summary7d": {
     "sessions": 6,
-    "users": 3,
+    "users": 4,
     "pageViews": 11,
-    "avgSessionDuration": 61,
-    "bounceRate": 0.8
+    "avgSessionDuration": 65,
+    "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 39,
-    "users": 17,
-    "pageViews": 112,
-    "avgSessionDuration": 157,
+    "sessions": 35,
+    "users": 16,
+    "pageViews": 87,
+    "avgSessionDuration": 161,
     "bounceRate": 0.4
   }
 }

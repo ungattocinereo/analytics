@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-08-20T05:35:05.099Z",
+  "updatedAt": "2026-08-21T05:36:09.786Z",
   "trend": [
     {
       "dimensions": [
@@ -61,16 +61,6 @@
         "33",
         "33",
         "86"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260721"
-      ],
-      "metrics": [
-        "30",
-        "29",
-        "50"
       ]
     },
     {
@@ -225,6 +215,16 @@
     },
     {
       "dimensions": [
+        "20260820"
+      ],
+      "metrics": [
+        "17",
+        "17",
+        "19"
+      ]
+    },
+    {
+      "dimensions": [
         "20260731"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260820"
+        "20260821"
       ],
       "metrics": [
-        "4",
-        "4",
-        "4"
+        "3",
+        "3",
+        "3"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "60",
-        "59"
+        "49",
+        "48"
       ]
     },
     {
@@ -338,8 +338,17 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "9",
-        "9"
+        "8",
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "/parking"
+      ],
+      "metrics": [
+        "5",
+        "5"
       ]
     },
     {
@@ -357,16 +366,7 @@
       ],
       "metrics": [
         "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/parking"
-      ],
-      "metrics": [
-        "4",
-        "4"
+        "3"
       ]
     },
     {
@@ -398,16 +398,7 @@
     },
     {
       "dimensions": [
-        "/photos"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/apartments"
+        "/2019/12/katastrofa"
       ],
       "metrics": [
         "2",
@@ -434,7 +425,7 @@
     },
     {
       "dimensions": [
-        "/blog/atrani-for-lovers-part-1"
+        "/blog/page/4"
       ],
       "metrics": [
         "2",
@@ -443,7 +434,16 @@
     },
     {
       "dimensions": [
-        "/blog/page/4"
+        "/blog/sagra-del-pesce-v-atrani-2026-proghramma-i-istoriia-prazdnika"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/sal-de-riso-sweets"
       ],
       "metrics": [
         "2",
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "116",
-        "116"
+        "94",
+        "94"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "24",
-        "21"
+        "23",
+        "20"
       ]
     },
     {
@@ -493,8 +493,8 @@
         "ig"
       ],
       "metrics": [
-        "3",
-        "3"
+        "2",
+        "2"
       ]
     },
     {
@@ -508,25 +508,7 @@
     },
     {
       "dimensions": [
-        "(data not available)"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "google.com"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "readlife.net"
       ],
       "metrics": [
         "1",
@@ -549,17 +531,17 @@
         "Russia"
       ],
       "metrics": [
-        "72",
-        "71"
+        "73",
+        "72"
       ]
     },
     {
       "dimensions": [
-        "Singapore"
+        "Vietnam"
       ],
       "metrics": [
-        "27",
-        "27"
+        "12",
+        "12"
       ]
     },
     {
@@ -568,15 +550,6 @@
       ],
       "metrics": [
         "11",
-        "10"
-      ]
-    },
-    {
-      "dimensions": [
-        "Vietnam"
-      ],
-      "metrics": [
-        "10",
         "10"
       ]
     },
@@ -594,17 +567,17 @@
         "United States"
       ],
       "metrics": [
-        "6",
-        "5"
+        "5",
+        "4"
       ]
     },
     {
       "dimensions": [
-        "United Kingdom"
+        "Latvia"
       ],
       "metrics": [
         "3",
-        "3"
+        "2"
       ]
     },
     {
@@ -633,20 +606,29 @@
         "2",
         "2"
       ]
+    },
+    {
+      "dimensions": [
+        "Poland"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 165,
-    "users": 160,
-    "pageViews": 183,
-    "avgSessionDuration": 44,
+    "sessions": 139,
+    "users": 134,
+    "pageViews": 157,
+    "avgSessionDuration": 35,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 784,
-    "users": 738,
-    "pageViews": 1005,
-    "avgSessionDuration": 58,
+    "sessions": 772,
+    "users": 726,
+    "pageViews": 973,
+    "avgSessionDuration": 53,
     "bounceRate": 0.8
   }
 }

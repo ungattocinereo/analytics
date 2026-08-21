@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-08-20T05:35:06.274Z",
+  "updatedAt": "2026-08-21T05:36:10.807Z",
   "trend": [
     {
       "dimensions": [
@@ -41,16 +41,6 @@
         "24",
         "14",
         "34"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260721"
-      ],
-      "metrics": [
-        "23",
-        "17",
-        "30"
       ]
     },
     {
@@ -275,6 +265,16 @@
     },
     {
       "dimensions": [
+        "20260820"
+      ],
+      "metrics": [
+        "9",
+        "5",
+        "13"
+      ]
+    },
+    {
+      "dimensions": [
         "20260803"
       ],
       "metrics": [
@@ -307,19 +307,19 @@
   "topPages": [
     {
       "dimensions": [
-        "/"
-      ],
-      "metrics": [
-        "26",
-        "22"
-      ]
-    },
-    {
-      "dimensions": [
         "/parking/"
       ],
       "metrics": [
         "26",
+        "20"
+      ]
+    },
+    {
+      "dimensions": [
+        "/"
+      ],
+      "metrics": [
+        "23",
         "21"
       ]
     },
@@ -328,8 +328,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "17",
-        "18"
+        "18",
+        "19"
       ]
     },
     {
@@ -337,8 +337,8 @@
         "/ferry-timetables/"
       ],
       "metrics": [
-        "11",
-        "9"
+        "10",
+        "8"
       ]
     },
     {
@@ -346,8 +346,17 @@
         "/how-to-get"
       ],
       "metrics": [
-        "8",
-        "8"
+        "6",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/apartments"
+      ],
+      "metrics": [
+        "5",
+        "4"
       ]
     },
     {
@@ -370,20 +379,20 @@
     },
     {
       "dimensions": [
+        "/directions/"
+      ],
+      "metrics": [
+        "5",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
         "/ferry-timetables"
       ],
       "metrics": [
         "5",
         "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/apartments"
-      ],
-      "metrics": [
-        "4",
-        "3"
       ]
     },
     {
@@ -397,25 +406,16 @@
     },
     {
       "dimensions": [
-        "/beaches"
+        "/timetables"
       ],
       "metrics": [
-        "2",
+        "3",
         "2"
       ]
     },
     {
       "dimensions": [
         "/blog/why-silver-moon-and-mar-di-cobalto-are-closed-in-amalfi/"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/directions/"
       ],
       "metrics": [
         "2",
@@ -447,7 +447,7 @@
         "google"
       ],
       "metrics": [
-        "41",
+        "44",
         "27"
       ]
     },
@@ -457,7 +457,7 @@
       ],
       "metrics": [
         "20",
-        "9"
+        "10"
       ]
     },
     {
@@ -465,8 +465,8 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "13",
-        "13"
+        "12",
+        "12"
       ]
     },
     {
@@ -498,25 +498,7 @@
     },
     {
       "dimensions": [
-        "airbnb.de"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "ca.search.yahoo.com"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "m.facebook.com"
       ],
       "metrics": [
         "1",
@@ -540,7 +522,7 @@
       ],
       "metrics": [
         "25",
-        "19"
+        "18"
       ]
     },
     {
@@ -548,8 +530,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "19",
-        "11"
+        "24",
+        "12"
       ]
     },
     {
@@ -557,8 +539,8 @@
         "Germany"
       ],
       "metrics": [
-        "10",
-        "5"
+        "7",
+        "4"
       ]
     },
     {
@@ -590,15 +572,6 @@
     },
     {
       "dimensions": [
-        "Netherlands"
-      ],
-      "metrics": [
-        "4",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "Hungary"
       ],
       "metrics": [
@@ -617,6 +590,15 @@
     },
     {
       "dimensions": [
+        "Belgium"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "Hong Kong"
       ],
       "metrics": [
@@ -626,17 +608,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 92,
-    "users": 59,
+    "sessions": 91,
+    "users": 57,
     "pageViews": 129,
-    "avgSessionDuration": 288,
+    "avgSessionDuration": 296,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 493,
-    "users": 325,
-    "pageViews": 659,
-    "avgSessionDuration": 184,
+    "sessions": 479,
+    "users": 312,
+    "pageViews": 642,
+    "avgSessionDuration": 176,
     "bounceRate": 0.5
   }
 }
