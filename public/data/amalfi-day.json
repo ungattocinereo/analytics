@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-08-21T05:36:10.807Z",
+  "updatedAt": "2026-08-22T05:31:16.837Z",
   "trend": [
     {
       "dimensions": [
@@ -111,16 +111,6 @@
         "18",
         "14",
         "20"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260722"
-      ],
-      "metrics": [
-        "17",
-        "15",
-        "25"
       ]
     },
     {
@@ -265,6 +255,16 @@
     },
     {
       "dimensions": [
+        "20260821"
+      ],
+      "metrics": [
+        "10",
+        "6",
+        "14"
+      ]
+    },
+    {
+      "dimensions": [
         "20260820"
       ],
       "metrics": [
@@ -329,7 +329,7 @@
       ],
       "metrics": [
         "18",
-        "19"
+        "20"
       ]
     },
     {
@@ -337,13 +337,40 @@
         "/ferry-timetables/"
       ],
       "metrics": [
-        "10",
-        "8"
+        "8",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "/contact"
+      ],
+      "metrics": [
+        "6",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/directions/"
+      ],
+      "metrics": [
+        "6",
+        "5"
       ]
     },
     {
       "dimensions": [
         "/how-to-get"
+      ],
+      "metrics": [
+        "6",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/parking"
       ],
       "metrics": [
         "6",
@@ -370,34 +397,16 @@
     },
     {
       "dimensions": [
-        "/contact"
+        "/blog/why-silver-moon-and-mar-di-cobalto-are-closed-in-amalfi/"
       ],
       "metrics": [
-        "5",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/directions/"
-      ],
-      "metrics": [
-        "5",
-        "4"
+        "4",
+        "3"
       ]
     },
     {
       "dimensions": [
         "/ferry-timetables"
-      ],
-      "metrics": [
-        "5",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/parking"
       ],
       "metrics": [
         "4",
@@ -415,7 +424,7 @@
     },
     {
       "dimensions": [
-        "/blog/why-silver-moon-and-mar-di-cobalto-are-closed-in-amalfi/"
+        "/blog/amalfis-piazza-municipio-reopens-on-july-16-after-a-long-makeover"
       ],
       "metrics": [
         "2",
@@ -430,15 +439,6 @@
         "2",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "/photoshootings/"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
     }
   ],
   "sources": [
@@ -447,7 +447,7 @@
         "google"
       ],
       "metrics": [
-        "44",
+        "46",
         "27"
       ]
     },
@@ -456,8 +456,8 @@
         "(direct)"
       ],
       "metrics": [
-        "20",
-        "10"
+        "21",
+        "11"
       ]
     },
     {
@@ -474,8 +474,8 @@
         "bing"
       ],
       "metrics": [
-        "6",
-        "4"
+        "5",
+        "3"
       ]
     },
     {
@@ -507,6 +507,15 @@
     },
     {
       "dimensions": [
+        "duckduckgo"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "perplexity"
       ],
       "metrics": [
@@ -518,20 +527,20 @@
   "countries": [
     {
       "dimensions": [
-        "Italy"
+        "United Kingdom"
       ],
       "metrics": [
         "25",
-        "18"
+        "12"
       ]
     },
     {
       "dimensions": [
-        "United Kingdom"
+        "Italy"
       ],
       "metrics": [
         "24",
-        "12"
+        "17"
       ]
     },
     {
@@ -539,7 +548,7 @@
         "Germany"
       ],
       "metrics": [
-        "7",
+        "8",
         "4"
       ]
     },
@@ -549,7 +558,7 @@
       ],
       "metrics": [
         "6",
-        "3"
+        "4"
       ]
     },
     {
@@ -572,11 +581,29 @@
     },
     {
       "dimensions": [
+        "Denmark"
+      ],
+      "metrics": [
+        "3",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "Hungary"
       ],
       "metrics": [
         "3",
         "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Spain"
+      ],
+      "metrics": [
+        "3",
+        "2"
       ]
     },
     {
@@ -587,38 +614,20 @@
         "2",
         "2"
       ]
-    },
-    {
-      "dimensions": [
-        "Belgium"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "Hong Kong"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 91,
-    "users": 57,
-    "pageViews": 129,
-    "avgSessionDuration": 296,
+    "sessions": 94,
+    "users": 58,
+    "pageViews": 133,
+    "avgSessionDuration": 314,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 479,
-    "users": 312,
-    "pageViews": 642,
-    "avgSessionDuration": 176,
+    "sessions": 472,
+    "users": 303,
+    "pageViews": 631,
+    "avgSessionDuration": 172,
     "bounceRate": 0.5
   }
 }

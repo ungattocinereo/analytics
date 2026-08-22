@@ -1,7 +1,7 @@
 {
   "name": "find.amalfi.day",
   "propertyId": "properties/531159837",
-  "updatedAt": "2026-08-21T05:36:11.988Z",
+  "updatedAt": "2026-08-22T05:31:17.982Z",
   "trend": [
     {
       "dimensions": [
@@ -21,16 +21,6 @@
         "18",
         "13",
         "27"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260722"
-      ],
-      "metrics": [
-        "15",
-        "5",
-        "21"
       ]
     },
     {
@@ -155,6 +145,26 @@
     },
     {
       "dimensions": [
+        "20260820"
+      ],
+      "metrics": [
+        "9",
+        "6",
+        "12"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260821"
+      ],
+      "metrics": [
+        "9",
+        "3",
+        "14"
+      ]
+    },
+    {
+      "dimensions": [
         "20260723"
       ],
       "metrics": [
@@ -181,16 +191,6 @@
         "8",
         "7",
         "9"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260820"
-      ],
-      "metrics": [
-        "8",
-        "5",
-        "11"
       ]
     },
     {
@@ -309,8 +309,8 @@
         "/a/"
       ],
       "metrics": [
-        "36",
-        "32"
+        "33",
+        "30"
       ]
     },
     {
@@ -318,8 +318,8 @@
         "/route/amalfi-house.html"
       ],
       "metrics": [
-        "19",
-        "15"
+        "21",
+        "17"
       ]
     },
     {
@@ -336,8 +336,8 @@
         "/route/atrani-house.html"
       ],
       "metrics": [
-        "7",
-        "7"
+        "14",
+        "14"
       ]
     }
   ],
@@ -347,8 +347,8 @@
         "(direct)"
       ],
       "metrics": [
-        "64",
-        "55"
+        "65",
+        "52"
       ]
     },
     {
@@ -384,7 +384,7 @@
       ],
       "metrics": [
         "4",
-        "4"
+        "2"
       ]
     },
     {
@@ -399,6 +399,15 @@
     {
       "dimensions": [
         "airbnb.es"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "airbnb.pt"
       ],
       "metrics": [
         "2",
@@ -422,15 +431,6 @@
         "1",
         "0"
       ]
-    },
-    {
-      "dimensions": [
-        "airbnb.pt"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "countries": [
@@ -439,8 +439,8 @@
         "Italy"
       ],
       "metrics": [
-        "23",
-        "10"
+        "25",
+        "11"
       ]
     },
     {
@@ -448,26 +448,8 @@
         "United States"
       ],
       "metrics": [
-        "20",
-        "17"
-      ]
-    },
-    {
-      "dimensions": [
-        "India"
-      ],
-      "metrics": [
-        "12",
-        "12"
-      ]
-    },
-    {
-      "dimensions": [
-        "New Zealand"
-      ],
-      "metrics": [
-        "11",
-        "11"
+        "19",
+        "16"
       ]
     },
     {
@@ -475,8 +457,26 @@
         "Germany"
       ],
       "metrics": [
-        "9",
-        "4"
+        "11",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "New Zealand"
+      ],
+      "metrics": [
+        "10",
+        "10"
+      ]
+    },
+    {
+      "dimensions": [
+        "India"
+      ],
+      "metrics": [
+        "8",
+        "8"
       ]
     },
     {
@@ -486,6 +486,15 @@
       "metrics": [
         "4",
         "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Spain"
+      ],
+      "metrics": [
+        "4",
+        "2"
       ]
     },
     {
@@ -514,29 +523,20 @@
         "2",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "France"
-      ],
-      "metrics": [
-        "1",
-        "0"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 92,
-    "users": 63,
-    "pageViews": 132,
-    "avgSessionDuration": 62,
+    "sessions": 93,
+    "users": 60,
+    "pageViews": 138,
+    "avgSessionDuration": 54,
     "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 252,
-    "users": 129,
-    "pageViews": 392,
-    "avgSessionDuration": 133,
+    "sessions": 246,
+    "users": 128,
+    "pageViews": 386,
+    "avgSessionDuration": 131,
     "bounceRate": 0.6
   }
 }
