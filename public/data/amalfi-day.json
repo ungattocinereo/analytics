@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-08-22T05:31:16.837Z",
+  "updatedAt": "2026-08-23T05:33:01.726Z",
   "trend": [
     {
       "dimensions": [
@@ -41,16 +41,6 @@
         "24",
         "14",
         "34"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260723"
-      ],
-      "metrics": [
-        "20",
-        "16",
-        "35"
       ]
     },
     {
@@ -275,6 +265,16 @@
     },
     {
       "dimensions": [
+        "20260822"
+      ],
+      "metrics": [
+        "9",
+        "5",
+        "11"
+      ]
+    },
+    {
+      "dimensions": [
         "20260803"
       ],
       "metrics": [
@@ -310,17 +310,8 @@
         "/parking/"
       ],
       "metrics": [
-        "26",
-        "20"
-      ]
-    },
-    {
-      "dimensions": [
-        "/"
-      ],
-      "metrics": [
-        "23",
-        "21"
+        "25",
+        "19"
       ]
     },
     {
@@ -328,17 +319,26 @@
         "/timetables/"
       ],
       "metrics": [
-        "18",
-        "20"
+        "24",
+        "26"
       ]
     },
     {
       "dimensions": [
-        "/ferry-timetables/"
+        "/"
       ],
       "metrics": [
-        "8",
-        "7"
+        "19",
+        "17"
+      ]
+    },
+    {
+      "dimensions": [
+        "/apartments"
+      ],
+      "metrics": [
+        "7",
+        "5"
       ]
     },
     {
@@ -346,7 +346,16 @@
         "/contact"
       ],
       "metrics": [
-        "6",
+        "7",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "/ferry-timetables/"
+      ],
+      "metrics": [
+        "7",
         "6"
       ]
     },
@@ -361,15 +370,6 @@
     },
     {
       "dimensions": [
-        "/how-to-get"
-      ],
-      "metrics": [
-        "6",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
         "/parking"
       ],
       "metrics": [
@@ -379,20 +379,20 @@
     },
     {
       "dimensions": [
-        "/apartments"
+        "/ferry-timetables"
       ],
       "metrics": [
         "5",
-        "4"
+        "5"
       ]
     },
     {
       "dimensions": [
-        "/apartments/"
+        "/how-to-get"
       ],
       "metrics": [
         "5",
-        "3"
+        "5"
       ]
     },
     {
@@ -406,19 +406,19 @@
     },
     {
       "dimensions": [
-        "/ferry-timetables"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
         "/timetables"
       ],
       "metrics": [
         "3",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/apartments/"
+      ],
+      "metrics": [
+        "2",
         "2"
       ]
     },
@@ -447,7 +447,7 @@
         "google"
       ],
       "metrics": [
-        "46",
+        "49",
         "27"
       ]
     },
@@ -456,8 +456,8 @@
         "(direct)"
       ],
       "metrics": [
-        "21",
-        "11"
+        "18",
+        "9"
       ]
     },
     {
@@ -474,8 +474,8 @@
         "bing"
       ],
       "metrics": [
-        "5",
-        "3"
+        "6",
+        "4"
       ]
     },
     {
@@ -530,7 +530,7 @@
         "United Kingdom"
       ],
       "metrics": [
-        "25",
+        "28",
         "12"
       ]
     },
@@ -539,8 +539,8 @@
         "Italy"
       ],
       "metrics": [
-        "24",
-        "17"
+        "22",
+        "16"
       ]
     },
     {
@@ -548,8 +548,8 @@
         "Germany"
       ],
       "metrics": [
-        "8",
-        "4"
+        "7",
+        "3"
       ]
     },
     {
@@ -557,8 +557,8 @@
         "United States"
       ],
       "metrics": [
-        "6",
-        "4"
+        "7",
+        "5"
       ]
     },
     {
@@ -590,20 +590,11 @@
     },
     {
       "dimensions": [
-        "Hungary"
-      ],
-      "metrics": [
-        "3",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "Spain"
       ],
       "metrics": [
         "3",
-        "2"
+        "3"
       ]
     },
     {
@@ -614,20 +605,29 @@
         "2",
         "2"
       ]
+    },
+    {
+      "dimensions": [
+        "Hong Kong"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 94,
-    "users": 58,
+    "sessions": 95,
+    "users": 57,
     "pageViews": 133,
-    "avgSessionDuration": 314,
-    "bounceRate": 0.4
+    "avgSessionDuration": 250,
+    "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 472,
-    "users": 303,
-    "pageViews": 631,
-    "avgSessionDuration": 172,
+    "sessions": 461,
+    "users": 295,
+    "pageViews": 607,
+    "avgSessionDuration": 169,
     "bounceRate": 0.5
   }
 }
