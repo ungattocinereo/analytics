@@ -1,18 +1,8 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-08-25T05:35:28.738Z",
+  "updatedAt": "2026-08-26T05:38:03.781Z",
   "trend": [
-    {
-      "dimensions": [
-        "20260726"
-      ],
-      "metrics": [
-        "33",
-        "22",
-        "37"
-      ]
-    },
     {
       "dimensions": [
         "20260729"
@@ -195,6 +185,16 @@
     },
     {
       "dimensions": [
+        "20260824"
+      ],
+      "metrics": [
+        "12",
+        "6",
+        "10"
+      ]
+    },
+    {
+      "dimensions": [
         "20260807"
       ],
       "metrics": [
@@ -211,16 +211,6 @@
         "11",
         "9",
         "12"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260824"
-      ],
-      "metrics": [
-        "11",
-        "6",
-        "10"
       ]
     },
     {
@@ -302,6 +292,16 @@
         "5",
         "10"
       ]
+    },
+    {
+      "dimensions": [
+        "20260825"
+      ],
+      "metrics": [
+        "7",
+        "6",
+        "14"
+      ]
     }
   ],
   "topPages": [
@@ -310,26 +310,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "25",
-        "28"
-      ]
-    },
-    {
-      "dimensions": [
-        "/parking/"
-      ],
-      "metrics": [
-        "23",
-        "20"
-      ]
-    },
-    {
-      "dimensions": [
-        "/"
-      ],
-      "metrics": [
-        "18",
-        "16"
+        "21",
+        "24"
       ]
     },
     {
@@ -337,17 +319,44 @@
         "/directions/"
       ],
       "metrics": [
-        "16",
-        "13"
+        "15",
+        "12"
       ]
     },
     {
       "dimensions": [
-        "/parking"
+        "/parking/"
+      ],
+      "metrics": [
+        "15",
+        "15"
+      ]
+    },
+    {
+      "dimensions": [
+        "/"
+      ],
+      "metrics": [
+        "14",
+        "12"
+      ]
+    },
+    {
+      "dimensions": [
+        "/apartments"
+      ],
+      "metrics": [
+        "8",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/contact"
       ],
       "metrics": [
         "6",
-        "6"
+        "5"
       ]
     },
     {
@@ -361,15 +370,6 @@
     },
     {
       "dimensions": [
-        "/apartments"
-      ],
-      "metrics": [
-        "5",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
         "/how-to-get"
       ],
       "metrics": [
@@ -379,29 +379,11 @@
     },
     {
       "dimensions": [
-        "/contact"
+        "/parking"
       ],
       "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/amalfis-piazza-municipio-reopens-on-july-16-after-a-long-makeover"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/metro-del-mare-is-back-amalfi-coast-to-cilento-by-sea/"
-      ],
-      "metrics": [
-        "2",
-        "2"
+        "4",
+        "5"
       ]
     },
     {
@@ -433,7 +415,25 @@
     },
     {
       "dimensions": [
-        "/beaches"
+        "/blog"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/amalfis-piazza-municipio-reopens-on-july-16-after-a-long-makeover"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/metro-del-mare-is-back-amalfi-coast-to-cilento-by-sea/"
       ],
       "metrics": [
         "1",
@@ -447,8 +447,8 @@
         "google"
       ],
       "metrics": [
-        "43",
-        "25"
+        "37",
+        "22"
       ]
     },
     {
@@ -456,8 +456,8 @@
         "(direct)"
       ],
       "metrics": [
-        "29",
-        "11"
+        "25",
+        "10"
       ]
     },
     {
@@ -465,8 +465,8 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "8",
-        "8"
+        "7",
+        "6"
       ]
     },
     {
@@ -474,8 +474,8 @@
         "bing"
       ],
       "metrics": [
-        "7",
-        "5"
+        "5",
+        "4"
       ]
     },
     {
@@ -483,8 +483,8 @@
         "duckduckgo"
       ],
       "metrics": [
-        "1",
-        "1"
+        "2",
+        "2"
       ]
     },
     {
@@ -503,8 +503,8 @@
         "Italy"
       ],
       "metrics": [
-        "24",
-        "16"
+        "19",
+        "12"
       ]
     },
     {
@@ -512,8 +512,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "22",
-        "10"
+        "17",
+        "7"
       ]
     },
     {
@@ -521,17 +521,8 @@
         "United States"
       ],
       "metrics": [
-        "16",
-        "10"
-      ]
-    },
-    {
-      "dimensions": [
-        "Greece"
-      ],
-      "metrics": [
-        "6",
-        "2"
+        "17",
+        "11"
       ]
     },
     {
@@ -539,26 +530,8 @@
         "Germany"
       ],
       "metrics": [
-        "4",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Poland"
-      ],
-      "metrics": [
-        "4",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "Denmark"
-      ],
-      "metrics": [
         "3",
-        "2"
+        "1"
       ]
     },
     {
@@ -572,7 +545,7 @@
     },
     {
       "dimensions": [
-        "Russia"
+        "Denmark"
       ],
       "metrics": [
         "2",
@@ -581,26 +554,53 @@
     },
     {
       "dimensions": [
-        "Belgium"
+        "Greece"
       ],
       "metrics": [
-        "1",
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Netherlands"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Poland"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Russia"
+      ],
+      "metrics": [
+        "2",
         "1"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 89,
-    "users": 50,
-    "pageViews": 119,
-    "avgSessionDuration": 223,
+    "sessions": 77,
+    "users": 44,
+    "pageViews": 104,
+    "avgSessionDuration": 216,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 458,
-    "users": 283,
-    "pageViews": 601,
-    "avgSessionDuration": 170,
+    "sessions": 433,
+    "users": 269,
+    "pageViews": 578,
+    "avgSessionDuration": 180,
     "bounceRate": 0.5
   }
 }
