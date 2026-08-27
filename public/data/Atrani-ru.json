@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-08-26T05:38:02.715Z",
+  "updatedAt": "2026-08-27T16:17:57.794Z",
   "trend": [
     {
       "dimensions": [
@@ -31,6 +31,16 @@
         "42",
         "42",
         "44"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260826"
+      ],
+      "metrics": [
+        "40",
+        "36",
+        "40"
       ]
     },
     {
@@ -215,12 +225,12 @@
     },
     {
       "dimensions": [
-        "20260727"
+        "20260827"
       ],
       "metrics": [
-        "14",
+        "15",
         "13",
-        "27"
+        "16"
       ]
     },
     {
@@ -302,16 +312,6 @@
         "9",
         "9"
       ]
-    },
-    {
-      "dimensions": [
-        "20260826"
-      ],
-      "metrics": [
-        "2",
-        "2",
-        "2"
-      ]
     }
   ],
   "topPages": [
@@ -320,8 +320,17 @@
         "/"
       ],
       "metrics": [
-        "40",
-        "41"
+        "47",
+        "48"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
+      ],
+      "metrics": [
+        "15",
+        "15"
       ]
     },
     {
@@ -335,11 +344,11 @@
     },
     {
       "dimensions": [
-        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
+        "/blog/positano-steibek"
       ],
       "metrics": [
-        "12",
-        "12"
+        "9",
+        "8"
       ]
     },
     {
@@ -353,20 +362,29 @@
     },
     {
       "dimensions": [
-        "/blog/positano-steibek"
+        "/parking"
       ],
       "metrics": [
-        "4",
-        "3"
+        "5",
+        "5"
       ]
     },
     {
       "dimensions": [
-        "/parking"
+        "/transport"
       ],
       "metrics": [
         "4",
         "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2021/09/positano-steibek"
+      ],
+      "metrics": [
+        "3",
+        "3"
       ]
     },
     {
@@ -398,7 +416,7 @@
     },
     {
       "dimensions": [
-        "/2021/09/positano-steibek"
+        "/blog/netflix-snimaiet-film-positano-s-makkonakhi-i-saldanoi-na-pobieriezhie-amalfi"
       ],
       "metrics": [
         "2",
@@ -407,34 +425,7 @@
     },
     {
       "dimensions": [
-        "/blog/sagra-del-pesce-v-atrani-2026-proghramma-i-istoriia-prazdnika"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/tours-gastronomy"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/transport"
+        "/blog/page/5"
       ],
       "metrics": [
         "2",
@@ -449,6 +440,15 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "/2018/06/eva-green-amalfi-atrani"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "sources": [
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "73",
-        "73"
+        "94",
+        "94"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "17",
-        "16"
+        "20",
+        "20"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "11",
-        "10"
+        "20",
+        "13"
       ]
     },
     {
@@ -484,8 +484,17 @@
         "ya.ru"
       ],
       "metrics": [
-        "5",
-        "3"
+        "7",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "sunblog.asia"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     },
     {
@@ -493,17 +502,8 @@
         "yandex"
       ],
       "metrics": [
-        "4",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "m.facebook.com"
-      ],
-      "metrics": [
-        "2",
-        "2"
+        "1",
+        "1"
       ]
     }
   ],
@@ -513,8 +513,17 @@
         "Russia"
       ],
       "metrics": [
-        "61",
-        "58"
+        "78",
+        "70"
+      ]
+    },
+    {
+      "dimensions": [
+        "China"
+      ],
+      "metrics": [
+        "14",
+        "14"
       ]
     },
     {
@@ -522,8 +531,8 @@
         "Italy"
       ],
       "metrics": [
-        "8",
-        "7"
+        "9",
+        "9"
       ]
     },
     {
@@ -531,8 +540,8 @@
         "(not set)"
       ],
       "metrics": [
-        "6",
-        "6"
+        "7",
+        "7"
       ]
     },
     {
@@ -540,8 +549,8 @@
         "Poland"
       ],
       "metrics": [
-        "5",
-        "4"
+        "6",
+        "5"
       ]
     },
     {
@@ -555,6 +564,15 @@
     },
     {
       "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
         "Argentina"
       ],
       "metrics": [
@@ -564,7 +582,7 @@
     },
     {
       "dimensions": [
-        "Armenia"
+        "Belarus"
       ],
       "metrics": [
         "2",
@@ -579,38 +597,20 @@
         "2",
         "2"
       ]
-    },
-    {
-      "dimensions": [
-        "Germany"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "Netherlands"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 112,
-    "users": 106,
-    "pageViews": 129,
-    "avgSessionDuration": 44,
+    "sessions": 143,
+    "users": 134,
+    "pageViews": 160,
+    "avgSessionDuration": 30,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 689,
-    "users": 652,
-    "pageViews": 801,
-    "avgSessionDuration": 47,
+    "sessions": 728,
+    "users": 686,
+    "pageViews": 828,
+    "avgSessionDuration": 43,
     "bounceRate": 0.8
   }
 }
