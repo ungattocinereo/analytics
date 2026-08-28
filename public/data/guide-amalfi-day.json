@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-08-27T16:17:59.399Z",
+  "updatedAt": "2026-08-28T17:13:17.147Z",
   "trend": [
     {
       "dimensions": [
@@ -41,16 +41,6 @@
         "2",
         "2",
         "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260728"
-      ],
-      "metrics": [
-        "1",
-        "1",
-        "4"
       ]
     },
     {
@@ -241,15 +231,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "/place/path-of-the-gods-sentiero-degli-dei"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "sources": [
@@ -260,15 +241,6 @@
       "metrics": [
         "4",
         "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "google"
-      ],
-      "metrics": [
-        "1",
-        "1"
       ]
     }
   ],
@@ -290,29 +262,20 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 5,
-    "users": 3,
-    "pageViews": 7,
-    "avgSessionDuration": 296,
+    "sessions": 4,
+    "users": 2,
+    "pageViews": 6,
+    "avgSessionDuration": 370,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 35,
+    "sessions": 34,
     "users": 16,
-    "pageViews": 82,
-    "avgSessionDuration": 181,
+    "pageViews": 78,
+    "avgSessionDuration": 185,
     "bounceRate": 0.4
   }
 }

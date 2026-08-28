@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-08-27T16:17:58.610Z",
+  "updatedAt": "2026-08-28T17:13:16.395Z",
   "trend": [
     {
       "dimensions": [
@@ -51,16 +51,6 @@
         "19",
         "15",
         "23"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260728"
-      ],
-      "metrics": [
-        "18",
-        "14",
-        "26"
       ]
     },
     {
@@ -185,6 +175,16 @@
     },
     {
       "dimensions": [
+        "20260827"
+      ],
+      "metrics": [
+        "12",
+        "8",
+        "17"
+      ]
+    },
+    {
+      "dimensions": [
         "20260807"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260827"
+        "20260828"
       ],
       "metrics": [
-        "7",
-        "5",
-        "13"
+        "1",
+        "0",
+        "1"
       ]
     }
   ],
@@ -329,8 +329,8 @@
         "/directions/"
       ],
       "metrics": [
-        "19",
-        "14"
+        "16",
+        "12"
       ]
     },
     {
@@ -339,7 +339,7 @@
       ],
       "metrics": [
         "15",
-        "16"
+        "17"
       ]
     },
     {
@@ -347,17 +347,8 @@
         "/"
       ],
       "metrics": [
-        "12",
-        "12"
-      ]
-    },
-    {
-      "dimensions": [
-        "/apartments"
-      ],
-      "metrics": [
-        "6",
-        "3"
+        "10",
+        "10"
       ]
     },
     {
@@ -366,12 +357,12 @@
       ],
       "metrics": [
         "6",
-        "5"
+        "6"
       ]
     },
     {
       "dimensions": [
-        "/timetables"
+        "/apartments"
       ],
       "metrics": [
         "5",
@@ -412,6 +403,15 @@
       "metrics": [
         "3",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/timetables"
+      ],
+      "metrics": [
+        "3",
+        "1"
       ]
     },
     {
@@ -457,8 +457,8 @@
         "google"
       ],
       "metrics": [
-        "36",
-        "21"
+        "31",
+        "18"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "6",
-        "5"
+        "7",
+        "6"
       ]
     },
     {
@@ -514,6 +514,15 @@
         "2",
         "2"
       ]
+    },
+    {
+      "dimensions": [
+        "uk.search.yahoo.com"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "countries": [
@@ -522,8 +531,8 @@
         "United States"
       ],
       "metrics": [
-        "24",
-        "16"
+        "23",
+        "15"
       ]
     },
     {
@@ -532,7 +541,7 @@
       ],
       "metrics": [
         "20",
-        "13"
+        "14"
       ]
     },
     {
@@ -540,8 +549,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "15",
-        "6"
+        "11",
+        "5"
       ]
     },
     {
@@ -573,6 +582,15 @@
     },
     {
       "dimensions": [
+        "Ukraine"
+      ],
+      "metrics": [
+        "3",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "Denmark"
       ],
       "metrics": [
@@ -591,15 +609,6 @@
     },
     {
       "dimensions": [
-        "Belgium"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "Cyprus"
       ],
       "metrics": [
@@ -609,17 +618,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 81,
-    "users": 49,
-    "pageViews": 110,
-    "avgSessionDuration": 174,
+    "sessions": 78,
+    "users": 48,
+    "pageViews": 102,
+    "avgSessionDuration": 153,
     "bounceRate": 0.6
   },
   "summary30d": {
-    "sessions": 427,
-    "users": 272,
-    "pageViews": 570,
-    "avgSessionDuration": 172,
+    "sessions": 415,
+    "users": 261,
+    "pageViews": 549,
+    "avgSessionDuration": 173,
     "bounceRate": 0.5
   }
 }
