@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-08-28T17:13:15.445Z",
+  "updatedAt": "2026-08-29T11:31:36.872Z",
   "trend": [
     {
       "dimensions": [
@@ -165,16 +165,6 @@
     },
     {
       "dimensions": [
-        "20260729"
-      ],
-      "metrics": [
-        "18",
-        "17",
-        "23"
-      ]
-    },
-    {
-      "dimensions": [
         "20260810"
       ],
       "metrics": [
@@ -245,6 +235,16 @@
     },
     {
       "dimensions": [
+        "20260828"
+      ],
+      "metrics": [
+        "13",
+        "12",
+        "14"
+      ]
+    },
+    {
+      "dimensions": [
         "20260805"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260828"
+        "20260829"
       ],
       "metrics": [
-        "8",
-        "7",
-        "9"
+        "4",
+        "4",
+        "4"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "51",
-        "52"
+        "50",
+        "51"
       ]
     },
     {
@@ -329,8 +329,8 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "15",
-        "16"
+        "16",
+        "17"
       ]
     },
     {
@@ -338,8 +338,8 @@
         "/experience"
       ],
       "metrics": [
-        "15",
-        "12"
+        "13",
+        "11"
       ]
     },
     {
@@ -347,17 +347,17 @@
         "/blog/positano-steibek"
       ],
       "metrics": [
-        "9",
-        "8"
+        "8",
+        "7"
       ]
     },
     {
       "dimensions": [
-        "/parking"
+        "/2021/09/positano-steibek"
       ],
       "metrics": [
-        "5",
-        "5"
+        "4",
+        "4"
       ]
     },
     {
@@ -371,29 +371,11 @@
     },
     {
       "dimensions": [
-        "/contacts"
-      ],
-      "metrics": [
-        "4",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/transport"
+        "/parking"
       ],
       "metrics": [
         "4",
         "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2021/09/positano-steibek"
-      ],
-      "metrics": [
-        "3",
-        "3"
       ]
     },
     {
@@ -407,11 +389,11 @@
     },
     {
       "dimensions": [
-        "/2020/06/sarchiapone"
+        "/transport"
       ],
       "metrics": [
-        "2",
-        "2"
+        "3",
+        "3"
       ]
     },
     {
@@ -449,6 +431,24 @@
         "2",
         "2"
       ]
+    },
+    {
+      "dimensions": [
+        "/blog/positano-interesting-facts"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2018/06/amalfi-by-night-2018"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "sources": [
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "93",
-        "93"
+        "83",
+        "83"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "23",
-        "22"
+        "24",
+        "23"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "22",
-        "12"
+        "21",
+        "11"
       ]
     },
     {
@@ -484,17 +484,8 @@
         "ya.ru"
       ],
       "metrics": [
-        "7",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "(not set)"
-      ],
-      "metrics": [
-        "1",
-        "1"
+        "8",
+        "6"
       ]
     },
     {
@@ -531,8 +522,8 @@
         "Russia"
       ],
       "metrics": [
-        "80",
-        "69"
+        "79",
+        "68"
       ]
     },
     {
@@ -567,17 +558,17 @@
         "Poland"
       ],
       "metrics": [
-        "6",
-        "5"
+        "7",
+        "6"
       ]
     },
     {
       "dimensions": [
-        "Vietnam"
+        "Germany"
       ],
       "metrics": [
-        "5",
-        "5"
+        "3",
+        "3"
       ]
     },
     {
@@ -585,13 +576,13 @@
         "United States"
       ],
       "metrics": [
-        "4",
-        "4"
+        "3",
+        "3"
       ]
     },
     {
       "dimensions": [
-        "Germany"
+        "Vietnam"
       ],
       "metrics": [
         "3",
@@ -609,7 +600,7 @@
     },
     {
       "dimensions": [
-        "Brazil"
+        "United Kingdom"
       ],
       "metrics": [
         "2",
@@ -618,16 +609,16 @@
     }
   ],
   "summary7d": {
-    "sessions": 148,
-    "users": 135,
-    "pageViews": 166,
-    "avgSessionDuration": 36,
+    "sessions": 139,
+    "users": 126,
+    "pageViews": 150,
+    "avgSessionDuration": 34,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 721,
-    "users": 679,
-    "pageViews": 816,
+    "sessions": 712,
+    "users": 671,
+    "pageViews": 802,
     "avgSessionDuration": 43,
     "bounceRate": 0.8
   }
