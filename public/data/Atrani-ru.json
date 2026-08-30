@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-08-29T11:31:36.872Z",
+  "updatedAt": "2026-08-30T10:24:11.497Z",
   "trend": [
     {
       "dimensions": [
@@ -195,6 +195,16 @@
     },
     {
       "dimensions": [
+        "20260829"
+      ],
+      "metrics": [
+        "16",
+        "16",
+        "20"
+      ]
+    },
+    {
+      "dimensions": [
         "20260731"
       ],
       "metrics": [
@@ -265,16 +275,6 @@
     },
     {
       "dimensions": [
-        "20260730"
-      ],
-      "metrics": [
-        "11",
-        "11",
-        "16"
-      ]
-    },
-    {
-      "dimensions": [
         "20260808"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260829"
+        "20260830"
       ],
       "metrics": [
-        "4",
-        "4",
-        "4"
+        "6",
+        "6",
+        "6"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "50",
-        "51"
+        "53",
+        "54"
       ]
     },
     {
@@ -329,8 +329,8 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "16",
-        "17"
+        "15",
+        "16"
       ]
     },
     {
@@ -389,11 +389,29 @@
     },
     {
       "dimensions": [
+        "/contacts"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
         "/transport"
       ],
       "metrics": [
         "3",
         "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/apartments"
+      ],
+      "metrics": [
+        "2",
+        "2"
       ]
     },
     {
@@ -431,24 +449,6 @@
         "2",
         "2"
       ]
-    },
-    {
-      "dimensions": [
-        "/blog/positano-interesting-facts"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2018/06/amalfi-by-night-2018"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "sources": [
@@ -457,17 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "83",
-        "83"
-      ]
-    },
-    {
-      "dimensions": [
-        "google"
-      ],
-      "metrics": [
-        "24",
-        "23"
+        "91",
+        "91"
       ]
     },
     {
@@ -475,8 +466,17 @@
         "yandex.ru"
       ],
       "metrics": [
-        "21",
-        "11"
+        "23",
+        "13"
+      ]
+    },
+    {
+      "dimensions": [
+        "google"
+      ],
+      "metrics": [
+        "22",
+        "21"
       ]
     },
     {
@@ -486,6 +486,15 @@
       "metrics": [
         "8",
         "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "m.facebook.com"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     },
     {
@@ -522,8 +531,8 @@
         "Russia"
       ],
       "metrics": [
-        "79",
-        "68"
+        "84",
+        "73"
       ]
     },
     {
@@ -567,8 +576,17 @@
         "Germany"
       ],
       "metrics": [
-        "3",
-        "3"
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "Vietnam"
+      ],
+      "metrics": [
+        "4",
+        "4"
       ]
     },
     {
@@ -582,43 +600,34 @@
     },
     {
       "dimensions": [
-        "Vietnam"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "Belarus"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "United Kingdom"
       ],
       "metrics": [
         "2",
         "2"
       ]
+    },
+    {
+      "dimensions": [
+        ""
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 139,
-    "users": 126,
-    "pageViews": 150,
-    "avgSessionDuration": 34,
+    "sessions": 148,
+    "users": 135,
+    "pageViews": 163,
+    "avgSessionDuration": 30,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 712,
-    "users": 671,
-    "pageViews": 802,
+    "sessions": 719,
+    "users": 678,
+    "pageViews": 808,
     "avgSessionDuration": 43,
     "bounceRate": 0.8
   }

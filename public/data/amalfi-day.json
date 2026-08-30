@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-08-29T11:31:37.952Z",
+  "updatedAt": "2026-08-30T10:24:12.449Z",
   "trend": [
     {
       "dimensions": [
@@ -41,16 +41,6 @@
         "19",
         "15",
         "23"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260730"
-      ],
-      "metrics": [
-        "18",
-        "10",
-        "26"
       ]
     },
     {
@@ -205,6 +195,16 @@
     },
     {
       "dimensions": [
+        "20260829"
+      ],
+      "metrics": [
+        "11",
+        "9",
+        "15"
+      ]
+    },
+    {
+      "dimensions": [
         "20260810"
       ],
       "metrics": [
@@ -302,35 +302,25 @@
         "6",
         "14"
       ]
-    },
-    {
-      "dimensions": [
-        "20260829"
-      ],
-      "metrics": [
-        "2",
-        "2",
-        "3"
-      ]
     }
   ],
   "topPages": [
     {
       "dimensions": [
-        "/timetables/"
+        "/directions/"
       ],
       "metrics": [
-        "20",
-        "21"
+        "19",
+        "12"
       ]
     },
     {
       "dimensions": [
-        "/directions/"
+        "/timetables/"
       ],
       "metrics": [
-        "15",
-        "11"
+        "18",
+        "18"
       ]
     },
     {
@@ -338,8 +328,8 @@
         "/parking/"
       ],
       "metrics": [
-        "14",
-        "16"
+        "16",
+        "18"
       ]
     },
     {
@@ -356,8 +346,8 @@
         "/apartments"
       ],
       "metrics": [
-        "7",
-        "4"
+        "5",
+        "3"
       ]
     },
     {
@@ -365,8 +355,8 @@
         "/contact"
       ],
       "metrics": [
-        "5",
-        "5"
+        "4",
+        "4"
       ]
     },
     {
@@ -385,6 +375,15 @@
       "metrics": [
         "4",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/ferry-timetables/"
+      ],
+      "metrics": [
+        "3",
+        "5"
       ]
     },
     {
@@ -416,24 +415,6 @@
     },
     {
       "dimensions": [
-        "/ferry-timetables"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/ferry-timetables/"
-      ],
-      "metrics": [
-        "2",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/cinema-under-the-stars-ravellos-movie-series-extended-through-march/"
       ],
       "metrics": [
@@ -444,6 +425,15 @@
     {
       "dimensions": [
         "/blog/metro-del-mare-is-back-amalfi-coast-to-cilento-by-sea/"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/ferry-timetables"
       ],
       "metrics": [
         "1",
@@ -466,8 +456,8 @@
         "google"
       ],
       "metrics": [
-        "28",
-        "18"
+        "29",
+        "21"
       ]
     },
     {
@@ -484,8 +474,8 @@
         "bing"
       ],
       "metrics": [
-        "5",
-        "5"
+        "4",
+        "4"
       ]
     },
     {
@@ -531,8 +521,8 @@
         "United States"
       ],
       "metrics": [
-        "25",
-        "16"
+        "24",
+        "15"
       ]
     },
     {
@@ -549,26 +539,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "10",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "Netherlands"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "Russia"
-      ],
-      "metrics": [
-        "3",
-        "2"
+        "9",
+        "6"
       ]
     },
     {
@@ -591,7 +563,34 @@
     },
     {
       "dimensions": [
+        "Netherlands"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Russia"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "Argentina"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Croatia"
       ],
       "metrics": [
         "1",
@@ -606,29 +605,20 @@
         "1",
         "0"
       ]
-    },
-    {
-      "dimensions": [
-        "Greece"
-      ],
-      "metrics": [
-        "1",
-        "0"
-      ]
     }
   ],
   "summary7d": {
     "sessions": 77,
-    "users": 50,
-    "pageViews": 98,
-    "avgSessionDuration": 134,
+    "users": 52,
+    "pageViews": 99,
+    "avgSessionDuration": 143,
     "bounceRate": 0.6
   },
   "summary30d": {
-    "sessions": 399,
-    "users": 252,
-    "pageViews": 529,
-    "avgSessionDuration": 178,
+    "sessions": 389,
+    "users": 254,
+    "pageViews": 515,
+    "avgSessionDuration": 176,
     "bounceRate": 0.5
   }
 }
