@@ -1,18 +1,8 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-08-30T10:24:12.449Z",
+  "updatedAt": "2026-08-31T11:28:20.231Z",
   "trend": [
-    {
-      "dimensions": [
-        "20260731"
-      ],
-      "metrics": [
-        "25",
-        "15",
-        "36"
-      ]
-    },
     {
       "dimensions": [
         "20260802"
@@ -302,25 +292,45 @@
         "6",
         "14"
       ]
+    },
+    {
+      "dimensions": [
+        "20260830"
+      ],
+      "metrics": [
+        "3",
+        "3",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260831"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "2"
+      ]
     }
   ],
   "topPages": [
     {
       "dimensions": [
-        "/directions/"
+        "/timetables/"
       ],
       "metrics": [
-        "19",
-        "12"
+        "16",
+        "16"
       ]
     },
     {
       "dimensions": [
-        "/timetables/"
+        "/directions/"
       ],
       "metrics": [
-        "18",
-        "18"
+        "14",
+        "7"
       ]
     },
     {
@@ -328,8 +338,8 @@
         "/parking/"
       ],
       "metrics": [
-        "16",
-        "18"
+        "13",
+        "15"
       ]
     },
     {
@@ -337,8 +347,8 @@
         "/"
       ],
       "metrics": [
-        "9",
-        "9"
+        "11",
+        "10"
       ]
     },
     {
@@ -357,24 +367,6 @@
       "metrics": [
         "4",
         "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/how-to-get"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/timetables"
-      ],
-      "metrics": [
-        "4",
-        "2"
       ]
     },
     {
@@ -406,11 +398,20 @@
     },
     {
       "dimensions": [
-        "/blog"
+        "/parking"
       ],
       "metrics": [
         "2",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     },
     {
@@ -433,7 +434,16 @@
     },
     {
       "dimensions": [
-        "/ferry-timetables"
+        "/how-to-get/"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photolocations/"
       ],
       "metrics": [
         "1",
@@ -444,20 +454,20 @@
   "sources": [
     {
       "dimensions": [
-        "(direct)"
+        "google"
       ],
       "metrics": [
-        "31",
-        "15"
+        "27",
+        "19"
       ]
     },
     {
       "dimensions": [
-        "google"
+        "(direct)"
       ],
       "metrics": [
-        "29",
-        "21"
+        "22",
+        "13"
       ]
     },
     {
@@ -474,8 +484,8 @@
         "bing"
       ],
       "metrics": [
-        "4",
-        "4"
+        "3",
+        "3"
       ]
     },
     {
@@ -521,8 +531,8 @@
         "United States"
       ],
       "metrics": [
-        "24",
-        "15"
+        "20",
+        "13"
       ]
     },
     {
@@ -530,8 +540,8 @@
         "Italy"
       ],
       "metrics": [
-        "21",
-        "15"
+        "18",
+        "13"
       ]
     },
     {
@@ -539,8 +549,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "9",
-        "6"
+        "5",
+        "4"
       ]
     },
     {
@@ -590,7 +600,7 @@
     },
     {
       "dimensions": [
-        "Croatia"
+        "Canada"
       ],
       "metrics": [
         "1",
@@ -599,25 +609,25 @@
     },
     {
       "dimensions": [
-        "Czechia"
+        "Croatia"
       ],
       "metrics": [
         "1",
-        "0"
+        "1"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 77,
-    "users": 52,
-    "pageViews": 99,
-    "avgSessionDuration": 143,
+    "sessions": 65,
+    "users": 47,
+    "pageViews": 84,
+    "avgSessionDuration": 139,
     "bounceRate": 0.6
   },
   "summary30d": {
-    "sessions": 389,
-    "users": 254,
-    "pageViews": 515,
+    "sessions": 370,
+    "users": 245,
+    "pageViews": 486,
     "avgSessionDuration": 176,
     "bounceRate": 0.5
   }

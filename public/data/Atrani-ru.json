@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-08-30T10:24:11.497Z",
+  "updatedAt": "2026-08-31T11:28:19.324Z",
   "trend": [
     {
       "dimensions": [
@@ -205,16 +205,6 @@
     },
     {
       "dimensions": [
-        "20260731"
-      ],
-      "metrics": [
-        "15",
-        "13",
-        "18"
-      ]
-    },
-    {
-      "dimensions": [
         "20260825"
       ],
       "metrics": [
@@ -251,6 +241,16 @@
         "13",
         "12",
         "14"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260830"
+      ],
+      "metrics": [
+        "13",
+        "13",
+        "13"
       ]
     },
     {
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260830"
+        "20260831"
       ],
       "metrics": [
         "6",
         "6",
-        "6"
+        "8"
       ]
     }
   ],
@@ -320,17 +320,8 @@
         "/"
       ],
       "metrics": [
-        "53",
-        "54"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
-      ],
-      "metrics": [
-        "15",
-        "16"
+        "57",
+        "58"
       ]
     },
     {
@@ -344,6 +335,15 @@
     },
     {
       "dimensions": [
+        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
+      ],
+      "metrics": [
+        "12",
+        "13"
+      ]
+    },
+    {
+      "dimensions": [
         "/blog/positano-steibek"
       ],
       "metrics": [
@@ -353,11 +353,11 @@
     },
     {
       "dimensions": [
-        "/2021/09/positano-steibek"
+        "/parking"
       ],
       "metrics": [
-        "4",
-        "4"
+        "6",
+        "6"
       ]
     },
     {
@@ -365,13 +365,13 @@
         "/blog/how-to-get-to-amalfi"
       ],
       "metrics": [
-        "4",
+        "5",
         "4"
       ]
     },
     {
       "dimensions": [
-        "/parking"
+        "/2021/09/positano-steibek"
       ],
       "metrics": [
         "4",
@@ -403,6 +403,15 @@
       "metrics": [
         "3",
         "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2019/12/katastrofa"
+      ],
+      "metrics": [
+        "2",
+        "2"
       ]
     },
     {
@@ -440,15 +449,6 @@
         "2",
         "2"
       ]
-    },
-    {
-      "dimensions": [
-        "/blog/page/5"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
     }
   ],
   "sources": [
@@ -457,17 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "91",
-        "91"
-      ]
-    },
-    {
-      "dimensions": [
-        "yandex.ru"
-      ],
-      "metrics": [
-        "23",
-        "13"
+        "95",
+        "95"
       ]
     },
     {
@@ -481,11 +472,29 @@
     },
     {
       "dimensions": [
+        "yandex.ru"
+      ],
+      "metrics": [
+        "22",
+        "12"
+      ]
+    },
+    {
+      "dimensions": [
         "ya.ru"
       ],
       "metrics": [
         "8",
         "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "(not set)"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     },
     {
@@ -531,8 +540,8 @@
         "Russia"
       ],
       "metrics": [
-        "84",
-        "73"
+        "87",
+        "76"
       ]
     },
     {
@@ -573,7 +582,7 @@
     },
     {
       "dimensions": [
-        "Germany"
+        "United States"
       ],
       "metrics": [
         "4",
@@ -591,7 +600,7 @@
     },
     {
       "dimensions": [
-        "United States"
+        "Germany"
       ],
       "metrics": [
         "3",
@@ -618,16 +627,16 @@
     }
   ],
   "summary7d": {
-    "sessions": 148,
-    "users": 135,
-    "pageViews": 163,
-    "avgSessionDuration": 30,
-    "bounceRate": 0.8
+    "sessions": 151,
+    "users": 138,
+    "pageViews": 167,
+    "avgSessionDuration": 32,
+    "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 719,
+    "sessions": 717,
     "users": 678,
-    "pageViews": 808,
+    "pageViews": 805,
     "avgSessionDuration": 43,
     "bounceRate": 0.8
   }
