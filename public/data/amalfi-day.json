@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-08-31T11:28:20.231Z",
+  "updatedAt": "2026-09-01T09:51:03.725Z",
   "trend": [
     {
       "dimensions": [
@@ -51,16 +51,6 @@
         "17",
         "11",
         "25"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260801"
-      ],
-      "metrics": [
-        "16",
-        "11",
-        "29"
       ]
     },
     {
@@ -295,6 +285,16 @@
     },
     {
       "dimensions": [
+        "20260831"
+      ],
+      "metrics": [
+        "4",
+        "3",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
         "20260830"
       ],
       "metrics": [
@@ -302,44 +302,25 @@
         "3",
         "5"
       ]
-    },
-    {
-      "dimensions": [
-        "20260831"
-      ],
-      "metrics": [
-        "1",
-        "1",
-        "2"
-      ]
     }
   ],
   "topPages": [
-    {
-      "dimensions": [
-        "/timetables/"
-      ],
-      "metrics": [
-        "16",
-        "16"
-      ]
-    },
-    {
-      "dimensions": [
-        "/directions/"
-      ],
-      "metrics": [
-        "14",
-        "7"
-      ]
-    },
     {
       "dimensions": [
         "/parking/"
       ],
       "metrics": [
         "13",
-        "15"
+        "13"
+      ]
+    },
+    {
+      "dimensions": [
+        "/timetables/"
+      ],
+      "metrics": [
+        "13",
+        "12"
       ]
     },
     {
@@ -349,6 +330,15 @@
       "metrics": [
         "11",
         "10"
+      ]
+    },
+    {
+      "dimensions": [
+        "/directions/"
+      ],
+      "metrics": [
+        "9",
+        "4"
       ]
     },
     {
@@ -375,7 +365,7 @@
       ],
       "metrics": [
         "3",
-        "5"
+        "4"
       ]
     },
     {
@@ -434,7 +424,7 @@
     },
     {
       "dimensions": [
-        "/how-to-get/"
+        "/ferry-timetables"
       ],
       "metrics": [
         "1",
@@ -443,7 +433,7 @@
     },
     {
       "dimensions": [
-        "/photolocations/"
+        "/how-to-get/"
       ],
       "metrics": [
         "1",
@@ -457,8 +447,8 @@
         "google"
       ],
       "metrics": [
-        "27",
-        "19"
+        "23",
+        "17"
       ]
     },
     {
@@ -466,8 +456,8 @@
         "(direct)"
       ],
       "metrics": [
-        "22",
-        "13"
+        "18",
+        "12"
       ]
     },
     {
@@ -476,16 +466,7 @@
       ],
       "metrics": [
         "6",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "bing"
-      ],
-      "metrics": [
-        "3",
-        "3"
+        "6"
       ]
     },
     {
@@ -495,6 +476,15 @@
       "metrics": [
         "3",
         "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "bing"
+      ],
+      "metrics": [
+        "2",
+        "2"
       ]
     },
     {
@@ -528,20 +518,20 @@
   "countries": [
     {
       "dimensions": [
-        "United States"
+        "Italy"
       ],
       "metrics": [
-        "20",
-        "13"
+        "16",
+        "12"
       ]
     },
     {
       "dimensions": [
-        "Italy"
+        "United States"
       ],
       "metrics": [
-        "18",
-        "13"
+        "14",
+        "12"
       ]
     },
     {
@@ -549,8 +539,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "5",
-        "4"
+        "4",
+        "3"
       ]
     },
     {
@@ -574,15 +564,6 @@
     {
       "dimensions": [
         "Netherlands"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "Russia"
       ],
       "metrics": [
         "2",
@@ -615,20 +596,29 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "Czechia"
+      ],
+      "metrics": [
+        "1",
+        "0"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 65,
-    "users": 47,
-    "pageViews": 84,
-    "avgSessionDuration": 139,
+    "sessions": 56,
+    "users": 44,
+    "pageViews": 77,
+    "avgSessionDuration": 133,
     "bounceRate": 0.6
   },
   "summary30d": {
-    "sessions": 370,
-    "users": 245,
-    "pageViews": 486,
-    "avgSessionDuration": 176,
+    "sessions": 356,
+    "users": 236,
+    "pageViews": 460,
+    "avgSessionDuration": 175,
     "bounceRate": 0.5
   }
 }
