@@ -1,18 +1,8 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-09-01T09:51:03.725Z",
+  "updatedAt": "2026-09-02T09:22:47.930Z",
   "trend": [
-    {
-      "dimensions": [
-        "20260802"
-      ],
-      "metrics": [
-        "20",
-        "16",
-        "27"
-      ]
-    },
     {
       "dimensions": [
         "20260818"
@@ -120,6 +110,16 @@
       "metrics": [
         "13",
         "10",
+        "18"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260831"
+      ],
+      "metrics": [
+        "13",
+        "9",
         "18"
       ]
     },
@@ -285,16 +285,6 @@
     },
     {
       "dimensions": [
-        "20260831"
-      ],
-      "metrics": [
-        "4",
-        "3",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
         "20260830"
       ],
       "metrics": [
@@ -311,7 +301,7 @@
       ],
       "metrics": [
         "13",
-        "13"
+        "12"
       ]
     },
     {
@@ -328,8 +318,8 @@
         "/"
       ],
       "metrics": [
-        "11",
-        "10"
+        "12",
+        "11"
       ]
     },
     {
@@ -337,26 +327,8 @@
         "/directions/"
       ],
       "metrics": [
-        "9",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/apartments"
-      ],
-      "metrics": [
-        "5",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/contact"
-      ],
-      "metrics": [
-        "4",
-        "4"
+        "12",
+        "7"
       ]
     },
     {
@@ -364,8 +336,8 @@
         "/ferry-timetables/"
       ],
       "metrics": [
-        "3",
-        "4"
+        "6",
+        "5"
       ]
     },
     {
@@ -379,10 +351,10 @@
     },
     {
       "dimensions": [
-        "/photoshootings/shifa"
+        "/apartments"
       ],
       "metrics": [
-        "3",
+        "2",
         "2"
       ]
     },
@@ -393,6 +365,15 @@
       "metrics": [
         "2",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photoshootings/shifa"
+      ],
+      "metrics": [
+        "2",
+        "1"
       ]
     },
     {
@@ -424,6 +405,15 @@
     },
     {
       "dimensions": [
+        "/contact"
+      ],
+      "metrics": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "/ferry-timetables"
       ],
       "metrics": [
@@ -444,20 +434,20 @@
   "sources": [
     {
       "dimensions": [
-        "google"
+        "(direct)"
       ],
       "metrics": [
-        "23",
-        "17"
+        "21",
+        "12"
       ]
     },
     {
       "dimensions": [
-        "(direct)"
+        "google"
       ],
       "metrics": [
-        "18",
-        "12"
+        "21",
+        "16"
       ]
     },
     {
@@ -471,7 +461,7 @@
     },
     {
       "dimensions": [
-        "m.facebook.com"
+        "bing"
       ],
       "metrics": [
         "3",
@@ -480,11 +470,11 @@
     },
     {
       "dimensions": [
-        "bing"
+        "m.facebook.com"
       ],
       "metrics": [
-        "2",
-        "2"
+        "3",
+        "3"
       ]
     },
     {
@@ -498,7 +488,7 @@
     },
     {
       "dimensions": [
-        "duckduckgo"
+        "ecosia.org"
       ],
       "metrics": [
         "1",
@@ -521,7 +511,7 @@
         "Italy"
       ],
       "metrics": [
-        "16",
+        "19",
         "12"
       ]
     },
@@ -563,7 +553,16 @@
     },
     {
       "dimensions": [
-        "Netherlands"
+        "Greece"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Hungary"
       ],
       "metrics": [
         "2",
@@ -572,7 +571,7 @@
     },
     {
       "dimensions": [
-        "Argentina"
+        "Belgium"
       ],
       "metrics": [
         "1",
@@ -596,28 +595,19 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "Czechia"
-      ],
-      "metrics": [
-        "1",
-        "0"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 56,
+    "sessions": 58,
     "users": 44,
-    "pageViews": 77,
-    "avgSessionDuration": 133,
-    "bounceRate": 0.6
+    "pageViews": 76,
+    "avgSessionDuration": 143,
+    "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 356,
-    "users": 236,
-    "pageViews": 460,
+    "sessions": 344,
+    "users": 226,
+    "pageViews": 446,
     "avgSessionDuration": 175,
     "bounceRate": 0.5
   }

@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-09-01T09:51:04.283Z",
+  "updatedAt": "2026-09-02T09:22:49.049Z",
   "trend": [
     {
       "dimensions": [
@@ -31,16 +31,6 @@
         "2",
         "2",
         "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260802"
-      ],
-      "metrics": [
-        "1",
-        "1",
-        "1"
       ]
     },
     {
@@ -187,25 +177,7 @@
   "topPages": [
     {
       "dimensions": [
-        "/es"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "/"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/es/place/le-arcate-atrani"
       ],
       "metrics": [
         "1",
@@ -228,21 +200,12 @@
         "(direct)"
       ],
       "metrics": [
-        "3",
-        "2"
+        "2",
+        "1"
       ]
     }
   ],
   "countries": [
-    {
-      "dimensions": [
-        "Italy"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
-    },
     {
       "dimensions": [
         "Denmark"
@@ -251,20 +214,29 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "Italy"
+      ],
+      "metrics": [
+        "1",
+        "0"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 3,
-    "users": 2,
-    "pageViews": 5,
-    "avgSessionDuration": 494,
-    "bounceRate": 0.7
+    "sessions": 2,
+    "users": 1,
+    "pageViews": 2,
+    "avgSessionDuration": 0,
+    "bounceRate": 1
   },
   "summary30d": {
-    "sessions": 30,
-    "users": 15,
-    "pageViews": 68,
-    "avgSessionDuration": 148,
+    "sessions": 29,
+    "users": 14,
+    "pageViews": 67,
+    "avgSessionDuration": 145,
     "bounceRate": 0.5
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-09-01T09:51:02.790Z",
+  "updatedAt": "2026-09-02T09:22:46.229Z",
   "trend": [
     {
       "dimensions": [
@@ -85,16 +85,6 @@
     },
     {
       "dimensions": [
-        "20260802"
-      ],
-      "metrics": [
-        "24",
-        "24",
-        "44"
-      ]
-    },
-    {
-      "dimensions": [
         "20260815"
       ],
       "metrics": [
@@ -141,6 +131,16 @@
         "20",
         "20",
         "20"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260901"
+      ],
+      "metrics": [
+        "20",
+        "18",
+        "19"
       ]
     },
     {
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260901"
+        "20260902"
       ],
       "metrics": [
-        "4",
-        "4",
-        "4"
+        "2",
+        "2",
+        "2"
       ]
     }
   ],
@@ -320,7 +320,7 @@
         "/"
       ],
       "metrics": [
-        "60",
+        "59",
         "59"
       ]
     },
@@ -329,8 +329,8 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "11",
-        "12"
+        "10",
+        "11"
       ]
     },
     {
@@ -338,8 +338,26 @@
         "/experience"
       ],
       "metrics": [
-        "11",
-        "11"
+        "10",
+        "10"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2021/09/positano-steibek"
+      ],
+      "metrics": [
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/how-to-get-to-amalfi"
+      ],
+      "metrics": [
+        "5",
+        "4"
       ]
     },
     {
@@ -347,8 +365,8 @@
         "/blog/positano-steibek"
       ],
       "metrics": [
-        "6",
-        "6"
+        "5",
+        "5"
       ]
     },
     {
@@ -358,24 +376,6 @@
       "metrics": [
         "5",
         "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2021/09/positano-steibek"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/how-to-get-to-amalfi"
-      ],
-      "metrics": [
-        "4",
-        "3"
       ]
     },
     {
@@ -457,17 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "98",
-        "98"
-      ]
-    },
-    {
-      "dimensions": [
-        "yandex.ru"
-      ],
-      "metrics": [
-        "24",
-        "14"
+        "105",
+        "103"
       ]
     },
     {
@@ -481,11 +472,20 @@
     },
     {
       "dimensions": [
+        "yandex.ru"
+      ],
+      "metrics": [
+        "20",
+        "11"
+      ]
+    },
+    {
+      "dimensions": [
         "ya.ru"
       ],
       "metrics": [
-        "4",
-        "4"
+        "3",
+        "3"
       ]
     },
     {
@@ -494,7 +494,7 @@
       ],
       "metrics": [
         "1",
-        "0"
+        "1"
       ]
     },
     {
@@ -531,7 +531,7 @@
         "Russia"
       ],
       "metrics": [
-        "88",
+        "87",
         "78"
       ]
     },
@@ -540,8 +540,8 @@
         "China"
       ],
       "metrics": [
-        "16",
-        "16"
+        "18",
+        "18"
       ]
     },
     {
@@ -549,8 +549,8 @@
         "Italy"
       ],
       "metrics": [
-        "11",
-        "11"
+        "10",
+        "10"
       ]
     },
     {
@@ -567,8 +567,8 @@
         "Poland"
       ],
       "metrics": [
-        "5",
-        "5"
+        "6",
+        "4"
       ]
     },
     {
@@ -578,6 +578,15 @@
       "metrics": [
         "4",
         "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "Germany"
+      ],
+      "metrics": [
+        "3",
+        "3"
       ]
     },
     {
@@ -600,16 +609,7 @@
     },
     {
       "dimensions": [
-        "Germany"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "Sweden"
+        "Israel"
       ],
       "metrics": [
         "2",
@@ -618,17 +618,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 149,
-    "users": 138,
-    "pageViews": 172,
-    "avgSessionDuration": 31,
+    "sessions": 152,
+    "users": 140,
+    "pageViews": 173,
+    "avgSessionDuration": 36,
     "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 720,
-    "users": 681,
-    "pageViews": 808,
-    "avgSessionDuration": 40,
+    "sessions": 714,
+    "users": 673,
+    "pageViews": 781,
+    "avgSessionDuration": 38,
     "bounceRate": 0.8
   }
 }
