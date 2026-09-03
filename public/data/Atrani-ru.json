@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-09-02T09:22:46.229Z",
+  "updatedAt": "2026-09-03T09:32:28.445Z",
   "trend": [
     {
       "dimensions": [
@@ -11,16 +11,6 @@
         "98",
         "96",
         "101"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260803"
-      ],
-      "metrics": [
-        "52",
-        "50",
-        "52"
       ]
     },
     {
@@ -225,6 +215,16 @@
     },
     {
       "dimensions": [
+        "20260902"
+      ],
+      "metrics": [
+        "15",
+        "14",
+        "15"
+      ]
+    },
+    {
+      "dimensions": [
         "20260816"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260902"
+        "20260903"
       ],
       "metrics": [
-        "2",
-        "2",
-        "2"
+        "7",
+        "7",
+        "7"
       ]
     }
   ],
@@ -320,17 +320,8 @@
         "/"
       ],
       "metrics": [
-        "59",
-        "59"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
-      ],
-      "metrics": [
-        "10",
-        "11"
+        "55",
+        "55"
       ]
     },
     {
@@ -344,29 +335,11 @@
     },
     {
       "dimensions": [
-        "/2021/09/positano-steibek"
+        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "5",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/how-to-get-to-amalfi"
-      ],
-      "metrics": [
-        "5",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/positano-steibek"
-      ],
-      "metrics": [
-        "5",
-        "5"
+        "9",
+        "10"
       ]
     },
     {
@@ -376,6 +349,33 @@
       "metrics": [
         "5",
         "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2021/09/positano-steibek"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/how-to-get-to-amalfi"
+      ],
+      "metrics": [
+        "4",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/transport"
+      ],
+      "metrics": [
+        "4",
+        "4"
       ]
     },
     {
@@ -434,16 +434,16 @@
     },
     {
       "dimensions": [
-        "/transport"
+        "/2019/12/katastrofa"
       ],
       "metrics": [
-        "3",
-        "3"
+        "2",
+        "2"
       ]
     },
     {
       "dimensions": [
-        "/2019/12/katastrofa"
+        "/2020/06/sarchiapone"
       ],
       "metrics": [
         "2",
@@ -457,17 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "105",
-        "103"
-      ]
-    },
-    {
-      "dimensions": [
-        "google"
-      ],
-      "metrics": [
-        "20",
-        "19"
+        "93",
+        "91"
       ]
     },
     {
@@ -475,8 +466,17 @@
         "yandex.ru"
       ],
       "metrics": [
-        "20",
+        "17",
         "11"
+      ]
+    },
+    {
+      "dimensions": [
+        "google"
+      ],
+      "metrics": [
+        "15",
+        "14"
       ]
     },
     {
@@ -531,17 +531,8 @@
         "Russia"
       ],
       "metrics": [
-        "87",
-        "78"
-      ]
-    },
-    {
-      "dimensions": [
-        "China"
-      ],
-      "metrics": [
-        "18",
-        "18"
+        "81",
+        "75"
       ]
     },
     {
@@ -549,8 +540,8 @@
         "Italy"
       ],
       "metrics": [
-        "10",
-        "10"
+        "8",
+        "8"
       ]
     },
     {
@@ -564,16 +555,34 @@
     },
     {
       "dimensions": [
-        "Poland"
+        "China"
       ],
       "metrics": [
         "6",
-        "4"
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "Poland"
+      ],
+      "metrics": [
+        "4",
+        "2"
       ]
     },
     {
       "dimensions": [
         "United States"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "Vietnam"
       ],
       "metrics": [
         "4",
@@ -600,15 +609,6 @@
     },
     {
       "dimensions": [
-        "Vietnam"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
         "Israel"
       ],
       "metrics": [
@@ -618,17 +618,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 152,
-    "users": 140,
-    "pageViews": 173,
-    "avgSessionDuration": 36,
+    "sessions": 132,
+    "users": 123,
+    "pageViews": 153,
+    "avgSessionDuration": 42,
     "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 714,
-    "users": 673,
-    "pageViews": 781,
-    "avgSessionDuration": 38,
+    "sessions": 682,
+    "users": 642,
+    "pageViews": 749,
+    "avgSessionDuration": 40,
     "bounceRate": 0.8
   }
 }
