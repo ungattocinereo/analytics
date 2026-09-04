@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-09-03T09:32:29.505Z",
+  "updatedAt": "2026-09-04T09:29:00.712Z",
   "trend": [
     {
       "dimensions": [
@@ -41,16 +41,6 @@
         "17",
         "11",
         "25"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260804"
-      ],
-      "metrics": [
-        "16",
-        "9",
-        "17"
       ]
     },
     {
@@ -285,12 +275,32 @@
     },
     {
       "dimensions": [
+        "20260902"
+      ],
+      "metrics": [
+        "7",
+        "3",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
         "20260830"
       ],
       "metrics": [
         "3",
         "3",
         "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260903"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "1"
       ]
     }
   ],
@@ -315,16 +325,16 @@
     },
     {
       "dimensions": [
-        "/"
+        "/directions/"
       ],
       "metrics": [
         "11",
-        "10"
+        "7"
       ]
     },
     {
       "dimensions": [
-        "/parking/"
+        "/"
       ],
       "metrics": [
         "10",
@@ -333,11 +343,11 @@
     },
     {
       "dimensions": [
-        "/directions/"
+        "/parking/"
       ],
       "metrics": [
         "9",
-        "5"
+        "8"
       ]
     },
     {
@@ -345,8 +355,8 @@
         "/ferry-timetables/"
       ],
       "metrics": [
-        "6",
-        "6"
+        "7",
+        "7"
       ]
     },
     {
@@ -369,34 +379,7 @@
     },
     {
       "dimensions": [
-        "/photoshootings"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photoshootings/shifa"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "/beaches"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog"
       ],
       "metrics": [
         "1",
@@ -423,11 +406,38 @@
     },
     {
       "dimensions": [
-        "/contact"
+        "/experience/car-tours"
       ],
       "metrics": [
         "1",
-        "2"
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/experience/scooter"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/parking"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photolocations/"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     }
   ],
@@ -438,7 +448,7 @@
       ],
       "metrics": [
         "22",
-        "15"
+        "16"
       ]
     },
     {
@@ -446,17 +456,8 @@
         "(direct)"
       ],
       "metrics": [
-        "20",
-        "11"
-      ]
-    },
-    {
-      "dimensions": [
-        "chatgpt.com"
-      ],
-      "metrics": [
-        "5",
-        "5"
+        "21",
+        "12"
       ]
     },
     {
@@ -466,6 +467,15 @@
       "metrics": [
         "4",
         "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "chatgpt.com"
+      ],
+      "metrics": [
+        "3",
+        "3"
       ]
     },
     {
@@ -488,15 +498,6 @@
     },
     {
       "dimensions": [
-        "facebook.com"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "ca.search.yahoo.com"
       ],
       "metrics": [
@@ -512,15 +513,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "uk.search.yahoo.com"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "countries": [
@@ -530,7 +522,7 @@
       ],
       "metrics": [
         "20",
-        "12"
+        "13"
       ]
     },
     {
@@ -538,8 +530,17 @@
         "United States"
       ],
       "metrics": [
-        "12",
-        "10"
+        "9",
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "Ireland"
+      ],
+      "metrics": [
+        "4",
+        "2"
       ]
     },
     {
@@ -547,8 +548,17 @@
         "United Kingdom"
       ],
       "metrics": [
-        "5",
-        "4"
+        "4",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "Germany"
+      ],
+      "metrics": [
+        "3",
+        "2"
       ]
     },
     {
@@ -562,47 +572,11 @@
     },
     {
       "dimensions": [
-        "Ukraine"
-      ],
-      "metrics": [
-        "3",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Germany"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "Greece"
       ],
       "metrics": [
         "2",
         "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Hungary"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "Ireland"
-      ],
-      "metrics": [
-        "2",
-        "2"
       ]
     },
     {
@@ -613,20 +587,38 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "Belgium"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Canada"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 60,
-    "users": 42,
-    "pageViews": 92,
-    "avgSessionDuration": 175,
+    "sessions": 56,
+    "users": 39,
+    "pageViews": 83,
+    "avgSessionDuration": 179,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 349,
-    "users": 227,
-    "pageViews": 467,
-    "avgSessionDuration": 180,
+    "sessions": 341,
+    "users": 223,
+    "pageViews": 458,
+    "avgSessionDuration": 182,
     "bounceRate": 0.5
   }
 }

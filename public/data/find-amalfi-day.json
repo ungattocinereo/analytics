@@ -1,7 +1,7 @@
 {
   "name": "find.amalfi.day",
   "propertyId": "properties/531159837",
-  "updatedAt": "2026-09-03T09:32:30.634Z",
+  "updatedAt": "2026-09-04T09:29:01.772Z",
   "trend": [
     {
       "dimensions": [
@@ -41,16 +41,6 @@
         "12",
         "7",
         "24"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260804"
-      ],
-      "metrics": [
-        "11",
-        "5",
-        "11"
       ]
     },
     {
@@ -101,6 +91,16 @@
         "10",
         "5",
         "27"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260903"
+      ],
+      "metrics": [
+        "10",
+        "8",
+        "14"
       ]
     },
     {
@@ -210,7 +210,7 @@
       "metrics": [
         "5",
         "1",
-        "14"
+        "7"
       ]
     },
     {
@@ -285,17 +285,17 @@
     },
     {
       "dimensions": [
-        "20260903"
+        "20260830"
       ],
       "metrics": [
-        "2",
-        "2",
-        "3"
+        "1",
+        "1",
+        "1"
       ]
     },
     {
       "dimensions": [
-        "20260830"
+        "20260904"
       ],
       "metrics": [
         "1",
@@ -310,8 +310,8 @@
         "/"
       ],
       "metrics": [
-        "49",
-        "33"
+        "52",
+        "36"
       ]
     },
     {
@@ -320,7 +320,7 @@
       ],
       "metrics": [
         "39",
-        "26"
+        "32"
       ]
     },
     {
@@ -328,8 +328,8 @@
         "/route/atrani-house.html"
       ],
       "metrics": [
-        "10",
-        "8"
+        "6",
+        "5"
       ]
     },
     {
@@ -337,8 +337,8 @@
         "/a/"
       ],
       "metrics": [
-        "1",
-        "1"
+        "2",
+        "2"
       ]
     }
   ],
@@ -348,8 +348,8 @@
         "(direct)"
       ],
       "metrics": [
-        "34",
-        "19"
+        "39",
+        "23"
       ]
     },
     {
@@ -357,8 +357,17 @@
         "airbnb.es"
       ],
       "metrics": [
-        "3",
+        "4",
         "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "(not set)"
+      ],
+      "metrics": [
+        "3",
+        "2"
       ]
     },
     {
@@ -386,15 +395,6 @@
       "metrics": [
         "1",
         "0"
-      ]
-    },
-    {
-      "dimensions": [
-        "airbnb.com.hk"
-      ],
-      "metrics": [
-        "1",
-        "1"
       ]
     },
     {
@@ -431,8 +431,17 @@
         "Italy"
       ],
       "metrics": [
-        "19",
-        "11"
+        "23",
+        "14"
+      ]
+    },
+    {
+      "dimensions": [
+        "Spain"
+      ],
+      "metrics": [
+        "7",
+        "3"
       ]
     },
     {
@@ -455,15 +464,6 @@
     },
     {
       "dimensions": [
-        "Japan"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
         "Poland"
       ],
       "metrics": [
@@ -482,29 +482,20 @@
     },
     {
       "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
         "Germany"
       ],
       "metrics": [
         "2",
         "0"
-      ]
-    },
-    {
-      "dimensions": [
-        "Spain"
-      ],
-      "metrics": [
-        "2",
-        "0"
-      ]
-    },
-    {
-      "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "2",
-        "2"
       ]
     },
     {
@@ -515,20 +506,29 @@
         "1",
         "0"
       ]
+    },
+    {
+      "dimensions": [
+        "China"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 45,
-    "users": 24,
+    "sessions": 51,
+    "users": 27,
     "pageViews": 99,
-    "avgSessionDuration": 266,
-    "bounceRate": 0.4
+    "avgSessionDuration": 243,
+    "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 234,
-    "users": 127,
-    "pageViews": 388,
-    "avgSessionDuration": 173,
+    "sessions": 232,
+    "users": 128,
+    "pageViews": 382,
+    "avgSessionDuration": 164,
     "bounceRate": 0.6
   }
 }

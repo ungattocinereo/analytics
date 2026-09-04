@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-09-03T09:32:28.445Z",
+  "updatedAt": "2026-09-04T09:28:57.605Z",
   "trend": [
     {
       "dimensions": [
@@ -31,16 +31,6 @@
         "40",
         "36",
         "40"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260804"
-      ],
-      "metrics": [
-        "35",
-        "35",
-        "36"
       ]
     },
     {
@@ -185,6 +175,16 @@
     },
     {
       "dimensions": [
+        "20260903"
+      ],
+      "metrics": [
+        "18",
+        "18",
+        "19"
+      ]
+    },
+    {
+      "dimensions": [
         "20260820"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260903"
+        "20260904"
       ],
       "metrics": [
-        "7",
-        "7",
-        "7"
+        "4",
+        "4",
+        "10"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "55",
-        "55"
+        "49",
+        "49"
       ]
     },
     {
@@ -329,7 +329,7 @@
         "/experience"
       ],
       "metrics": [
-        "10",
+        "12",
         "10"
       ]
     },
@@ -339,16 +339,7 @@
       ],
       "metrics": [
         "9",
-        "10"
-      ]
-    },
-    {
-      "dimensions": [
-        "/parking"
-      ],
-      "metrics": [
-        "5",
-        "5"
+        "9"
       ]
     },
     {
@@ -371,7 +362,16 @@
     },
     {
       "dimensions": [
-        "/transport"
+        "/parking"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/tours-vespa"
       ],
       "metrics": [
         "4",
@@ -398,24 +398,6 @@
     },
     {
       "dimensions": [
-        "/blog/atrani-samyi-siekrietnyi-ugholok-amalfitanskogho-pobieriezhia"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/parking"
-      ],
-      "metrics": [
-        "3",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "/contacts"
       ],
       "metrics": [
@@ -425,11 +407,11 @@
     },
     {
       "dimensions": [
-        "/tours-vespa"
+        "/2018/06/eva-green-amalfi-atrani"
       ],
       "metrics": [
-        "3",
-        "3"
+        "2",
+        "2"
       ]
     },
     {
@@ -449,6 +431,24 @@
         "2",
         "2"
       ]
+    },
+    {
+      "dimensions": [
+        "/blog/2019-11-15"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/colatura-di-alici-di-cetara"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
     }
   ],
   "sources": [
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "93",
-        "91"
+        "91",
+        "89"
       ]
     },
     {
@@ -466,7 +466,7 @@
         "yandex.ru"
       ],
       "metrics": [
-        "17",
+        "13",
         "11"
       ]
     },
@@ -475,8 +475,8 @@
         "google"
       ],
       "metrics": [
-        "15",
-        "14"
+        "7",
+        "7"
       ]
     },
     {
@@ -485,7 +485,7 @@
       ],
       "metrics": [
         "3",
-        "3"
+        "2"
       ]
     },
     {
@@ -493,8 +493,8 @@
         "(not set)"
       ],
       "metrics": [
-        "1",
-        "1"
+        "2",
+        "2"
       ]
     },
     {
@@ -502,17 +502,8 @@
         "m.facebook.com"
       ],
       "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "sunblog.asia"
-      ],
-      "metrics": [
-        "1",
-        "1"
+        "2",
+        "2"
       ]
     },
     {
@@ -531,17 +522,8 @@
         "Russia"
       ],
       "metrics": [
-        "81",
-        "75"
-      ]
-    },
-    {
-      "dimensions": [
-        "Italy"
-      ],
-      "metrics": [
-        "8",
-        "8"
+        "72",
+        "69"
       ]
     },
     {
@@ -555,11 +537,11 @@
     },
     {
       "dimensions": [
-        "China"
+        "Italy"
       ],
       "metrics": [
-        "6",
-        "6"
+        "5",
+        "5"
       ]
     },
     {
@@ -567,8 +549,8 @@
         "Poland"
       ],
       "metrics": [
-        "4",
-        "2"
+        "5",
+        "3"
       ]
     },
     {
@@ -591,7 +573,16 @@
     },
     {
       "dimensions": [
-        "Germany"
+        "China"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "Sweden"
       ],
       "metrics": [
         "3",
@@ -609,7 +600,7 @@
     },
     {
       "dimensions": [
-        "Israel"
+        "Germany"
       ],
       "metrics": [
         "2",
@@ -618,17 +609,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 132,
-    "users": 123,
-    "pageViews": 153,
-    "avgSessionDuration": 42,
+    "sessions": 118,
+    "users": 113,
+    "pageViews": 143,
+    "avgSessionDuration": 46,
     "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 682,
-    "users": 642,
-    "pageViews": 749,
-    "avgSessionDuration": 40,
+    "sessions": 662,
+    "users": 621,
+    "pageViews": 735,
+    "avgSessionDuration": 43,
     "bounceRate": 0.8
   }
 }
