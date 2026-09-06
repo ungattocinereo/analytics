@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-09-05T08:53:13.335Z",
+  "updatedAt": "2026-09-06T09:13:27.519Z",
   "trend": [
     {
       "dimensions": [
@@ -61,6 +61,26 @@
         "27",
         "24",
         "31"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260906"
+      ],
+      "metrics": [
+        "26",
+        "26",
+        "27"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260905"
+      ],
+      "metrics": [
+        "25",
+        "21",
+        "23"
       ]
     },
     {
@@ -265,16 +285,6 @@
     },
     {
       "dimensions": [
-        "20260806"
-      ],
-      "metrics": [
-        "12",
-        "11",
-        "12"
-      ]
-    },
-    {
-      "dimensions": [
         "20260808"
       ],
       "metrics": [
@@ -302,16 +312,6 @@
         "9",
         "9"
       ]
-    },
-    {
-      "dimensions": [
-        "20260905"
-      ],
-      "metrics": [
-        "3",
-        "3",
-        "4"
-      ]
     }
   ],
   "topPages": [
@@ -320,8 +320,17 @@
         "/"
       ],
       "metrics": [
-        "54",
-        "54"
+        "56",
+        "56"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
+      ],
+      "metrics": [
+        "13",
+        "14"
       ]
     },
     {
@@ -330,30 +339,39 @@
       ],
       "metrics": [
         "13",
-        "11"
+        "12"
       ]
     },
     {
       "dimensions": [
-        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
+        "/2021/09/positano-steibek"
       ],
       "metrics": [
-        "10",
-        "10"
+        "5",
+        "5"
       ]
     },
     {
       "dimensions": [
-        "/apartments"
+        "/blog"
       ],
       "metrics": [
-        "4",
+        "5",
         "4"
       ]
     },
     {
       "dimensions": [
         "/parking"
+      ],
+      "metrics": [
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2020/06/sarchiapone"
       ],
       "metrics": [
         "4",
@@ -371,7 +389,7 @@
     },
     {
       "dimensions": [
-        "/2020/06/sarchiapone"
+        "/apartments"
       ],
       "metrics": [
         "3",
@@ -380,16 +398,7 @@
     },
     {
       "dimensions": [
-        "/2021/09/positano-steibek"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog"
+        "/blog/history-amalfi-photos-spzbn"
       ],
       "metrics": [
         "3",
@@ -407,7 +416,7 @@
     },
     {
       "dimensions": [
-        "/contacts"
+        "/transport"
       ],
       "metrics": [
         "3",
@@ -434,16 +443,7 @@
     },
     {
       "dimensions": [
-        "/blog/atrani-samyi-siekrietnyi-ugholok-amalfitanskogho-pobieriezhia"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/colatura-di-alici-di-cetara"
+        "/blog/2019-2-20-old-photos-of-amalfi"
       ],
       "metrics": [
         "2",
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "98",
-        "96"
+        "123",
+        "120"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "13",
-        "12"
+        "19",
+        "16"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "google"
       ],
       "metrics": [
-        "7",
-        "7"
+        "10",
+        "9"
       ]
     },
     {
@@ -484,8 +484,8 @@
         "ya.ru"
       ],
       "metrics": [
-        "5",
-        "4"
+        "4",
+        "3"
       ]
     },
     {
@@ -493,8 +493,8 @@
         "(not set)"
       ],
       "metrics": [
-        "2",
-        "2"
+        "1",
+        "1"
       ]
     },
     {
@@ -502,8 +502,8 @@
         "m.facebook.com"
       ],
       "metrics": [
-        "2",
-        "2"
+        "1",
+        "1"
       ]
     }
   ],
@@ -513,8 +513,35 @@
         "Russia"
       ],
       "metrics": [
-        "73",
-        "71"
+        "78",
+        "75"
+      ]
+    },
+    {
+      "dimensions": [
+        "Singapore"
+      ],
+      "metrics": [
+        "21",
+        "21"
+      ]
+    },
+    {
+      "dimensions": [
+        "Poland"
+      ],
+      "metrics": [
+        "8",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "(not set)"
+      ],
+      "metrics": [
+        "7",
+        "7"
       ]
     },
     {
@@ -524,24 +551,6 @@
       "metrics": [
         "7",
         "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "(not set)"
-      ],
-      "metrics": [
-        "6",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "Poland"
-      ],
-      "metrics": [
-        "5",
-        "3"
       ]
     },
     {
@@ -573,44 +582,35 @@
     },
     {
       "dimensions": [
-        "Singapore"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "Sweden"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
         "United Kingdom"
       ],
       "metrics": [
         "3",
         "3"
       ]
+    },
+    {
+      "dimensions": [
+        "Belarus"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 126,
-    "users": 122,
-    "pageViews": 153,
-    "avgSessionDuration": 50,
+    "sessions": 158,
+    "users": 150,
+    "pageViews": 179,
+    "avgSessionDuration": 43,
     "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 671,
-    "users": 632,
-    "pageViews": 748,
-    "avgSessionDuration": 43,
+    "sessions": 707,
+    "users": 665,
+    "pageViews": 782,
+    "avgSessionDuration": 39,
     "bounceRate": 0.8
   }
 }

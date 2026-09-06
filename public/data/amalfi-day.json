@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-09-05T08:53:14.347Z",
+  "updatedAt": "2026-09-06T09:13:28.601Z",
   "trend": [
     {
       "dimensions": [
@@ -81,16 +81,6 @@
         "14",
         "11",
         "20"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260806"
-      ],
-      "metrics": [
-        "13",
-        "10",
-        "18"
       ]
     },
     {
@@ -235,6 +225,16 @@
     },
     {
       "dimensions": [
+        "20260905"
+      ],
+      "metrics": [
+        "9",
+        "6",
+        "11"
+      ]
+    },
+    {
+      "dimensions": [
         "20260815"
       ],
       "metrics": [
@@ -310,8 +310,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "21",
-        "17"
+        "18",
+        "15"
       ]
     },
     {
@@ -325,20 +325,20 @@
     },
     {
       "dimensions": [
-        "/parking/"
+        "/"
       ],
       "metrics": [
-        "13",
+        "14",
         "13"
       ]
     },
     {
       "dimensions": [
-        "/"
+        "/parking/"
       ],
       "metrics": [
-        "12",
-        "11"
+        "10",
+        "10"
       ]
     },
     {
@@ -346,8 +346,8 @@
         "/directions/"
       ],
       "metrics": [
-        "12",
-        "8"
+        "9",
+        "9"
       ]
     },
     {
@@ -355,8 +355,8 @@
         "/ferry-timetables/"
       ],
       "metrics": [
-        "8",
-        "8"
+        "6",
+        "5"
       ]
     },
     {
@@ -370,7 +370,25 @@
     },
     {
       "dimensions": [
+        "/apartments/"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "/beaches"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/contact"
       ],
       "metrics": [
         "2",
@@ -397,16 +415,16 @@
     },
     {
       "dimensions": [
-        "/timetables"
+        "/apartments"
       ],
       "metrics": [
-        "2",
-        "2"
+        "1",
+        "1"
       ]
     },
     {
       "dimensions": [
-        "/apartments"
+        "/blog/license-plate-restrictions-return-to-the-amalfi-coast-april-25-may-2-2/"
       ],
       "metrics": [
         "1",
@@ -421,52 +439,25 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "/contact"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/experience/car-tours"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "sources": [
     {
       "dimensions": [
-        "google"
-      ],
-      "metrics": [
-        "28",
-        "18"
-      ]
-    },
-    {
-      "dimensions": [
         "(direct)"
       ],
       "metrics": [
-        "22",
-        "12"
+        "26",
+        "13"
       ]
     },
     {
       "dimensions": [
-        "bing"
+        "google"
       ],
       "metrics": [
-        "4",
-        "4"
+        "21",
+        "13"
       ]
     },
     {
@@ -474,8 +465,26 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "4",
-        "4"
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "bing"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "ecosia.org"
+      ],
+      "metrics": [
+        "3",
+        "1"
       ]
     },
     {
@@ -490,15 +499,6 @@
     {
       "dimensions": [
         "duckduckgo"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "ecosia.org"
       ],
       "metrics": [
         "2",
@@ -522,7 +522,7 @@
       ],
       "metrics": [
         "22",
-        "12"
+        "10"
       ]
     },
     {
@@ -530,8 +530,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "10",
-        "8"
+        "9",
+        "7"
       ]
     },
     {
@@ -539,8 +539,8 @@
         "United States"
       ],
       "metrics": [
-        "8",
-        "6"
+        "9",
+        "7"
       ]
     },
     {
@@ -554,20 +554,11 @@
     },
     {
       "dimensions": [
-        "Israel"
-      ],
-      "metrics": [
-        "3",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "Canada"
       ],
       "metrics": [
-        "2",
-        "2"
+        "3",
+        "3"
       ]
     },
     {
@@ -575,8 +566,17 @@
         "Germany"
       ],
       "metrics": [
-        "2",
+        "3",
         "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "France"
+      ],
+      "metrics": [
+        "2",
+        "2"
       ]
     },
     {
@@ -590,11 +590,11 @@
     },
     {
       "dimensions": [
-        "Romania"
+        "Israel"
       ],
       "metrics": [
         "2",
-        "2"
+        "1"
       ]
     },
     {
@@ -608,17 +608,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 65,
-    "users": 43,
-    "pageViews": 102,
-    "avgSessionDuration": 194,
-    "bounceRate": 0.4
+    "sessions": 63,
+    "users": 39,
+    "pageViews": 98,
+    "avgSessionDuration": 176,
+    "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 345,
-    "users": 223,
-    "pageViews": 470,
-    "avgSessionDuration": 187,
+    "sessions": 341,
+    "users": 219,
+    "pageViews": 463,
+    "avgSessionDuration": 188,
     "bounceRate": 0.5
   }
 }
