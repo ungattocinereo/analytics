@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-09-06T09:13:28.601Z",
+  "updatedAt": "2026-09-07T10:01:57.248Z",
   "trend": [
     {
       "dimensions": [
@@ -125,16 +125,6 @@
     },
     {
       "dimensions": [
-        "20260807"
-      ],
-      "metrics": [
-        "11",
-        "8",
-        "13"
-      ]
-    },
-    {
-      "dimensions": [
         "20260809"
       ],
       "metrics": [
@@ -201,6 +191,16 @@
         "10",
         "6",
         "14"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260906"
+      ],
+      "metrics": [
+        "10",
+        "7",
+        "10"
       ]
     },
     {
@@ -302,6 +302,16 @@
         "3",
         "5"
       ]
+    },
+    {
+      "dimensions": [
+        "20260907"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "1"
+      ]
     }
   ],
   "topPages": [
@@ -310,8 +320,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "18",
-        "15"
+        "19",
+        "16"
       ]
     },
     {
@@ -325,16 +335,16 @@
     },
     {
       "dimensions": [
-        "/"
+        "/parking/"
       ],
       "metrics": [
         "14",
-        "13"
+        "14"
       ]
     },
     {
       "dimensions": [
-        "/parking/"
+        "/"
       ],
       "metrics": [
         "10",
@@ -355,8 +365,8 @@
         "/ferry-timetables/"
       ],
       "metrics": [
-        "6",
-        "5"
+        "9",
+        "8"
       ]
     },
     {
@@ -365,6 +375,15 @@
       ],
       "metrics": [
         "4",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/metro-del-mare-is-back-amalfi-coast-to-cilento-by-sea/"
+      ],
+      "metrics": [
+        "3",
         "3"
       ]
     },
@@ -406,15 +425,6 @@
     },
     {
       "dimensions": [
-        "/photoshootings/lashada/"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "/apartments"
       ],
       "metrics": [
@@ -433,7 +443,7 @@
     },
     {
       "dimensions": [
-        "/blog/metro-del-mare-is-back-amalfi-coast-to-cilento-by-sea/"
+        "/experience/car-tours"
       ],
       "metrics": [
         "1",
@@ -444,19 +454,19 @@
   "sources": [
     {
       "dimensions": [
-        "(direct)"
+        "google"
       ],
       "metrics": [
-        "26",
-        "13"
+        "29",
+        "18"
       ]
     },
     {
       "dimensions": [
-        "google"
+        "(direct)"
       ],
       "metrics": [
-        "21",
+        "25",
         "13"
       ]
     },
@@ -480,6 +490,15 @@
     },
     {
       "dimensions": [
+        "duckduckgo"
+      ],
+      "metrics": [
+        "3",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "ecosia.org"
       ],
       "metrics": [
@@ -498,15 +517,6 @@
     },
     {
       "dimensions": [
-        "duckduckgo"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "yahoo"
       ],
       "metrics": [
@@ -521,17 +531,8 @@
         "Italy"
       ],
       "metrics": [
-        "22",
-        "10"
-      ]
-    },
-    {
-      "dimensions": [
-        "United Kingdom"
-      ],
-      "metrics": [
-        "9",
-        "7"
+        "23",
+        "12"
       ]
     },
     {
@@ -539,8 +540,26 @@
         "United States"
       ],
       "metrics": [
-        "9",
+        "11",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
+        "United Kingdom"
+      ],
+      "metrics": [
+        "10",
         "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "Germany"
+      ],
+      "metrics": [
+        "5",
+        "2"
       ]
     },
     {
@@ -559,15 +578,6 @@
       "metrics": [
         "3",
         "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "Germany"
-      ],
-      "metrics": [
-        "3",
-        "1"
       ]
     },
     {
@@ -608,16 +618,16 @@
     }
   ],
   "summary7d": {
-    "sessions": 63,
-    "users": 39,
-    "pageViews": 98,
-    "avgSessionDuration": 176,
+    "sessions": 71,
+    "users": 45,
+    "pageViews": 104,
+    "avgSessionDuration": 158,
     "bounceRate": 0.5
   },
   "summary30d": {
     "sessions": 341,
     "users": 219,
-    "pageViews": 463,
+    "pageViews": 461,
     "avgSessionDuration": 188,
     "bounceRate": 0.5
   }
