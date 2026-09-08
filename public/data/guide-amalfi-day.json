@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-09-07T10:01:57.741Z",
+  "updatedAt": "2026-09-08T09:27:10.060Z",
   "trend": [
     {
       "dimensions": [
@@ -160,7 +160,17 @@
       "metrics": [
         "1",
         "1",
-        "5"
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260907"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "1"
       ]
     }
   ],
@@ -170,7 +180,7 @@
         "/"
       ],
       "metrics": [
-        "4",
+        "5",
         "2"
       ]
     },
@@ -185,7 +195,16 @@
     },
     {
       "dimensions": [
-        "/place/la-grande-mela-supermarket-deco-amalfi"
+        "/place/church-santa-maria-del-bando"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/dogi-market-amalfi"
       ],
       "metrics": [
         "1",
@@ -217,13 +236,13 @@
         "(direct)"
       ],
       "metrics": [
-        "4",
-        "3"
+        "3",
+        "2"
       ]
     },
     {
       "dimensions": [
-        "(not set)"
+        "(data not available)"
       ],
       "metrics": [
         "1",
@@ -252,7 +271,7 @@
     },
     {
       "dimensions": [
-        "Denmark"
+        "United Kingdom"
       ],
       "metrics": [
         "1",
@@ -263,15 +282,15 @@
   "summary7d": {
     "sessions": 4,
     "users": 3,
-    "pageViews": 8,
-    "avgSessionDuration": 42,
-    "bounceRate": 1
+    "pageViews": 10,
+    "avgSessionDuration": 67,
+    "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 17,
-    "users": 9,
-    "pageViews": 28,
-    "avgSessionDuration": 120,
-    "bounceRate": 0.8
+    "sessions": 18,
+    "users": 10,
+    "pageViews": 31,
+    "avgSessionDuration": 119,
+    "bounceRate": 0.7
   }
 }
