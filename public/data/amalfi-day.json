@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-09-08T09:27:09.491Z",
+  "updatedAt": "2026-09-09T09:28:42.633Z",
   "trend": [
     {
       "dimensions": [
@@ -95,6 +95,16 @@
     },
     {
       "dimensions": [
+        "20260908"
+      ],
+      "metrics": [
+        "13",
+        "8",
+        "17"
+      ]
+    },
+    {
+      "dimensions": [
         "20260824"
       ],
       "metrics": [
@@ -111,16 +121,6 @@
         "12",
         "8",
         "17"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260809"
-      ],
-      "metrics": [
-        "11",
-        "9",
-        "12"
       ]
     },
     {
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260908"
+        "20260909"
       ],
       "metrics": [
         "1",
-        "0",
-        "0"
+        "1",
+        "1"
       ]
     }
   ],
@@ -320,17 +320,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "19",
+        "18",
         "16"
-      ]
-    },
-    {
-      "dimensions": [
-        "/ferry-timetables"
-      ],
-      "metrics": [
-        "16",
-        "6"
       ]
     },
     {
@@ -339,7 +330,7 @@
       ],
       "metrics": [
         "13",
-        "14"
+        "15"
       ]
     },
     {
@@ -347,22 +338,22 @@
         "/"
       ],
       "metrics": [
-        "8",
-        "8"
+        "10",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
+        "/ferry-timetables"
+      ],
+      "metrics": [
+        "10",
+        "7"
       ]
     },
     {
       "dimensions": [
         "/directions/"
-      ],
-      "metrics": [
-        "8",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "/ferry-timetables/"
       ],
       "metrics": [
         "7",
@@ -371,10 +362,19 @@
     },
     {
       "dimensions": [
-        "/blog/why-silver-moon-and-mar-di-cobalto-are-closed-in-amalfi/"
+        "/ferry-timetables/"
       ],
       "metrics": [
-        "4",
+        "6",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/license-plate-restrictions-return-to-the-amalfi-coast-april-25-may-2-2/"
+      ],
+      "metrics": [
+        "3",
         "3"
       ]
     },
@@ -385,15 +385,6 @@
       "metrics": [
         "2",
         "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/beaches"
-      ],
-      "metrics": [
-        "2",
-        "2"
       ]
     },
     {
@@ -416,15 +407,6 @@
     },
     {
       "dimensions": [
-        "/experience/scooter"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "/photolocations/"
       ],
       "metrics": [
@@ -434,7 +416,16 @@
     },
     {
       "dimensions": [
-        "/apartments"
+        "/timetables"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/beaches"
       ],
       "metrics": [
         "1",
@@ -449,6 +440,15 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "/experience/scooter"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "sources": [
@@ -457,7 +457,7 @@
         "google"
       ],
       "metrics": [
-        "30",
+        "29",
         "18"
       ]
     },
@@ -467,7 +467,7 @@
       ],
       "metrics": [
         "25",
-        "15"
+        "14"
       ]
     },
     {
@@ -481,6 +481,15 @@
     },
     {
       "dimensions": [
+        "bing"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
         "duckduckgo"
       ],
       "metrics": [
@@ -490,20 +499,11 @@
     },
     {
       "dimensions": [
-        "bing"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "ca.search.yahoo.com"
       ],
       "metrics": [
-        "2",
-        "2"
+        "1",
+        "1"
       ]
     },
     {
@@ -511,8 +511,26 @@
         "ecosia.org"
       ],
       "metrics": [
-        "2",
+        "1",
         "0"
+      ]
+    },
+    {
+      "dimensions": [
+        "facebook.com"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "uk.search.yahoo.com"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     },
     {
@@ -531,7 +549,7 @@
         "Italy"
       ],
       "metrics": [
-        "22",
+        "23",
         "12"
       ]
     },
@@ -540,8 +558,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "12",
-        "9"
+        "13",
+        "10"
       ]
     },
     {
@@ -549,8 +567,8 @@
         "United States"
       ],
       "metrics": [
-        "11",
-        "9"
+        "10",
+        "8"
       ]
     },
     {
@@ -559,7 +577,7 @@
       ],
       "metrics": [
         "7",
-        "4"
+        "5"
       ]
     },
     {
@@ -567,7 +585,16 @@
         "Ireland"
       ],
       "metrics": [
-        "5",
+        "4",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Australia"
+      ],
+      "metrics": [
+        "2",
         "2"
       ]
     },
@@ -582,29 +609,11 @@
     },
     {
       "dimensions": [
-        "Israel"
+        "Norway"
       ],
       "metrics": [
         "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Australia"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Austria"
-      ],
-      "metrics": [
-        "1",
-        "1"
+        "2"
       ]
     },
     {
@@ -615,20 +624,29 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "Denmark"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "summary7d": {
     "sessions": 69,
-    "users": 44,
-    "pageViews": 98,
-    "avgSessionDuration": 147,
+    "users": 45,
+    "pageViews": 87,
+    "avgSessionDuration": 143,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 333,
+    "sessions": 335,
     "users": 213,
-    "pageViews": 453,
-    "avgSessionDuration": 190,
+    "pageViews": 459,
+    "avgSessionDuration": 194,
     "bounceRate": 0.5
   }
 }
