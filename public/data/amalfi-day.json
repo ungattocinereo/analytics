@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-09-10T09:27:24.795Z",
+  "updatedAt": "2026-09-11T09:25:54.279Z",
   "trend": [
     {
       "dimensions": [
@@ -11,16 +11,6 @@
         "20",
         "14",
         "29"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260811"
-      ],
-      "metrics": [
-        "19",
-        "15",
-        "23"
       ]
     },
     {
@@ -308,9 +298,9 @@
         "20260910"
       ],
       "metrics": [
+        "2",
         "1",
-        "0",
-        "1"
+        "2"
       ]
     }
   ],
@@ -320,8 +310,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "20",
-        "18"
+        "17",
+        "17"
       ]
     },
     {
@@ -329,8 +319,8 @@
         "/parking/"
       ],
       "metrics": [
-        "14",
-        "16"
+        "11",
+        "12"
       ]
     },
     {
@@ -338,8 +328,8 @@
         "/ferry-timetables"
       ],
       "metrics": [
-        "13",
-        "10"
+        "9",
+        "7"
       ]
     },
     {
@@ -347,17 +337,8 @@
         "/"
       ],
       "metrics": [
-        "10",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
-        "/directions/"
-      ],
-      "metrics": [
-        "5",
-        "6"
+        "8",
+        "7"
       ]
     },
     {
@@ -380,20 +361,11 @@
     },
     {
       "dimensions": [
-        "/contact"
+        "/directions/"
       ],
       "metrics": [
         "4",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/beaches"
-      ],
-      "metrics": [
-        "3",
-        "3"
+        "5"
       ]
     },
     {
@@ -403,6 +375,24 @@
       "metrics": [
         "3",
         "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/contact"
+      ],
+      "metrics": [
+        "3",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/beaches"
+      ],
+      "metrics": [
+        "2",
+        "2"
       ]
     },
     {
@@ -425,15 +415,6 @@
     },
     {
       "dimensions": [
-        "/timetables"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/a-local-3-or-4-day-amalfi-coast-itinerary-without-a-car"
       ],
       "metrics": [
@@ -449,6 +430,15 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "/parking"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "sources": [
@@ -457,8 +447,8 @@
         "google"
       ],
       "metrics": [
-        "28",
-        "17"
+        "24",
+        "16"
       ]
     },
     {
@@ -466,8 +456,8 @@
         "(direct)"
       ],
       "metrics": [
-        "27",
-        "17"
+        "23",
+        "13"
       ]
     },
     {
@@ -475,8 +465,8 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "6",
-        "5"
+        "5",
+        "4"
       ]
     },
     {
@@ -484,8 +474,8 @@
         "bing"
       ],
       "metrics": [
-        "5",
-        "4"
+        "4",
+        "3"
       ]
     },
     {
@@ -549,7 +539,7 @@
         "Italy"
       ],
       "metrics": [
-        "26",
+        "23",
         "13"
       ]
     },
@@ -558,8 +548,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "13",
-        "10"
+        "11",
+        "8"
       ]
     },
     {
@@ -567,8 +557,8 @@
         "United States"
       ],
       "metrics": [
-        "10",
-        "8"
+        "9",
+        "7"
       ]
     },
     {
@@ -585,8 +575,8 @@
         "Ireland"
       ],
       "metrics": [
-        "5",
-        "4"
+        "4",
+        "3"
       ]
     },
     {
@@ -594,8 +584,8 @@
         "Australia"
       ],
       "metrics": [
-        "3",
-        "3"
+        "2",
+        "2"
       ]
     },
     {
@@ -618,35 +608,35 @@
     },
     {
       "dimensions": [
-        "Norway"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "Russia"
       ],
       "metrics": [
         "2",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "Brazil"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 75,
-    "users": 49,
-    "pageViews": 97,
-    "avgSessionDuration": 136,
+    "sessions": 65,
+    "users": 42,
+    "pageViews": 77,
+    "avgSessionDuration": 137,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 338,
-    "users": 212,
-    "pageViews": 461,
-    "avgSessionDuration": 189,
+    "sessions": 320,
+    "users": 198,
+    "pageViews": 439,
+    "avgSessionDuration": 194,
     "bounceRate": 0.5
   }
 }

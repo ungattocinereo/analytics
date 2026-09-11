@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-09-10T09:27:25.433Z",
+  "updatedAt": "2026-09-11T09:25:54.935Z",
   "trend": [
     {
       "dimensions": [
@@ -162,6 +162,16 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "20260910"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "6"
+      ]
     }
   ],
   "topPages": [
@@ -170,8 +180,44 @@
         "/"
       ],
       "metrics": [
-        "5",
-        "2"
+        "4",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/de"
+      ],
+      "metrics": [
+        "3",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/de/place/il-birecto-atrani"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/de/place/le-palme-atrani"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/de/place/lido-degli-artisti-amalfi"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     },
     {
@@ -227,7 +273,16 @@
       ],
       "metrics": [
         "3",
-        "2"
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "(not set)"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     },
     {
@@ -247,7 +302,7 @@
       ],
       "metrics": [
         "2",
-        "1"
+        "2"
       ]
     },
     {
@@ -271,16 +326,16 @@
   ],
   "summary7d": {
     "sessions": 4,
-    "users": 3,
-    "pageViews": 10,
-    "avgSessionDuration": 67,
-    "bounceRate": 0.8
+    "users": 4,
+    "pageViews": 15,
+    "avgSessionDuration": 438,
+    "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 17,
-    "users": 10,
-    "pageViews": 30,
-    "avgSessionDuration": 126,
+    "sessions": 18,
+    "users": 11,
+    "pageViews": 36,
+    "avgSessionDuration": 201,
     "bounceRate": 0.7
   }
 }
