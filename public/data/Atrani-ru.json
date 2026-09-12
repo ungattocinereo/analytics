@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-09-11T09:25:53.258Z",
+  "updatedAt": "2026-09-12T09:07:17.583Z",
   "trend": [
     {
       "dimensions": [
@@ -11,16 +11,6 @@
         "186",
         "188",
         "189"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260812"
-      ],
-      "metrics": [
-        "98",
-        "96",
-        "101"
       ]
     },
     {
@@ -61,6 +51,16 @@
         "31",
         "28",
         "34"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260911"
+      ],
+      "metrics": [
+        "30",
+        "28",
+        "29"
       ]
     },
     {
@@ -305,7 +305,7 @@
     },
     {
       "dimensions": [
-        "20260911"
+        "20260912"
       ],
       "metrics": [
         "5",
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "65",
-        "65"
+        "64",
+        "64"
       ]
     },
     {
@@ -329,17 +329,8 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "25",
-        "25"
-      ]
-    },
-    {
-      "dimensions": [
-        "/experience"
-      ],
-      "metrics": [
-        "14",
-        "13"
+        "27",
+        "27"
       ]
     },
     {
@@ -349,6 +340,15 @@
       "metrics": [
         "11",
         "11"
+      ]
+    },
+    {
+      "dimensions": [
+        "/experience"
+      ],
+      "metrics": [
+        "9",
+        "10"
       ]
     },
     {
@@ -365,31 +365,31 @@
         "/transport"
       ],
       "metrics": [
-        "6",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2020/04/andra-tutto-bene"
-      ],
-      "metrics": [
-        "5",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2020/06/sarchiapone"
-      ],
-      "metrics": [
-        "5",
-        "5"
+        "7",
+        "7"
       ]
     },
     {
       "dimensions": [
         "/2021/09/positano-steibek"
+      ],
+      "metrics": [
+        "6",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/li-galli-ostrov-nurieieva-u-pozitano-otbilsia-ot-liuksovogho-resorta"
+      ],
+      "metrics": [
+        "6",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2020/04/andra-tutto-bene"
       ],
       "metrics": [
         "5",
@@ -407,16 +407,16 @@
     },
     {
       "dimensions": [
-        "/blog/li-galli-ostrov-nurieieva-u-pozitano-otbilsia-ot-liuksovogho-resorta"
+        "/2020/06/sarchiapone"
       ],
       "metrics": [
-        "5",
-        "5"
+        "4",
+        "4"
       ]
     },
     {
       "dimensions": [
-        "/apartments"
+        "/2019/2/3/presepio-nativity-scene"
       ],
       "metrics": [
         "3",
@@ -434,20 +434,20 @@
     },
     {
       "dimensions": [
-        "/blog/atrani-samyi-siekrietnyi-ugholok-amalfitanskogho-pobieriezhia"
+        "/blog/chto-dielat-na-amalfitanskom-pobieriezhie-iesli-dozhd-zhara-ili-otmienili-lodku"
       ],
       "metrics": [
         "3",
-        "3"
+        "4"
       ]
     },
     {
       "dimensions": [
-        "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
+        "/2019/12/katastrofa"
       ],
       "metrics": [
-        "3",
-        "3"
+        "2",
+        "2"
       ]
     }
   ],
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "316",
-        "314"
+        "320",
+        "318"
       ]
     },
     {
@@ -466,7 +466,7 @@
         "yandex.ru"
       ],
       "metrics": [
-        "28",
+        "31",
         "20"
       ]
     },
@@ -484,8 +484,17 @@
         "ya.ru"
       ],
       "metrics": [
-        "5",
-        "4"
+        "4",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "(data not available)"
+      ],
+      "metrics": [
+        "2",
+        "2"
       ]
     },
     {
@@ -508,7 +517,7 @@
     },
     {
       "dimensions": [
-        "m.facebook.com"
+        "yandex"
       ],
       "metrics": [
         "1",
@@ -531,17 +540,8 @@
         "Russia"
       ],
       "metrics": [
-        "89",
-        "82"
-      ]
-    },
-    {
-      "dimensions": [
-        "Italy"
-      ],
-      "metrics": [
-        "14",
-        "13"
+        "96",
+        "86"
       ]
     },
     {
@@ -549,8 +549,17 @@
         "China"
       ],
       "metrics": [
-        "10",
-        "10"
+        "13",
+        "13"
+      ]
+    },
+    {
+      "dimensions": [
+        "Italy"
+      ],
+      "metrics": [
+        "13",
+        "12"
       ]
     },
     {
@@ -564,15 +573,6 @@
     },
     {
       "dimensions": [
-        "(not set)"
-      ],
-      "metrics": [
-        "7",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
         "Vietnam"
       ],
       "metrics": [
@@ -582,20 +582,29 @@
     },
     {
       "dimensions": [
-        "Netherlands"
+        "(not set)"
       ],
       "metrics": [
-        "5",
-        "3"
+        "6",
+        "6"
       ]
     },
     {
       "dimensions": [
-        "United States"
+        "Netherlands"
       ],
       "metrics": [
-        "4",
+        "6",
         "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "Brazil"
+      ],
+      "metrics": [
+        "3",
+        "3"
       ]
     },
     {
@@ -609,17 +618,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 370,
-    "users": 356,
-    "pageViews": 384,
-    "avgSessionDuration": 26,
+    "sessions": 378,
+    "users": 361,
+    "pageViews": 383,
+    "avgSessionDuration": 22,
     "bounceRate": 0.9
   },
   "summary30d": {
-    "sessions": 899,
-    "users": 859,
-    "pageViews": 973,
-    "avgSessionDuration": 30,
+    "sessions": 832,
+    "users": 790,
+    "pageViews": 901,
+    "avgSessionDuration": 34,
     "bounceRate": 0.8
   }
 }

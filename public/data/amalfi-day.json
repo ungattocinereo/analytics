@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-09-11T09:25:54.279Z",
+  "updatedAt": "2026-09-12T09:07:18.654Z",
   "trend": [
     {
       "dimensions": [
@@ -41,16 +41,6 @@
         "16",
         "9",
         "22"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260812"
-      ],
-      "metrics": [
-        "14",
-        "9",
-        "16"
       ]
     },
     {
@@ -161,6 +151,16 @@
         "11",
         "10",
         "13"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260910"
+      ],
+      "metrics": [
+        "11",
+        "7",
+        "12"
       ]
     },
     {
@@ -285,22 +285,22 @@
     },
     {
       "dimensions": [
+        "20260911"
+      ],
+      "metrics": [
+        "7",
+        "4",
+        "17"
+      ]
+    },
+    {
+      "dimensions": [
         "20260830"
       ],
       "metrics": [
         "3",
         "3",
         "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260910"
-      ],
-      "metrics": [
-        "2",
-        "1",
-        "2"
       ]
     }
   ],
@@ -310,8 +310,26 @@
         "/timetables/"
       ],
       "metrics": [
-        "17",
-        "17"
+        "18",
+        "19"
+      ]
+    },
+    {
+      "dimensions": [
+        "/ferry-timetables/"
+      ],
+      "metrics": [
+        "16",
+        "11"
+      ]
+    },
+    {
+      "dimensions": [
+        "/"
+      ],
+      "metrics": [
+        "10",
+        "9"
       ]
     },
     {
@@ -319,8 +337,8 @@
         "/parking/"
       ],
       "metrics": [
-        "11",
-        "12"
+        "10",
+        "10"
       ]
     },
     {
@@ -330,24 +348,6 @@
       "metrics": [
         "9",
         "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "/"
-      ],
-      "metrics": [
-        "8",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "/ferry-timetables/"
-      ],
-      "metrics": [
-        "5",
-        "5"
       ]
     },
     {
@@ -415,25 +415,25 @@
     },
     {
       "dimensions": [
+        "/photoshootings/olga-marat"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photoshootings/regan-tay-ravello"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "/blog/a-local-3-or-4-day-amalfi-coast-itinerary-without-a-car"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/experience/car-tours"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/parking"
       ],
       "metrics": [
         "1",
@@ -444,20 +444,29 @@
   "sources": [
     {
       "dimensions": [
-        "google"
+        "(direct)"
       ],
       "metrics": [
-        "24",
-        "16"
+        "28",
+        "15"
       ]
     },
     {
       "dimensions": [
-        "(direct)"
+        "google"
       ],
       "metrics": [
-        "23",
-        "13"
+        "25",
+        "17"
+      ]
+    },
+    {
+      "dimensions": [
+        "bing"
+      ],
+      "metrics": [
+        "6",
+        "5"
       ]
     },
     {
@@ -471,15 +480,6 @@
     },
     {
       "dimensions": [
-        "bing"
-      ],
-      "metrics": [
-        "4",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
         "duckduckgo"
       ],
       "metrics": [
@@ -489,10 +489,10 @@
     },
     {
       "dimensions": [
-        "ca.search.yahoo.com"
+        "ar.search.yahoo.com"
       ],
       "metrics": [
-        "1",
+        "2",
         "1"
       ]
     },
@@ -516,7 +516,7 @@
     },
     {
       "dimensions": [
-        "uk.search.yahoo.com"
+        "m.facebook.com"
       ],
       "metrics": [
         "1",
@@ -525,7 +525,7 @@
     },
     {
       "dimensions": [
-        "yahoo"
+        "uk.search.yahoo.com"
       ],
       "metrics": [
         "1",
@@ -539,17 +539,8 @@
         "Italy"
       ],
       "metrics": [
-        "23",
-        "13"
-      ]
-    },
-    {
-      "dimensions": [
-        "United Kingdom"
-      ],
-      "metrics": [
-        "11",
-        "8"
+        "29",
+        "16"
       ]
     },
     {
@@ -557,8 +548,8 @@
         "United States"
       ],
       "metrics": [
-        "9",
-        "7"
+        "10",
+        "9"
       ]
     },
     {
@@ -566,8 +557,17 @@
         "Germany"
       ],
       "metrics": [
-        "6",
-        "4"
+        "8",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "United Kingdom"
+      ],
+      "metrics": [
+        "7",
+        "5"
       ]
     },
     {
@@ -590,11 +590,11 @@
     },
     {
       "dimensions": [
-        "Canada"
+        "Egypt"
       ],
       "metrics": [
         "2",
-        "2"
+        "1"
       ]
     },
     {
@@ -617,26 +617,26 @@
     },
     {
       "dimensions": [
-        "Brazil"
+        "Austria"
       ],
       "metrics": [
         "1",
-        "1"
+        "0"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 65,
-    "users": 42,
-    "pageViews": 77,
-    "avgSessionDuration": 137,
+    "sessions": 74,
+    "users": 47,
+    "pageViews": 97,
+    "avgSessionDuration": 126,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 320,
-    "users": 198,
-    "pageViews": 439,
-    "avgSessionDuration": 194,
+    "sessions": 322,
+    "users": 199,
+    "pageViews": 450,
+    "avgSessionDuration": 198,
     "bounceRate": 0.5
   }
 }
