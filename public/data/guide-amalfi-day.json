@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-09-12T09:07:19.334Z",
+  "updatedAt": "2026-09-13T10:05:09.063Z",
   "trend": [
     {
       "dimensions": [
@@ -11,16 +11,6 @@
         "2",
         "2",
         "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260813"
-      ],
-      "metrics": [
-        "1",
-        "0",
-        "1"
       ]
     },
     {
@@ -248,15 +238,6 @@
     },
     {
       "dimensions": [
-        "/place/le-palme-atrani"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "/place/path-of-the-gods-sentiero-degli-dei"
       ],
       "metrics": [
@@ -271,8 +252,8 @@
         "(direct)"
       ],
       "metrics": [
-        "3",
-        "3"
+        "2",
+        "2"
       ]
     },
     {
@@ -288,16 +269,16 @@
   "countries": [
     {
       "dimensions": [
-        "Italy"
+        "Australia"
       ],
       "metrics": [
-        "2",
-        "2"
+        "1",
+        "1"
       ]
     },
     {
       "dimensions": [
-        "Australia"
+        "Italy"
       ],
       "metrics": [
         "1",
@@ -315,17 +296,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 4,
-    "users": 4,
-    "pageViews": 20,
-    "avgSessionDuration": 438,
-    "bounceRate": 0.5
+    "sessions": 3,
+    "users": 3,
+    "pageViews": 19,
+    "avgSessionDuration": 584,
+    "bounceRate": 0.3
   },
   "summary30d": {
-    "sessions": 17,
+    "sessions": 16,
     "users": 11,
-    "pageViews": 40,
-    "avgSessionDuration": 213,
+    "pageViews": 39,
+    "avgSessionDuration": 226,
     "bounceRate": 0.6
   }
 }

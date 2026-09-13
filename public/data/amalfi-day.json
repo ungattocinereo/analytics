@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-09-12T09:07:18.654Z",
+  "updatedAt": "2026-09-13T10:05:08.494Z",
   "trend": [
     {
       "dimensions": [
@@ -51,6 +51,26 @@
         "14",
         "11",
         "20"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260911"
+      ],
+      "metrics": [
+        "14",
+        "8",
+        "28"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260912"
+      ],
+      "metrics": [
+        "14",
+        "8",
+        "16"
       ]
     },
     {
@@ -165,16 +185,6 @@
     },
     {
       "dimensions": [
-        "20260813"
-      ],
-      "metrics": [
-        "10",
-        "7",
-        "13"
-      ]
-    },
-    {
-      "dimensions": [
         "20260821"
       ],
       "metrics": [
@@ -285,16 +295,6 @@
     },
     {
       "dimensions": [
-        "20260911"
-      ],
-      "metrics": [
-        "7",
-        "4",
-        "17"
-      ]
-    },
-    {
-      "dimensions": [
         "20260830"
       ],
       "metrics": [
@@ -302,9 +302,28 @@
         "3",
         "5"
       ]
+    },
+    {
+      "dimensions": [
+        "20260913"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "1"
+      ]
     }
   ],
   "topPages": [
+    {
+      "dimensions": [
+        "/ferry-timetables/"
+      ],
+      "metrics": [
+        "20",
+        "15"
+      ]
+    },
     {
       "dimensions": [
         "/timetables/"
@@ -316,11 +335,11 @@
     },
     {
       "dimensions": [
-        "/ferry-timetables/"
+        "/parking/"
       ],
       "metrics": [
         "16",
-        "11"
+        "17"
       ]
     },
     {
@@ -328,17 +347,8 @@
         "/"
       ],
       "metrics": [
-        "10",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
-        "/parking/"
-      ],
-      "metrics": [
-        "10",
-        "10"
+        "13",
+        "11"
       ]
     },
     {
@@ -346,17 +356,8 @@
         "/ferry-timetables"
       ],
       "metrics": [
-        "9",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "/apartments/"
-      ],
-      "metrics": [
-        "4",
-        "3"
+        "10",
+        "8"
       ]
     },
     {
@@ -365,16 +366,25 @@
       ],
       "metrics": [
         "4",
-        "5"
+        "4"
       ]
     },
     {
       "dimensions": [
-        "/blog/license-plate-restrictions-return-to-the-amalfi-coast-april-25-may-2-2/"
+        "/beaches"
       ],
       "metrics": [
         "3",
         "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/why-silver-moon-and-mar-di-cobalto-are-closed-in-amalfi/"
+      ],
+      "metrics": [
+        "3",
+        "2"
       ]
     },
     {
@@ -388,7 +398,16 @@
     },
     {
       "dimensions": [
-        "/beaches"
+        "/apartments/"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/license-plate-restrictions-return-to-the-amalfi-coast-april-25-may-2-2/"
       ],
       "metrics": [
         "2",
@@ -406,6 +425,15 @@
     },
     {
       "dimensions": [
+        "/experience/car-tours"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "/photolocations/"
       ],
       "metrics": [
@@ -415,28 +443,10 @@
     },
     {
       "dimensions": [
-        "/photoshootings/olga-marat"
+        "/photoshootings/lashada/"
       ],
       "metrics": [
         "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photoshootings/regan-tay-ravello"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/a-local-3-or-4-day-amalfi-coast-itinerary-without-a-car"
-      ],
-      "metrics": [
-        "1",
         "1"
       ]
     }
@@ -444,20 +454,20 @@
   "sources": [
     {
       "dimensions": [
-        "(direct)"
+        "google"
       ],
       "metrics": [
-        "28",
-        "15"
+        "38",
+        "24"
       ]
     },
     {
       "dimensions": [
-        "google"
+        "(direct)"
       ],
       "metrics": [
-        "25",
-        "17"
+        "29",
+        "16"
       ]
     },
     {
@@ -465,17 +475,8 @@
         "bing"
       ],
       "metrics": [
-        "6",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "chatgpt.com"
-      ],
-      "metrics": [
-        "5",
-        "4"
+        "7",
+        "6"
       ]
     },
     {
@@ -489,20 +490,20 @@
     },
     {
       "dimensions": [
+        "chatgpt.com"
+      ],
+      "metrics": [
+        "3",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "ar.search.yahoo.com"
       ],
       "metrics": [
         "2",
         "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "ecosia.org"
-      ],
-      "metrics": [
-        "1",
-        "0"
       ]
     },
     {
@@ -525,6 +526,15 @@
     },
     {
       "dimensions": [
+        "perplexity"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "uk.search.yahoo.com"
       ],
       "metrics": [
@@ -539,8 +549,8 @@
         "Italy"
       ],
       "metrics": [
-        "29",
-        "16"
+        "36",
+        "20"
       ]
     },
     {
@@ -548,22 +558,22 @@
         "United States"
       ],
       "metrics": [
-        "10",
+        "11",
         "9"
       ]
     },
     {
       "dimensions": [
-        "Germany"
+        "United Kingdom"
       ],
       "metrics": [
-        "8",
-        "5"
+        "9",
+        "7"
       ]
     },
     {
       "dimensions": [
-        "United Kingdom"
+        "Germany"
       ],
       "metrics": [
         "7",
@@ -586,6 +596,15 @@
       "metrics": [
         "2",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Austria"
+      ],
+      "metrics": [
+        "2",
+        "0"
       ]
     },
     {
@@ -614,29 +633,20 @@
         "2",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "Austria"
-      ],
-      "metrics": [
-        "1",
-        "0"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 74,
-    "users": 47,
-    "pageViews": 97,
-    "avgSessionDuration": 126,
+    "sessions": 87,
+    "users": 55,
+    "pageViews": 114,
+    "avgSessionDuration": 144,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 322,
-    "users": 199,
-    "pageViews": 450,
-    "avgSessionDuration": 198,
+    "sessions": 334,
+    "users": 205,
+    "pageViews": 465,
+    "avgSessionDuration": 197,
     "bounceRate": 0.5
   }
 }
