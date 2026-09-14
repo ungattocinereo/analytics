@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-09-13T10:05:07.591Z",
+  "updatedAt": "2026-09-14T10:27:07.029Z",
   "trend": [
     {
       "dimensions": [
@@ -41,6 +41,16 @@
         "31",
         "28",
         "34"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260913"
+      ],
+      "metrics": [
+        "31",
+        "31",
+        "33"
       ]
     },
     {
@@ -151,16 +161,6 @@
         "20",
         "18",
         "19"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260814"
-      ],
-      "metrics": [
-        "19",
-        "18",
-        "30"
       ]
     },
     {
@@ -285,16 +285,6 @@
     },
     {
       "dimensions": [
-        "20260913"
-      ],
-      "metrics": [
-        "13",
-        "13",
-        "13"
-      ]
-    },
-    {
-      "dimensions": [
         "20260823"
       ],
       "metrics": [
@@ -312,6 +302,16 @@
         "9",
         "9"
       ]
+    },
+    {
+      "dimensions": [
+        "20260914"
+      ],
+      "metrics": [
+        "9",
+        "8",
+        "9"
+      ]
     }
   ],
   "topPages": [
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "71",
-        "71"
+        "65",
+        "65"
       ]
     },
     {
@@ -329,17 +329,8 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "26",
-        "24"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog"
-      ],
-      "metrics": [
-        "11",
-        "11"
+        "29",
+        "28"
       ]
     },
     {
@@ -347,8 +338,8 @@
         "/experience"
       ],
       "metrics": [
-        "10",
-        "9"
+        "9",
+        "8"
       ]
     },
     {
@@ -356,40 +347,13 @@
         "/parking"
       ],
       "metrics": [
-        "8",
-        "8"
+        "7",
+        "7"
       ]
     },
     {
       "dimensions": [
-        "/blog/how-to-get-to-amalfi"
-      ],
-      "metrics": [
-        "6",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/li-galli-ostrov-nurieieva-u-pozitano-otbilsia-ot-liuksovogho-resorta"
-      ],
-      "metrics": [
-        "6",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "/transport"
-      ],
-      "metrics": [
-        "6",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2020/04/andra-tutto-bene"
+        "/2021/09/positano-steibek"
       ],
       "metrics": [
         "5",
@@ -398,25 +362,25 @@
     },
     {
       "dimensions": [
-        "/2020/06/sarchiapone"
+        "/blog/how-to-get-to-amalfi"
       ],
       "metrics": [
-        "4",
-        "4"
+        "5",
+        "5"
       ]
     },
     {
       "dimensions": [
-        "/2021/09/positano-steibek"
+        "/transport"
       ],
       "metrics": [
-        "4",
-        "4"
+        "5",
+        "5"
       ]
     },
     {
       "dimensions": [
-        "/blog/netflix-snimaiet-film-positano-s-makkonakhi-i-saldanoi-na-pobieriezhie-amalfi"
+        "/blog/li-galli-ostrov-nurieieva-u-pozitano-otbilsia-ot-liuksovogho-resorta"
       ],
       "metrics": [
         "4",
@@ -443,7 +407,43 @@
     },
     {
       "dimensions": [
-        "/blog/atrani-samyi-siekrietnyi-ugholok-amalfitanskogho-pobieriezhia"
+        "/2020/04/andra-tutto-bene"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/a-room-with-a-view-kak-devid-iarrou-i-aliessandra-ambrosio-snimali-v-atrani-a-ia-ghotovil-im-pastu"
+      ],
+      "metrics": [
+        "3",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/netflix-snimaiet-film-positano-s-makkonakhi-i-saldanoi-na-pobieriezhie-amalfi"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/product/ceramic-cactus-lamp"
       ],
       "metrics": [
         "3",
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "324",
-        "323"
+        "161",
+        "157"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "29",
-        "20"
+        "28",
+        "19"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "google"
       ],
       "metrics": [
-        "20",
-        "18"
+        "25",
+        "21"
       ]
     },
     {
@@ -528,20 +528,20 @@
   "countries": [
     {
       "dimensions": [
-        "Singapore"
+        "Russia"
       ],
       "metrics": [
-        "200",
-        "202"
+        "99",
+        "89"
       ]
     },
     {
       "dimensions": [
-        "Russia"
+        "Singapore"
       ],
       "metrics": [
-        "98",
-        "89"
+        "41",
+        "41"
       ]
     },
     {
@@ -549,8 +549,8 @@
         "China"
       ],
       "metrics": [
-        "13",
-        "13"
+        "14",
+        "14"
       ]
     },
     {
@@ -559,16 +559,7 @@
       ],
       "metrics": [
         "13",
-        "12"
-      ]
-    },
-    {
-      "dimensions": [
-        "Vietnam"
-      ],
-      "metrics": [
-        "9",
-        "9"
+        "11"
       ]
     },
     {
@@ -576,13 +567,13 @@
         "Poland"
       ],
       "metrics": [
-        "7",
-        "4"
+        "6",
+        "3"
       ]
     },
     {
       "dimensions": [
-        "(not set)"
+        "Vietnam"
       ],
       "metrics": [
         "6",
@@ -591,7 +582,7 @@
     },
     {
       "dimensions": [
-        "United States"
+        "(not set)"
       ],
       "metrics": [
         "5",
@@ -603,32 +594,41 @@
         "Netherlands"
       ],
       "metrics": [
-        "4",
-        "3"
+        "5",
+        "4"
       ]
     },
     {
       "dimensions": [
-        "Brazil"
+        "Germany"
       ],
       "metrics": [
-        "3",
-        "3"
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "4",
+        "4"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 382,
-    "users": 368,
-    "pageViews": 391,
-    "avgSessionDuration": 22,
-    "bounceRate": 0.9
+    "sessions": 222,
+    "users": 204,
+    "pageViews": 231,
+    "avgSessionDuration": 45,
+    "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 819,
-    "users": 776,
-    "pageViews": 888,
-    "avgSessionDuration": 31,
+    "sessions": 827,
+    "users": 782,
+    "pageViews": 887,
+    "avgSessionDuration": 32,
     "bounceRate": 0.8
   }
 }
