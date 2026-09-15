@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-09-14T10:27:07.029Z",
+  "updatedAt": "2026-09-15T09:52:54.288Z",
   "trend": [
     {
       "dimensions": [
@@ -75,22 +75,22 @@
     },
     {
       "dimensions": [
+        "20260914"
+      ],
+      "metrics": [
+        "28",
+        "23",
+        "28"
+      ]
+    },
+    {
+      "dimensions": [
         "20260905"
       ],
       "metrics": [
         "25",
         "21",
         "23"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260815"
-      ],
-      "metrics": [
-        "24",
-        "22",
-        "26"
       ]
     },
     {
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260914"
+        "20260915"
       ],
       "metrics": [
-        "9",
-        "8",
-        "9"
+        "7",
+        "6",
+        "8"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "65",
-        "65"
+        "62",
+        "62"
       ]
     },
     {
@@ -329,7 +329,7 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "29",
+        "28",
         "28"
       ]
     },
@@ -344,19 +344,10 @@
     },
     {
       "dimensions": [
-        "/parking"
+        "/blog/li-galli-ostrov-nurieieva-u-pozitano-otbilsia-ot-liuksovogho-resorta"
       ],
       "metrics": [
         "7",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2021/09/positano-steibek"
-      ],
-      "metrics": [
-        "5",
         "5"
       ]
     },
@@ -371,16 +362,25 @@
     },
     {
       "dimensions": [
-        "/transport"
+        "/2021/09/positano-steibek"
       ],
       "metrics": [
-        "5",
-        "5"
+        "4",
+        "4"
       ]
     },
     {
       "dimensions": [
-        "/blog/li-galli-ostrov-nurieieva-u-pozitano-otbilsia-ot-liuksovogho-resorta"
+        "/parking"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/transport"
       ],
       "metrics": [
         "4",
@@ -434,11 +434,11 @@
     },
     {
       "dimensions": [
-        "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
+        "/blog/spaghietti-alle-vongole-bliudo-biez-kotorogho-amalfiiskoie-pobieriezhie-niemyslimo-2"
       ],
       "metrics": [
         "3",
-        "3"
+        "4"
       ]
     },
     {
@@ -457,17 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "161",
-        "157"
-      ]
-    },
-    {
-      "dimensions": [
-        "yandex.ru"
-      ],
-      "metrics": [
-        "28",
-        "19"
+        "126",
+        "121"
       ]
     },
     {
@@ -475,8 +466,17 @@
         "google"
       ],
       "metrics": [
-        "25",
-        "21"
+        "26",
+        "22"
+      ]
+    },
+    {
+      "dimensions": [
+        "yandex.ru"
+      ],
+      "metrics": [
+        "24",
+        "17"
       ]
     },
     {
@@ -490,20 +490,11 @@
     },
     {
       "dimensions": [
-        "(not set)"
+        "yandex"
       ],
       "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "blog2026.online"
-      ],
-      "metrics": [
-        "1",
-        "1"
+        "4",
+        "3"
       ]
     },
     {
@@ -517,7 +508,7 @@
     },
     {
       "dimensions": [
-        "yandex"
+        "m.facebook.com"
       ],
       "metrics": [
         "1",
@@ -532,25 +523,7 @@
       ],
       "metrics": [
         "99",
-        "89"
-      ]
-    },
-    {
-      "dimensions": [
-        "Singapore"
-      ],
-      "metrics": [
-        "41",
-        "41"
-      ]
-    },
-    {
-      "dimensions": [
-        "China"
-      ],
-      "metrics": [
-        "14",
-        "14"
+        "90"
       ]
     },
     {
@@ -558,22 +531,31 @@
         "Italy"
       ],
       "metrics": [
-        "13",
-        "11"
+        "15",
+        "13"
       ]
     },
     {
       "dimensions": [
-        "Poland"
+        "China"
       ],
       "metrics": [
-        "6",
-        "3"
+        "13",
+        "13"
       ]
     },
     {
       "dimensions": [
-        "Vietnam"
+        "Netherlands"
+      ],
+      "metrics": [
+        "7",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States"
       ],
       "metrics": [
         "6",
@@ -582,7 +564,7 @@
     },
     {
       "dimensions": [
-        "(not set)"
+        "Vietnam"
       ],
       "metrics": [
         "5",
@@ -591,10 +573,10 @@
     },
     {
       "dimensions": [
-        "Netherlands"
+        "(not set)"
       ],
       "metrics": [
-        "5",
+        "4",
         "4"
       ]
     },
@@ -609,26 +591,35 @@
     },
     {
       "dimensions": [
-        "United States"
+        "Poland"
       ],
       "metrics": [
         "4",
-        "4"
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Brazil"
+      ],
+      "metrics": [
+        "3",
+        "3"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 222,
-    "users": 204,
-    "pageViews": 231,
-    "avgSessionDuration": 45,
+    "sessions": 187,
+    "users": 169,
+    "pageViews": 196,
+    "avgSessionDuration": 54,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 827,
-    "users": 782,
-    "pageViews": 887,
-    "avgSessionDuration": 32,
+    "sessions": 829,
+    "users": 781,
+    "pageViews": 888,
+    "avgSessionDuration": 35,
     "bounceRate": 0.8
   }
 }
