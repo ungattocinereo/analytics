@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-09-15T09:52:54.288Z",
+  "updatedAt": "2026-09-16T09:46:23.913Z",
   "trend": [
     {
       "dimensions": [
@@ -61,6 +61,16 @@
         "30",
         "28",
         "29"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260915"
+      ],
+      "metrics": [
+        "30",
+        "27",
+        "34"
       ]
     },
     {
@@ -255,16 +265,6 @@
     },
     {
       "dimensions": [
-        "20260816"
-      ],
-      "metrics": [
-        "13",
-        "13",
-        "15"
-      ]
-    },
-    {
-      "dimensions": [
         "20260828"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260915"
+        "20260916"
       ],
       "metrics": [
-        "7",
-        "6",
-        "8"
+        "5",
+        "5",
+        "6"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "62",
-        "62"
+        "65",
+        "65"
       ]
     },
     {
@@ -353,6 +353,15 @@
     },
     {
       "dimensions": [
+        "/blog/atrani-samyi-siekrietnyi-ugholok-amalfitanskogho-pobieriezhia"
+      ],
+      "metrics": [
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
         "/blog/how-to-get-to-amalfi"
       ],
       "metrics": [
@@ -362,16 +371,7 @@
     },
     {
       "dimensions": [
-        "/2021/09/positano-steibek"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/parking"
+        "/blog/netflix-snimaiet-film-positano-s-makkonakhi-i-saldanoi-na-pobieriezhie-amalfi"
       ],
       "metrics": [
         "4",
@@ -398,16 +398,7 @@
     },
     {
       "dimensions": [
-        "/2019/2/3/presepio-nativity-scene"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2020/04/andra-tutto-bene"
+        "/blog"
       ],
       "metrics": [
         "3",
@@ -425,20 +416,20 @@
     },
     {
       "dimensions": [
-        "/blog/netflix-snimaiet-film-positano-s-makkonakhi-i-saldanoi-na-pobieriezhie-amalfi"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/spaghietti-alle-vongole-bliudo-biez-kotorogho-amalfiiskoie-pobieriezhie-niemyslimo-2"
       ],
       "metrics": [
         "3",
         "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/parking"
+      ],
+      "metrics": [
+        "3",
+        "3"
       ]
     },
     {
@@ -449,6 +440,15 @@
         "3",
         "3"
       ]
+    },
+    {
+      "dimensions": [
+        "/2019/2/3/presepio-nativity-scene"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
     }
   ],
   "sources": [
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "126",
-        "121"
+        "123",
+        "119"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "26",
-        "22"
+        "31",
+        "26"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "24",
-        "17"
+        "29",
+        "23"
       ]
     },
     {
@@ -484,8 +484,8 @@
         "ya.ru"
       ],
       "metrics": [
-        "5",
-        "4"
+        "4",
+        "3"
       ]
     },
     {
@@ -522,8 +522,8 @@
         "Russia"
       ],
       "metrics": [
-        "99",
-        "90"
+        "103",
+        "94"
       ]
     },
     {
@@ -531,8 +531,8 @@
         "Italy"
       ],
       "metrics": [
-        "15",
-        "13"
+        "16",
+        "15"
       ]
     },
     {
@@ -558,8 +558,8 @@
         "United States"
       ],
       "metrics": [
-        "6",
-        "6"
+        "5",
+        "5"
       ]
     },
     {
@@ -585,41 +585,41 @@
         "Germany"
       ],
       "metrics": [
-        "4",
-        "4"
+        "3",
+        "3"
       ]
     },
     {
       "dimensions": [
-        "Poland"
-      ],
-      "metrics": [
-        "4",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "Brazil"
+        "Israel"
       ],
       "metrics": [
         "3",
         "3"
       ]
+    },
+    {
+      "dimensions": [
+        "Kazakhstan"
+      ],
+      "metrics": [
+        "3",
+        "2"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 187,
-    "users": 169,
-    "pageViews": 196,
-    "avgSessionDuration": 54,
-    "bounceRate": 0.8
+    "sessions": 193,
+    "users": 176,
+    "pageViews": 204,
+    "avgSessionDuration": 59,
+    "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 829,
-    "users": 781,
-    "pageViews": 888,
-    "avgSessionDuration": 35,
+    "sessions": 844,
+    "users": 793,
+    "pageViews": 905,
+    "avgSessionDuration": 34,
     "bounceRate": 0.8
   }
 }

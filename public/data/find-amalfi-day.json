@@ -1,7 +1,7 @@
 {
   "name": "find.amalfi.day",
   "propertyId": "properties/531159837",
-  "updatedAt": "2026-09-15T09:52:57.298Z",
+  "updatedAt": "2026-09-16T09:46:25.925Z",
   "trend": [
     {
       "dimensions": [
@@ -61,16 +61,6 @@
         "11",
         "3",
         "17"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260816"
-      ],
-      "metrics": [
-        "10",
-        "6",
-        "12"
       ]
     },
     {
@@ -285,22 +275,32 @@
     },
     {
       "dimensions": [
+        "20260915"
+      ],
+      "metrics": [
+        "2",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260916"
+      ],
+      "metrics": [
+        "2",
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "20260830"
       ],
       "metrics": [
         "1",
         "1",
         "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260915"
-      ],
-      "metrics": [
-        "1",
-        "1",
-        "2"
       ]
     }
   ],
@@ -310,8 +310,8 @@
         "/"
       ],
       "metrics": [
-        "40",
-        "32"
+        "42",
+        "34"
       ]
     },
     {
@@ -319,8 +319,8 @@
         "/route/amalfi-house.html"
       ],
       "metrics": [
-        "18",
-        "16"
+        "19",
+        "18"
       ]
     },
     {
@@ -357,8 +357,8 @@
         "(direct)"
       ],
       "metrics": [
-        "26",
-        "15"
+        "28",
+        "17"
       ]
     },
     {
@@ -384,7 +384,7 @@
         "(not set)"
       ],
       "metrics": [
-        "4",
+        "3",
         "3"
       ]
     },
@@ -413,8 +413,8 @@
         "Italy"
       ],
       "metrics": [
-        "26",
-        "13"
+        "27",
+        "14"
       ]
     },
     {
@@ -422,8 +422,8 @@
         "United States"
       ],
       "metrics": [
-        "8",
-        "6"
+        "9",
+        "7"
       ]
     },
     {
@@ -461,20 +461,29 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "United Kingdom"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 44,
-    "users": 22,
-    "pageViews": 85,
-    "avgSessionDuration": 248,
-    "bounceRate": 0.5
+    "sessions": 47,
+    "users": 25,
+    "pageViews": 88,
+    "avgSessionDuration": 233,
+    "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 243,
-    "users": 133,
-    "pageViews": 439,
-    "avgSessionDuration": 186,
+    "sessions": 236,
+    "users": 130,
+    "pageViews": 430,
+    "avgSessionDuration": 190,
     "bounceRate": 0.5
   }
 }

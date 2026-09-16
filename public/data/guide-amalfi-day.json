@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-09-15T09:52:56.800Z",
+  "updatedAt": "2026-09-16T09:46:25.376Z",
   "trend": [
     {
       "dimensions": [
@@ -11,16 +11,6 @@
         "2",
         "2",
         "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260816"
-      ],
-      "metrics": [
-        "1",
-        "0",
-        "1"
       ]
     },
     {
@@ -172,9 +162,28 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "20260915"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "12"
+      ]
     }
   ],
   "topPages": [
+    {
+      "dimensions": [
+        "/"
+      ],
+      "metrics": [
+        "7",
+        "2"
+      ]
+    },
     {
       "dimensions": [
         "/de"
@@ -186,19 +195,19 @@
     },
     {
       "dimensions": [
-        "/de/place/le-arcate-atrani"
+        "/place/castiglione-beach-lido-di-ravello"
       ],
       "metrics": [
-        "2",
+        "3",
         "1"
       ]
     },
     {
       "dimensions": [
-        "/"
+        "/de/place/le-arcate-atrani"
       ],
       "metrics": [
-        "1",
+        "2",
         "1"
       ]
     },
@@ -237,6 +246,33 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "/place/minori-and-sal-de-riso"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/secret-waterfall-valle-dei-mulini"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/waterfall-of-atrani"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "sources": [
@@ -245,8 +281,17 @@
         "(direct)"
       ],
       "metrics": [
-        "2",
+        "3",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "(not set)"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     },
     {
@@ -265,7 +310,7 @@
         "Italy"
       ],
       "metrics": [
-        "2",
+        "3",
         "2"
       ]
     },
@@ -280,17 +325,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 3,
+    "sessions": 4,
     "users": 3,
-    "pageViews": 13,
-    "avgSessionDuration": 494,
-    "bounceRate": 0.7
+    "pageViews": 25,
+    "avgSessionDuration": 480,
+    "bounceRate": 0.5
   },
   "summary30d": {
     "sessions": 18,
     "users": 13,
-    "pageViews": 41,
-    "avgSessionDuration": 201,
-    "bounceRate": 0.7
+    "pageViews": 52,
+    "avgSessionDuration": 226,
+    "bounceRate": 0.6
   }
 }
