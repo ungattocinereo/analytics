@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-09-16T09:46:23.913Z",
+  "updatedAt": "2026-09-17T09:54:18.818Z",
   "trend": [
     {
       "dimensions": [
@@ -95,6 +95,16 @@
     },
     {
       "dimensions": [
+        "20260916"
+      ],
+      "metrics": [
+        "27",
+        "26",
+        "29"
+      ]
+    },
+    {
+      "dimensions": [
         "20260905"
       ],
       "metrics": [
@@ -151,16 +161,6 @@
         "21",
         "20",
         "23"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260817"
-      ],
-      "metrics": [
-        "20",
-        "20",
-        "20"
       ]
     },
     {
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260916"
+        "20260917"
       ],
       "metrics": [
         "5",
         "5",
-        "6"
+        "5"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "65",
-        "65"
+        "68",
+        "68"
       ]
     },
     {
@@ -329,8 +329,17 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "28",
-        "28"
+        "30",
+        "30"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/li-galli-ostrov-nurieieva-u-pozitano-otbilsia-ot-liuksovogho-resorta"
+      ],
+      "metrics": [
+        "9",
+        "7"
       ]
     },
     {
@@ -344,11 +353,20 @@
     },
     {
       "dimensions": [
-        "/blog/li-galli-ostrov-nurieieva-u-pozitano-otbilsia-ot-liuksovogho-resorta"
+        "/parking"
       ],
       "metrics": [
-        "7",
-        "5"
+        "6",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog"
+      ],
+      "metrics": [
+        "4",
+        "4"
       ]
     },
     {
@@ -356,8 +374,8 @@
         "/blog/atrani-samyi-siekrietnyi-ugholok-amalfitanskogho-pobieriezhia"
       ],
       "metrics": [
-        "5",
-        "5"
+        "4",
+        "4"
       ]
     },
     {
@@ -365,8 +383,8 @@
         "/blog/how-to-get-to-amalfi"
       ],
       "metrics": [
-        "5",
-        "5"
+        "4",
+        "4"
       ]
     },
     {
@@ -389,16 +407,7 @@
     },
     {
       "dimensions": [
-        "/2019/12/katastrofa"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog"
+        "/author/cinereo/page/7"
       ],
       "metrics": [
         "3",
@@ -425,7 +434,7 @@
     },
     {
       "dimensions": [
-        "/parking"
+        "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
       ],
       "metrics": [
         "3",
@@ -440,15 +449,6 @@
         "3",
         "3"
       ]
-    },
-    {
-      "dimensions": [
-        "/2019/2/3/presepio-nativity-scene"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
     }
   ],
   "sources": [
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "123",
-        "119"
+        "129",
+        "125"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "31",
-        "26"
+        "36",
+        "30"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "29",
-        "23"
+        "28",
+        "22"
       ]
     },
     {
@@ -484,8 +484,8 @@
         "ya.ru"
       ],
       "metrics": [
-        "4",
-        "3"
+        "5",
+        "4"
       ]
     },
     {
@@ -495,15 +495,6 @@
       "metrics": [
         "4",
         "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "chatgpt.com"
-      ],
-      "metrics": [
-        "1",
-        "1"
       ]
     },
     {
@@ -522,8 +513,8 @@
         "Russia"
       ],
       "metrics": [
-        "103",
-        "94"
+        "109",
+        "100"
       ]
     },
     {
@@ -531,8 +522,8 @@
         "Italy"
       ],
       "metrics": [
-        "16",
-        "15"
+        "19",
+        "17"
       ]
     },
     {
@@ -540,8 +531,8 @@
         "China"
       ],
       "metrics": [
-        "13",
-        "13"
+        "12",
+        "12"
       ]
     },
     {
@@ -558,8 +549,8 @@
         "United States"
       ],
       "metrics": [
-        "5",
-        "5"
+        "6",
+        "6"
       ]
     },
     {
@@ -567,8 +558,8 @@
         "Vietnam"
       ],
       "metrics": [
-        "5",
-        "5"
+        "6",
+        "6"
       ]
     },
     {
@@ -582,43 +573,43 @@
     },
     {
       "dimensions": [
-        "Germany"
+        "Singapore"
       ],
       "metrics": [
-        "3",
-        "3"
+        "4",
+        "4"
       ]
     },
     {
       "dimensions": [
-        "Israel"
+        "United Kingdom"
       ],
       "metrics": [
-        "3",
-        "3"
+        "4",
+        "4"
       ]
     },
     {
       "dimensions": [
-        "Kazakhstan"
+        "Brazil"
       ],
       "metrics": [
         "3",
-        "2"
+        "3"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 193,
-    "users": 176,
-    "pageViews": 204,
-    "avgSessionDuration": 59,
+    "sessions": 203,
+    "users": 185,
+    "pageViews": 215,
+    "avgSessionDuration": 55,
     "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 844,
-    "users": 793,
-    "pageViews": 905,
+    "sessions": 850,
+    "users": 799,
+    "pageViews": 913,
     "avgSessionDuration": 34,
     "bounceRate": 0.8
   }

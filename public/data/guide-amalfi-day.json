@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-09-16T09:46:25.376Z",
+  "updatedAt": "2026-09-17T09:54:20.967Z",
   "trend": [
     {
       "dimensions": [
@@ -11,16 +11,6 @@
         "2",
         "2",
         "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260817"
-      ],
-      "metrics": [
-        "1",
-        "0",
-        "1"
       ]
     },
     {
@@ -287,15 +277,6 @@
     },
     {
       "dimensions": [
-        "(not set)"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "google"
       ],
       "metrics": [
@@ -328,14 +309,14 @@
     "sessions": 4,
     "users": 3,
     "pageViews": 25,
-    "avgSessionDuration": 480,
+    "avgSessionDuration": 441,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 18,
+    "sessions": 17,
     "users": 13,
-    "pageViews": 52,
-    "avgSessionDuration": 226,
+    "pageViews": 51,
+    "avgSessionDuration": 230,
     "bounceRate": 0.6
   }
 }
