@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-09-17T09:54:20.967Z",
+  "updatedAt": "2026-09-18T09:30:11.839Z",
   "trend": [
     {
       "dimensions": [
@@ -11,16 +11,6 @@
         "2",
         "2",
         "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260818"
-      ],
-      "metrics": [
-        "1",
-        "1",
-        "1"
       ]
     },
     {
@@ -176,55 +166,10 @@
     },
     {
       "dimensions": [
-        "/de"
-      ],
-      "metrics": [
-        "6",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "/place/castiglione-beach-lido-di-ravello"
       ],
       "metrics": [
         "3",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/de/place/le-arcate-atrani"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/de/place/il-birecto-atrani"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/de/place/le-palme-atrani"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/de/place/lido-degli-artisti-amalfi"
-      ],
-      "metrics": [
-        "1",
         "1"
       ]
     },
@@ -271,8 +216,8 @@
         "(direct)"
       ],
       "metrics": [
-        "3",
-        "2"
+        "2",
+        "1"
       ]
     },
     {
@@ -291,8 +236,8 @@
         "Italy"
       ],
       "metrics": [
-        "3",
-        "2"
+        "2",
+        "1"
       ]
     },
     {
@@ -306,17 +251,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 4,
-    "users": 3,
-    "pageViews": 25,
-    "avgSessionDuration": 441,
-    "bounceRate": 0.5
+    "sessions": 3,
+    "users": 2,
+    "pageViews": 14,
+    "avgSessionDuration": 93,
+    "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 17,
-    "users": 13,
-    "pageViews": 51,
-    "avgSessionDuration": 230,
+    "sessions": 16,
+    "users": 12,
+    "pageViews": 50,
+    "avgSessionDuration": 234,
     "bounceRate": 0.6
   }
 }
