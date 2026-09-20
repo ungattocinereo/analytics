@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-09-19T09:18:09.627Z",
+  "updatedAt": "2026-09-20T09:40:23.154Z",
   "trend": [
     {
       "dimensions": [
@@ -195,16 +195,6 @@
     },
     {
       "dimensions": [
-        "20260820"
-      ],
-      "metrics": [
-        "9",
-        "5",
-        "13"
-      ]
-    },
-    {
-      "dimensions": [
         "20260822"
       ],
       "metrics": [
@@ -265,6 +255,16 @@
     },
     {
       "dimensions": [
+        "20260919"
+      ],
+      "metrics": [
+        "8",
+        "7",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
         "20260825"
       ],
       "metrics": [
@@ -305,7 +305,7 @@
     },
     {
       "dimensions": [
-        "20260919"
+        "20260920"
       ],
       "metrics": [
         "1",
@@ -317,11 +317,20 @@
   "topPages": [
     {
       "dimensions": [
+        "/timetables/"
+      ],
+      "metrics": [
+        "19",
+        "17"
+      ]
+    },
+    {
+      "dimensions": [
         "/"
       ],
       "metrics": [
-        "18",
-        "17"
+        "15",
+        "14"
       ]
     },
     {
@@ -329,26 +338,8 @@
         "/parking/"
       ],
       "metrics": [
-        "16",
-        "17"
-      ]
-    },
-    {
-      "dimensions": [
-        "/timetables/"
-      ],
-      "metrics": [
-        "15",
-        "13"
-      ]
-    },
-    {
-      "dimensions": [
-        "/contact"
-      ],
-      "metrics": [
-        "6",
-        "6"
+        "11",
+        "11"
       ]
     },
     {
@@ -356,8 +347,8 @@
         "/ferry-timetables"
       ],
       "metrics": [
-        "6",
-        "7"
+        "9",
+        "9"
       ]
     },
     {
@@ -365,17 +356,17 @@
         "/ferry-timetables/"
       ],
       "metrics": [
-        "6",
-        "5"
+        "7",
+        "6"
       ]
     },
     {
       "dimensions": [
-        "/blog/why-silver-moon-and-mar-di-cobalto-are-closed-in-amalfi/"
+        "/contact"
       ],
       "metrics": [
         "5",
-        "4"
+        "5"
       ]
     },
     {
@@ -389,29 +380,20 @@
     },
     {
       "dimensions": [
-        "/beaches"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/directions/"
-      ],
-      "metrics": [
-        "3",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "/parking"
       ],
       "metrics": [
         "3",
         "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/beaches"
+      ],
+      "metrics": [
+        "2",
+        "2"
       ]
     },
     {
@@ -443,6 +425,24 @@
     },
     {
       "dimensions": [
+        "/blog/why-silver-moon-and-mar-di-cobalto-are-closed-in-amalfi/"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/directions/"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "/apartments"
       ],
       "metrics": [
@@ -457,8 +457,8 @@
         "google"
       ],
       "metrics": [
-        "39",
-        "26"
+        "30",
+        "22"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "(direct)"
       ],
       "metrics": [
-        "27",
-        "11"
+        "25",
+        "12"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "duckduckgo"
       ],
       "metrics": [
-        "6",
-        "2"
+        "9",
+        "4"
       ]
     },
     {
@@ -484,8 +484,8 @@
         "bing"
       ],
       "metrics": [
-        "3",
-        "3"
+        "4",
+        "4"
       ]
     },
     {
@@ -531,7 +531,7 @@
         "Italy"
       ],
       "metrics": [
-        "33",
+        "29",
         "15"
       ]
     },
@@ -540,8 +540,8 @@
         "United States"
       ],
       "metrics": [
-        "13",
-        "8"
+        "10",
+        "6"
       ]
     },
     {
@@ -549,8 +549,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "10",
-        "9"
+        "7",
+        "7"
       ]
     },
     {
@@ -568,7 +568,16 @@
       ],
       "metrics": [
         "3",
-        "2"
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "Australia"
+      ],
+      "metrics": [
+        "2",
+        "1"
       ]
     },
     {
@@ -578,6 +587,15 @@
       "metrics": [
         "2",
         "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Hungary"
+      ],
+      "metrics": [
+        "2",
+        "2"
       ]
     },
     {
@@ -597,38 +615,20 @@
         "2",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "Australia"
-      ],
-      "metrics": [
-        "1",
-        "0"
-      ]
-    },
-    {
-      "dimensions": [
-        "Austria"
-      ],
-      "metrics": [
-        "1",
-        "0"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 80,
+    "sessions": 73,
     "users": 47,
-    "pageViews": 108,
-    "avgSessionDuration": 177,
+    "pageViews": 101,
+    "avgSessionDuration": 218,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 318,
-    "users": 191,
-    "pageViews": 440,
-    "avgSessionDuration": 167,
+    "sessions": 317,
+    "users": 193,
+    "pageViews": 436,
+    "avgSessionDuration": 172,
     "bounceRate": 0.5
   }
 }
