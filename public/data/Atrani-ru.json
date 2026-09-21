@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-09-20T09:40:22.195Z",
+  "updatedAt": "2026-09-21T10:32:42.849Z",
   "trend": [
     {
       "dimensions": [
@@ -115,6 +115,16 @@
     },
     {
       "dimensions": [
+        "20260920"
+      ],
+      "metrics": [
+        "27",
+        "27",
+        "30"
+      ]
+    },
+    {
+      "dimensions": [
         "20260905"
       ],
       "metrics": [
@@ -205,16 +215,6 @@
     },
     {
       "dimensions": [
-        "20260821"
-      ],
-      "metrics": [
-        "18",
-        "18",
-        "25"
-      ]
-    },
-    {
-      "dimensions": [
         "20260903"
       ],
       "metrics": [
@@ -285,6 +285,16 @@
     },
     {
       "dimensions": [
+        "20260921"
+      ],
+      "metrics": [
+        "11",
+        "11",
+        "11"
+      ]
+    },
+    {
+      "dimensions": [
         "20260823"
       ],
       "metrics": [
@@ -302,16 +312,6 @@
         "9",
         "9"
       ]
-    },
-    {
-      "dimensions": [
-        "20260920"
-      ],
-      "metrics": [
-        "9",
-        "9",
-        "10"
-      ]
     }
   ],
   "topPages": [
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "72",
-        "71"
+        "74",
+        "73"
       ]
     },
     {
@@ -329,17 +329,8 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "25",
-        "26"
-      ]
-    },
-    {
-      "dimensions": [
-        "/parking"
-      ],
-      "metrics": [
-        "12",
-        "13"
+        "21",
+        "22"
       ]
     },
     {
@@ -347,8 +338,17 @@
         "/experience"
       ],
       "metrics": [
+        "12",
+        "10"
+      ]
+    },
+    {
+      "dimensions": [
+        "/parking"
+      ],
+      "metrics": [
         "11",
-        "9"
+        "12"
       ]
     },
     {
@@ -371,20 +371,20 @@
     },
     {
       "dimensions": [
-        "/cdn-cgi/l/email-protection"
-      ],
-      "metrics": [
-        "6",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
         "/2018/07/vintage-cars-amalfi-drive"
       ],
       "metrics": [
         "5",
         "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/transport"
+      ],
+      "metrics": [
+        "5",
+        "4"
       ]
     },
     {
@@ -398,37 +398,10 @@
     },
     {
       "dimensions": [
-        "/blog/spaghietti-alle-vongole-bliudo-biez-kotorogho-amalfiiskoie-pobieriezhie-niemyslimo-2"
-      ],
-      "metrics": [
-        "4",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/a-room-with-a-view-kak-devid-iarrou-i-aliessandra-ambrosio-snimali-v-atrani-a-ia-ghotovil-im-pastu"
-      ],
-      "metrics": [
-        "3",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/how-to-get-to-amalfi"
       ],
       "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/positano-interesting-facts"
-      ],
-      "metrics": [
-        "3",
+        "4",
         "4"
       ]
     },
@@ -437,17 +410,44 @@
         "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
       ],
       "metrics": [
+        "4",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/cdn-cgi/l/email-protection"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/novosti-s-amalfi-tiepier-kazhdyi-dien-v-telegram"
+      ],
+      "metrics": [
         "3",
         "3"
       ]
     },
     {
       "dimensions": [
-        "/product/ceramic-cactus-lamp"
+        "/blog/spaghietti-alle-vongole-bliudo-biez-kotorogho-amalfiiskoie-pobieriezhie-niemyslimo-2"
       ],
       "metrics": [
         "3",
-        "3"
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/author/cinereo/page/7"
+      ],
+      "metrics": [
+        "2",
+        "2"
       ]
     }
   ],
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "126",
-        "122"
+        "123",
+        "119"
       ]
     },
     {
@@ -467,7 +467,7 @@
       ],
       "metrics": [
         "41",
-        "34"
+        "35"
       ]
     },
     {
@@ -484,8 +484,8 @@
         "ya.ru"
       ],
       "metrics": [
-        "4",
-        "4"
+        "5",
+        "5"
       ]
     },
     {
@@ -531,17 +531,17 @@
         "Italy"
       ],
       "metrics": [
-        "18",
-        "17"
+        "16",
+        "15"
       ]
     },
     {
       "dimensions": [
-        "Singapore"
+        "(not set)"
       ],
       "metrics": [
-        "8",
-        "8"
+        "9",
+        "9"
       ]
     },
     {
@@ -555,7 +555,7 @@
     },
     {
       "dimensions": [
-        "(not set)"
+        "Vietnam"
       ],
       "metrics": [
         "7",
@@ -567,17 +567,26 @@
         "Netherlands"
       ],
       "metrics": [
-        "7",
-        "5"
+        "6",
+        "4"
       ]
     },
     {
       "dimensions": [
-        "Vietnam"
+        "Singapore"
       ],
       "metrics": [
         "6",
         "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "United Kingdom"
+      ],
+      "metrics": [
+        "5",
+        "5"
       ]
     },
     {
@@ -597,29 +606,20 @@
         "4",
         "4"
       ]
-    },
-    {
-      "dimensions": [
-        "Bulgaria"
-      ],
-      "metrics": [
-        "3",
-        "2"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 203,
-    "users": 187,
-    "pageViews": 218,
-    "avgSessionDuration": 50,
+    "sessions": 201,
+    "users": 186,
+    "pageViews": 216,
+    "avgSessionDuration": 57,
     "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 875,
-    "users": 819,
-    "pageViews": 939,
-    "avgSessionDuration": 35,
+    "sessions": 886,
+    "users": 829,
+    "pageViews": 945,
+    "avgSessionDuration": 37,
     "bounceRate": 0.8
   }
 }
