@@ -1,18 +1,8 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-09-21T10:32:48.630Z",
+  "updatedAt": "2026-09-22T09:43:55.724Z",
   "trend": [
-    {
-      "dimensions": [
-        "20260822"
-      ],
-      "metrics": [
-        "1",
-        "0",
-        "1"
-      ]
-    },
     {
       "dimensions": [
         "20260823"
@@ -155,15 +145,6 @@
     },
     {
       "dimensions": [
-        "/place/la-grande-mela-supermarket-deco-amalfi"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "/place/minori-and-sal-de-riso"
       ],
       "metrics": [
@@ -199,15 +180,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "google"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "countries": [
@@ -219,29 +191,20 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "Norway"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 2,
-    "users": 2,
-    "pageViews": 13,
-    "avgSessionDuration": 140,
-    "bounceRate": 0.5
+    "sessions": 1,
+    "users": 1,
+    "pageViews": 12,
+    "avgSessionDuration": 280,
+    "bounceRate": 0
   },
   "summary30d": {
-    "sessions": 13,
+    "sessions": 12,
     "users": 9,
-    "pageViews": 42,
-    "avgSessionDuration": 270,
+    "pageViews": 41,
+    "avgSessionDuration": 293,
     "bounceRate": 0.7
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-09-21T10:32:48.116Z",
+  "updatedAt": "2026-09-22T09:43:55.185Z",
   "trend": [
     {
       "dimensions": [
@@ -185,12 +185,12 @@
     },
     {
       "dimensions": [
-        "20260822"
+        "20260921"
       ],
       "metrics": [
-        "9",
-        "5",
-        "11"
+        "10",
+        "8",
+        "16"
       ]
     },
     {
@@ -302,30 +302,49 @@
         "3",
         "5"
       ]
+    },
+    {
+      "dimensions": [
+        "20260922"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "7"
+      ]
     }
   ],
   "topPages": [
+    {
+      "dimensions": [
+        "/"
+      ],
+      "metrics": [
+        "15",
+        "14"
+      ]
+    },
+    {
+      "dimensions": [
+        "/parking/"
+      ],
+      "metrics": [
+        "15",
+        "14"
+      ]
+    },
     {
       "dimensions": [
         "/timetables/"
       ],
       "metrics": [
         "15",
-        "15"
+        "14"
       ]
     },
     {
       "dimensions": [
-        "/"
-      ],
-      "metrics": [
-        "13",
-        "12"
-      ]
-    },
-    {
-      "dimensions": [
-        "/parking/"
+        "/ferry-timetables"
       ],
       "metrics": [
         "10",
@@ -334,20 +353,29 @@
     },
     {
       "dimensions": [
-        "/ferry-timetables"
+        "/contact"
       ],
       "metrics": [
-        "9",
-        "9"
+        "4",
+        "4"
       ]
     },
     {
       "dimensions": [
-        "/ferry-timetables/"
+        "/directions/"
       ],
       "metrics": [
         "3",
-        "3"
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog"
+      ],
+      "metrics": [
+        "2",
+        "2"
       ]
     },
     {
@@ -361,7 +389,7 @@
     },
     {
       "dimensions": [
-        "/contact"
+        "/ferry-timetables/"
       ],
       "metrics": [
         "2",
@@ -397,15 +425,6 @@
     },
     {
       "dimensions": [
-        "/blog"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/amalfi-coast-tourism-in-2025-high-satisfaction-rising-prices-and-the-parking-problem/"
       ],
       "metrics": [
@@ -430,15 +449,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "/blog/why-silver-moon-and-mar-di-cobalto-are-closed-in-amalfi"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "sources": [
@@ -447,8 +457,8 @@
         "google"
       ],
       "metrics": [
-        "26",
-        "19"
+        "29",
+        "21"
       ]
     },
     {
@@ -457,7 +467,7 @@
       ],
       "metrics": [
         "19",
-        "10"
+        "11"
       ]
     },
     {
@@ -466,7 +476,7 @@
       ],
       "metrics": [
         "9",
-        "4"
+        "5"
       ]
     },
     {
@@ -474,13 +484,22 @@
         "bing"
       ],
       "metrics": [
-        "4",
-        "3"
+        "2",
+        "2"
       ]
     },
     {
       "dimensions": [
         "chatgpt.com"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "ecosia.org"
       ],
       "metrics": [
         "1",
@@ -512,17 +531,8 @@
         "Italy"
       ],
       "metrics": [
-        "27",
-        "15"
-      ]
-    },
-    {
-      "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "7",
-        "5"
+        "29",
+        "19"
       ]
     },
     {
@@ -530,8 +540,17 @@
         "United Kingdom"
       ],
       "metrics": [
-        "5",
+        "6",
         "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "5",
+        "4"
       ]
     },
     {
@@ -548,8 +567,17 @@
         "Australia"
       ],
       "metrics": [
-        "3",
+        "2",
         "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "France"
+      ],
+      "metrics": [
+        "2",
+        "2"
       ]
     },
     {
@@ -587,29 +615,20 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "Canada"
-      ],
-      "metrics": [
-        "1",
-        "0"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 61,
-    "users": 39,
-    "pageViews": 77,
-    "avgSessionDuration": 196,
+    "sessions": 63,
+    "users": 43,
+    "pageViews": 83,
+    "avgSessionDuration": 181,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 315,
-    "users": 193,
-    "pageViews": 430,
-    "avgSessionDuration": 165,
+    "sessions": 316,
+    "users": 197,
+    "pageViews": 442,
+    "avgSessionDuration": 168,
     "bounceRate": 0.5
   }
 }
