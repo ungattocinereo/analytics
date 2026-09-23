@@ -1,18 +1,8 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-09-22T09:43:55.724Z",
+  "updatedAt": "2026-09-23T09:49:44.255Z",
   "trend": [
-    {
-      "dimensions": [
-        "20260823"
-      ],
-      "metrics": [
-        "1",
-        "1",
-        "1"
-      ]
-    },
     {
       "dimensions": [
         "20260825"
@@ -124,87 +114,21 @@
       ]
     }
   ],
-  "topPages": [
-    {
-      "dimensions": [
-        "/"
-      ],
-      "metrics": [
-        "6",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/castiglione-beach-lido-di-ravello"
-      ],
-      "metrics": [
-        "3",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/minori-and-sal-de-riso"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/secret-waterfall-valle-dei-mulini"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/waterfall-of-atrani"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    }
-  ],
-  "sources": [
-    {
-      "dimensions": [
-        "(direct)"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    }
-  ],
-  "countries": [
-    {
-      "dimensions": [
-        "Italy"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    }
-  ],
+  "topPages": [],
+  "sources": [],
+  "countries": [],
   "summary7d": {
-    "sessions": 1,
-    "users": 1,
-    "pageViews": 12,
-    "avgSessionDuration": 280,
+    "sessions": 0,
+    "users": 0,
+    "pageViews": 0,
+    "avgSessionDuration": 0,
     "bounceRate": 0
   },
   "summary30d": {
-    "sessions": 12,
-    "users": 9,
-    "pageViews": 41,
-    "avgSessionDuration": 293,
-    "bounceRate": 0.7
+    "sessions": 11,
+    "users": 8,
+    "pageViews": 40,
+    "avgSessionDuration": 319,
+    "bounceRate": 0.6
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-09-22T09:43:54.081Z",
+  "updatedAt": "2026-09-23T09:49:42.651Z",
   "trend": [
     {
       "dimensions": [
@@ -131,6 +131,16 @@
         "27",
         "27",
         "30"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260922"
+      ],
+      "metrics": [
+        "26",
+        "25",
+        "27"
       ]
     },
     {
@@ -295,22 +305,12 @@
     },
     {
       "dimensions": [
-        "20260823"
+        "20260923"
       ],
       "metrics": [
-        "10",
-        "10",
-        "11"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260922"
-      ],
-      "metrics": [
-        "6",
-        "6",
-        "6"
+        "12",
+        "11",
+        "12"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "75",
-        "74"
+        "77",
+        "76"
       ]
     },
     {
@@ -329,8 +329,8 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "20",
-        "20"
+        "18",
+        "18"
       ]
     },
     {
@@ -338,8 +338,8 @@
         "/parking"
       ],
       "metrics": [
-        "13",
-        "14"
+        "16",
+        "17"
       ]
     },
     {
@@ -356,8 +356,17 @@
         "/blog"
       ],
       "metrics": [
-        "8",
-        "8"
+        "7",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
+      ],
+      "metrics": [
+        "6",
+        "5"
       ]
     },
     {
@@ -380,34 +389,7 @@
     },
     {
       "dimensions": [
-        "/blog/li-galli-ostrov-nurieieva-u-pozitano-otbilsia-ot-liuksovogho-resorta"
-      ],
-      "metrics": [
-        "5",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
-      ],
-      "metrics": [
-        "5",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/atrani-samyi-siekrietnyi-ugholok-amalfitanskogho-pobieriezhia"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/how-to-get-to-amalfi"
+        "/2020/05/lemon"
       ],
       "metrics": [
         "4",
@@ -425,7 +407,7 @@
     },
     {
       "dimensions": [
-        "/blog/novosti-s-amalfi-tiepier-kazhdyi-dien-v-telegram"
+        "/blog/how-to-get-to-amalfi"
       ],
       "metrics": [
         "3",
@@ -449,6 +431,24 @@
         "2",
         "2"
       ]
+    },
+    {
+      "dimensions": [
+        "/author/cinereo/page/7"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/li-galli-ostrov-nurieieva-u-pozitano-otbilsia-ot-liuksovogho-resorta"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
     }
   ],
   "sources": [
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "125",
-        "123"
+        "129",
+        "129"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "38",
-        "33"
+        "37",
+        "32"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "25",
-        "22"
+        "24",
+        "19"
       ]
     },
     {
@@ -513,8 +513,8 @@
         "Russia"
       ],
       "metrics": [
-        "115",
-        "107"
+        "110",
+        "103"
       ]
     },
     {
@@ -522,8 +522,17 @@
         "Italy"
       ],
       "metrics": [
-        "15",
-        "14"
+        "20",
+        "17"
+      ]
+    },
+    {
+      "dimensions": [
+        "Vietnam"
+      ],
+      "metrics": [
+        "10",
+        "10"
       ]
     },
     {
@@ -540,22 +549,13 @@
         "United States"
       ],
       "metrics": [
-        "7",
-        "7"
+        "8",
+        "8"
       ]
     },
     {
       "dimensions": [
-        "Vietnam"
-      ],
-      "metrics": [
-        "7",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "Israel"
+        "China"
       ],
       "metrics": [
         "5",
@@ -573,7 +573,7 @@
     },
     {
       "dimensions": [
-        "China"
+        "Israel"
       ],
       "metrics": [
         "4",
@@ -591,25 +591,25 @@
     },
     {
       "dimensions": [
-        "Netherlands"
+        ""
       ],
       "metrics": [
         "3",
-        "2"
+        "3"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 196,
-    "users": 185,
-    "pageViews": 217,
-    "avgSessionDuration": 47,
-    "bounceRate": 0.7
+    "sessions": 198,
+    "users": 187,
+    "pageViews": 216,
+    "avgSessionDuration": 43,
+    "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 900,
-    "users": 841,
-    "pageViews": 965,
+    "sessions": 921,
+    "users": 859,
+    "pageViews": 987,
     "avgSessionDuration": 37,
     "bounceRate": 0.8
   }

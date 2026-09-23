@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-09-22T09:43:55.185Z",
+  "updatedAt": "2026-09-23T09:49:43.715Z",
   "trend": [
     {
       "dimensions": [
@@ -11,16 +11,6 @@
         "19",
         "14",
         "32"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260823"
-      ],
-      "metrics": [
-        "16",
-        "9",
-        "22"
       ]
     },
     {
@@ -41,6 +31,16 @@
         "14",
         "8",
         "16"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260922"
+      ],
+      "metrics": [
+        "14",
+        "11",
+        "30"
       ]
     },
     {
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260922"
+        "20260923"
       ],
       "metrics": [
-        "1",
-        "1",
-        "7"
+        "2",
+        "2",
+        "5"
       ]
     }
   ],
@@ -320,17 +320,8 @@
         "/"
       ],
       "metrics": [
-        "15",
-        "14"
-      ]
-    },
-    {
-      "dimensions": [
-        "/parking/"
-      ],
-      "metrics": [
-        "15",
-        "14"
+        "22",
+        "15"
       ]
     },
     {
@@ -338,8 +329,17 @@
         "/timetables/"
       ],
       "metrics": [
-        "15",
-        "14"
+        "18",
+        "17"
+      ]
+    },
+    {
+      "dimensions": [
+        "/parking/"
+      ],
+      "metrics": [
+        "13",
+        "12"
       ]
     },
     {
@@ -347,8 +347,8 @@
         "/ferry-timetables"
       ],
       "metrics": [
-        "10",
-        "10"
+        "8",
+        "8"
       ]
     },
     {
@@ -356,8 +356,17 @@
         "/contact"
       ],
       "metrics": [
-        "4",
-        "4"
+        "6",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog"
+      ],
+      "metrics": [
+        "3",
+        "3"
       ]
     },
     {
@@ -371,7 +380,16 @@
     },
     {
       "dimensions": [
-        "/blog"
+        "/blog/license-plate-restrictions-return-to-the-amalfi-coast-april-25-may-2-2/"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/why-off-season-in-amalfi-is-actually-the-best-time-to-come/"
       ],
       "metrics": [
         "2",
@@ -381,6 +399,15 @@
     {
       "dimensions": [
         "/blog/why-silver-moon-and-mar-di-cobalto-are-closed-in-amalfi/"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/experience/scooter"
       ],
       "metrics": [
         "2",
@@ -407,47 +434,20 @@
     },
     {
       "dimensions": [
+        "/photoshootings/"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "/timetables"
       ],
       "metrics": [
         "2",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/apartments"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/amalfi-coast-tourism-in-2025-high-satisfaction-rising-prices-and-the-parking-problem/"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/amalfis-piazza-municipio-reopens-on-july-16-after-a-long-makeover/"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/license-plate-restrictions-return-to-the-amalfi-coast-april-25-may-2-2/"
-      ],
-      "metrics": [
-        "1",
-        "1"
+        "2"
       ]
     }
   ],
@@ -457,8 +457,8 @@
         "google"
       ],
       "metrics": [
-        "29",
-        "21"
+        "33",
+        "23"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "(direct)"
       ],
       "metrics": [
-        "19",
-        "11"
+        "17",
+        "13"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "duckduckgo"
       ],
       "metrics": [
-        "9",
-        "5"
+        "10",
+        "6"
       ]
     },
     {
@@ -484,8 +484,8 @@
         "bing"
       ],
       "metrics": [
-        "2",
-        "2"
+        "3",
+        "3"
       ]
     },
     {
@@ -531,8 +531,8 @@
         "Italy"
       ],
       "metrics": [
-        "29",
-        "19"
+        "34",
+        "24"
       ]
     },
     {
@@ -540,7 +540,7 @@
         "United Kingdom"
       ],
       "metrics": [
-        "6",
+        "7",
         "5"
       ]
     },
@@ -549,26 +549,17 @@
         "United States"
       ],
       "metrics": [
-        "5",
-        "4"
+        "7",
+        "5"
       ]
     },
     {
       "dimensions": [
-        "Norway"
-      ],
-      "metrics": [
-        "4",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "Australia"
+        "Bulgaria"
       ],
       "metrics": [
         "2",
-        "1"
+        "2"
       ]
     },
     {
@@ -591,7 +582,7 @@
     },
     {
       "dimensions": [
-        "Romania"
+        "Norway"
       ],
       "metrics": [
         "2",
@@ -600,10 +591,10 @@
     },
     {
       "dimensions": [
-        "Slovakia"
+        "Australia"
       ],
       "metrics": [
-        "2",
+        "1",
         "1"
       ]
     },
@@ -615,20 +606,29 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "Canada"
+      ],
+      "metrics": [
+        "1",
+        "0"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 63,
-    "users": 43,
-    "pageViews": 83,
-    "avgSessionDuration": 181,
-    "bounceRate": 0.5
+    "sessions": 67,
+    "users": 49,
+    "pageViews": 99,
+    "avgSessionDuration": 178,
+    "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 316,
-    "users": 197,
-    "pageViews": 442,
-    "avgSessionDuration": 168,
+    "sessions": 315,
+    "users": 200,
+    "pageViews": 448,
+    "avgSessionDuration": 169,
     "bounceRate": 0.5
   }
 }
