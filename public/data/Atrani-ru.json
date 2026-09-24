@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-09-23T09:49:42.651Z",
+  "updatedAt": "2026-09-24T09:46:51.646Z",
   "trend": [
     {
       "dimensions": [
@@ -135,6 +135,16 @@
     },
     {
       "dimensions": [
+        "20260923"
+      ],
+      "metrics": [
+        "27",
+        "25",
+        "31"
+      ]
+    },
+    {
+      "dimensions": [
         "20260922"
       ],
       "metrics": [
@@ -211,16 +221,6 @@
         "20",
         "18",
         "19"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260824"
-      ],
-      "metrics": [
-        "19",
-        "17",
-        "24"
       ]
     },
     {
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260923"
+        "20260924"
       ],
       "metrics": [
-        "12",
-        "11",
-        "12"
+        "7",
+        "7",
+        "7"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "77",
-        "76"
+        "75",
+        "74"
       ]
     },
     {
@@ -329,8 +329,8 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "18",
-        "18"
+        "16",
+        "16"
       ]
     },
     {
@@ -338,8 +338,8 @@
         "/parking"
       ],
       "metrics": [
-        "16",
-        "17"
+        "15",
+        "15"
       ]
     },
     {
@@ -356,17 +356,17 @@
         "/blog"
       ],
       "metrics": [
-        "7",
-        "7"
+        "6",
+        "6"
       ]
     },
     {
       "dimensions": [
-        "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
+        "/blog/how-to-get-to-amalfi"
       ],
       "metrics": [
         "6",
-        "5"
+        "3"
       ]
     },
     {
@@ -380,11 +380,20 @@
     },
     {
       "dimensions": [
-        "/2018/07/vintage-cars-amalfi-drive"
+        "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
       ],
       "metrics": [
         "5",
-        "5"
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2018/07/vintage-cars-amalfi-drive"
+      ],
+      "metrics": [
+        "4",
+        "4"
       ]
     },
     {
@@ -407,7 +416,7 @@
     },
     {
       "dimensions": [
-        "/blog/how-to-get-to-amalfi"
+        "/2019/02/roads-of-amalf-coast-atrani"
       ],
       "metrics": [
         "3",
@@ -434,16 +443,7 @@
     },
     {
       "dimensions": [
-        "/author/cinereo/page/7"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/li-galli-ostrov-nurieieva-u-pozitano-otbilsia-ot-liuksovogho-resorta"
+        "/blog/2019-2-20-old-photos-of-amalfi"
       ],
       "metrics": [
         "2",
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "129",
-        "129"
+        "133",
+        "133"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "37",
-        "32"
+        "28",
+        "24"
       ]
     },
     {
@@ -476,7 +476,7 @@
       ],
       "metrics": [
         "24",
-        "19"
+        "18"
       ]
     },
     {
@@ -522,13 +522,13 @@
         "Italy"
       ],
       "metrics": [
-        "20",
-        "17"
+        "17",
+        "14"
       ]
     },
     {
       "dimensions": [
-        "Vietnam"
+        "(not set)"
       ],
       "metrics": [
         "10",
@@ -537,20 +537,20 @@
     },
     {
       "dimensions": [
-        "(not set)"
+        "United States"
       ],
       "metrics": [
-        "8",
-        "8"
+        "9",
+        "9"
       ]
     },
     {
       "dimensions": [
-        "United States"
+        "Vietnam"
       ],
       "metrics": [
-        "8",
-        "8"
+        "9",
+        "9"
       ]
     },
     {
@@ -567,8 +567,8 @@
         "Singapore"
       ],
       "metrics": [
-        "5",
-        "5"
+        "4",
+        "4"
       ]
     },
     {
@@ -576,22 +576,22 @@
         "Israel"
       ],
       "metrics": [
-        "4",
-        "4"
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "Netherlands"
+      ],
+      "metrics": [
+        "3",
+        "2"
       ]
     },
     {
       "dimensions": [
         "United Kingdom"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        ""
       ],
       "metrics": [
         "3",
@@ -600,16 +600,16 @@
     }
   ],
   "summary7d": {
-    "sessions": 198,
-    "users": 187,
-    "pageViews": 216,
-    "avgSessionDuration": 43,
+    "sessions": 193,
+    "users": 182,
+    "pageViews": 213,
+    "avgSessionDuration": 50,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 921,
-    "users": 859,
-    "pageViews": 987,
+    "sessions": 922,
+    "users": 863,
+    "pageViews": 989,
     "avgSessionDuration": 37,
     "bounceRate": 0.8
   }
