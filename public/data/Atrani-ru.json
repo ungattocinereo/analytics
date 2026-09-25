@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-09-24T09:46:51.646Z",
+  "updatedAt": "2026-09-25T10:04:35.615Z",
   "trend": [
     {
       "dimensions": [
@@ -155,6 +155,16 @@
     },
     {
       "dimensions": [
+        "20260924"
+      ],
+      "metrics": [
+        "26",
+        "25",
+        "27"
+      ]
+    },
+    {
+      "dimensions": [
         "20260905"
       ],
       "metrics": [
@@ -265,16 +275,6 @@
     },
     {
       "dimensions": [
-        "20260825"
-      ],
-      "metrics": [
-        "15",
-        "14",
-        "16"
-      ]
-    },
-    {
-      "dimensions": [
         "20260902"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260924"
+        "20260925"
       ],
       "metrics": [
-        "7",
-        "7",
-        "7"
+        "6",
+        "6",
+        "6"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "75",
-        "74"
+        "77",
+        "76"
       ]
     },
     {
@@ -329,8 +329,8 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "16",
-        "16"
+        "14",
+        "14"
       ]
     },
     {
@@ -338,8 +338,8 @@
         "/parking"
       ],
       "metrics": [
-        "15",
-        "15"
+        "14",
+        "13"
       ]
     },
     {
@@ -347,13 +347,13 @@
         "/experience"
       ],
       "metrics": [
-        "12",
-        "10"
+        "11",
+        "9"
       ]
     },
     {
       "dimensions": [
-        "/blog"
+        "/blog/chto-dielat-na-amalfitanskom-pobieriezhie-iesli-dozhd-zhara-ili-otmienili-lodku"
       ],
       "metrics": [
         "6",
@@ -371,7 +371,7 @@
     },
     {
       "dimensions": [
-        "/transport"
+        "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
       ],
       "metrics": [
         "6",
@@ -380,7 +380,16 @@
     },
     {
       "dimensions": [
-        "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
+        "/blog"
+      ],
+      "metrics": [
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/transport"
       ],
       "metrics": [
         "5",
@@ -407,7 +416,7 @@
     },
     {
       "dimensions": [
-        "/cdn-cgi/l/email-protection"
+        "/photos"
       ],
       "metrics": [
         "4",
@@ -440,15 +449,6 @@
         "2",
         "2"
       ]
-    },
-    {
-      "dimensions": [
-        "/blog/2019-2-20-old-photos-of-amalfi"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
     }
   ],
   "sources": [
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "133",
-        "133"
+        "130",
+        "130"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "28",
-        "24"
+        "31",
+        "28"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "24",
-        "18"
+        "26",
+        "17"
       ]
     },
     {
@@ -484,8 +484,8 @@
         "ya.ru"
       ],
       "metrics": [
-        "6",
-        "5"
+        "5",
+        "4"
       ]
     },
     {
@@ -493,8 +493,8 @@
         "(not set)"
       ],
       "metrics": [
-        "1",
-        "1"
+        "3",
+        "3"
       ]
     },
     {
@@ -513,8 +513,8 @@
         "Russia"
       ],
       "metrics": [
-        "110",
-        "103"
+        "112",
+        "105"
       ]
     },
     {
@@ -523,7 +523,7 @@
       ],
       "metrics": [
         "17",
-        "14"
+        "13"
       ]
     },
     {
@@ -531,8 +531,8 @@
         "(not set)"
       ],
       "metrics": [
-        "10",
-        "10"
+        "9",
+        "9"
       ]
     },
     {
@@ -558,13 +558,13 @@
         "China"
       ],
       "metrics": [
-        "5",
-        "5"
+        "6",
+        "6"
       ]
     },
     {
       "dimensions": [
-        "Singapore"
+        "United Kingdom"
       ],
       "metrics": [
         "4",
@@ -573,7 +573,7 @@
     },
     {
       "dimensions": [
-        "Israel"
+        ""
       ],
       "metrics": [
         "3",
@@ -591,25 +591,25 @@
     },
     {
       "dimensions": [
-        "United Kingdom"
+        "Estonia"
       ],
       "metrics": [
-        "3",
-        "3"
+        "2",
+        "2"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 193,
+    "sessions": 194,
     "users": 182,
-    "pageViews": 213,
-    "avgSessionDuration": 50,
+    "pageViews": 214,
+    "avgSessionDuration": 52,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 922,
-    "users": 863,
-    "pageViews": 989,
+    "sessions": 932,
+    "users": 871,
+    "pageViews": 999,
     "avgSessionDuration": 37,
     "bounceRate": 0.8
   }

@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-09-24T09:46:52.692Z",
+  "updatedAt": "2026-09-25T10:04:36.722Z",
   "trend": [
     {
       "dimensions": [
@@ -255,16 +255,6 @@
     },
     {
       "dimensions": [
-        "20260825"
-      ],
-      "metrics": [
-        "7",
-        "6",
-        "14"
-      ]
-    },
-    {
-      "dimensions": [
         "20260902"
       ],
       "metrics": [
@@ -295,6 +285,16 @@
     },
     {
       "dimensions": [
+        "20260924"
+      ],
+      "metrics": [
+        "6",
+        "5",
+        "10"
+      ]
+    },
+    {
+      "dimensions": [
         "20260830"
       ],
       "metrics": [
@@ -302,26 +302,25 @@
         "3",
         "5"
       ]
-    },
-    {
-      "dimensions": [
-        "20260924"
-      ],
-      "metrics": [
-        "2",
-        "1",
-        "2"
-      ]
     }
   ],
   "topPages": [
     {
       "dimensions": [
-        "/"
+        "/parking/"
       ],
       "metrics": [
         "19",
-        "13"
+        "16"
+      ]
+    },
+    {
+      "dimensions": [
+        "/"
+      ],
+      "metrics": [
+        "17",
+        "11"
       ]
     },
     {
@@ -329,31 +328,13 @@
         "/timetables/"
       ],
       "metrics": [
-        "18",
-        "18"
-      ]
-    },
-    {
-      "dimensions": [
-        "/parking/"
-      ],
-      "metrics": [
-        "15",
-        "14"
+        "17",
+        "17"
       ]
     },
     {
       "dimensions": [
         "/ferry-timetables"
-      ],
-      "metrics": [
-        "7",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "/contact"
       ],
       "metrics": [
         "6",
@@ -362,11 +343,20 @@
     },
     {
       "dimensions": [
+        "/contact"
+      ],
+      "metrics": [
+        "5",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
         "/directions/"
       ],
       "metrics": [
-        "4",
-        "2"
+        "5",
+        "3"
       ]
     },
     {
@@ -407,6 +397,15 @@
     },
     {
       "dimensions": [
+        "/beaches"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "/blog/license-plate-restrictions-return-to-the-amalfi-coast-april-25-may-2-2/"
       ],
       "metrics": [
@@ -417,15 +416,6 @@
     {
       "dimensions": [
         "/blog/why-off-season-in-amalfi-is-actually-the-best-time-to-come/"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/why-silver-moon-and-mar-di-cobalto-are-closed-in-amalfi"
       ],
       "metrics": [
         "2",
@@ -457,7 +447,7 @@
         "google"
       ],
       "metrics": [
-        "32",
+        "30",
         "22"
       ]
     },
@@ -466,8 +456,8 @@
         "(direct)"
       ],
       "metrics": [
-        "19",
-        "14"
+        "18",
+        "13"
       ]
     },
     {
@@ -481,20 +471,29 @@
     },
     {
       "dimensions": [
-        "bing"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
         "chatgpt.com"
       ],
       "metrics": [
         "3",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "bing"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "(not set)"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     },
     {
@@ -522,7 +521,7 @@
         "Italy"
       ],
       "metrics": [
-        "29",
+        "28",
         "22"
       ]
     },
@@ -531,8 +530,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "7",
-        "4"
+        "6",
+        "3"
       ]
     },
     {
@@ -540,7 +539,7 @@
         "United States"
       ],
       "metrics": [
-        "7",
+        "6",
         "4"
       ]
     },
@@ -576,17 +575,8 @@
         "Germany"
       ],
       "metrics": [
-        "3",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "Netherlands"
-      ],
-      "metrics": [
         "2",
-        "2"
+        "1"
       ]
     },
     {
@@ -606,20 +596,29 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "Canada"
+      ],
+      "metrics": [
+        "1",
+        "0"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 68,
-    "users": 48,
-    "pageViews": 106,
-    "avgSessionDuration": 202,
+    "sessions": 64,
+    "users": 46,
+    "pageViews": 104,
+    "avgSessionDuration": 211,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 313,
-    "users": 199,
-    "pageViews": 456,
-    "avgSessionDuration": 172,
+    "sessions": 310,
+    "users": 196,
+    "pageViews": 450,
+    "avgSessionDuration": 171,
     "bounceRate": 0.5
   }
 }
