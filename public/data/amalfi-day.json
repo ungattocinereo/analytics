@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-09-25T10:04:36.722Z",
+  "updatedAt": "2026-09-26T09:45:39.342Z",
   "trend": [
     {
       "dimensions": [
@@ -91,16 +91,6 @@
         "12",
         "8",
         "17"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260826"
-      ],
-      "metrics": [
-        "11",
-        "10",
-        "13"
       ]
     },
     {
@@ -295,12 +285,32 @@
     },
     {
       "dimensions": [
+        "20260925"
+      ],
+      "metrics": [
+        "6",
+        "6",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
         "20260830"
       ],
       "metrics": [
         "3",
         "3",
         "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260926"
+      ],
+      "metrics": [
+        "2",
+        "2",
+        "3"
       ]
     }
   ],
@@ -310,17 +320,8 @@
         "/parking/"
       ],
       "metrics": [
-        "19",
-        "16"
-      ]
-    },
-    {
-      "dimensions": [
-        "/"
-      ],
-      "metrics": [
-        "17",
-        "11"
+        "21",
+        "18"
       ]
     },
     {
@@ -328,8 +329,17 @@
         "/timetables/"
       ],
       "metrics": [
-        "17",
-        "17"
+        "19",
+        "15"
+      ]
+    },
+    {
+      "dimensions": [
+        "/"
+      ],
+      "metrics": [
+        "15",
+        "9"
       ]
     },
     {
@@ -337,8 +347,8 @@
         "/ferry-timetables"
       ],
       "metrics": [
-        "6",
-        "5"
+        "7",
+        "6"
       ]
     },
     {
@@ -356,6 +366,15 @@
       ],
       "metrics": [
         "5",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/apartments"
+      ],
+      "metrics": [
+        "3",
         "3"
       ]
     },
@@ -406,15 +425,6 @@
     },
     {
       "dimensions": [
-        "/blog/license-plate-restrictions-return-to-the-amalfi-coast-april-25-may-2-2/"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/why-off-season-in-amalfi-is-actually-the-best-time-to-come/"
       ],
       "metrics": [
@@ -424,16 +434,16 @@
     },
     {
       "dimensions": [
-        "/blog/why-silver-moon-and-mar-di-cobalto-are-closed-in-amalfi/"
+        "/moto/"
       ],
       "metrics": [
         "2",
-        "2"
+        "1"
       ]
     },
     {
       "dimensions": [
-        "/ferry-timetables/"
+        "/photoshootings"
       ],
       "metrics": [
         "2",
@@ -447,8 +457,8 @@
         "google"
       ],
       "metrics": [
-        "30",
-        "22"
+        "28",
+        "21"
       ]
     },
     {
@@ -457,7 +467,7 @@
       ],
       "metrics": [
         "18",
-        "13"
+        "14"
       ]
     },
     {
@@ -465,8 +475,8 @@
         "duckduckgo"
       ],
       "metrics": [
-        "9",
-        "5"
+        "6",
+        "4"
       ]
     },
     {
@@ -489,7 +499,16 @@
     },
     {
       "dimensions": [
-        "(not set)"
+        "ecosia.org"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "m.facebook.com"
       ],
       "metrics": [
         "1",
@@ -498,7 +517,7 @@
     },
     {
       "dimensions": [
-        "ecosia.org"
+        "uk.search.yahoo.com"
       ],
       "metrics": [
         "1",
@@ -521,17 +540,8 @@
         "Italy"
       ],
       "metrics": [
-        "28",
-        "22"
-      ]
-    },
-    {
-      "dimensions": [
-        "United Kingdom"
-      ],
-      "metrics": [
-        "6",
-        "3"
+        "25",
+        "21"
       ]
     },
     {
@@ -539,17 +549,17 @@
         "United States"
       ],
       "metrics": [
-        "6",
-        "4"
+        "8",
+        "6"
       ]
     },
     {
       "dimensions": [
-        "Brazil"
+        "United Kingdom"
       ],
       "metrics": [
-        "3",
-        "2"
+        "7",
+        "4"
       ]
     },
     {
@@ -568,6 +578,15 @@
       "metrics": [
         "3",
         "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "Brazil"
+      ],
+      "metrics": [
+        "2",
+        "1"
       ]
     },
     {
@@ -599,26 +618,26 @@
     },
     {
       "dimensions": [
-        "Canada"
+        "Denmark"
       ],
       "metrics": [
         "1",
-        "0"
+        "1"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 64,
-    "users": 46,
-    "pageViews": 104,
-    "avgSessionDuration": 211,
+    "sessions": 62,
+    "users": 48,
+    "pageViews": 107,
+    "avgSessionDuration": 220,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 310,
-    "users": 196,
-    "pageViews": 450,
-    "avgSessionDuration": 171,
+    "sessions": 307,
+    "users": 194,
+    "pageViews": 449,
+    "avgSessionDuration": 172,
     "bounceRate": 0.5
   }
 }
