@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-09-27T10:25:59.286Z",
+  "updatedAt": "2026-09-28T11:33:36.485Z",
   "trend": [
     {
       "dimensions": [
@@ -185,6 +185,16 @@
     },
     {
       "dimensions": [
+        "20260927"
+      ],
+      "metrics": [
+        "24",
+        "22",
+        "32"
+      ]
+    },
+    {
+      "dimensions": [
         "20260904"
       ],
       "metrics": [
@@ -285,16 +295,6 @@
     },
     {
       "dimensions": [
-        "20260828"
-      ],
-      "metrics": [
-        "13",
-        "12",
-        "14"
-      ]
-    },
-    {
-      "dimensions": [
         "20260830"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20260927"
+        "20260928"
       ],
       "metrics": [
-        "7",
-        "7",
-        "10"
+        "12",
+        "11",
+        "12"
       ]
     }
   ],
@@ -320,8 +320,17 @@
         "/"
       ],
       "metrics": [
-        "78",
-        "77"
+        "80",
+        "79"
+      ]
+    },
+    {
+      "dimensions": [
+        "/parking"
+      ],
+      "metrics": [
+        "15",
+        "14"
       ]
     },
     {
@@ -330,25 +339,7 @@
       ],
       "metrics": [
         "14",
-        "14"
-      ]
-    },
-    {
-      "dimensions": [
-        "/parking"
-      ],
-      "metrics": [
-        "11",
-        "10"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/chto-dielat-na-amalfitanskom-pobieriezhie-iesli-dozhd-zhara-ili-otmienili-lodku"
-      ],
-      "metrics": [
-        "8",
-        "7"
+        "13"
       ]
     },
     {
@@ -362,29 +353,29 @@
     },
     {
       "dimensions": [
+        "/blog"
+      ],
+      "metrics": [
+        "7",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/chto-dielat-na-amalfitanskom-pobieriezhie-iesli-dozhd-zhara-ili-otmienili-lodku"
+      ],
+      "metrics": [
+        "7",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
         "/blog/how-to-get-to-amalfi"
       ],
       "metrics": [
-        "6",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
-      ],
-      "metrics": [
-        "6",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/transport"
-      ],
-      "metrics": [
-        "6",
-        "5"
+        "7",
+        "4"
       ]
     },
     {
@@ -398,16 +389,16 @@
     },
     {
       "dimensions": [
-        "/blog"
+        "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
       ],
       "metrics": [
-        "5",
+        "4",
         "4"
       ]
     },
     {
       "dimensions": [
-        "/photos"
+        "/transport"
       ],
       "metrics": [
         "4",
@@ -425,7 +416,7 @@
     },
     {
       "dimensions": [
-        "/2019/02/roads-of-amalf-coast-atrani"
+        "/photos"
       ],
       "metrics": [
         "3",
@@ -435,6 +426,15 @@
     {
       "dimensions": [
         "/2018/06/eva-green-amalfi-atrani"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2019/02/roads-of-amalf-coast-atrani"
       ],
       "metrics": [
         "2",
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "130",
-        "130"
+        "133",
+        "133"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "29",
-        "27"
+        "30",
+        "25"
       ]
     },
     {
@@ -481,15 +481,6 @@
     },
     {
       "dimensions": [
-        "ya.ru"
-      ],
-      "metrics": [
-        "4",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
         "ig"
       ],
       "metrics": [
@@ -499,7 +490,7 @@
     },
     {
       "dimensions": [
-        "m.facebook.com"
+        "ya.ru"
       ],
       "metrics": [
         "2",
@@ -508,7 +499,25 @@
     },
     {
       "dimensions": [
+        "alice.yandex.ru"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "bosch18v-promo.ru"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "m.facebook.com"
       ],
       "metrics": [
         "1",
@@ -522,8 +531,8 @@
         "Russia"
       ],
       "metrics": [
-        "108",
-        "105"
+        "111",
+        "109"
       ]
     },
     {
@@ -531,8 +540,8 @@
         "Italy"
       ],
       "metrics": [
-        "21",
-        "16"
+        "26",
+        "21"
       ]
     },
     {
@@ -540,8 +549,17 @@
         "(not set)"
       ],
       "metrics": [
-        "11",
-        "11"
+        "10",
+        "10"
+      ]
+    },
+    {
+      "dimensions": [
+        "Poland"
+      ],
+      "metrics": [
+        "7",
+        "4"
       ]
     },
     {
@@ -549,8 +567,8 @@
         "United States"
       ],
       "metrics": [
-        "9",
-        "9"
+        "7",
+        "7"
       ]
     },
     {
@@ -558,8 +576,8 @@
         "Vietnam"
       ],
       "metrics": [
-        "8",
-        "8"
+        "7",
+        "7"
       ]
     },
     {
@@ -569,24 +587,6 @@
       "metrics": [
         "6",
         "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "United Kingdom"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "Poland"
-      ],
-      "metrics": [
-        "3",
-        "3"
       ]
     },
     {
@@ -606,20 +606,29 @@
         "2",
         "2"
       ]
+    },
+    {
+      "dimensions": [
+        "Israel"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 191,
+    "sessions": 193,
     "users": 182,
-    "pageViews": 213,
-    "avgSessionDuration": 48,
+    "pageViews": 217,
+    "avgSessionDuration": 35,
     "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 914,
-    "users": 862,
-    "pageViews": 985,
-    "avgSessionDuration": 37,
+    "sessions": 930,
+    "users": 876,
+    "pageViews": 1005,
+    "avgSessionDuration": 38,
     "bounceRate": 0.8
   }
 }
