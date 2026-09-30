@@ -1,8 +1,18 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-09-29T11:12:39.838Z",
+  "updatedAt": "2026-09-30T11:01:00.982Z",
   "trend": [
+    {
+      "dimensions": [
+        "20260929"
+      ],
+      "metrics": [
+        "29",
+        "14",
+        "84"
+      ]
+    },
     {
       "dimensions": [
         "20260926"
@@ -295,51 +305,32 @@
     },
     {
       "dimensions": [
-        "20260830"
-      ],
-      "metrics": [
-        "3",
-        "3",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260929"
+        "20260930"
       ],
       "metrics": [
         "1",
-        "1",
-        "7"
+        "0",
+        "1"
       ]
     }
   ],
   "topPages": [
     {
       "dimensions": [
-        "/timetables/"
-      ],
-      "metrics": [
-        "30",
-        "26"
-      ]
-    },
-    {
-      "dimensions": [
         "/"
       ],
       "metrics": [
-        "25",
-        "15"
+        "42",
+        "24"
       ]
     },
     {
       "dimensions": [
-        "/parking/"
+        "/timetables/"
       ],
       "metrics": [
-        "15",
-        "13"
+        "33",
+        "29"
       ]
     },
     {
@@ -347,7 +338,25 @@
         "/photoshootings"
       ],
       "metrics": [
-        "11",
+        "20",
+        "12"
+      ]
+    },
+    {
+      "dimensions": [
+        "/parking/"
+      ],
+      "metrics": [
+        "14",
+        "12"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photoshootings/shifa"
+      ],
+      "metrics": [
+        "8",
         "6"
       ]
     },
@@ -356,8 +365,8 @@
         "/ferry-timetables"
       ],
       "metrics": [
-        "8",
-        "6"
+        "7",
+        "5"
       ]
     },
     {
@@ -380,15 +389,6 @@
     },
     {
       "dimensions": [
-        "/contact"
-      ],
-      "metrics": [
-        "5",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
         "/experience"
       ],
       "metrics": [
@@ -398,7 +398,25 @@
     },
     {
       "dimensions": [
-        "/timetables"
+        "/moto"
+      ],
+      "metrics": [
+        "5",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photoshootings/lashada"
+      ],
+      "metrics": [
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photoshootings/regan-tay-ravello"
       ],
       "metrics": [
         "5",
@@ -407,47 +425,29 @@
     },
     {
       "dimensions": [
+        "/photoshootings/stephanie-positano/"
+      ],
+      "metrics": [
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/timetables"
+      ],
+      "metrics": [
+        "4",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
         "/blog"
       ],
       "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/moto"
-      ],
-      "metrics": [
-        "4",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photoshootings/"
-      ],
-      "metrics": [
         "3",
         "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photoshootings/shifa"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photoshootings/template-gallery/"
-      ],
-      "metrics": [
-        "3",
-        "1"
       ]
     }
   ],
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "29",
-        "19"
+        "40",
+        "17"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "28",
-        "21"
+        "31",
+        "24"
       ]
     },
     {
@@ -549,8 +549,8 @@
         "Italy"
       ],
       "metrics": [
-        "36",
-        "25"
+        "51",
+        "23"
       ]
     },
     {
@@ -558,8 +558,8 @@
         "United States"
       ],
       "metrics": [
-        "11",
-        "7"
+        "10",
+        "8"
       ]
     },
     {
@@ -567,7 +567,7 @@
         "United Kingdom"
       ],
       "metrics": [
-        "7",
+        "6",
         "4"
       ]
     },
@@ -582,7 +582,7 @@
     },
     {
       "dimensions": [
-        "Bulgaria"
+        "Belgium"
       ],
       "metrics": [
         "3",
@@ -600,15 +600,6 @@
     },
     {
       "dimensions": [
-        "Belgium"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "Canada"
       ],
       "metrics": [
@@ -618,7 +609,7 @@
     },
     {
       "dimensions": [
-        "France"
+        "Finland"
       ],
       "metrics": [
         "2",
@@ -633,20 +624,29 @@
         "2",
         "2"
       ]
+    },
+    {
+      "dimensions": [
+        "Netherlands"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 84,
+    "sessions": 99,
     "users": 59,
-    "pageViews": 152,
-    "avgSessionDuration": 263,
+    "pageViews": 200,
+    "avgSessionDuration": 276,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 322,
-    "users": 203,
-    "pageViews": 488,
-    "avgSessionDuration": 197,
-    "bounceRate": 0.5
+    "sessions": 348,
+    "users": 210,
+    "pageViews": 561,
+    "avgSessionDuration": 203,
+    "bounceRate": 0.4
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "find.amalfi.day",
   "propertyId": "properties/531159837",
-  "updatedAt": "2026-09-29T11:12:40.972Z",
+  "updatedAt": "2026-09-30T11:01:04.202Z",
   "trend": [
     {
       "dimensions": [
@@ -101,6 +101,16 @@
         "9",
         "4",
         "22"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260929"
+      ],
+      "metrics": [
+        "9",
+        "6",
+        "20"
       ]
     },
     {
@@ -215,6 +225,16 @@
     },
     {
       "dimensions": [
+        "20260930"
+      ],
+      "metrics": [
+        "5",
+        "5",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
         "20260911"
       ],
       "metrics": [
@@ -272,26 +292,6 @@
         "2",
         "3"
       ]
-    },
-    {
-      "dimensions": [
-        "20260830"
-      ],
-      "metrics": [
-        "1",
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260929"
-      ],
-      "metrics": [
-        "1",
-        "1",
-        "2"
-      ]
     }
   ],
   "topPages": [
@@ -300,8 +300,8 @@
         "/"
       ],
       "metrics": [
-        "51",
-        "36"
+        "49",
+        "37"
       ]
     },
     {
@@ -309,7 +309,7 @@
         "/route/amalfi-house.html"
       ],
       "metrics": [
-        "28",
+        "31",
         "23"
       ]
     },
@@ -318,17 +318,8 @@
         "/route/atrani-house.html"
       ],
       "metrics": [
-        "21",
-        "18"
-      ]
-    },
-    {
-      "dimensions": [
-        "/route/amalfi-awesome.html"
-      ],
-      "metrics": [
-        "6",
-        "7"
+        "15",
+        "14"
       ]
     },
     {
@@ -336,8 +327,17 @@
         "/a/"
       ],
       "metrics": [
-        "4",
-        "3"
+        "11",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
+        "/route/amalfi-awesome.html"
+      ],
+      "metrics": [
+        "8",
+        "9"
       ]
     }
   ],
@@ -347,8 +347,8 @@
         "(direct)"
       ],
       "metrics": [
-        "37",
-        "16"
+        "43",
+        "20"
       ]
     },
     {
@@ -365,13 +365,13 @@
         "airbnb.com"
       ],
       "metrics": [
-        "5",
+        "4",
         "1"
       ]
     },
     {
       "dimensions": [
-        "airbnb.de"
+        "airbnb.co.uk"
       ],
       "metrics": [
         "3",
@@ -380,7 +380,7 @@
     },
     {
       "dimensions": [
-        "airbnb.co.uk"
+        "airbnb.de"
       ],
       "metrics": [
         "1",
@@ -404,7 +404,7 @@
       ],
       "metrics": [
         "23",
-        "8"
+        "9"
       ]
     },
     {
@@ -412,16 +412,16 @@
         "United States"
       ],
       "metrics": [
-        "11",
-        "5"
+        "15",
+        "7"
       ]
     },
     {
       "dimensions": [
-        "Germany"
+        "United Kingdom"
       ],
       "metrics": [
-        "6",
+        "5",
         "4"
       ]
     },
@@ -432,6 +432,15 @@
       "metrics": [
         "4",
         "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Germany"
+      ],
+      "metrics": [
+        "4",
+        "3"
       ]
     },
     {
@@ -454,11 +463,11 @@
     },
     {
       "dimensions": [
-        "United Kingdom"
+        "Spain"
       ],
       "metrics": [
-        "2",
-        "2"
+        "3",
+        "3"
       ]
     },
     {
@@ -472,16 +481,7 @@
     },
     {
       "dimensions": [
-        "Netherlands"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Spain"
+        "Mexico"
       ],
       "metrics": [
         "1",
@@ -490,17 +490,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 56,
-    "users": 21,
-    "pageViews": 110,
-    "avgSessionDuration": 205,
+    "sessions": 61,
+    "users": 26,
+    "pageViews": 114,
+    "avgSessionDuration": 216,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 221,
-    "users": 98,
-    "pageViews": 427,
-    "avgSessionDuration": 228,
+    "sessions": 233,
+    "users": 104,
+    "pageViews": 451,
+    "avgSessionDuration": 227,
     "bounceRate": 0.4
   }
 }
