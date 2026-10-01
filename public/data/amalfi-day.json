@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-09-30T11:01:00.982Z",
+  "updatedAt": "2026-10-01T11:27:40.281Z",
   "trend": [
     {
       "dimensions": [
@@ -31,6 +31,16 @@
         "19",
         "14",
         "32"
+      ]
+    },
+    {
+      "dimensions": [
+        "20260930"
+      ],
+      "metrics": [
+        "17",
+        "9",
+        "28"
       ]
     },
     {
@@ -71,16 +81,6 @@
         "14",
         "10",
         "23"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260831"
-      ],
-      "metrics": [
-        "13",
-        "9",
-        "18"
       ]
     },
     {
@@ -305,11 +305,11 @@
     },
     {
       "dimensions": [
-        "20260930"
+        "20261001"
       ],
       "metrics": [
         "1",
-        "0",
+        "1",
         "1"
       ]
     }
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "42",
-        "24"
+        "53",
+        "31"
       ]
     },
     {
@@ -339,7 +339,7 @@
       ],
       "metrics": [
         "20",
-        "12"
+        "13"
       ]
     },
     {
@@ -348,21 +348,21 @@
       ],
       "metrics": [
         "14",
-        "12"
+        "11"
       ]
     },
     {
       "dimensions": [
-        "/photoshootings/shifa"
+        "/directions/"
       ],
       "metrics": [
-        "8",
+        "7",
         "6"
       ]
     },
     {
       "dimensions": [
-        "/ferry-timetables"
+        "/photoshootings/shifa"
       ],
       "metrics": [
         "7",
@@ -371,11 +371,20 @@
     },
     {
       "dimensions": [
-        "/directions/"
+        "/ferry-timetables"
       ],
       "metrics": [
         "6",
-        "6"
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/moto"
+      ],
+      "metrics": [
+        "6",
+        "5"
       ]
     },
     {
@@ -385,24 +394,6 @@
       "metrics": [
         "5",
         "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/experience"
-      ],
-      "metrics": [
-        "5",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/moto"
-      ],
-      "metrics": [
-        "5",
-        "4"
       ]
     },
     {
@@ -434,20 +425,29 @@
     },
     {
       "dimensions": [
-        "/timetables"
+        "/how-to-get"
       ],
       "metrics": [
         "4",
-        "5"
+        "3"
       ]
     },
     {
       "dimensions": [
-        "/blog"
+        "/photoshootings/loreana"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/contact"
       ],
       "metrics": [
         "3",
-        "3"
+        "4"
       ]
     }
   ],
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "40",
-        "17"
+        "41",
+        "15"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "31",
-        "24"
+        "35",
+        "25"
       ]
     },
     {
@@ -475,7 +475,7 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "6",
+        "5",
         "5"
       ]
     },
@@ -490,11 +490,20 @@
     },
     {
       "dimensions": [
-        "duckduckgo"
+        "(not set)"
       ],
       "metrics": [
         "3",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "bing"
+      ],
+      "metrics": [
+        "3",
+        "3"
       ]
     },
     {
@@ -517,15 +526,6 @@
     },
     {
       "dimensions": [
-        "bing"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "ca.search.yahoo.com"
       ],
       "metrics": [
@@ -535,7 +535,7 @@
     },
     {
       "dimensions": [
-        "uk.search.yahoo.com"
+        "duckduckgo"
       ],
       "metrics": [
         "2",
@@ -549,8 +549,8 @@
         "Italy"
       ],
       "metrics": [
-        "51",
-        "23"
+        "62",
+        "24"
       ]
     },
     {
@@ -558,8 +558,8 @@
         "United States"
       ],
       "metrics": [
-        "10",
-        "8"
+        "12",
+        "10"
       ]
     },
     {
@@ -568,16 +568,7 @@
       ],
       "metrics": [
         "6",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "Brazil"
-      ],
-      "metrics": [
-        "4",
-        "2"
+        "5"
       ]
     },
     {
@@ -591,11 +582,11 @@
     },
     {
       "dimensions": [
-        "Germany"
+        "Brazil"
       ],
       "metrics": [
-        "3",
-        "2"
+        "2",
+        "1"
       ]
     },
     {
@@ -609,7 +600,7 @@
     },
     {
       "dimensions": [
-        "Finland"
+        "Germany"
       ],
       "metrics": [
         "2",
@@ -633,20 +624,29 @@
         "2",
         "2"
       ]
+    },
+    {
+      "dimensions": [
+        "Norway"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 99,
+    "sessions": 106,
     "users": 59,
-    "pageViews": 200,
-    "avgSessionDuration": 276,
-    "bounceRate": 0.4
+    "pageViews": 207,
+    "avgSessionDuration": 281,
+    "bounceRate": 0.3
   },
   "summary30d": {
-    "sessions": 348,
-    "users": 210,
-    "pageViews": 561,
-    "avgSessionDuration": 203,
+    "sessions": 352,
+    "users": 207,
+    "pageViews": 571,
+    "avgSessionDuration": 207,
     "bounceRate": 0.4
   }
 }
