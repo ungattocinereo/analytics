@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-10-01T11:27:41.137Z",
+  "updatedAt": "2026-10-02T10:57:51.298Z",
   "trend": [
     {
       "dimensions": [
@@ -151,13 +151,13 @@
     "users": 1,
     "pageViews": 4,
     "avgSessionDuration": 163,
-    "bounceRate": 1
+    "bounceRate": 0
   },
   "summary30d": {
     "sessions": 10,
     "users": 8,
     "pageViews": 41,
     "avgSessionDuration": 221,
-    "bounceRate": 0.6
+    "bounceRate": 0.5
   }
 }

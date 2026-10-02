@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-10-01T11:27:40.281Z",
+  "updatedAt": "2026-10-02T10:57:50.841Z",
   "trend": [
     {
       "dimensions": [
@@ -81,16 +81,6 @@
         "14",
         "10",
         "23"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260901"
-      ],
-      "metrics": [
-        "13",
-        "8",
-        "29"
       ]
     },
     {
@@ -225,6 +215,16 @@
     },
     {
       "dimensions": [
+        "20261001"
+      ],
+      "metrics": [
+        "9",
+        "6",
+        "20"
+      ]
+    },
+    {
+      "dimensions": [
         "20260914"
       ],
       "metrics": [
@@ -302,16 +302,6 @@
         "6",
         "9"
       ]
-    },
-    {
-      "dimensions": [
-        "20261001"
-      ],
-      "metrics": [
-        "1",
-        "1",
-        "1"
-      ]
     }
   ],
   "topPages": [
@@ -320,8 +310,8 @@
         "/"
       ],
       "metrics": [
-        "53",
-        "31"
+        "61",
+        "33"
       ]
     },
     {
@@ -329,8 +319,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "33",
-        "29"
+        "35",
+        "31"
       ]
     },
     {
@@ -338,8 +328,8 @@
         "/photoshootings"
       ],
       "metrics": [
-        "20",
-        "13"
+        "22",
+        "15"
       ]
     },
     {
@@ -347,17 +337,8 @@
         "/parking/"
       ],
       "metrics": [
-        "14",
-        "11"
-      ]
-    },
-    {
-      "dimensions": [
-        "/directions/"
-      ],
-      "metrics": [
-        "7",
-        "6"
+        "9",
+        "8"
       ]
     },
     {
@@ -366,6 +347,15 @@
       ],
       "metrics": [
         "7",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/directions/"
+      ],
+      "metrics": [
+        "6",
         "5"
       ]
     },
@@ -389,6 +379,24 @@
     },
     {
       "dimensions": [
+        "/photoshootings/regan-tay-ravello"
+      ],
+      "metrics": [
+        "6",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photoshootings/stephanie-positano/"
+      ],
+      "metrics": [
+        "6",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
         "/apartments"
       ],
       "metrics": [
@@ -399,24 +407,6 @@
     {
       "dimensions": [
         "/photoshootings/lashada"
-      ],
-      "metrics": [
-        "5",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photoshootings/regan-tay-ravello"
-      ],
-      "metrics": [
-        "5",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photoshootings/stephanie-positano/"
       ],
       "metrics": [
         "5",
@@ -457,8 +447,8 @@
         "(direct)"
       ],
       "metrics": [
-        "41",
-        "15"
+        "42",
+        "13"
       ]
     },
     {
@@ -466,8 +456,8 @@
         "google"
       ],
       "metrics": [
-        "35",
-        "25"
+        "36",
+        "24"
       ]
     },
     {
@@ -490,20 +480,20 @@
     },
     {
       "dimensions": [
+        "bing"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
         "(not set)"
       ],
       "metrics": [
         "3",
         "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "bing"
-      ],
-      "metrics": [
-        "3",
-        "3"
       ]
     },
     {
@@ -535,7 +525,7 @@
     },
     {
       "dimensions": [
-        "duckduckgo"
+        "uk.search.yahoo.com"
       ],
       "metrics": [
         "2",
@@ -549,8 +539,8 @@
         "Italy"
       ],
       "metrics": [
-        "62",
-        "24"
+        "68",
+        "25"
       ]
     },
     {
@@ -558,7 +548,7 @@
         "United States"
       ],
       "metrics": [
-        "12",
+        "11",
         "10"
       ]
     },
@@ -567,8 +557,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "6",
-        "5"
+        "5",
+        "4"
       ]
     },
     {
@@ -592,15 +582,6 @@
     {
       "dimensions": [
         "Canada"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "Germany"
       ],
       "metrics": [
         "2",
@@ -633,20 +614,29 @@
         "2",
         "2"
       ]
+    },
+    {
+      "dimensions": [
+        "Romania"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 106,
-    "users": 59,
-    "pageViews": 207,
-    "avgSessionDuration": 281,
+    "sessions": 108,
+    "users": 57,
+    "pageViews": 216,
+    "avgSessionDuration": 285,
     "bounceRate": 0.3
   },
   "summary30d": {
-    "sessions": 352,
-    "users": 207,
-    "pageViews": 571,
-    "avgSessionDuration": 207,
+    "sessions": 347,
+    "users": 203,
+    "pageViews": 561,
+    "avgSessionDuration": 209,
     "bounceRate": 0.4
   }
 }

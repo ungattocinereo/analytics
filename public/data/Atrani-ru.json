@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-10-01T11:27:39.212Z",
+  "updatedAt": "2026-10-02T10:57:49.865Z",
   "trend": [
     {
       "dimensions": [
@@ -51,6 +51,16 @@
         "32",
         "25",
         "129"
+      ]
+    },
+    {
+      "dimensions": [
+        "20261001"
+      ],
+      "metrics": [
+        "32",
+        "26",
+        "67"
       ]
     },
     {
@@ -255,16 +265,6 @@
     },
     {
       "dimensions": [
-        "20260901"
-      ],
-      "metrics": [
-        "20",
-        "18",
-        "19"
-      ]
-    },
-    {
-      "dimensions": [
         "20260903"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20261001"
+        "20261002"
       ],
       "metrics": [
+        "10",
         "9",
-        "8",
-        "11"
+        "10"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "116",
-        "94"
+        "142",
+        "109"
       ]
     },
     {
@@ -329,8 +329,8 @@
         "/transport"
       ],
       "metrics": [
-        "26",
-        "14"
+        "28",
+        "16"
       ]
     },
     {
@@ -338,8 +338,17 @@
         "/experience"
       ],
       "metrics": [
-        "17",
-        "9"
+        "18",
+        "10"
+      ]
+    },
+    {
+      "dimensions": [
+        "/apartments"
+      ],
+      "metrics": [
+        "16",
+        "5"
       ]
     },
     {
@@ -353,11 +362,20 @@
     },
     {
       "dimensions": [
+        "/contacts"
+      ],
+      "metrics": [
+        "14",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
         "/photos"
       ],
       "metrics": [
-        "15",
-        "5"
+        "13",
+        "3"
       ]
     },
     {
@@ -365,8 +383,17 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
+        "11",
+        "10"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog"
+      ],
+      "metrics": [
         "10",
-        "9"
+        "6"
       ]
     },
     {
@@ -380,47 +407,11 @@
     },
     {
       "dimensions": [
-        "/blog"
-      ],
-      "metrics": [
-        "9",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/chto-dielat-na-amalfitanskom-pobieriezhie-iesli-dozhd-zhara-ili-otmienili-lodku"
-      ],
-      "metrics": [
-        "8",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "/contacts"
-      ],
-      "metrics": [
-        "8",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/apartments"
-      ],
-      "metrics": [
-        "7",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/atrani-samyi-siekrietnyi-ugholok-amalfitanskogho-pobieriezhia"
       ],
       "metrics": [
-        "5",
-        "5"
+        "7",
+        "7"
       ]
     },
     {
@@ -449,6 +440,15 @@
         "4",
         "4"
       ]
+    },
+    {
+      "dimensions": [
+        "/blog/visit-pastificio-gentile-grangano"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
     }
   ],
   "sources": [
@@ -457,17 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "127",
-        "124"
-      ]
-    },
-    {
-      "dimensions": [
-        "google"
-      ],
-      "metrics": [
-        "33",
-        "23"
+        "136",
+        "127"
       ]
     },
     {
@@ -475,22 +466,31 @@
         "yandex.ru"
       ],
       "metrics": [
-        "33",
-        "23"
+        "32",
+        "22"
       ]
     },
     {
       "dimensions": [
-        "m.facebook.com"
+        "google"
       ],
       "metrics": [
-        "3",
-        "3"
+        "30",
+        "19"
       ]
     },
     {
       "dimensions": [
         "ya.ru"
+      ],
+      "metrics": [
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "m.facebook.com"
       ],
       "metrics": [
         "3",
@@ -531,8 +531,8 @@
         "Russia"
       ],
       "metrics": [
-        "120",
-        "114"
+        "115",
+        "111"
       ]
     },
     {
@@ -540,8 +540,8 @@
         "Italy"
       ],
       "metrics": [
-        "30",
-        "22"
+        "37",
+        "20"
       ]
     },
     {
@@ -549,8 +549,8 @@
         "United States"
       ],
       "metrics": [
-        "11",
-        "11"
+        "13",
+        "13"
       ]
     },
     {
@@ -558,8 +558,8 @@
         "(not set)"
       ],
       "metrics": [
-        "8",
-        "8"
+        "7",
+        "7"
       ]
     },
     {
@@ -568,6 +568,33 @@
       ],
       "metrics": [
         "6",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "China"
+      ],
+      "metrics": [
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "Netherlands"
+      ],
+      "metrics": [
+        "5",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "United Kingdom"
+      ],
+      "metrics": [
+        "5",
         "3"
       ]
     },
@@ -582,33 +609,6 @@
     },
     {
       "dimensions": [
-        "China"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "Netherlands"
-      ],
-      "metrics": [
-        "4",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "United Kingdom"
-      ],
-      "metrics": [
-        "4",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "Mexico"
       ],
       "metrics": [
@@ -618,17 +618,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 203,
+    "sessions": 210,
     "users": 179,
-    "pageViews": 319,
-    "avgSessionDuration": 130,
+    "pageViews": 358,
+    "avgSessionDuration": 137,
     "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 971,
-    "users": 900,
-    "pageViews": 1133,
-    "avgSessionDuration": 57,
+    "sessions": 984,
+    "users": 906,
+    "pageViews": 1180,
+    "avgSessionDuration": 59,
     "bounceRate": 0.8
   }
 }
