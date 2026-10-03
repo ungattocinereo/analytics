@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-10-02T10:57:49.865Z",
+  "updatedAt": "2026-10-03T10:17:04.372Z",
   "trend": [
     {
       "dimensions": [
@@ -175,6 +175,16 @@
     },
     {
       "dimensions": [
+        "20261002"
+      ],
+      "metrics": [
+        "27",
+        "23",
+        "25"
+      ]
+    },
+    {
+      "dimensions": [
         "20260922"
       ],
       "metrics": [
@@ -295,22 +305,12 @@
     },
     {
       "dimensions": [
-        "20260902"
+        "20261003"
       ],
       "metrics": [
-        "15",
-        "14",
-        "15"
-      ]
-    },
-    {
-      "dimensions": [
-        "20261002"
-      ],
-      "metrics": [
-        "10",
-        "9",
-        "10"
+        "8",
+        "8",
+        "9"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "142",
-        "109"
+        "146",
+        "114"
       ]
     },
     {
@@ -338,8 +338,8 @@
         "/experience"
       ],
       "metrics": [
-        "18",
-        "10"
+        "19",
+        "11"
       ]
     },
     {
@@ -356,8 +356,8 @@
         "/parking"
       ],
       "metrics": [
-        "15",
-        "13"
+        "16",
+        "14"
       ]
     },
     {
@@ -410,8 +410,8 @@
         "/blog/atrani-samyi-siekrietnyi-ugholok-amalfitanskogho-pobieriezhia"
       ],
       "metrics": [
-        "7",
-        "7"
+        "8",
+        "8"
       ]
     },
     {
@@ -425,29 +425,29 @@
     },
     {
       "dimensions": [
+        "/blog/netflix-snimaiet-film-positano-s-makkonakhi-i-saldanoi-na-pobieriezhie-amalfi"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/tours-boat"
+      ],
+      "metrics": [
+        "4",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "/2018/06/amalfi-by-night-2018"
       ],
       "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/how-to-get-to-amalfi"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/visit-pastificio-gentile-grangano"
-      ],
-      "metrics": [
-        "4",
-        "4"
+        "3",
+        "3"
       ]
     }
   ],
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "136",
-        "127"
+        "141",
+        "130"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "32",
-        "22"
+        "36",
+        "25"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "google"
       ],
       "metrics": [
-        "30",
-        "19"
+        "26",
+        "15"
       ]
     },
     {
@@ -484,8 +484,8 @@
         "ya.ru"
       ],
       "metrics": [
-        "5",
-        "5"
+        "6",
+        "6"
       ]
     },
     {
@@ -503,6 +503,15 @@
       ],
       "metrics": [
         "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "(not set)"
+      ],
+      "metrics": [
+        "1",
         "1"
       ]
     },
@@ -531,8 +540,8 @@
         "Russia"
       ],
       "metrics": [
-        "115",
-        "111"
+        "117",
+        "112"
       ]
     },
     {
@@ -540,8 +549,8 @@
         "Italy"
       ],
       "metrics": [
-        "37",
-        "20"
+        "41",
+        "22"
       ]
     },
     {
@@ -549,8 +558,17 @@
         "United States"
       ],
       "metrics": [
-        "13",
-        "13"
+        "15",
+        "15"
+      ]
+    },
+    {
+      "dimensions": [
+        "China"
+      ],
+      "metrics": [
+        "7",
+        "7"
       ]
     },
     {
@@ -558,8 +576,8 @@
         "(not set)"
       ],
       "metrics": [
-        "7",
-        "7"
+        "6",
+        "6"
       ]
     },
     {
@@ -573,29 +591,11 @@
     },
     {
       "dimensions": [
-        "China"
-      ],
-      "metrics": [
-        "5",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
         "Netherlands"
       ],
       "metrics": [
         "5",
         "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "United Kingdom"
-      ],
-      "metrics": [
-        "5",
-        "3"
       ]
     },
     {
@@ -609,7 +609,16 @@
     },
     {
       "dimensions": [
-        "Mexico"
+        "United Kingdom"
+      ],
+      "metrics": [
+        "4",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        ""
       ],
       "metrics": [
         "2",
@@ -618,16 +627,16 @@
     }
   ],
   "summary7d": {
-    "sessions": 210,
-    "users": 179,
-    "pageViews": 358,
+    "sessions": 217,
+    "users": 183,
+    "pageViews": 364,
     "avgSessionDuration": 137,
     "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 984,
-    "users": 906,
-    "pageViews": 1180,
+    "sessions": 994,
+    "users": 915,
+    "pageViews": 1189,
     "avgSessionDuration": 59,
     "bounceRate": 0.8
   }

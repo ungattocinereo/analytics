@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-10-02T10:57:50.841Z",
+  "updatedAt": "2026-10-03T10:17:05.678Z",
   "trend": [
     {
       "dimensions": [
@@ -31,6 +31,16 @@
         "19",
         "14",
         "32"
+      ]
+    },
+    {
+      "dimensions": [
+        "20261002"
+      ],
+      "metrics": [
+        "19",
+        "13",
+        "45"
       ]
     },
     {
@@ -255,16 +265,6 @@
     },
     {
       "dimensions": [
-        "20260902"
-      ],
-      "metrics": [
-        "7",
-        "3",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
         "20260904"
       ],
       "metrics": [
@@ -302,6 +302,16 @@
         "6",
         "9"
       ]
+    },
+    {
+      "dimensions": [
+        "20261003"
+      ],
+      "metrics": [
+        "3",
+        "3",
+        "5"
+      ]
     }
   ],
   "topPages": [
@@ -310,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "61",
-        "33"
+        "76",
+        "42"
       ]
     },
     {
@@ -319,8 +329,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "35",
-        "31"
+        "37",
+        "35"
       ]
     },
     {
@@ -328,8 +338,17 @@
         "/photoshootings"
       ],
       "metrics": [
-        "22",
-        "15"
+        "28",
+        "18"
+      ]
+    },
+    {
+      "dimensions": [
+        "/ferry-timetables"
+      ],
+      "metrics": [
+        "9",
+        "5"
       ]
     },
     {
@@ -337,7 +356,25 @@
         "/parking/"
       ],
       "metrics": [
-        "9",
+        "8",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photoshootings/stephanie-positano/"
+      ],
+      "metrics": [
+        "8",
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photoshootings/regan-tay-ravello"
+      ],
+      "metrics": [
+        "7",
         "8"
       ]
     },
@@ -361,15 +398,6 @@
     },
     {
       "dimensions": [
-        "/ferry-timetables"
-      ],
-      "metrics": [
-        "6",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
         "/moto"
       ],
       "metrics": [
@@ -379,20 +407,11 @@
     },
     {
       "dimensions": [
-        "/photoshootings/regan-tay-ravello"
+        "/timetables"
       ],
       "metrics": [
         "6",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photoshootings/stephanie-positano/"
-      ],
-      "metrics": [
-        "6",
-        "6"
+        "5"
       ]
     },
     {
@@ -406,11 +425,11 @@
     },
     {
       "dimensions": [
-        "/photoshootings/lashada"
+        "/contact"
       ],
       "metrics": [
         "5",
-        "5"
+        "8"
       ]
     },
     {
@@ -418,26 +437,17 @@
         "/how-to-get"
       ],
       "metrics": [
-        "4",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photoshootings/loreana"
-      ],
-      "metrics": [
-        "4",
+        "5",
         "4"
       ]
     },
     {
       "dimensions": [
-        "/contact"
+        "/photoshootings/lashada"
       ],
       "metrics": [
-        "3",
-        "4"
+        "5",
+        "5"
       ]
     }
   ],
@@ -447,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "42",
-        "13"
+        "48",
+        "17"
       ]
     },
     {
@@ -456,7 +466,7 @@
         "google"
       ],
       "metrics": [
-        "36",
+        "41",
         "24"
       ]
     },
@@ -465,17 +475,8 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "5",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "ecosia.org"
-      ],
-      "metrics": [
-        "5",
-        "3"
+        "8",
+        "8"
       ]
     },
     {
@@ -483,8 +484,17 @@
         "bing"
       ],
       "metrics": [
+        "6",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "ecosia.org"
+      ],
+      "metrics": [
         "4",
-        "4"
+        "3"
       ]
     },
     {
@@ -525,7 +535,7 @@
     },
     {
       "dimensions": [
-        "uk.search.yahoo.com"
+        "tw.search.yahoo.com"
       ],
       "metrics": [
         "2",
@@ -539,8 +549,8 @@
         "Italy"
       ],
       "metrics": [
-        "68",
-        "25"
+        "77",
+        "29"
       ]
     },
     {
@@ -548,8 +558,17 @@
         "United States"
       ],
       "metrics": [
-        "11",
-        "10"
+        "10",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
+        "Switzerland"
+      ],
+      "metrics": [
+        "5",
+        "2"
       ]
     },
     {
@@ -568,6 +587,24 @@
       "metrics": [
         "3",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Netherlands"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "Norway"
+      ],
+      "metrics": [
+        "3",
+        "3"
       ]
     },
     {
@@ -596,47 +633,20 @@
         "2",
         "2"
       ]
-    },
-    {
-      "dimensions": [
-        "Netherlands"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "Norway"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "Romania"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 108,
-    "users": 57,
-    "pageViews": 216,
-    "avgSessionDuration": 285,
+    "sessions": 124,
+    "users": 66,
+    "pageViews": 257,
+    "avgSessionDuration": 287,
     "bounceRate": 0.3
   },
   "summary30d": {
-    "sessions": 347,
-    "users": 203,
-    "pageViews": 561,
-    "avgSessionDuration": 209,
+    "sessions": 363,
+    "users": 214,
+    "pageViews": 604,
+    "avgSessionDuration": 214,
     "bounceRate": 0.4
   }
 }
