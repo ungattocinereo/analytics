@@ -1,23 +1,181 @@
 {
   "name": "Cinereo.it",
   "propertyId": "properties/362803366",
-  "updatedAt": "2026-10-03T10:17:04.661Z",
-  "trend": [],
-  "topPages": [],
-  "sources": [],
-  "countries": [],
+  "updatedAt": "2026-10-04T11:01:15.075Z",
+  "trend": [
+    {
+      "dimensions": [
+        "20261003"
+      ],
+      "metrics": [
+        "16",
+        "10",
+        "91"
+      ]
+    }
+  ],
+  "topPages": [
+    {
+      "dimensions": [
+        "/"
+      ],
+      "metrics": [
+        "85",
+        "15"
+      ]
+    },
+    {
+      "dimensions": [
+        "/projects/photo-poses/"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photography/"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/projects"
+      ],
+      "metrics": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/projects/gelateria-barbera/"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/projects/villa-guide/"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "dimensions": [
+        "(direct)"
+      ],
+      "metrics": [
+        "10",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "facebook.com"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "l.instagram.com"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "l.threads.com"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    }
+  ],
+  "countries": [
+    {
+      "dimensions": [
+        "Italy"
+      ],
+      "metrics": [
+        "9",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "Spain"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Sweden"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Austria"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Russia"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    }
+  ],
   "summary7d": {
-    "sessions": 0,
-    "users": 0,
-    "pageViews": 0,
-    "avgSessionDuration": 0,
-    "bounceRate": 0
+    "sessions": 16,
+    "users": 10,
+    "pageViews": 91,
+    "avgSessionDuration": 777,
+    "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 0,
-    "users": 0,
-    "pageViews": 0,
-    "avgSessionDuration": 0,
-    "bounceRate": 0
+    "sessions": 16,
+    "users": 10,
+    "pageViews": 91,
+    "avgSessionDuration": 777,
+    "bounceRate": 0.5
   }
 }
