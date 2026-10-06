@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-10-05T12:08:40.204Z",
+  "updatedAt": "2026-10-06T11:52:32.010Z",
   "trend": [
     {
       "dimensions": [
@@ -205,16 +205,6 @@
     },
     {
       "dimensions": [
-        "20260905"
-      ],
-      "metrics": [
-        "25",
-        "21",
-        "23"
-      ]
-    },
-    {
-      "dimensions": [
         "20260919"
       ],
       "metrics": [
@@ -251,6 +241,16 @@
         "23",
         "23",
         "25"
+      ]
+    },
+    {
+      "dimensions": [
+        "20261005"
+      ],
+      "metrics": [
+        "23",
+        "21",
+        "23"
       ]
     },
     {
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20261005"
+        "20261006"
       ],
       "metrics": [
-        "12",
-        "10",
-        "11"
+        "6",
+        "6",
+        "6"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "141",
-        "109"
+        "134",
+        "102"
       ]
     },
     {
@@ -329,8 +329,8 @@
         "/transport"
       ],
       "metrics": [
-        "32",
-        "20"
+        "29",
+        "16"
       ]
     },
     {
@@ -338,17 +338,8 @@
         "/experience"
       ],
       "metrics": [
-        "22",
-        "12"
-      ]
-    },
-    {
-      "dimensions": [
-        "/parking"
-      ],
-      "metrics": [
-        "17",
-        "15"
+        "21",
+        "11"
       ]
     },
     {
@@ -374,8 +365,17 @@
         "/photos"
       ],
       "metrics": [
-        "13",
-        "3"
+        "14",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/parking"
+      ],
+      "metrics": [
+        "12",
+        "10"
       ]
     },
     {
@@ -392,8 +392,17 @@
         "/blog/atrani-samyi-siekrietnyi-ugholok-amalfitanskogho-pobieriezhia"
       ],
       "metrics": [
-        "8",
-        "8"
+        "7",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/chto-dielat-na-amalfitanskom-pobieriezhie-iesli-dozhd-zhara-ili-otmienili-lodku"
+      ],
+      "metrics": [
+        "6",
+        "7"
       ]
     },
     {
@@ -416,20 +425,11 @@
     },
     {
       "dimensions": [
-        "/blog/chto-dielat-na-amalfitanskom-pobieriezhie-iesli-dozhd-zhara-ili-otmienili-lodku"
-      ],
-      "metrics": [
-        "5",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
         "/tours-boat"
       ],
       "metrics": [
-        "5",
-        "3"
+        "4",
+        "2"
       ]
     },
     {
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "136",
-        "124"
+        "132",
+        "119"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "35",
-        "24"
+        "31",
+        "22"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "google"
       ],
       "metrics": [
-        "24",
-        "15"
+        "19",
+        "12"
       ]
     },
     {
@@ -540,8 +540,8 @@
         "Russia"
       ],
       "metrics": [
-        "111",
-        "105"
+        "101",
+        "97"
       ]
     },
     {
@@ -549,8 +549,8 @@
         "Italy"
       ],
       "metrics": [
-        "44",
-        "24"
+        "43",
+        "23"
       ]
     },
     {
@@ -558,8 +558,8 @@
         "United States"
       ],
       "metrics": [
-        "14",
-        "14"
+        "11",
+        "11"
       ]
     },
     {
@@ -567,8 +567,8 @@
         "China"
       ],
       "metrics": [
-        "8",
-        "8"
+        "9",
+        "9"
       ]
     },
     {
@@ -585,8 +585,17 @@
         "United Kingdom"
       ],
       "metrics": [
-        "6",
-        "4"
+        "7",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "Armenia"
+      ],
+      "metrics": [
+        "2",
+        "2"
       ]
     },
     {
@@ -594,13 +603,13 @@
         "Netherlands"
       ],
       "metrics": [
-        "3",
-        "3"
+        "2",
+        "2"
       ]
     },
     {
       "dimensions": [
-        "Armenia"
+        "Singapore"
       ],
       "metrics": [
         "2",
@@ -615,29 +624,20 @@
         "2",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "Vietnam"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 208,
-    "users": 175,
-    "pageViews": 348,
-    "avgSessionDuration": 143,
+    "sessions": 195,
+    "users": 165,
+    "pageViews": 334,
+    "avgSessionDuration": 149,
     "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 1003,
-    "users": 919,
-    "pageViews": 1192,
-    "avgSessionDuration": 58,
+    "sessions": 995,
+    "users": 914,
+    "pageViews": 1187,
+    "avgSessionDuration": 59,
     "bounceRate": 0.8
   }
 }
