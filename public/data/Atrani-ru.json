@@ -1,18 +1,8 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-10-06T11:52:32.010Z",
+  "updatedAt": "2026-10-07T11:37:39.193Z",
   "trend": [
-    {
-      "dimensions": [
-        "20260906"
-      ],
-      "metrics": [
-        "186",
-        "188",
-        "189"
-      ]
-    },
     {
       "dimensions": [
         "20260907"
@@ -21,6 +11,16 @@
         "61",
         "56",
         "62"
+      ]
+    },
+    {
+      "dimensions": [
+        "20261006"
+      ],
+      "metrics": [
+        "33",
+        "31",
+        "40"
       ]
     },
     {
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20261006"
+        "20261007"
       ],
       "metrics": [
         "6",
         "6",
-        "6"
+        "7"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "134",
-        "102"
+        "131",
+        "99"
       ]
     },
     {
@@ -329,8 +329,8 @@
         "/transport"
       ],
       "metrics": [
-        "29",
-        "16"
+        "28",
+        "14"
       ]
     },
     {
@@ -338,8 +338,8 @@
         "/experience"
       ],
       "metrics": [
-        "21",
-        "11"
+        "25",
+        "15"
       ]
     },
     {
@@ -347,8 +347,8 @@
         "/apartments"
       ],
       "metrics": [
-        "16",
-        "5"
+        "17",
+        "6"
       ]
     },
     {
@@ -375,7 +375,7 @@
       ],
       "metrics": [
         "12",
-        "10"
+        "9"
       ]
     },
     {
@@ -383,17 +383,8 @@
         "/privacy-policy"
       ],
       "metrics": [
-        "10",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/atrani-samyi-siekrietnyi-ugholok-amalfitanskogho-pobieriezhia"
-      ],
-      "metrics": [
-        "7",
-        "7"
+        "11",
+        "2"
       ]
     },
     {
@@ -403,6 +394,15 @@
       "metrics": [
         "6",
         "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/parking"
+      ],
+      "metrics": [
+        "6",
+        "3"
       ]
     },
     {
@@ -425,28 +425,28 @@
     },
     {
       "dimensions": [
+        "/blog/atrani-samyi-siekrietnyi-ugholok-amalfitanskogho-pobieriezhia"
+      ],
+      "metrics": [
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/visit-pastificio-gentile-grangano"
+      ],
+      "metrics": [
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
         "/tours-boat"
       ],
       "metrics": [
         "4",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/li-galli-ostrov-nurieieva-u-pozitano-otbilsia-ot-liuksovogho-resorta"
-      ],
-      "metrics": [
-        "3",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/parking"
-      ],
-      "metrics": [
-        "3",
         "2"
       ]
     }
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "132",
-        "119"
+        "140",
+        "128"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "31",
-        "22"
+        "27",
+        "19"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "google"
       ],
       "metrics": [
-        "19",
-        "12"
+        "17",
+        "13"
       ]
     },
     {
@@ -484,13 +484,13 @@
         "ya.ru"
       ],
       "metrics": [
-        "6",
-        "6"
+        "5",
+        "5"
       ]
     },
     {
       "dimensions": [
-        "m.facebook.com"
+        "(not set)"
       ],
       "metrics": [
         "2",
@@ -508,7 +508,7 @@
     },
     {
       "dimensions": [
-        "(not set)"
+        "(data not available)"
       ],
       "metrics": [
         "1",
@@ -540,8 +540,8 @@
         "Russia"
       ],
       "metrics": [
-        "101",
-        "97"
+        "100",
+        "96"
       ]
     },
     {
@@ -549,17 +549,8 @@
         "Italy"
       ],
       "metrics": [
-        "43",
-        "23"
-      ]
-    },
-    {
-      "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "11",
-        "11"
+        "44",
+        "25"
       ]
     },
     {
@@ -567,8 +558,17 @@
         "China"
       ],
       "metrics": [
-        "9",
-        "9"
+        "12",
+        "12"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "12",
+        "12"
       ]
     },
     {
@@ -585,13 +585,22 @@
         "United Kingdom"
       ],
       "metrics": [
-        "7",
+        "6",
         "5"
       ]
     },
     {
       "dimensions": [
         "Armenia"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        ""
       ],
       "metrics": [
         "2",
@@ -615,29 +624,20 @@
         "2",
         "2"
       ]
-    },
-    {
-      "dimensions": [
-        "Ukraine"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 195,
-    "users": 165,
-    "pageViews": 334,
-    "avgSessionDuration": 149,
+    "sessions": 196,
+    "users": 170,
+    "pageViews": 341,
+    "avgSessionDuration": 119,
     "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 995,
-    "users": 914,
-    "pageViews": 1187,
-    "avgSessionDuration": 59,
-    "bounceRate": 0.8
+    "sessions": 843,
+    "users": 757,
+    "pageViews": 1039,
+    "avgSessionDuration": 71,
+    "bounceRate": 0.7
   }
 }

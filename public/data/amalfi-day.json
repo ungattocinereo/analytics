@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-10-06T11:52:33.546Z",
+  "updatedAt": "2026-10-07T11:37:40.664Z",
   "trend": [
     {
       "dimensions": [
@@ -21,6 +21,16 @@
         "21",
         "15",
         "34"
+      ]
+    },
+    {
+      "dimensions": [
+        "20261006"
+      ],
+      "metrics": [
+        "21",
+        "18",
+        "29"
       ]
     },
     {
@@ -175,16 +185,6 @@
     },
     {
       "dimensions": [
-        "20260906"
-      ],
-      "metrics": [
-        "10",
-        "7",
-        "10"
-      ]
-    },
-    {
-      "dimensions": [
         "20260918"
       ],
       "metrics": [
@@ -305,11 +305,11 @@
     },
     {
       "dimensions": [
-        "20261006"
+        "20261007"
       ],
       "metrics": [
-        "1",
-        "1",
+        "2",
+        "2",
         "2"
       ]
     }
@@ -320,17 +320,8 @@
         "/"
       ],
       "metrics": [
-        "89",
-        "53"
-      ]
-    },
-    {
-      "dimensions": [
-        "/timetables/"
-      ],
-      "metrics": [
-        "33",
-        "30"
+        "63",
+        "41"
       ]
     },
     {
@@ -339,7 +330,16 @@
       ],
       "metrics": [
         "31",
-        "23"
+        "26"
+      ]
+    },
+    {
+      "dimensions": [
+        "/timetables/"
+      ],
+      "metrics": [
+        "28",
+        "25"
       ]
     },
     {
@@ -348,24 +348,6 @@
       ],
       "metrics": [
         "19",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photoshootings/stephanie-positano/"
-      ],
-      "metrics": [
-        "12",
-        "12"
-      ]
-    },
-    {
-      "dimensions": [
-        "/parking/"
-      ],
-      "metrics": [
-        "11",
         "8"
       ]
     },
@@ -380,11 +362,20 @@
     },
     {
       "dimensions": [
+        "/parking/"
+      ],
+      "metrics": [
+        "10",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
         "/ferry-timetables"
       ],
       "metrics": [
-        "7",
-        "4"
+        "9",
+        "6"
       ]
     },
     {
@@ -398,11 +389,11 @@
     },
     {
       "dimensions": [
-        "/photoshootings/regan-tay-ravello"
+        "/photoshootings/stephanie-positano/"
       ],
       "metrics": [
-        "6",
-        "6"
+        "7",
+        "7"
       ]
     },
     {
@@ -416,25 +407,34 @@
     },
     {
       "dimensions": [
-        "/photoshootings/lashada"
+        "/how-to-get/"
       ],
       "metrics": [
         "5",
-        "5"
+        "4"
       ]
     },
     {
       "dimensions": [
-        "/photoshootings/shifa"
+        "/apartments"
       ],
       "metrics": [
-        "5",
+        "4",
         "3"
       ]
     },
     {
       "dimensions": [
-        "/experience"
+        "/directions/"
+      ],
+      "metrics": [
+        "4",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/experience/car-tours"
       ],
       "metrics": [
         "4",
@@ -457,8 +457,8 @@
         "google"
       ],
       "metrics": [
-        "47",
-        "21"
+        "37",
+        "17"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "(direct)"
       ],
       "metrics": [
-        "43",
-        "18"
+        "35",
+        "17"
       ]
     },
     {
@@ -481,11 +481,29 @@
     },
     {
       "dimensions": [
+        "m.facebook.com"
+      ],
+      "metrics": [
+        "10",
+        "10"
+      ]
+    },
+    {
+      "dimensions": [
         "bing"
       ],
       "metrics": [
         "7",
         "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "airbnb.com"
+      ],
+      "metrics": [
+        "4",
+        "1"
       ]
     },
     {
@@ -499,11 +517,11 @@
     },
     {
       "dimensions": [
-        "ecosia.org"
+        "facebook.com"
       ],
       "metrics": [
         "2",
-        "1"
+        "2"
       ]
     },
     {
@@ -517,25 +535,7 @@
     },
     {
       "dimensions": [
-        "airbnb.com"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "facebook.com"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "ig"
+        "ecosia.org"
       ],
       "metrics": [
         "1",
@@ -549,35 +549,8 @@
         "Italy"
       ],
       "metrics": [
-        "82",
-        "29"
-      ]
-    },
-    {
-      "dimensions": [
-        "Switzerland"
-      ],
-      "metrics": [
-        "6",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "6",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "Netherlands"
-      ],
-      "metrics": [
-        "4",
-        "4"
+        "64",
+        "28"
       ]
     },
     {
@@ -585,13 +558,40 @@
         "United Kingdom"
       ],
       "metrics": [
-        "4",
-        "4"
+        "13",
+        "13"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "10",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "Switzerland"
+      ],
+      "metrics": [
+        "7",
+        "2"
       ]
     },
     {
       "dimensions": [
         "Germany"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "Netherlands"
       ],
       "metrics": [
         "3",
@@ -609,7 +609,7 @@
     },
     {
       "dimensions": [
-        "Norway"
+        "Canada"
       ],
       "metrics": [
         "2",
@@ -627,26 +627,26 @@
     },
     {
       "dimensions": [
-        "Argentina"
+        "Thailand"
       ],
       "metrics": [
-        "1",
+        "2",
         "1"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 124,
-    "users": 65,
-    "pageViews": 283,
-    "avgSessionDuration": 284,
-    "bounceRate": 0.3
+    "sessions": 117,
+    "users": 70,
+    "pageViews": 228,
+    "avgSessionDuration": 237,
+    "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 383,
-    "users": 227,
-    "pageViews": 666,
-    "avgSessionDuration": 227,
+    "sessions": 395,
+    "users": 235,
+    "pageViews": 685,
+    "avgSessionDuration": 222,
     "bounceRate": 0.4
   }
 }
