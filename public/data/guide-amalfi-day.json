@@ -1,18 +1,8 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-10-07T11:37:41.647Z",
+  "updatedAt": "2026-10-08T11:52:07.856Z",
   "trend": [
-    {
-      "dimensions": [
-        "20260907"
-      ],
-      "metrics": [
-        "1",
-        "1",
-        "1"
-      ]
-    },
     {
       "dimensions": [
         "20260910"
@@ -74,60 +64,21 @@
       ]
     }
   ],
-  "topPages": [
-    {
-      "dimensions": [
-        "/ru"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/ru/place/il-birecto-atrani"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
-    }
-  ],
-  "sources": [
-    {
-      "dimensions": [
-        "(direct)"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    }
-  ],
-  "countries": [
-    {
-      "dimensions": [
-        "Netherlands"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    }
-  ],
+  "topPages": [],
+  "sources": [],
+  "countries": [],
   "summary7d": {
-    "sessions": 1,
-    "users": 1,
-    "pageViews": 4,
-    "avgSessionDuration": 163,
+    "sessions": 0,
+    "users": 0,
+    "pageViews": 0,
+    "avgSessionDuration": 0,
     "bounceRate": 0
   },
   "summary30d": {
-    "sessions": 7,
-    "users": 6,
-    "pageViews": 32,
-    "avgSessionDuration": 278,
-    "bounceRate": 0.4
+    "sessions": 6,
+    "users": 5,
+    "pageViews": 31,
+    "avgSessionDuration": 324,
+    "bounceRate": 0.3
   }
 }
