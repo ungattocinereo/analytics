@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-10-08T11:52:07.856Z",
+  "updatedAt": "2026-10-09T11:44:18.262Z",
   "trend": [
     {
       "dimensions": [
@@ -62,23 +62,63 @@
         "1",
         "4"
       ]
+    },
+    {
+      "dimensions": [
+        "20261008"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "1"
+      ]
     }
   ],
-  "topPages": [],
-  "sources": [],
-  "countries": [],
+  "topPages": [
+    {
+      "dimensions": [
+        "/fr/place/la-grande-mela-supermarket-deco-amalfi"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "dimensions": [
+        "google"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    }
+  ],
+  "countries": [
+    {
+      "dimensions": [
+        "Italy"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    }
+  ],
   "summary7d": {
-    "sessions": 0,
-    "users": 0,
-    "pageViews": 0,
+    "sessions": 1,
+    "users": 1,
+    "pageViews": 1,
     "avgSessionDuration": 0,
-    "bounceRate": 0
+    "bounceRate": 1
   },
   "summary30d": {
-    "sessions": 6,
-    "users": 5,
-    "pageViews": 31,
-    "avgSessionDuration": 324,
-    "bounceRate": 0.3
+    "sessions": 7,
+    "users": 6,
+    "pageViews": 32,
+    "avgSessionDuration": 278,
+    "bounceRate": 0.4
   }
 }
