@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-10-09T11:44:17.758Z",
+  "updatedAt": "2026-10-10T11:02:16.112Z",
   "trend": [
     {
       "dimensions": [
@@ -135,22 +135,22 @@
     },
     {
       "dimensions": [
-        "20260909"
-      ],
-      "metrics": [
-        "13",
-        "8",
-        "17"
-      ]
-    },
-    {
-      "dimensions": [
         "20260927"
       ],
       "metrics": [
         "13",
         "12",
         "26"
+      ]
+    },
+    {
+      "dimensions": [
+        "20261009"
+      ],
+      "metrics": [
+        "13",
+        "11",
+        "15"
       ]
     },
     {
@@ -302,16 +302,6 @@
         "6",
         "9"
       ]
-    },
-    {
-      "dimensions": [
-        "20261009"
-      ],
-      "metrics": [
-        "1",
-        "0",
-        "1"
-      ]
     }
   ],
   "topPages": [
@@ -320,8 +310,8 @@
         "/"
       ],
       "metrics": [
-        "48",
-        "33"
+        "38",
+        "26"
       ]
     },
     {
@@ -329,8 +319,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "30",
-        "27"
+        "29",
+        "28"
       ]
     },
     {
@@ -338,8 +328,8 @@
         "/photoshootings"
       ],
       "metrics": [
-        "29",
-        "23"
+        "23",
+        "20"
       ]
     },
     {
@@ -347,8 +337,8 @@
         "/timetables"
       ],
       "metrics": [
-        "22",
-        "9"
+        "18",
+        "6"
       ]
     },
     {
@@ -356,17 +346,8 @@
         "/parking/"
       ],
       "metrics": [
-        "13",
-        "11"
-      ]
-    },
-    {
-      "dimensions": [
-        "/ferry-timetables"
-      ],
-      "metrics": [
-        "11",
-        "8"
+        "15",
+        "13"
       ]
     },
     {
@@ -380,11 +361,11 @@
     },
     {
       "dimensions": [
-        "/contact"
+        "/ferry-timetables"
       ],
       "metrics": [
-        "6",
-        "8"
+        "7",
+        "6"
       ]
     },
     {
@@ -398,20 +379,11 @@
     },
     {
       "dimensions": [
-        "/parking"
+        "/contact"
       ],
       "metrics": [
-        "6",
+        "5",
         "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photoshootings/stephanie-positano/"
-      ],
-      "metrics": [
-        "6",
-        "6"
       ]
     },
     {
@@ -421,6 +393,24 @@
       "metrics": [
         "5",
         "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/parking"
+      ],
+      "metrics": [
+        "5",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photoshootings/stephanie-positano/"
+      ],
+      "metrics": [
+        "5",
+        "5"
       ]
     },
     {
@@ -457,8 +447,8 @@
         "(direct)"
       ],
       "metrics": [
-        "39",
-        "23"
+        "41",
+        "26"
       ]
     },
     {
@@ -466,17 +456,8 @@
         "google"
       ],
       "metrics": [
-        "39",
+        "34",
         "19"
-      ]
-    },
-    {
-      "dimensions": [
-        "chatgpt.com"
-      ],
-      "metrics": [
-        "11",
-        "11"
       ]
     },
     {
@@ -490,11 +471,11 @@
     },
     {
       "dimensions": [
-        "bing"
+        "chatgpt.com"
       ],
       "metrics": [
-        "4",
-        "2"
+        "9",
+        "9"
       ]
     },
     {
@@ -508,20 +489,29 @@
     },
     {
       "dimensions": [
-        "facebook.com"
+        "yahoo"
       ],
       "metrics": [
-        "2",
+        "3",
         "2"
       ]
     },
     {
       "dimensions": [
-        "tw.search.yahoo.com"
+        "bing"
       ],
       "metrics": [
         "2",
         "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "facebook.com"
+      ],
+      "metrics": [
+        "2",
+        "2"
       ]
     },
     {
@@ -549,8 +539,8 @@
         "Italy"
       ],
       "metrics": [
-        "49",
-        "26"
+        "42",
+        "23"
       ]
     },
     {
@@ -564,29 +554,20 @@
     },
     {
       "dimensions": [
-        "Switzerland"
-      ],
-      "metrics": [
-        "9",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "United States"
       ],
       "metrics": [
-        "8",
-        "6"
+        "9",
+        "7"
       ]
     },
     {
       "dimensions": [
-        "Netherlands"
+        "Germany"
       ],
       "metrics": [
         "6",
-        "5"
+        "6"
       ]
     },
     {
@@ -600,11 +581,20 @@
     },
     {
       "dimensions": [
-        "Germany"
+        "Netherlands"
       ],
       "metrics": [
         "5",
-        "5"
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "Switzerland"
+      ],
+      "metrics": [
+        "5",
+        "1"
       ]
     },
     {
@@ -627,26 +617,26 @@
     },
     {
       "dimensions": [
-        "Poland"
+        "Costa Rica"
       ],
       "metrics": [
         "2",
-        "2"
+        "1"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 118,
+    "sessions": 111,
     "users": 76,
-    "pageViews": 215,
-    "avgSessionDuration": 211,
-    "bounceRate": 0.4
+    "pageViews": 184,
+    "avgSessionDuration": 196,
+    "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 398,
-    "users": 234,
-    "pageViews": 690,
-    "avgSessionDuration": 222,
+    "sessions": 397,
+    "users": 236,
+    "pageViews": 687,
+    "avgSessionDuration": 225,
     "bounceRate": 0.4
   }
 }
