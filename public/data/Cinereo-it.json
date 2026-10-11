@@ -1,7 +1,7 @@
 {
   "name": "Cinereo.it",
   "propertyId": "properties/362803366",
-  "updatedAt": "2026-10-10T11:02:15.450Z",
+  "updatedAt": "2026-10-11T11:19:10.239Z",
   "trend": [
     {
       "dimensions": [
@@ -40,53 +40,8 @@
         "/"
       ],
       "metrics": [
-        "89",
-        "19"
-      ]
-    },
-    {
-      "dimensions": [
-        "/projects/photo-poses/"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photography/"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/projects"
-      ],
-      "metrics": [
-        "1",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/projects/gelateria-barbera/"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/projects/villa-guide/"
-      ],
-      "metrics": [
-        "1",
-        "1"
+        "4",
+        "4"
       ]
     }
   ],
@@ -96,34 +51,7 @@
         "(direct)"
       ],
       "metrics": [
-        "14",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "facebook.com"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "l.instagram.com"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "l.threads.com"
-      ],
-      "metrics": [
-        "1",
+        "4",
         "1"
       ]
     }
@@ -134,61 +62,16 @@
         "Italy"
       ],
       "metrics": [
-        "13",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "Spain"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Sweden"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "Austria"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Russia"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "1",
+        "4",
         "1"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 20,
-    "users": 10,
-    "pageViews": 95,
-    "avgSessionDuration": 624,
+    "sessions": 4,
+    "users": 1,
+    "pageViews": 4,
+    "avgSessionDuration": 10,
     "bounceRate": 0.5
   },
   "summary30d": {

@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-10-10T11:02:16.112Z",
+  "updatedAt": "2026-10-11T11:19:10.810Z",
   "trend": [
     {
       "dimensions": [
@@ -165,16 +165,6 @@
     },
     {
       "dimensions": [
-        "20260910"
-      ],
-      "metrics": [
-        "11",
-        "7",
-        "12"
-      ]
-    },
-    {
-      "dimensions": [
         "20260915"
       ],
       "metrics": [
@@ -302,33 +292,44 @@
         "6",
         "9"
       ]
+    },
+    {
+      "dimensions": [
+        "20261010"
+      ],
+      "metrics": [
+        "6",
+        "5",
+        "10"
+      ]
+    },
+    {
+      "dimensions": [
+        "20261011"
+      ],
+      "metrics": [
+        "3",
+        "3",
+        "4"
+      ]
     }
   ],
   "topPages": [
     {
       "dimensions": [
-        "/"
-      ],
-      "metrics": [
-        "38",
-        "26"
-      ]
-    },
-    {
-      "dimensions": [
         "/timetables/"
       ],
       "metrics": [
-        "29",
-        "28"
+        "31",
+        "29"
       ]
     },
     {
       "dimensions": [
-        "/photoshootings"
+        "/"
       ],
       "metrics": [
-        "23",
+        "27",
         "20"
       ]
     },
@@ -337,8 +338,8 @@
         "/timetables"
       ],
       "metrics": [
-        "18",
-        "6"
+        "20",
+        "7"
       ]
     },
     {
@@ -346,17 +347,17 @@
         "/parking/"
       ],
       "metrics": [
-        "15",
+        "16",
         "13"
       ]
     },
     {
       "dimensions": [
-        "/ferry-timetables/"
+        "/photoshootings"
       ],
       "metrics": [
-        "11",
-        "9"
+        "16",
+        "15"
       ]
     },
     {
@@ -364,26 +365,17 @@
         "/ferry-timetables"
       ],
       "metrics": [
-        "7",
+        "9",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "/ferry-timetables/"
+      ],
+      "metrics": [
+        "8",
         "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "/how-to-get"
-      ],
-      "metrics": [
-        "6",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/contact"
-      ],
-      "metrics": [
-        "5",
-        "5"
       ]
     },
     {
@@ -397,20 +389,11 @@
     },
     {
       "dimensions": [
-        "/parking"
+        "/contact"
       ],
       "metrics": [
-        "5",
+        "4",
         "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photoshootings/stephanie-positano/"
-      ],
-      "metrics": [
-        "5",
-        "5"
       ]
     },
     {
@@ -420,6 +403,15 @@
       "metrics": [
         "4",
         "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/parking"
+      ],
+      "metrics": [
+        "4",
+        "4"
       ]
     },
     {
@@ -439,6 +431,24 @@
         "3",
         "3"
       ]
+    },
+    {
+      "dimensions": [
+        "/how-to-get"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/beaches"
+      ],
+      "metrics": [
+        "1",
+        "2"
+      ]
     }
   ],
   "sources": [
@@ -447,7 +457,7 @@
         "(direct)"
       ],
       "metrics": [
-        "41",
+        "40",
         "26"
       ]
     },
@@ -456,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "34",
-        "19"
+        "30",
+        "20"
       ]
     },
     {
@@ -465,8 +475,8 @@
         "m.facebook.com"
       ],
       "metrics": [
-        "10",
-        "10"
+        "9",
+        "9"
       ]
     },
     {
@@ -474,8 +484,17 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "9",
-        "9"
+        "8",
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "yahoo"
+      ],
+      "metrics": [
+        "4",
+        "3"
       ]
     },
     {
@@ -489,34 +508,16 @@
     },
     {
       "dimensions": [
-        "yahoo"
+        "(not set)"
       ],
       "metrics": [
-        "3",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "bing"
-      ],
-      "metrics": [
-        "2",
+        "1",
         "1"
       ]
     },
     {
       "dimensions": [
-        "facebook.com"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "(not set)"
+        "bing"
       ],
       "metrics": [
         "1",
@@ -531,6 +532,15 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "facebook.com"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "countries": [
@@ -539,8 +549,8 @@
         "Italy"
       ],
       "metrics": [
-        "42",
-        "23"
+        "29",
+        "19"
       ]
     },
     {
@@ -557,17 +567,17 @@
         "United States"
       ],
       "metrics": [
-        "9",
-        "7"
+        "10",
+        "8"
       ]
     },
     {
       "dimensions": [
-        "Germany"
+        "Netherlands"
       ],
       "metrics": [
         "6",
-        "6"
+        "4"
       ]
     },
     {
@@ -581,11 +591,11 @@
     },
     {
       "dimensions": [
-        "Netherlands"
+        "Germany"
       ],
       "metrics": [
         "5",
-        "4"
+        "5"
       ]
     },
     {
@@ -608,16 +618,16 @@
     },
     {
       "dimensions": [
-        "Belgium"
+        "Austria"
       ],
       "metrics": [
         "2",
-        "1"
+        "2"
       ]
     },
     {
       "dimensions": [
-        "Costa Rica"
+        "Belgium"
       ],
       "metrics": [
         "2",
@@ -626,17 +636,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 111,
-    "users": 76,
-    "pageViews": 184,
-    "avgSessionDuration": 196,
+    "sessions": 100,
+    "users": 73,
+    "pageViews": 160,
+    "avgSessionDuration": 198,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 397,
-    "users": 236,
-    "pageViews": 687,
-    "avgSessionDuration": 225,
+    "sessions": 395,
+    "users": 237,
+    "pageViews": 689,
+    "avgSessionDuration": 227,
     "bounceRate": 0.4
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-10-10T11:02:14.916Z",
+  "updatedAt": "2026-10-11T11:19:09.391Z",
   "trend": [
     {
       "dimensions": [
@@ -61,16 +61,6 @@
         "32",
         "26",
         "67"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260910"
-      ],
-      "metrics": [
-        "31",
-        "28",
-        "34"
       ]
     },
     {
@@ -205,6 +195,16 @@
     },
     {
       "dimensions": [
+        "20261010"
+      ],
+      "metrics": [
+        "26",
+        "26",
+        "26"
+      ]
+    },
+    {
+      "dimensions": [
         "20260919"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20261010"
+        "20261011"
       ],
       "metrics": [
-        "10",
-        "10",
-        "10"
+        "9",
+        "9",
+        "11"
       ]
     }
   ],
@@ -320,7 +320,7 @@
         "/"
       ],
       "metrics": [
-        "84",
+        "83",
         "82"
       ]
     },
@@ -329,8 +329,8 @@
         "/transport"
       ],
       "metrics": [
-        "16",
-        "14"
+        "15",
+        "13"
       ]
     },
     {
@@ -353,11 +353,11 @@
     },
     {
       "dimensions": [
-        "/blog/chto-dielat-na-amalfitanskom-pobieriezhie-iesli-dozhd-zhara-ili-otmienili-lodku"
+        "/parking"
       ],
       "metrics": [
-        "7",
-        "8"
+        "6",
+        "6"
       ]
     },
     {
@@ -365,8 +365,26 @@
         "/apartments"
       ],
       "metrics": [
-        "5",
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/chto-dielat-na-amalfitanskom-pobieriezhie-iesli-dozhd-zhara-ili-otmienili-lodku"
+      ],
+      "metrics": [
+        "4",
         "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/directions-awesome"
+      ],
+      "metrics": [
+        "4",
+        "4"
       ]
     },
     {
@@ -374,17 +392,8 @@
         "/blog/parking"
       ],
       "metrics": [
-        "5",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/parking"
-      ],
-      "metrics": [
-        "5",
-        "5"
+        "3",
+        "1"
       ]
     },
     {
@@ -434,20 +443,11 @@
     },
     {
       "dimensions": [
-        "/blog/2019-atrani-instruction"
+        "/blog/colatura-di-alici"
       ],
       "metrics": [
         "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/elena-tkalich-amalfi"
-      ],
-      "metrics": [
-        "2",
-        "2"
+        "1"
       ]
     }
   ],
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "136",
-        "134"
+        "140",
+        "138"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "18",
-        "16"
+        "17",
+        "15"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "google"
       ],
       "metrics": [
-        "17",
-        "17"
+        "14",
+        "14"
       ]
     },
     {
@@ -484,8 +484,8 @@
         "ya.ru"
       ],
       "metrics": [
-        "3",
-        "3"
+        "4",
+        "4"
       ]
     },
     {
@@ -532,6 +532,15 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "wnnkd.com"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "countries": [
@@ -540,8 +549,8 @@
         "Russia"
       ],
       "metrics": [
-        "99",
-        "96"
+        "102",
+        "99"
       ]
     },
     {
@@ -549,8 +558,8 @@
         "Italy"
       ],
       "metrics": [
-        "23",
-        "21"
+        "19",
+        "17"
       ]
     },
     {
@@ -564,25 +573,25 @@
     },
     {
       "dimensions": [
-        "China"
-      ],
-      "metrics": [
-        "9",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
         "(not set)"
       ],
       "metrics": [
-        "7",
-        "7"
+        "8",
+        "8"
       ]
     },
     {
       "dimensions": [
-        "United Kingdom"
+        "China"
+      ],
+      "metrics": [
+        "8",
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "Singapore"
       ],
       "metrics": [
         "5",
@@ -591,7 +600,7 @@
     },
     {
       "dimensions": [
-        "Armenia"
+        "United Kingdom"
       ],
       "metrics": [
         "4",
@@ -600,11 +609,11 @@
     },
     {
       "dimensions": [
-        "Singapore"
+        "Armenia"
       ],
       "metrics": [
-        "4",
-        "4"
+        "3",
+        "3"
       ]
     },
     {
@@ -627,17 +636,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 181,
-    "users": 174,
-    "pageViews": 203,
-    "avgSessionDuration": 50,
+    "sessions": 183,
+    "users": 176,
+    "pageViews": 205,
+    "avgSessionDuration": 46,
     "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 820,
-    "users": 740,
-    "pageViews": 1019,
-    "avgSessionDuration": 74,
+    "sessions": 815,
+    "users": 738,
+    "pageViews": 1012,
+    "avgSessionDuration": 71,
     "bounceRate": 0.7
   }
 }
