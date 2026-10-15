@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-10-14T09:59:35.524Z",
+  "updatedAt": "2026-10-15T09:41:32.397Z",
   "trend": [
     {
       "dimensions": [
@@ -91,16 +91,6 @@
         "29",
         "26",
         "34"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260914"
-      ],
-      "metrics": [
-        "28",
-        "23",
-        "28"
       ]
     },
     {
@@ -285,6 +275,16 @@
     },
     {
       "dimensions": [
+        "20261014"
+      ],
+      "metrics": [
+        "14",
+        "14",
+        "15"
+      ]
+    },
+    {
+      "dimensions": [
         "20261013"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20261014"
+        "20261015"
       ],
       "metrics": [
-        "5",
-        "5",
-        "5"
+        "7",
+        "7",
+        "11"
       ]
     }
   ],
@@ -320,17 +320,8 @@
         "/"
       ],
       "metrics": [
-        "77",
-        "77"
-      ]
-    },
-    {
-      "dimensions": [
-        "/transport"
-      ],
-      "metrics": [
-        "10",
-        "9"
+        "75",
+        "74"
       ]
     },
     {
@@ -338,8 +329,8 @@
         "/experience"
       ],
       "metrics": [
-        "8",
-        "8"
+        "7",
+        "7"
       ]
     },
     {
@@ -353,20 +344,11 @@
     },
     {
       "dimensions": [
-        "/2020/01/eng-atrani"
+        "/transport"
       ],
       "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog"
-      ],
-      "metrics": [
-        "4",
-        "4"
+        "5",
+        "5"
       ]
     },
     {
@@ -389,6 +371,24 @@
     },
     {
       "dimensions": [
+        "/blog"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/atrani-ghotovitsia-k-prazdniku-santa-maria-maddalena-protsiessiia-muzyka-i-fieiiervierk-22-iiulia"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
         "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
       ],
       "metrics": [
@@ -398,7 +398,7 @@
     },
     {
       "dimensions": [
-        "/apartments"
+        "/2020/01/eng-atrani"
       ],
       "metrics": [
         "2",
@@ -425,15 +425,6 @@
     },
     {
       "dimensions": [
-        "/blog/how-to-get-to-amalfi"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/kagharun-v-viertiepie-samaia-strannaia-rozhdiestvienskaia-traditsiia-iuzhnoi-italii"
       ],
       "metrics": [
@@ -443,7 +434,16 @@
     },
     {
       "dimensions": [
-        "/blog/regata-amalfi-pisa-genova-venezia"
+        "/contacts"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/directions-awesome"
       ],
       "metrics": [
         "2",
@@ -457,22 +457,22 @@
         "(direct)"
       ],
       "metrics": [
-        "118",
-        "117"
-      ]
-    },
-    {
-      "dimensions": [
-        "yandex.ru"
-      ],
-      "metrics": [
-        "11",
-        "11"
+        "102",
+        "101"
       ]
     },
     {
       "dimensions": [
         "google"
+      ],
+      "metrics": [
+        "9",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
+        "yandex.ru"
       ],
       "metrics": [
         "8",
@@ -490,16 +490,25 @@
     },
     {
       "dimensions": [
-        "yandex.by"
+        "alliya.ru"
       ],
       "metrics": [
-        "2",
+        "1",
         "1"
       ]
     },
     {
       "dimensions": [
-        "alliya.ru"
+        "composers-heritage.ru"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "ig"
       ],
       "metrics": [
         "1",
@@ -531,8 +540,8 @@
         "Russia"
       ],
       "metrics": [
-        "86",
-        "85"
+        "82",
+        "81"
       ]
     },
     {
@@ -540,8 +549,8 @@
         "United States"
       ],
       "metrics": [
-        "20",
-        "20"
+        "15",
+        "15"
       ]
     },
     {
@@ -549,40 +558,13 @@
         "(not set)"
       ],
       "metrics": [
-        "6",
-        "6"
+        "7",
+        "7"
       ]
     },
     {
       "dimensions": [
         "China"
-      ],
-      "metrics": [
-        "6",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "Italy"
-      ],
-      "metrics": [
-        "5",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "Singapore"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "United Kingdom"
       ],
       "metrics": [
         "3",
@@ -591,20 +573,29 @@
     },
     {
       "dimensions": [
-        ""
+        "Italy"
       ],
       "metrics": [
-        "2",
-        "2"
+        "3",
+        "3"
       ]
     },
     {
       "dimensions": [
-        "Belarus"
+        "Poland"
       ],
       "metrics": [
-        "2",
-        "1"
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "Singapore"
+      ],
+      "metrics": [
+        "3",
+        "3"
       ]
     },
     {
@@ -615,20 +606,38 @@
         "2",
         "2"
       ]
+    },
+    {
+      "dimensions": [
+        ""
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Belarus"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 146,
-    "users": 144,
-    "pageViews": 159,
-    "avgSessionDuration": 31,
+    "sessions": 128,
+    "users": 127,
+    "pageViews": 143,
+    "avgSessionDuration": 25,
     "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 770,
-    "users": 700,
-    "pageViews": 969,
-    "avgSessionDuration": 71,
+    "sessions": 759,
+    "users": 694,
+    "pageViews": 962,
+    "avgSessionDuration": 69,
     "bounceRate": 0.7
   }
 }
