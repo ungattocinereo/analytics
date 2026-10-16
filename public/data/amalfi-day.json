@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-10-15T09:41:34.006Z",
+  "updatedAt": "2026-10-16T09:35:10.436Z",
   "trend": [
     {
       "dimensions": [
@@ -155,16 +155,6 @@
     },
     {
       "dimensions": [
-        "20260915"
-      ],
-      "metrics": [
-        "11",
-        "7",
-        "12"
-      ]
-    },
-    {
-      "dimensions": [
         "20260918"
       ],
       "metrics": [
@@ -201,6 +191,16 @@
         "10",
         "8",
         "13"
+      ]
+    },
+    {
+      "dimensions": [
+        "20261015"
+      ],
+      "metrics": [
+        "10",
+        "7",
+        "11"
       ]
     },
     {
@@ -310,7 +310,7 @@
         "/timetables/"
       ],
       "metrics": [
-        "32",
+        "31",
         "31"
       ]
     },
@@ -319,17 +319,8 @@
         "/"
       ],
       "metrics": [
-        "14",
+        "11",
         "9"
-      ]
-    },
-    {
-      "dimensions": [
-        "/ferry-timetables"
-      ],
-      "metrics": [
-        "12",
-        "7"
       ]
     },
     {
@@ -343,11 +334,11 @@
     },
     {
       "dimensions": [
-        "/ferry-timetables/"
+        "/ferry-timetables"
       ],
       "metrics": [
         "10",
-        "9"
+        "5"
       ]
     },
     {
@@ -355,8 +346,17 @@
         "/timetables"
       ],
       "metrics": [
-        "9",
-        "4"
+        "8",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/ferry-timetables/"
+      ],
+      "metrics": [
+        "5",
+        "5"
       ]
     },
     {
@@ -364,17 +364,8 @@
         "/parking"
       ],
       "metrics": [
-        "7",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "/directions/"
-      ],
-      "metrics": [
-        "3",
-        "4"
+        "5",
+        "5"
       ]
     },
     {
@@ -388,11 +379,29 @@
     },
     {
       "dimensions": [
+        "/blog/public-transport-strike-on-friday-march-6-what-you-need-to-know/"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "/contact"
       ],
       "metrics": [
         "2",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/directions/"
+      ],
+      "metrics": [
+        "2",
+        "3"
       ]
     },
     {
@@ -429,8 +438,8 @@
         "(direct)"
       ],
       "metrics": [
-        "39",
-        "30"
+        "34",
+        "26"
       ]
     },
     {
@@ -438,8 +447,17 @@
         "google"
       ],
       "metrics": [
-        "18",
+        "16",
         "14"
+      ]
+    },
+    {
+      "dimensions": [
+        "chatgpt.com"
+      ],
+      "metrics": [
+        "5",
+        "4"
       ]
     },
     {
@@ -447,7 +465,7 @@
         "bing"
       ],
       "metrics": [
-        "5",
+        "4",
         "4"
       ]
     },
@@ -456,8 +474,8 @@
         "yahoo"
       ],
       "metrics": [
-        "5",
-        "4"
+        "4",
+        "3"
       ]
     },
     {
@@ -467,15 +485,6 @@
       "metrics": [
         "3",
         "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "chatgpt.com"
-      ],
-      "metrics": [
-        "2",
-        "2"
       ]
     },
     {
@@ -498,7 +507,7 @@
     },
     {
       "dimensions": [
-        "(not set)"
+        "gemini.google.com"
       ],
       "metrics": [
         "1",
@@ -507,7 +516,7 @@
     },
     {
       "dimensions": [
-        "gemini.google.com"
+        "m.facebook.com"
       ],
       "metrics": [
         "1",
@@ -539,26 +548,8 @@
         "India"
       ],
       "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "Romania"
-      ],
-      "metrics": [
-        "4",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "Australia"
-      ],
-      "metrics": [
         "3",
-        "2"
+        "3"
       ]
     },
     {
@@ -581,6 +572,24 @@
     },
     {
       "dimensions": [
+        "Albania"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Australia"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "Austria"
       ],
       "metrics": [
@@ -590,7 +599,7 @@
     },
     {
       "dimensions": [
-        "Belgium"
+        "Bulgaria"
       ],
       "metrics": [
         "2",
@@ -608,17 +617,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 79,
-    "users": 62,
-    "pageViews": 105,
-    "avgSessionDuration": 229,
+    "sessions": 72,
+    "users": 58,
+    "pageViews": 92,
+    "avgSessionDuration": 188,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 381,
-    "users": 239,
-    "pageViews": 648,
-    "avgSessionDuration": 228,
+    "sessions": 379,
+    "users": 241,
+    "pageViews": 647,
+    "avgSessionDuration": 224,
     "bounceRate": 0.4
   }
 }

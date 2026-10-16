@@ -1,7 +1,7 @@
 {
   "name": "find.amalfi.day",
   "propertyId": "properties/531159837",
-  "updatedAt": "2026-10-15T09:41:35.277Z",
+  "updatedAt": "2026-10-16T09:35:11.455Z",
   "trend": [
     {
       "dimensions": [
@@ -272,35 +272,25 @@
         "1",
         "6"
       ]
-    },
-    {
-      "dimensions": [
-        "20260915"
-      ],
-      "metrics": [
-        "2",
-        "2",
-        "3"
-      ]
     }
   ],
   "topPages": [
     {
       "dimensions": [
-        "/route/amalfi-house.html"
+        "/"
       ],
       "metrics": [
-        "38",
-        "29"
+        "36",
+        "26"
       ]
     },
     {
       "dimensions": [
-        "/"
+        "/route/amalfi-house.html"
       ],
       "metrics": [
-        "37",
-        "28"
+        "36",
+        "27"
       ]
     },
     {
@@ -314,20 +304,11 @@
     },
     {
       "dimensions": [
-        "/a/"
-      ],
-      "metrics": [
-        "4",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "/route/amalfi-awesome.html"
       ],
       "metrics": [
-        "2",
-        "2"
+        "1",
+        "1"
       ]
     }
   ],
@@ -337,8 +318,8 @@
         "(direct)"
       ],
       "metrics": [
-        "31",
-        "11"
+        "29",
+        "10"
       ]
     },
     {
@@ -348,33 +329,6 @@
       "metrics": [
         "7",
         "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "(not set)"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "airbnb.com"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "airbnb.es"
-      ],
-      "metrics": [
-        "1",
-        "1"
       ]
     },
     {
@@ -417,15 +371,6 @@
     },
     {
       "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
         "Australia"
       ],
       "metrics": [
@@ -435,35 +380,26 @@
     },
     {
       "dimensions": [
-        "Belgium"
+        "United States"
       ],
       "metrics": [
-        "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Spain"
-      ],
-      "metrics": [
-        "1",
-        "1"
+        "3",
+        "3"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 41,
-    "users": 17,
-    "pageViews": 87,
-    "avgSessionDuration": 280,
+    "sessions": 37,
+    "users": 14,
+    "pageViews": 79,
+    "avgSessionDuration": 299,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 199,
-    "users": 82,
-    "pageViews": 391,
-    "avgSessionDuration": 197,
+    "sessions": 197,
+    "users": 80,
+    "pageViews": 388,
+    "avgSessionDuration": 199,
     "bounceRate": 0.4
   }
 }
