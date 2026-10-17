@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-10-16T09:35:10.436Z",
+  "updatedAt": "2026-10-17T09:06:31.814Z",
   "trend": [
     {
       "dimensions": [
@@ -205,16 +205,6 @@
     },
     {
       "dimensions": [
-        "20260916"
-      ],
-      "metrics": [
-        "9",
-        "5",
-        "11"
-      ]
-    },
-    {
-      "dimensions": [
         "20261001"
       ],
       "metrics": [
@@ -265,6 +255,16 @@
     },
     {
       "dimensions": [
+        "20261016"
+      ],
+      "metrics": [
+        "8",
+        "7",
+        "11"
+      ]
+    },
+    {
+      "dimensions": [
         "20260920"
       ],
       "metrics": [
@@ -310,26 +310,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "31",
-        "31"
-      ]
-    },
-    {
-      "dimensions": [
-        "/"
-      ],
-      "metrics": [
-        "11",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
-        "/parking/"
-      ],
-      "metrics": [
-        "11",
-        "10"
+        "32",
+        "30"
       ]
     },
     {
@@ -337,8 +319,26 @@
         "/ferry-timetables"
       ],
       "metrics": [
+        "11",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/parking/"
+      ],
+      "metrics": [
         "10",
-        "5"
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
+        "/"
+      ],
+      "metrics": [
+        "8",
+        "8"
       ]
     },
     {
@@ -388,15 +388,6 @@
     },
     {
       "dimensions": [
-        "/contact"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "/directions/"
       ],
       "metrics": [
@@ -415,7 +406,7 @@
     },
     {
       "dimensions": [
-        "/how-to-get"
+        "/contact"
       ],
       "metrics": [
         "1",
@@ -438,8 +429,8 @@
         "(direct)"
       ],
       "metrics": [
-        "34",
-        "26"
+        "29",
+        "21"
       ]
     },
     {
@@ -447,8 +438,8 @@
         "google"
       ],
       "metrics": [
-        "16",
-        "14"
+        "15",
+        "13"
       ]
     },
     {
@@ -456,8 +447,8 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "5",
-        "4"
+        "7",
+        "6"
       ]
     },
     {
@@ -471,16 +462,16 @@
     },
     {
       "dimensions": [
-        "yahoo"
+        "duckduckgo"
       ],
       "metrics": [
-        "4",
+        "3",
         "3"
       ]
     },
     {
       "dimensions": [
-        "duckduckgo"
+        "yahoo"
       ],
       "metrics": [
         "3",
@@ -539,8 +530,17 @@
         "United States"
       ],
       "metrics": [
-        "8",
-        "8"
+        "9",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
+        "United Kingdom"
+      ],
+      "metrics": [
+        "4",
+        "3"
       ]
     },
     {
@@ -605,29 +605,20 @@
         "2",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "Canada"
-      ],
-      "metrics": [
-        "2",
-        "0"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 72,
-    "users": 58,
-    "pageViews": 92,
-    "avgSessionDuration": 188,
+    "sessions": 67,
+    "users": 54,
+    "pageViews": 88,
+    "avgSessionDuration": 202,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 379,
-    "users": 241,
+    "sessions": 378,
+    "users": 243,
     "pageViews": 647,
-    "avgSessionDuration": 224,
+    "avgSessionDuration": 230,
     "bounceRate": 0.4
   }
 }

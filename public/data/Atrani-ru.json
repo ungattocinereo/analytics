@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-10-16T09:35:09.379Z",
+  "updatedAt": "2026-10-17T09:06:30.340Z",
   "trend": [
     {
       "dimensions": [
@@ -91,16 +91,6 @@
         "28",
         "27",
         "34"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260916"
-      ],
-      "metrics": [
-        "27",
-        "26",
-        "29"
       ]
     },
     {
@@ -308,9 +298,19 @@
         "20261016"
       ],
       "metrics": [
-        "2",
-        "2",
-        "2"
+        "8",
+        "8",
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "20261017"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "1"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "68",
-        "67"
+        "65",
+        "64"
       ]
     },
     {
@@ -329,8 +329,8 @@
         "/experience"
       ],
       "metrics": [
-        "8",
-        "8"
+        "7",
+        "7"
       ]
     },
     {
@@ -338,35 +338,8 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "7",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
-      ],
-      "metrics": [
-        "5",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/transport"
-      ],
-      "metrics": [
-        "5",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/sal-de-riso-sweets"
-      ],
-      "metrics": [
         "4",
-        "4"
+        "2"
       ]
     },
     {
@@ -390,6 +363,33 @@
     {
       "dimensions": [
         "/blog/atrani-ghotovitsia-k-prazdniku-santa-maria-maddalena-protsiessiia-muzyka-i-fieiiervierk-22-iiulia"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/colatura-di-alici-di-cetara"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/sal-de-riso-sweets"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
       ],
       "metrics": [
         "3",
@@ -443,7 +443,7 @@
     },
     {
       "dimensions": [
-        "/blog/colatura-di-alici-di-cetara"
+        "/contacts"
       ],
       "metrics": [
         "2",
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "97",
-        "96"
+        "90",
+        "89"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "12",
-        "12"
+        "9",
+        "9"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "6",
-        "6"
+        "5",
+        "5"
       ]
     },
     {
@@ -484,8 +484,8 @@
         "ya.ru"
       ],
       "metrics": [
-        "4",
-        "4"
+        "3",
+        "3"
       ]
     },
     {
@@ -549,8 +549,8 @@
         "Russia"
       ],
       "metrics": [
-        "75",
-        "74"
+        "71",
+        "70"
       ]
     },
     {
@@ -558,8 +558,8 @@
         "United States"
       ],
       "metrics": [
-        "14",
-        "14"
+        "12",
+        "12"
       ]
     },
     {
@@ -582,11 +582,20 @@
     },
     {
       "dimensions": [
+        "Georgia"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "Italy"
       ],
       "metrics": [
-        "3",
-        "3"
+        "2",
+        "2"
       ]
     },
     {
@@ -594,8 +603,8 @@
         "Poland"
       ],
       "metrics": [
-        "3",
-        "3"
+        "2",
+        "2"
       ]
     },
     {
@@ -603,8 +612,8 @@
         "Singapore"
       ],
       "metrics": [
-        "3",
-        "3"
+        "2",
+        "2"
       ]
     },
     {
@@ -612,17 +621,8 @@
         ""
       ],
       "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "Georgia"
-      ],
-      "metrics": [
-        "2",
-        "2"
+        "1",
+        "1"
       ]
     },
     {
@@ -636,17 +636,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 125,
-    "users": 124,
-    "pageViews": 142,
-    "avgSessionDuration": 19,
+    "sessions": 113,
+    "users": 112,
+    "pageViews": 127,
+    "avgSessionDuration": 20,
     "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 745,
-    "users": 683,
-    "pageViews": 948,
-    "avgSessionDuration": 69,
+    "sessions": 725,
+    "users": 664,
+    "pageViews": 926,
+    "avgSessionDuration": 71,
     "bounceRate": 0.7
   }
 }

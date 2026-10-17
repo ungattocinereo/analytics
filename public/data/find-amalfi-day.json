@@ -1,7 +1,7 @@
 {
   "name": "find.amalfi.day",
   "propertyId": "properties/531159837",
-  "updatedAt": "2026-10-16T09:35:11.455Z",
+  "updatedAt": "2026-10-17T09:06:32.983Z",
   "trend": [
     {
       "dimensions": [
@@ -101,16 +101,6 @@
         "9",
         "2",
         "26"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260916"
-      ],
-      "metrics": [
-        "8",
-        "4",
-        "11"
       ]
     },
     {
@@ -277,20 +267,20 @@
   "topPages": [
     {
       "dimensions": [
-        "/"
+        "/route/amalfi-house.html"
       ],
       "metrics": [
-        "36",
-        "26"
+        "34",
+        "25"
       ]
     },
     {
       "dimensions": [
-        "/route/amalfi-house.html"
+        "/"
       ],
       "metrics": [
-        "36",
-        "27"
+        "30",
+        "21"
       ]
     },
     {
@@ -298,8 +288,8 @@
         "/route/atrani-house.html"
       ],
       "metrics": [
-        "6",
-        "5"
+        "3",
+        "3"
       ]
     },
     {
@@ -318,8 +308,8 @@
         "(direct)"
       ],
       "metrics": [
-        "29",
-        "10"
+        "28",
+        "9"
       ]
     },
     {
@@ -327,8 +317,8 @@
         "airbnb.it"
       ],
       "metrics": [
-        "7",
-        "3"
+        "3",
+        "1"
       ]
     },
     {
@@ -349,15 +339,6 @@
       "metrics": [
         "22",
         "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "Canada"
-      ],
-      "metrics": [
-        "5",
-        "3"
       ]
     },
     {
@@ -383,23 +364,32 @@
         "United States"
       ],
       "metrics": [
-        "3",
-        "3"
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Canada"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 37,
-    "users": 14,
-    "pageViews": 79,
-    "avgSessionDuration": 299,
+    "sessions": 32,
+    "users": 11,
+    "pageViews": 68,
+    "avgSessionDuration": 243,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 197,
-    "users": 80,
-    "pageViews": 388,
-    "avgSessionDuration": 199,
+    "sessions": 189,
+    "users": 77,
+    "pageViews": 377,
+    "avgSessionDuration": 191,
     "bounceRate": 0.4
   }
 }
