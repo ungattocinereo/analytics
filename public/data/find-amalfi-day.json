@@ -1,7 +1,7 @@
 {
   "name": "find.amalfi.day",
   "propertyId": "properties/531159837",
-  "updatedAt": "2026-10-17T09:06:32.983Z",
+  "updatedAt": "2026-10-18T09:24:06.847Z",
   "trend": [
     {
       "dimensions": [
@@ -41,16 +41,6 @@
         "11",
         "5",
         "24"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260917"
-      ],
-      "metrics": [
-        "10",
-        "5",
-        "21"
       ]
     },
     {
@@ -185,6 +175,16 @@
     },
     {
       "dimensions": [
+        "20261017"
+      ],
+      "metrics": [
+        "5",
+        "3",
+        "10"
+      ]
+    },
+    {
+      "dimensions": [
         "20260923"
       ],
       "metrics": [
@@ -262,25 +262,35 @@
         "1",
         "6"
       ]
+    },
+    {
+      "dimensions": [
+        "20261016"
+      ],
+      "metrics": [
+        "1",
+        "0",
+        "1"
+      ]
     }
   ],
   "topPages": [
     {
       "dimensions": [
-        "/route/amalfi-house.html"
+        "/"
       ],
       "metrics": [
-        "34",
-        "25"
+        "26",
+        "19"
       ]
     },
     {
       "dimensions": [
-        "/"
+        "/route/amalfi-house.html"
       ],
       "metrics": [
-        "30",
-        "21"
+        "21",
+        "18"
       ]
     },
     {
@@ -288,8 +298,8 @@
         "/route/atrani-house.html"
       ],
       "metrics": [
-        "3",
-        "3"
+        "5",
+        "5"
       ]
     },
     {
@@ -308,8 +318,8 @@
         "(direct)"
       ],
       "metrics": [
-        "28",
-        "9"
+        "25",
+        "10"
       ]
     },
     {
@@ -337,8 +347,8 @@
         "Italy"
       ],
       "metrics": [
-        "22",
-        "7"
+        "15",
+        "6"
       ]
     },
     {
@@ -356,6 +366,24 @@
       ],
       "metrics": [
         "3",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Belgium"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Israel"
+      ],
+      "metrics": [
+        "2",
         "1"
       ]
     },
@@ -379,17 +407,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 32,
-    "users": 11,
-    "pageViews": 68,
-    "avgSessionDuration": 243,
-    "bounceRate": 0.4
+    "sessions": 29,
+    "users": 12,
+    "pageViews": 53,
+    "avgSessionDuration": 282,
+    "bounceRate": 0.6
   },
   "summary30d": {
-    "sessions": 189,
-    "users": 77,
-    "pageViews": 377,
-    "avgSessionDuration": 191,
+    "sessions": 185,
+    "users": 75,
+    "pageViews": 367,
+    "avgSessionDuration": 215,
     "bounceRate": 0.4
   }
 }

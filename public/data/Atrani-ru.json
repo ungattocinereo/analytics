@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-10-17T09:06:30.340Z",
+  "updatedAt": "2026-10-18T09:24:04.356Z",
   "trend": [
     {
       "dimensions": [
@@ -165,16 +165,6 @@
     },
     {
       "dimensions": [
-        "20260917"
-      ],
-      "metrics": [
-        "24",
-        "23",
-        "25"
-      ]
-    },
-    {
-      "dimensions": [
         "20260927"
       ],
       "metrics": [
@@ -265,6 +255,16 @@
     },
     {
       "dimensions": [
+        "20261017"
+      ],
+      "metrics": [
+        "18",
+        "17",
+        "18"
+      ]
+    },
+    {
+      "dimensions": [
         "20261014"
       ],
       "metrics": [
@@ -302,16 +302,6 @@
         "8",
         "8"
       ]
-    },
-    {
-      "dimensions": [
-        "20261017"
-      ],
-      "metrics": [
-        "1",
-        "1",
-        "1"
-      ]
     }
   ],
   "topPages": [
@@ -320,8 +310,8 @@
         "/"
       ],
       "metrics": [
-        "65",
-        "64"
+        "61",
+        "60"
       ]
     },
     {
@@ -338,16 +328,7 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "4",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/directions-awesome"
-      ],
-      "metrics": [
-        "4",
+        "6",
         "4"
       ]
     },
@@ -380,43 +361,7 @@
     },
     {
       "dimensions": [
-        "/blog/sal-de-riso-sweets"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/parking"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
         "/2020/01/eng-atrani"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/apartments"
       ],
       "metrics": [
         "2",
@@ -443,7 +388,52 @@
     },
     {
       "dimensions": [
+        "/blog/eng-atrani"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/mozarella-buffala-campania-italia"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "/contacts"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/directions-awesome"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/parking"
       ],
       "metrics": [
         "2",
@@ -457,17 +447,8 @@
         "(direct)"
       ],
       "metrics": [
-        "90",
-        "89"
-      ]
-    },
-    {
-      "dimensions": [
-        "google"
-      ],
-      "metrics": [
-        "9",
-        "9"
+        "80",
+        "79"
       ]
     },
     {
@@ -475,8 +456,17 @@
         "yandex.ru"
       ],
       "metrics": [
-        "5",
-        "5"
+        "8",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "google"
+      ],
+      "metrics": [
+        "7",
+        "7"
       ]
     },
     {
@@ -486,6 +476,15 @@
       "metrics": [
         "3",
         "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "m.facebook.com"
+      ],
+      "metrics": [
+        "2",
+        "2"
       ]
     },
     {
@@ -517,24 +516,6 @@
     },
     {
       "dimensions": [
-        "m.facebook.com"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "wnnkd.com"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "yandex.com.tr"
       ],
       "metrics": [
@@ -549,8 +530,8 @@
         "Russia"
       ],
       "metrics": [
-        "71",
-        "70"
+        "66",
+        "64"
       ]
     },
     {
@@ -582,25 +563,16 @@
     },
     {
       "dimensions": [
-        "Georgia"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "Italy"
       ],
       "metrics": [
-        "2",
-        "2"
+        "3",
+        "3"
       ]
     },
     {
       "dimensions": [
-        "Poland"
+        "Georgia"
       ],
       "metrics": [
         "2",
@@ -618,7 +590,7 @@
     },
     {
       "dimensions": [
-        ""
+        "Belarus"
       ],
       "metrics": [
         "1",
@@ -627,7 +599,16 @@
     },
     {
       "dimensions": [
-        "Belarus"
+        "Brazil"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Estonia"
       ],
       "metrics": [
         "1",
@@ -636,17 +617,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 113,
-    "users": 112,
-    "pageViews": 127,
-    "avgSessionDuration": 20,
+    "sessions": 104,
+    "users": 102,
+    "pageViews": 118,
+    "avgSessionDuration": 32,
     "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 725,
-    "users": 664,
-    "pageViews": 926,
-    "avgSessionDuration": 71,
+    "sessions": 718,
+    "users": 658,
+    "pageViews": 918,
+    "avgSessionDuration": 73,
     "bounceRate": 0.7
   }
 }

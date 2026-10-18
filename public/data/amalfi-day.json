@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-10-17T09:06:31.814Z",
+  "updatedAt": "2026-10-18T09:24:05.692Z",
   "trend": [
     {
       "dimensions": [
@@ -215,16 +215,6 @@
     },
     {
       "dimensions": [
-        "20260917"
-      ],
-      "metrics": [
-        "8",
-        "5",
-        "10"
-      ]
-    },
-    {
-      "dimensions": [
         "20260919"
       ],
       "metrics": [
@@ -302,6 +292,16 @@
         "5",
         "10"
       ]
+    },
+    {
+      "dimensions": [
+        "20261017"
+      ],
+      "metrics": [
+        "3",
+        "2",
+        "3"
+      ]
     }
   ],
   "topPages": [
@@ -310,7 +310,7 @@
         "/timetables/"
       ],
       "metrics": [
-        "32",
+        "31",
         "30"
       ]
     },
@@ -319,8 +319,8 @@
         "/ferry-timetables"
       ],
       "metrics": [
-        "11",
-        "6"
+        "9",
+        "5"
       ]
     },
     {
@@ -328,8 +328,8 @@
         "/parking/"
       ],
       "metrics": [
-        "10",
-        "9"
+        "9",
+        "8"
       ]
     },
     {
@@ -337,8 +337,8 @@
         "/"
       ],
       "metrics": [
-        "8",
-        "8"
+        "7",
+        "7"
       ]
     },
     {
@@ -346,8 +346,8 @@
         "/timetables"
       ],
       "metrics": [
-        "8",
-        "5"
+        "6",
+        "4"
       ]
     },
     {
@@ -364,8 +364,17 @@
         "/parking"
       ],
       "metrics": [
-        "5",
-        "5"
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photoshootings/shifa/"
+      ],
+      "metrics": [
+        "3",
+        "3"
       ]
     },
     {
@@ -397,25 +406,7 @@
     },
     {
       "dimensions": [
-        "/blog/heads-up-yellow-weather-alert-hits-the-amalfi-coast-this-week/"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "/contact"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photoshootings/shifa/"
       ],
       "metrics": [
         "1",
@@ -429,8 +420,8 @@
         "(direct)"
       ],
       "metrics": [
-        "29",
-        "21"
+        "27",
+        "19"
       ]
     },
     {
@@ -438,8 +429,8 @@
         "google"
       ],
       "metrics": [
-        "15",
-        "13"
+        "14",
+        "12"
       ]
     },
     {
@@ -447,8 +438,8 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "7",
-        "6"
+        "8",
+        "7"
       ]
     },
     {
@@ -471,15 +462,6 @@
     },
     {
       "dimensions": [
-        "yahoo"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
         "privacywall.org"
       ],
       "metrics": [
@@ -494,6 +476,15 @@
       "metrics": [
         "2",
         "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "yahoo"
+      ],
+      "metrics": [
+        "2",
+        "2"
       ]
     },
     {
@@ -522,7 +513,7 @@
       ],
       "metrics": [
         "24",
-        "20"
+        "19"
       ]
     },
     {
@@ -530,8 +521,17 @@
         "United States"
       ],
       "metrics": [
-        "9",
-        "9"
+        "7",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "India"
+      ],
+      "metrics": [
+        "5",
+        "5"
       ]
     },
     {
@@ -540,15 +540,6 @@
       ],
       "metrics": [
         "4",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "India"
-      ],
-      "metrics": [
-        "3",
         "3"
       ]
     },
@@ -590,35 +581,35 @@
     },
     {
       "dimensions": [
-        "Austria"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "Bulgaria"
       ],
       "metrics": [
         "2",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "Canada"
+      ],
+      "metrics": [
+        "1",
+        "0"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 67,
-    "users": 54,
-    "pageViews": 88,
-    "avgSessionDuration": 202,
+    "sessions": 64,
+    "users": 51,
+    "pageViews": 81,
+    "avgSessionDuration": 189,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 378,
-    "users": 243,
-    "pageViews": 647,
-    "avgSessionDuration": 230,
+    "sessions": 373,
+    "users": 240,
+    "pageViews": 640,
+    "avgSessionDuration": 227,
     "bounceRate": 0.4
   }
 }
