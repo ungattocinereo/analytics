@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-10-18T09:24:05.692Z",
+  "updatedAt": "2026-10-19T10:36:45.932Z",
   "trend": [
     {
       "dimensions": [
@@ -155,16 +155,6 @@
     },
     {
       "dimensions": [
-        "20260918"
-      ],
-      "metrics": [
-        "10",
-        "6",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
         "20260921"
       ],
       "metrics": [
@@ -298,9 +288,19 @@
         "20261017"
       ],
       "metrics": [
+        "5",
         "3",
-        "2",
-        "3"
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "20261018"
+      ],
+      "metrics": [
+        "5",
+        "4",
+        "5"
       ]
     }
   ],
@@ -310,17 +310,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "31",
-        "30"
-      ]
-    },
-    {
-      "dimensions": [
-        "/ferry-timetables"
-      ],
-      "metrics": [
-        "9",
-        "5"
+        "33",
+        "32"
       ]
     },
     {
@@ -328,17 +319,8 @@
         "/parking/"
       ],
       "metrics": [
-        "9",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "/"
-      ],
-      "metrics": [
-        "7",
-        "7"
+        "8",
+        "9"
       ]
     },
     {
@@ -352,11 +334,20 @@
     },
     {
       "dimensions": [
-        "/ferry-timetables/"
+        "/"
       ],
       "metrics": [
-        "5",
-        "5"
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/ferry-timetables"
+      ],
+      "metrics": [
+        "4",
+        "4"
       ]
     },
     {
@@ -364,8 +355,8 @@
         "/parking"
       ],
       "metrics": [
-        "4",
-        "4"
+        "3",
+        "3"
       ]
     },
     {
@@ -375,15 +366,6 @@
       "metrics": [
         "3",
         "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/apartments"
-      ],
-      "metrics": [
-        "2",
-        "1"
       ]
     },
     {
@@ -406,7 +388,7 @@
     },
     {
       "dimensions": [
-        "/contact"
+        "/ferry-timetables/"
       ],
       "metrics": [
         "1",
@@ -420,8 +402,8 @@
         "(direct)"
       ],
       "metrics": [
-        "27",
-        "19"
+        "21",
+        "16"
       ]
     },
     {
@@ -430,7 +412,7 @@
       ],
       "metrics": [
         "14",
-        "12"
+        "11"
       ]
     },
     {
@@ -438,8 +420,8 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "8",
-        "7"
+        "7",
+        "6"
       ]
     },
     {
@@ -447,8 +429,8 @@
         "bing"
       ],
       "metrics": [
-        "4",
-        "4"
+        "5",
+        "5"
       ]
     },
     {
@@ -456,8 +438,8 @@
         "duckduckgo"
       ],
       "metrics": [
-        "3",
-        "3"
+        "2",
+        "2"
       ]
     },
     {
@@ -489,7 +471,7 @@
     },
     {
       "dimensions": [
-        "gemini.google.com"
+        "m.facebook.com"
       ],
       "metrics": [
         "1",
@@ -498,7 +480,7 @@
     },
     {
       "dimensions": [
-        "m.facebook.com"
+        "yandex.ru"
       ],
       "metrics": [
         "1",
@@ -512,8 +494,8 @@
         "Italy"
       ],
       "metrics": [
-        "24",
-        "19"
+        "22",
+        "17"
       ]
     },
     {
@@ -521,7 +503,7 @@
         "United States"
       ],
       "metrics": [
-        "7",
+        "8",
         "7"
       ]
     },
@@ -530,8 +512,8 @@
         "India"
       ],
       "metrics": [
-        "5",
-        "5"
+        "4",
+        "4"
       ]
     },
     {
@@ -572,15 +554,6 @@
     },
     {
       "dimensions": [
-        "Australia"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "Bulgaria"
       ],
       "metrics": [
@@ -590,26 +563,35 @@
     },
     {
       "dimensions": [
-        "Canada"
+        "Australia"
       ],
       "metrics": [
         "1",
-        "0"
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Austria"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 64,
-    "users": 51,
-    "pageViews": 81,
-    "avgSessionDuration": 189,
-    "bounceRate": 0.4
+    "sessions": 57,
+    "users": 46,
+    "pageViews": 66,
+    "avgSessionDuration": 173,
+    "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 373,
-    "users": 240,
-    "pageViews": 640,
-    "avgSessionDuration": 227,
+    "sessions": 370,
+    "users": 239,
+    "pageViews": 637,
+    "avgSessionDuration": 228,
     "bounceRate": 0.4
   }
 }

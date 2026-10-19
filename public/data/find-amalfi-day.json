@@ -1,7 +1,7 @@
 {
   "name": "find.amalfi.day",
   "propertyId": "properties/531159837",
-  "updatedAt": "2026-10-18T09:24:06.847Z",
+  "updatedAt": "2026-10-19T10:36:47.019Z",
   "trend": [
     {
       "dimensions": [
@@ -11,16 +11,6 @@
         "17",
         "4",
         "30"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260918"
-      ],
-      "metrics": [
-        "16",
-        "4",
-        "34"
       ]
     },
     {
@@ -265,6 +255,16 @@
     },
     {
       "dimensions": [
+        "20261018"
+      ],
+      "metrics": [
+        "3",
+        "1",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
         "20261016"
       ],
       "metrics": [
@@ -280,8 +280,8 @@
         "/"
       ],
       "metrics": [
-        "26",
-        "19"
+        "24",
+        "18"
       ]
     },
     {
@@ -290,7 +290,7 @@
       ],
       "metrics": [
         "21",
-        "18"
+        "17"
       ]
     },
     {
@@ -298,8 +298,8 @@
         "/route/atrani-house.html"
       ],
       "metrics": [
-        "5",
-        "5"
+        "6",
+        "6"
       ]
     },
     {
@@ -318,8 +318,8 @@
         "(direct)"
       ],
       "metrics": [
-        "25",
-        "10"
+        "23",
+        "9"
       ]
     },
     {
@@ -347,7 +347,7 @@
         "Italy"
       ],
       "metrics": [
-        "15",
+        "14",
         "6"
       ]
     },
@@ -389,16 +389,16 @@
     },
     {
       "dimensions": [
-        "United States"
+        "Canada"
       ],
       "metrics": [
-        "2",
-        "2"
+        "1",
+        "1"
       ]
     },
     {
       "dimensions": [
-        "Canada"
+        "United States"
       ],
       "metrics": [
         "1",
@@ -407,17 +407,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 29,
-    "users": 12,
-    "pageViews": 53,
-    "avgSessionDuration": 282,
-    "bounceRate": 0.6
+    "sessions": 27,
+    "users": 11,
+    "pageViews": 52,
+    "avgSessionDuration": 299,
+    "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 185,
-    "users": 75,
-    "pageViews": 367,
-    "avgSessionDuration": 215,
+    "sessions": 172,
+    "users": 71,
+    "pageViews": 339,
+    "avgSessionDuration": 213,
     "bounceRate": 0.4
   }
 }

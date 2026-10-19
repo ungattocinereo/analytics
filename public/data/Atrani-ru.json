@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-10-18T09:24:04.356Z",
+  "updatedAt": "2026-10-19T10:36:44.057Z",
   "trend": [
     {
       "dimensions": [
@@ -71,16 +71,6 @@
         "30",
         "27",
         "32"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260918"
-      ],
-      "metrics": [
-        "29",
-        "26",
-        "34"
       ]
     },
     {
@@ -285,6 +275,16 @@
     },
     {
       "dimensions": [
+        "20261018"
+      ],
+      "metrics": [
+        "12",
+        "12",
+        "12"
+      ]
+    },
+    {
+      "dimensions": [
         "20261012"
       ],
       "metrics": [
@@ -310,8 +310,8 @@
         "/"
       ],
       "metrics": [
-        "61",
-        "60"
+        "55",
+        "55"
       ]
     },
     {
@@ -352,7 +352,7 @@
     },
     {
       "dimensions": [
-        "/blog/colatura-di-alici-di-cetara"
+        "/directions-awesome"
       ],
       "metrics": [
         "3",
@@ -366,24 +366,6 @@
       "metrics": [
         "2",
         "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/2020-4-6-minori-villa-romana"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/colatura-di-alici"
-      ],
-      "metrics": [
-        "2",
-        "1"
       ]
     },
     {
@@ -406,6 +388,15 @@
     },
     {
       "dimensions": [
+        "/blog/netflix-snimaiet-film-positano-s-makkonakhi-i-saldanoi-na-pobieriezhie-amalfi"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
       ],
       "metrics": [
@@ -415,29 +406,38 @@
     },
     {
       "dimensions": [
-        "/contacts"
+        "/apartments"
       ],
       "metrics": [
-        "2",
-        "2"
+        "1",
+        "1"
       ]
     },
     {
       "dimensions": [
-        "/directions-awesome"
+        "/blog/10-faktov-o-kampanii-ot-samogho-malienkogho-ghorodka-italii-do-posliedniegho-izvierzhieniia-viezuviia"
       ],
       "metrics": [
-        "2",
-        "2"
+        "1",
+        "1"
       ]
     },
     {
       "dimensions": [
-        "/parking"
+        "/blog/2020-4-6-minori-villa-romana"
       ],
       "metrics": [
-        "2",
-        "2"
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/atrani-na-dva-dnia-stal-ghorodom-knigh-i-skulptur-u-moria"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     }
   ],
@@ -447,17 +447,8 @@
         "(direct)"
       ],
       "metrics": [
-        "80",
-        "79"
-      ]
-    },
-    {
-      "dimensions": [
-        "yandex.ru"
-      ],
-      "metrics": [
-        "8",
-        "7"
+        "73",
+        "73"
       ]
     },
     {
@@ -471,11 +462,11 @@
     },
     {
       "dimensions": [
-        "ya.ru"
+        "yandex.ru"
       ],
       "metrics": [
-        "3",
-        "3"
+        "7",
+        "6"
       ]
     },
     {
@@ -485,6 +476,24 @@
       "metrics": [
         "2",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "ya.ru"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "(not set)"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     },
     {
@@ -530,8 +539,8 @@
         "Russia"
       ],
       "metrics": [
-        "66",
-        "64"
+        "58",
+        "57"
       ]
     },
     {
@@ -539,8 +548,8 @@
         "United States"
       ],
       "metrics": [
-        "12",
-        "12"
+        "11",
+        "11"
       ]
     },
     {
@@ -563,16 +572,25 @@
     },
     {
       "dimensions": [
-        "Italy"
+        "Brazil"
       ],
       "metrics": [
-        "3",
-        "3"
+        "2",
+        "2"
       ]
     },
     {
       "dimensions": [
-        "Georgia"
+        "Germany"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Italy"
       ],
       "metrics": [
         "2",
@@ -590,25 +608,16 @@
     },
     {
       "dimensions": [
+        "Australia"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "Belarus"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Brazil"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Estonia"
       ],
       "metrics": [
         "1",
@@ -617,17 +626,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 104,
-    "users": 102,
-    "pageViews": 118,
+    "sessions": 96,
+    "users": 95,
+    "pageViews": 108,
     "avgSessionDuration": 32,
     "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 718,
-    "users": 658,
-    "pageViews": 918,
-    "avgSessionDuration": 73,
+    "sessions": 701,
+    "users": 645,
+    "pageViews": 896,
+    "avgSessionDuration": 74,
     "bounceRate": 0.7
   }
 }
