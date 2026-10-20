@@ -1,7 +1,7 @@
 {
   "name": "find.amalfi.day",
   "propertyId": "properties/531159837",
-  "updatedAt": "2026-10-19T10:36:47.019Z",
+  "updatedAt": "2026-10-20T09:54:01.364Z",
   "trend": [
     {
       "dimensions": [
@@ -280,8 +280,8 @@
         "/"
       ],
       "metrics": [
-        "24",
-        "18"
+        "22",
+        "17"
       ]
     },
     {
@@ -289,8 +289,8 @@
         "/route/amalfi-house.html"
       ],
       "metrics": [
-        "21",
-        "17"
+        "18",
+        "14"
       ]
     },
     {
@@ -298,8 +298,8 @@
         "/route/atrani-house.html"
       ],
       "metrics": [
-        "6",
-        "6"
+        "5",
+        "5"
       ]
     },
     {
@@ -320,15 +320,6 @@
       "metrics": [
         "23",
         "9"
-      ]
-    },
-    {
-      "dimensions": [
-        "airbnb.it"
-      ],
-      "metrics": [
-        "3",
-        "1"
       ]
     },
     {
@@ -357,15 +348,6 @@
       ],
       "metrics": [
         "4",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Australia"
-      ],
-      "metrics": [
-        "3",
         "1"
       ]
     },
@@ -407,10 +389,10 @@
     }
   ],
   "summary7d": {
-    "sessions": 27,
-    "users": 11,
-    "pageViews": 52,
-    "avgSessionDuration": 299,
+    "sessions": 24,
+    "users": 10,
+    "pageViews": 46,
+    "avgSessionDuration": 320,
     "bounceRate": 0.5
   },
   "summary30d": {

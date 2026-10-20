@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-10-19T10:36:44.057Z",
+  "updatedAt": "2026-10-20T09:53:58.948Z",
   "trend": [
     {
       "dimensions": [
@@ -145,16 +145,6 @@
     },
     {
       "dimensions": [
-        "20260919"
-      ],
-      "metrics": [
-        "25",
-        "24",
-        "25"
-      ]
-    },
-    {
-      "dimensions": [
         "20260927"
       ],
       "metrics": [
@@ -275,6 +265,16 @@
     },
     {
       "dimensions": [
+        "20261019"
+      ],
+      "metrics": [
+        "13",
+        "13",
+        "14"
+      ]
+    },
+    {
+      "dimensions": [
         "20261018"
       ],
       "metrics": [
@@ -302,6 +302,16 @@
         "8",
         "8"
       ]
+    },
+    {
+      "dimensions": [
+        "20261020"
+      ],
+      "metrics": [
+        "6",
+        "6",
+        "7"
+      ]
     }
   ],
   "topPages": [
@@ -310,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "55",
-        "55"
+        "62",
+        "62"
       ]
     },
     {
@@ -319,8 +329,8 @@
         "/experience"
       ],
       "metrics": [
-        "7",
-        "7"
+        "8",
+        "8"
       ]
     },
     {
@@ -330,15 +340,6 @@
       "metrics": [
         "6",
         "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog"
-      ],
-      "metrics": [
-        "3",
-        "3"
       ]
     },
     {
@@ -379,6 +380,15 @@
     },
     {
       "dimensions": [
+        "/blog/li-galli-ostrov-nurieieva-u-pozitano-otbilsia-ot-liuksovogho-resorta"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "/blog/mozarella-buffala-campania-italia"
       ],
       "metrics": [
@@ -406,6 +416,15 @@
     },
     {
       "dimensions": [
+        "/contacts"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "/apartments"
       ],
       "metrics": [
@@ -415,7 +434,7 @@
     },
     {
       "dimensions": [
-        "/blog/10-faktov-o-kampanii-ot-samogho-malienkogho-ghorodka-italii-do-posliedniegho-izvierzhieniia-viezuviia"
+        "/blog"
       ],
       "metrics": [
         "1",
@@ -430,15 +449,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "/blog/atrani-na-dva-dnia-stal-ghorodom-knigh-i-skulptur-u-moria"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "sources": [
@@ -447,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "73",
-        "73"
+        "82",
+        "82"
       ]
     },
     {
@@ -456,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "7",
-        "7"
+        "8",
+        "8"
       ]
     },
     {
@@ -498,15 +508,6 @@
     },
     {
       "dimensions": [
-        "alliya.ru"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "composers-heritage.ru"
       ],
       "metrics": [
@@ -539,8 +540,8 @@
         "Russia"
       ],
       "metrics": [
-        "58",
-        "57"
+        "67",
+        "66"
       ]
     },
     {
@@ -548,8 +549,8 @@
         "United States"
       ],
       "metrics": [
-        "11",
-        "11"
+        "10",
+        "10"
       ]
     },
     {
@@ -557,8 +558,8 @@
         "(not set)"
       ],
       "metrics": [
-        "7",
-        "7"
+        "8",
+        "8"
       ]
     },
     {
@@ -566,8 +567,17 @@
         "China"
       ],
       "metrics": [
-        "4",
-        "4"
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "Italy"
+      ],
+      "metrics": [
+        "3",
+        "3"
       ]
     },
     {
@@ -590,7 +600,7 @@
     },
     {
       "dimensions": [
-        "Italy"
+        "Singapore"
       ],
       "metrics": [
         "2",
@@ -599,11 +609,11 @@
     },
     {
       "dimensions": [
-        "Singapore"
+        ""
       ],
       "metrics": [
-        "2",
-        "2"
+        "1",
+        "1"
       ]
     },
     {
@@ -614,29 +624,20 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "Belarus"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 96,
-    "users": 95,
-    "pageViews": 108,
-    "avgSessionDuration": 32,
+    "sessions": 105,
+    "users": 104,
+    "pageViews": 117,
+    "avgSessionDuration": 30,
     "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 701,
-    "users": 645,
-    "pageViews": 896,
-    "avgSessionDuration": 74,
+    "sessions": 695,
+    "users": 640,
+    "pageViews": 892,
+    "avgSessionDuration": 72,
     "bounceRate": 0.7
   }
 }
