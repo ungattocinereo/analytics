@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-10-20T09:54:00.784Z",
+  "updatedAt": "2026-10-21T09:54:55.763Z",
   "trend": [
     {
       "dimensions": [
@@ -32,23 +32,72 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "20261019"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "2"
+      ]
     }
   ],
-  "topPages": [],
-  "sources": [],
-  "countries": [],
+  "topPages": [
+    {
+      "dimensions": [
+        "/"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/place/lo-smeraldino-amalfi"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "dimensions": [
+        "(direct)"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    }
+  ],
+  "countries": [
+    {
+      "dimensions": [
+        "Italy"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    }
+  ],
   "summary7d": {
-    "sessions": 0,
-    "users": 0,
-    "pageViews": 0,
-    "avgSessionDuration": 0,
+    "sessions": 1,
+    "users": 1,
+    "pageViews": 2,
+    "avgSessionDuration": 48,
     "bounceRate": 0
   },
   "summary30d": {
-    "sessions": 3,
+    "sessions": 4,
     "users": 3,
-    "pageViews": 7,
-    "avgSessionDuration": 61,
+    "pageViews": 9,
+    "avgSessionDuration": 58,
     "bounceRate": 0.3
   }
 }

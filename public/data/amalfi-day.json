@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-10-20T09:54:00.137Z",
+  "updatedAt": "2026-10-21T09:54:55.258Z",
   "trend": [
     {
       "dimensions": [
@@ -155,6 +155,16 @@
     },
     {
       "dimensions": [
+        "20261019"
+      ],
+      "metrics": [
+        "11",
+        "10",
+        "12"
+      ]
+    },
+    {
+      "dimensions": [
         "20260921"
       ],
       "metrics": [
@@ -245,16 +255,6 @@
     },
     {
       "dimensions": [
-        "20260920"
-      ],
-      "metrics": [
-        "7",
-        "6",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
         "20260924"
       ],
       "metrics": [
@@ -295,12 +295,12 @@
     },
     {
       "dimensions": [
-        "20261019"
+        "20261020"
       ],
       "metrics": [
-        "1",
-        "1",
-        "1"
+        "2",
+        "2",
+        "2"
       ]
     }
   ],
@@ -310,8 +310,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "34",
-        "32"
+        "35",
+        "35"
       ]
     },
     {
@@ -320,16 +320,7 @@
       ],
       "metrics": [
         "7",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "/timetables"
-      ],
-      "metrics": [
-        "6",
-        "4"
+        "7"
       ]
     },
     {
@@ -337,13 +328,22 @@
         "/"
       ],
       "metrics": [
-        "5",
-        "5"
+        "6",
+        "6"
       ]
     },
     {
       "dimensions": [
-        "/ferry-timetables"
+        "/timetables"
+      ],
+      "metrics": [
+        "5",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/ferry-timetables/"
       ],
       "metrics": [
         "4",
@@ -361,24 +361,6 @@
     },
     {
       "dimensions": [
-        "/directions/"
-      ],
-      "metrics": [
-        "2",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/parking"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "/photoshootings/shifa/"
       ],
       "metrics": [
@@ -388,7 +370,34 @@
     },
     {
       "dimensions": [
-        "/ferry-timetables/"
+        "/blog/amalfi-coast-launches-metro-style-bus-network/"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/directions/"
+      ],
+      "metrics": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/ferry-timetables"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/parking"
       ],
       "metrics": [
         "1",
@@ -402,8 +411,8 @@
         "(direct)"
       ],
       "metrics": [
-        "21",
-        "15"
+        "20",
+        "14"
       ]
     },
     {
@@ -411,8 +420,8 @@
         "google"
       ],
       "metrics": [
-        "15",
-        "12"
+        "18",
+        "15"
       ]
     },
     {
@@ -420,8 +429,8 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "9",
-        "7"
+        "13",
+        "11"
       ]
     },
     {
@@ -429,13 +438,13 @@
         "bing"
       ],
       "metrics": [
-        "4",
-        "4"
+        "3",
+        "3"
       ]
     },
     {
       "dimensions": [
-        "yahoo"
+        "m.facebook.com"
       ],
       "metrics": [
         "2",
@@ -444,29 +453,11 @@
     },
     {
       "dimensions": [
-        "duckduckgo"
+        "yahoo"
       ],
       "metrics": [
         "1",
         "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "m.facebook.com"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "uk.search.yahoo.com"
-      ],
-      "metrics": [
-        "1",
-        "0"
       ]
     },
     {
@@ -486,7 +477,7 @@
       ],
       "metrics": [
         "20",
-        "15"
+        "17"
       ]
     },
     {
@@ -494,7 +485,7 @@
         "United Kingdom"
       ],
       "metrics": [
-        "8",
+        "9",
         "7"
       ]
     },
@@ -503,8 +494,8 @@
         "United States"
       ],
       "metrics": [
-        "7",
-        "6"
+        "6",
+        "5"
       ]
     },
     {
@@ -545,44 +536,44 @@
     },
     {
       "dimensions": [
+        "Denmark"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Ireland"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "Australia"
       ],
       "metrics": [
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "Austria"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Canada"
-      ],
-      "metrics": [
-        "1",
-        "0"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 55,
-    "users": 43,
+    "sessions": 58,
+    "users": 47,
     "pageViews": 65,
-    "avgSessionDuration": 182,
-    "bounceRate": 0.4
+    "avgSessionDuration": 150,
+    "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 369,
-    "users": 237,
-    "pageViews": 635,
-    "avgSessionDuration": 227,
+    "sessions": 374,
+    "users": 242,
+    "pageViews": 639,
+    "avgSessionDuration": 219,
     "bounceRate": 0.4
   }
 }

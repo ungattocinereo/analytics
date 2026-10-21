@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-10-20T09:53:58.948Z",
+  "updatedAt": "2026-10-21T09:54:53.864Z",
   "trend": [
     {
       "dimensions": [
@@ -81,16 +81,6 @@
         "28",
         "27",
         "34"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260920"
-      ],
-      "metrics": [
-        "27",
-        "27",
-        "30"
       ]
     },
     {
@@ -285,6 +275,16 @@
     },
     {
       "dimensions": [
+        "20261020"
+      ],
+      "metrics": [
+        "12",
+        "12",
+        "13"
+      ]
+    },
+    {
+      "dimensions": [
         "20261012"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20261020"
+        "20261021"
       ],
       "metrics": [
-        "6",
-        "6",
-        "7"
+        "3",
+        "3",
+        "3"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "62",
-        "62"
+        "58",
+        "58"
       ]
     },
     {
@@ -362,15 +362,6 @@
     },
     {
       "dimensions": [
-        "/2020/01/eng-atrani"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/eng-atrani"
       ],
       "metrics": [
@@ -399,6 +390,15 @@
     {
       "dimensions": [
         "/blog/netflix-snimaiet-film-positano-s-makkonakhi-i-saldanoi-na-pobieriezhie-amalfi"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/new-year-2020"
       ],
       "metrics": [
         "2",
@@ -443,7 +443,7 @@
     },
     {
       "dimensions": [
-        "/blog/2020-4-6-minori-villa-romana"
+        "/blog/10-faktov-o-kampanii-ot-samogho-malienkogho-ghorodka-italii-do-posliedniegho-izvierzhieniia-viezuviia"
       ],
       "metrics": [
         "1",
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "82",
-        "82"
+        "74",
+        "74"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "8",
-        "8"
+        "10",
+        "10"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "7",
-        "6"
+        "9",
+        "8"
       ]
     },
     {
@@ -540,8 +540,8 @@
         "Russia"
       ],
       "metrics": [
-        "67",
-        "66"
+        "64",
+        "63"
       ]
     },
     {
@@ -564,7 +564,7 @@
     },
     {
       "dimensions": [
-        "China"
+        "Italy"
       ],
       "metrics": [
         "3",
@@ -573,11 +573,11 @@
     },
     {
       "dimensions": [
-        "Italy"
+        "Belarus"
       ],
       "metrics": [
-        "3",
-        "3"
+        "2",
+        "2"
       ]
     },
     {
@@ -591,7 +591,7 @@
     },
     {
       "dimensions": [
-        "Germany"
+        "China"
       ],
       "metrics": [
         "2",
@@ -600,7 +600,7 @@
     },
     {
       "dimensions": [
-        "Singapore"
+        "Germany"
       ],
       "metrics": [
         "2",
@@ -627,16 +627,16 @@
     }
   ],
   "summary7d": {
-    "sessions": 105,
-    "users": 104,
-    "pageViews": 117,
-    "avgSessionDuration": 30,
+    "sessions": 101,
+    "users": 100,
+    "pageViews": 112,
+    "avgSessionDuration": 52,
     "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 695,
-    "users": 640,
-    "pageViews": 892,
+    "sessions": 677,
+    "users": 622,
+    "pageViews": 871,
     "avgSessionDuration": 72,
     "bounceRate": 0.7
   }
