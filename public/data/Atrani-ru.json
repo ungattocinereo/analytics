@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-10-21T09:54:53.864Z",
+  "updatedAt": "2026-10-22T09:55:22.940Z",
   "trend": [
     {
       "dimensions": [
@@ -71,16 +71,6 @@
         "30",
         "27",
         "32"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260921"
-      ],
-      "metrics": [
-        "28",
-        "27",
-        "34"
       ]
     },
     {
@@ -285,6 +275,16 @@
     },
     {
       "dimensions": [
+        "20261021"
+      ],
+      "metrics": [
+        "11",
+        "11",
+        "11"
+      ]
+    },
+    {
+      "dimensions": [
         "20261012"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20261021"
+        "20261022"
       ],
       "metrics": [
-        "3",
-        "3",
-        "3"
+        "5",
+        "5",
+        "5"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "58",
-        "58"
+        "57",
+        "57"
       ]
     },
     {
@@ -362,6 +362,24 @@
     },
     {
       "dimensions": [
+        "/blog"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/colatura-di-alici-di-cetara"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "/blog/eng-atrani"
       ],
       "metrics": [
@@ -381,15 +399,6 @@
     {
       "dimensions": [
         "/blog/mozarella-buffala-campania-italia"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/netflix-snimaiet-film-positano-s-makkonakhi-i-saldanoi-na-pobieriezhie-amalfi"
       ],
       "metrics": [
         "2",
@@ -425,25 +434,16 @@
     },
     {
       "dimensions": [
+        "//checkout/"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "/apartments"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/10-faktov-o-kampanii-ot-samogho-malienkogho-ghorodka-italii-do-posliedniegho-izvierzhieniia-viezuviia"
       ],
       "metrics": [
         "1",
@@ -463,19 +463,19 @@
     },
     {
       "dimensions": [
-        "google"
+        "yandex.ru"
       ],
       "metrics": [
         "10",
-        "10"
+        "9"
       ]
     },
     {
       "dimensions": [
-        "yandex.ru"
+        "google"
       ],
       "metrics": [
-        "9",
+        "8",
         "8"
       ]
     },
@@ -508,7 +508,7 @@
     },
     {
       "dimensions": [
-        "composers-heritage.ru"
+        "google.com"
       ],
       "metrics": [
         "1",
@@ -540,8 +540,8 @@
         "Russia"
       ],
       "metrics": [
-        "64",
-        "63"
+        "65",
+        "64"
       ]
     },
     {
@@ -549,8 +549,8 @@
         "United States"
       ],
       "metrics": [
-        "10",
-        "10"
+        "9",
+        "9"
       ]
     },
     {
@@ -560,15 +560,6 @@
       "metrics": [
         "8",
         "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "Italy"
-      ],
-      "metrics": [
-        "3",
-        "3"
       ]
     },
     {
@@ -609,6 +600,15 @@
     },
     {
       "dimensions": [
+        "Italy"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         ""
       ],
       "metrics": [
@@ -627,17 +627,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 101,
-    "users": 100,
-    "pageViews": 112,
-    "avgSessionDuration": 52,
+    "sessions": 100,
+    "users": 99,
+    "pageViews": 110,
+    "avgSessionDuration": 51,
     "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 677,
-    "users": 622,
-    "pageViews": 871,
-    "avgSessionDuration": 72,
+    "sessions": 662,
+    "users": 608,
+    "pageViews": 850,
+    "avgSessionDuration": 73,
     "bounceRate": 0.7
   }
 }

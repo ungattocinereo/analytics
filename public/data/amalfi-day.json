@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-10-21T09:54:55.258Z",
+  "updatedAt": "2026-10-22T09:55:24.052Z",
   "trend": [
     {
       "dimensions": [
@@ -165,16 +165,6 @@
     },
     {
       "dimensions": [
-        "20260921"
-      ],
-      "metrics": [
-        "10",
-        "8",
-        "16"
-      ]
-    },
-    {
-      "dimensions": [
         "20260923"
       ],
       "metrics": [
@@ -295,6 +285,26 @@
     },
     {
       "dimensions": [
+        "20261021"
+      ],
+      "metrics": [
+        "4",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "20261022"
+      ],
+      "metrics": [
+        "3",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
         "20261020"
       ],
       "metrics": [
@@ -310,17 +320,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "35",
-        "35"
-      ]
-    },
-    {
-      "dimensions": [
-        "/parking/"
-      ],
-      "metrics": [
-        "7",
-        "7"
+        "33",
+        "32"
       ]
     },
     {
@@ -328,17 +329,26 @@
         "/"
       ],
       "metrics": [
-        "6",
-        "6"
+        "5",
+        "5"
       ]
     },
     {
       "dimensions": [
-        "/timetables"
+        "/ferry-timetables"
       ],
       "metrics": [
-        "5",
-        "3"
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/parking/"
+      ],
+      "metrics": [
+        "4",
+        "5"
       ]
     },
     {
@@ -346,8 +356,8 @@
         "/ferry-timetables/"
       ],
       "metrics": [
-        "4",
-        "4"
+        "3",
+        "3"
       ]
     },
     {
@@ -370,6 +380,24 @@
     },
     {
       "dimensions": [
+        "/timetables"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/apartments"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "/blog/amalfi-coast-launches-metro-style-bus-network/"
       ],
       "metrics": [
@@ -379,16 +407,7 @@
     },
     {
       "dimensions": [
-        "/directions/"
-      ],
-      "metrics": [
-        "1",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/ferry-timetables"
+        "/contact"
       ],
       "metrics": [
         "1",
@@ -397,7 +416,7 @@
     },
     {
       "dimensions": [
-        "/parking"
+        "/experience/car-tours"
       ],
       "metrics": [
         "1",
@@ -406,15 +425,6 @@
     }
   ],
   "sources": [
-    {
-      "dimensions": [
-        "(direct)"
-      ],
-      "metrics": [
-        "20",
-        "14"
-      ]
-    },
     {
       "dimensions": [
         "google"
@@ -429,8 +439,26 @@
         "chatgpt.com"
       ],
       "metrics": [
+        "16",
+        "14"
+      ]
+    },
+    {
+      "dimensions": [
+        "(direct)"
+      ],
+      "metrics": [
         "13",
-        "11"
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "duckduckgo"
+      ],
+      "metrics": [
+        "2",
+        "1"
       ]
     },
     {
@@ -438,8 +466,8 @@
         "bing"
       ],
       "metrics": [
-        "3",
-        "3"
+        "1",
+        "1"
       ]
     },
     {
@@ -447,8 +475,8 @@
         "m.facebook.com"
       ],
       "metrics": [
-        "2",
-        "2"
+        "1",
+        "1"
       ]
     },
     {
@@ -476,8 +504,8 @@
         "Italy"
       ],
       "metrics": [
-        "20",
-        "17"
+        "17",
+        "14"
       ]
     },
     {
@@ -485,8 +513,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "9",
-        "7"
+        "10",
+        "8"
       ]
     },
     {
@@ -494,35 +522,8 @@
         "United States"
       ],
       "metrics": [
-        "6",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "India"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "Israel"
-      ],
-      "metrics": [
-        "3",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "Albania"
-      ],
-      "metrics": [
-        "2",
-        "1"
+        "8",
+        "6"
       ]
     },
     {
@@ -545,11 +546,29 @@
     },
     {
       "dimensions": [
-        "Ireland"
+        "India"
       ],
       "metrics": [
         "2",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Luxembourg"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Albania"
+      ],
+      "metrics": [
+        "1",
+        "0"
       ]
     },
     {
@@ -560,20 +579,29 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "Austria"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 58,
-    "users": 47,
-    "pageViews": 65,
-    "avgSessionDuration": 150,
+    "sessions": 53,
+    "users": 42,
+    "pageViews": 59,
+    "avgSessionDuration": 92,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 374,
-    "users": 242,
-    "pageViews": 639,
-    "avgSessionDuration": 219,
+    "sessions": 371,
+    "users": 241,
+    "pageViews": 631,
+    "avgSessionDuration": 218,
     "bounceRate": 0.4
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "find.amalfi.day",
   "propertyId": "properties/531159837",
-  "updatedAt": "2026-10-21T09:54:56.324Z",
+  "updatedAt": "2026-10-22T09:55:25.360Z",
   "trend": [
     {
       "dimensions": [
@@ -31,16 +31,6 @@
         "11",
         "5",
         "24"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260921"
-      ],
-      "metrics": [
-        "10",
-        "4",
-        "17"
       ]
     },
     {
@@ -111,6 +101,16 @@
         "8",
         "5",
         "17"
+      ]
+    },
+    {
+      "dimensions": [
+        "20261021"
+      ],
+      "metrics": [
+        "8",
+        "6",
+        "14"
       ]
     },
     {
@@ -272,16 +272,6 @@
         "0",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "20261021"
-      ],
-      "metrics": [
-        "1",
-        "1",
-        "1"
-      ]
     }
   ],
   "topPages": [
@@ -290,8 +280,8 @@
         "/"
       ],
       "metrics": [
-        "27",
-        "20"
+        "23",
+        "19"
       ]
     },
     {
@@ -299,8 +289,8 @@
         "/route/amalfi-house.html"
       ],
       "metrics": [
-        "23",
-        "18"
+        "12",
+        "9"
       ]
     },
     {
@@ -308,8 +298,17 @@
         "/route/atrani-house.html"
       ],
       "metrics": [
-        "9",
-        "10"
+        "12",
+        "12"
+      ]
+    },
+    {
+      "dimensions": [
+        "/a/"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     }
   ],
@@ -319,13 +318,22 @@
         "(direct)"
       ],
       "metrics": [
-        "25",
-        "12"
+        "15",
+        "8"
       ]
     },
     {
       "dimensions": [
         "airbnb.it"
+      ],
+      "metrics": [
+        "4",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "fr.airbnb.ca"
       ],
       "metrics": [
         "3",
@@ -334,7 +342,16 @@
     },
     {
       "dimensions": [
-        "fr.airbnb.ca"
+        "l.instagram.com"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "facebook.com"
       ],
       "metrics": [
         "1",
@@ -348,17 +365,17 @@
         "Italy"
       ],
       "metrics": [
-        "17",
-        "7"
+        "14",
+        "6"
       ]
     },
     {
       "dimensions": [
-        "Germany"
+        "Canada"
       ],
       "metrics": [
-        "5",
-        "2"
+        "4",
+        "4"
       ]
     },
     {
@@ -381,7 +398,7 @@
     },
     {
       "dimensions": [
-        "Canada"
+        "Germany"
       ],
       "metrics": [
         "1",
@@ -417,17 +434,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 29,
+    "sessions": 25,
     "users": 13,
-    "pageViews": 59,
-    "avgSessionDuration": 303,
-    "bounceRate": 0.5
+    "pageViews": 48,
+    "avgSessionDuration": 241,
+    "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 178,
-    "users": 73,
-    "pageViews": 352,
-    "avgSessionDuration": 210,
+    "sessions": 175,
+    "users": 74,
+    "pageViews": 348,
+    "avgSessionDuration": 204,
     "bounceRate": 0.4
   }
 }
