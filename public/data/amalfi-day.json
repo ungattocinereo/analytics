@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-10-22T09:55:24.052Z",
+  "updatedAt": "2026-10-23T09:49:41.190Z",
   "trend": [
     {
       "dimensions": [
@@ -75,22 +75,22 @@
     },
     {
       "dimensions": [
+        "20261022"
+      ],
+      "metrics": [
+        "17",
+        "12",
+        "23"
+      ]
+    },
+    {
+      "dimensions": [
         "20261008"
       ],
       "metrics": [
         "16",
         "11",
         "24"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260922"
-      ],
-      "metrics": [
-        "14",
-        "11",
-        "30"
       ]
     },
     {
@@ -295,12 +295,12 @@
     },
     {
       "dimensions": [
-        "20261022"
+        "20261023"
       ],
       "metrics": [
+        "4",
         "3",
-        "2",
-        "3"
+        "5"
       ]
     },
     {
@@ -320,17 +320,26 @@
         "/timetables/"
       ],
       "metrics": [
-        "33",
-        "32"
+        "38",
+        "35"
       ]
     },
     {
       "dimensions": [
-        "/"
+        "/directions/"
       ],
       "metrics": [
-        "5",
-        "5"
+        "7",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/ferry-timetables/"
+      ],
+      "metrics": [
+        "7",
+        "6"
       ]
     },
     {
@@ -338,8 +347,8 @@
         "/ferry-timetables"
       ],
       "metrics": [
-        "4",
-        "4"
+        "6",
+        "5"
       ]
     },
     {
@@ -353,7 +362,7 @@
     },
     {
       "dimensions": [
-        "/ferry-timetables/"
+        "/"
       ],
       "metrics": [
         "3",
@@ -362,25 +371,7 @@
     },
     {
       "dimensions": [
-        "/blog/public-transport-strike-on-friday-march-6-what-you-need-to-know/"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "/photoshootings/shifa/"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/timetables"
       ],
       "metrics": [
         "2",
@@ -407,6 +398,15 @@
     },
     {
       "dimensions": [
+        "/blog/transport-strike-this-friday-what-amalfi-coast-visitors-need-to-know/"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "/contact"
       ],
       "metrics": [
@@ -422,6 +422,15 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "/parking"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "sources": [
@@ -430,8 +439,8 @@
         "google"
       ],
       "metrics": [
-        "18",
-        "15"
+        "25",
+        "19"
       ]
     },
     {
@@ -439,8 +448,8 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "16",
-        "14"
+        "17",
+        "16"
       ]
     },
     {
@@ -448,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "13",
-        "8"
+        "10",
+        "5"
       ]
     },
     {
@@ -457,8 +466,17 @@
         "duckduckgo"
       ],
       "metrics": [
-        "2",
+        "3",
         "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "yahoo"
+      ],
+      "metrics": [
+        "2",
+        "2"
       ]
     },
     {
@@ -481,7 +499,7 @@
     },
     {
       "dimensions": [
-        "yahoo"
+        "startpage.com"
       ],
       "metrics": [
         "1",
@@ -504,7 +522,7 @@
         "Italy"
       ],
       "metrics": [
-        "17",
+        "19",
         "14"
       ]
     },
@@ -513,8 +531,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "10",
-        "8"
+        "11",
+        "9"
       ]
     },
     {
@@ -522,17 +540,8 @@
         "United States"
       ],
       "metrics": [
-        "8",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "Bulgaria"
-      ],
-      "metrics": [
-        "2",
-        "1"
+        "10",
+        "8"
       ]
     },
     {
@@ -540,7 +549,16 @@
         "Denmark"
       ],
       "metrics": [
-        "2",
+        "4",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "Spain"
+      ],
+      "metrics": [
+        "3",
         "2"
       ]
     },
@@ -555,7 +573,7 @@
     },
     {
       "dimensions": [
-        "Luxembourg"
+        "Israel"
       ],
       "metrics": [
         "2",
@@ -564,11 +582,11 @@
     },
     {
       "dimensions": [
-        "Albania"
+        "Luxembourg"
       ],
       "metrics": [
-        "1",
-        "0"
+        "2",
+        "2"
       ]
     },
     {
@@ -591,17 +609,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 53,
-    "users": 42,
-    "pageViews": 59,
-    "avgSessionDuration": 92,
+    "sessions": 61,
+    "users": 47,
+    "pageViews": 73,
+    "avgSessionDuration": 158,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 371,
-    "users": 241,
-    "pageViews": 631,
-    "avgSessionDuration": 218,
+    "sessions": 375,
+    "users": 245,
+    "pageViews": 626,
+    "avgSessionDuration": 223,
     "bounceRate": 0.4
   }
 }

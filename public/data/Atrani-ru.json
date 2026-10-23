@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-10-22T09:55:22.940Z",
+  "updatedAt": "2026-10-23T09:49:39.766Z",
   "trend": [
     {
       "dimensions": [
@@ -91,16 +91,6 @@
         "27",
         "23",
         "25"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260922"
-      ],
-      "metrics": [
-        "26",
-        "25",
-        "27"
       ]
     },
     {
@@ -235,6 +225,16 @@
     },
     {
       "dimensions": [
+        "20261022"
+      ],
+      "metrics": [
+        "14",
+        "13",
+        "14"
+      ]
+    },
+    {
+      "dimensions": [
         "20261013"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20261022"
+        "20261023"
       ],
       "metrics": [
-        "5",
-        "5",
-        "5"
+        "1",
+        "1",
+        "1"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "57",
-        "57"
+        "54",
+        "55"
       ]
     },
     {
@@ -338,35 +338,8 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "6",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/atrani-ghotovitsia-k-prazdniku-santa-maria-maddalena-protsiessiia-muzyka-i-fieiiervierk-22-iiulia"
-      ],
-      "metrics": [
         "3",
         "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/directions-awesome"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog"
-      ],
-      "metrics": [
-        "2",
-        "2"
       ]
     },
     {
@@ -389,43 +362,7 @@
     },
     {
       "dimensions": [
-        "/blog/li-galli-ostrov-nurieieva-u-pozitano-otbilsia-ot-liuksovogho-resorta"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/mozarella-buffala-campania-italia"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/new-year-2020"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/contacts"
       ],
       "metrics": [
         "2",
@@ -443,7 +380,70 @@
     },
     {
       "dimensions": [
-        "/apartments"
+        "/blog"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/10-faktov-o-kampanii-ot-samogho-malienkogho-ghorodka-italii-do-posliedniegho-izvierzhieniia-viezuviia"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/atrani-for-lovers-part-1"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/atrani-na-dva-dnia-stal-ghorodom-knigh-i-skulptur-u-moria"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/carnivale-maiori-2019-anterprima"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/giorgio-armani-vybral-raviello-dlia-kampanii-mare-2026"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/how-to-get-to-amalfi"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/li-galli-ostrov-nurieieva-u-pozitano-otbilsia-ot-liuksovogho-resorta"
       ],
       "metrics": [
         "1",
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "74",
-        "74"
+        "68",
+        "68"
       ]
     },
     {
@@ -475,22 +475,13 @@
         "google"
       ],
       "metrics": [
-        "8",
-        "8"
+        "7",
+        "6"
       ]
     },
     {
       "dimensions": [
         "m.facebook.com"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "ya.ru"
       ],
       "metrics": [
         "2",
@@ -514,24 +505,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "ig"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "yandex.com.tr"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "countries": [
@@ -540,17 +513,8 @@
         "Russia"
       ],
       "metrics": [
-        "65",
-        "64"
-      ]
-    },
-    {
-      "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "9",
-        "9"
+        "60",
+        "59"
       ]
     },
     {
@@ -558,31 +522,31 @@
         "(not set)"
       ],
       "metrics": [
-        "8",
-        "8"
+        "7",
+        "7"
       ]
     },
     {
       "dimensions": [
-        "Belarus"
+        "United States"
       ],
       "metrics": [
-        "2",
+        "7",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "Italy"
+      ],
+      "metrics": [
+        "3",
         "2"
       ]
     },
     {
       "dimensions": [
-        "Brazil"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "China"
+        ""
       ],
       "metrics": [
         "2",
@@ -600,16 +564,7 @@
     },
     {
       "dimensions": [
-        "Italy"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        ""
+        "Australia"
       ],
       "metrics": [
         "1",
@@ -618,7 +573,25 @@
     },
     {
       "dimensions": [
-        "Australia"
+        "Belarus"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Brazil"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "China"
       ],
       "metrics": [
         "1",
@@ -627,17 +600,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 100,
-    "users": 99,
-    "pageViews": 110,
-    "avgSessionDuration": 51,
-    "bounceRate": 0.7
+    "sessions": 89,
+    "users": 87,
+    "pageViews": 91,
+    "avgSessionDuration": 46,
+    "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 662,
-    "users": 608,
-    "pageViews": 850,
-    "avgSessionDuration": 73,
+    "sessions": 646,
+    "users": 593,
+    "pageViews": 833,
+    "avgSessionDuration": 74,
     "bounceRate": 0.7
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "find.amalfi.day",
   "propertyId": "properties/531159837",
-  "updatedAt": "2026-10-22T09:55:25.360Z",
+  "updatedAt": "2026-10-23T09:49:45.854Z",
   "trend": [
     {
       "dimensions": [
@@ -71,16 +71,6 @@
         "9",
         "2",
         "26"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260922"
-      ],
-      "metrics": [
-        "8",
-        "4",
-        "21"
       ]
     },
     {
@@ -225,6 +215,16 @@
     },
     {
       "dimensions": [
+        "20261022"
+      ],
+      "metrics": [
+        "4",
+        "1",
+        "11"
+      ]
+    },
+    {
+      "dimensions": [
         "20261005"
       ],
       "metrics": [
@@ -272,6 +272,16 @@
         "0",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "20261023"
+      ],
+      "metrics": [
+        "1",
+        "0",
+        "1"
+      ]
     }
   ],
   "topPages": [
@@ -280,17 +290,8 @@
         "/"
       ],
       "metrics": [
-        "23",
-        "19"
-      ]
-    },
-    {
-      "dimensions": [
-        "/route/amalfi-house.html"
-      ],
-      "metrics": [
-        "12",
-        "9"
+        "27",
+        "22"
       ]
     },
     {
@@ -298,8 +299,17 @@
         "/route/atrani-house.html"
       ],
       "metrics": [
-        "12",
-        "12"
+        "17",
+        "15"
+      ]
+    },
+    {
+      "dimensions": [
+        "/route/amalfi-house.html"
+      ],
+      "metrics": [
+        "15",
+        "11"
       ]
     },
     {
@@ -324,6 +334,15 @@
     },
     {
       "dimensions": [
+        "airbnb.dk"
+      ],
+      "metrics": [
+        "4",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "airbnb.it"
       ],
       "metrics": [
@@ -336,7 +355,7 @@
         "fr.airbnb.ca"
       ],
       "metrics": [
-        "3",
+        "4",
         "1"
       ]
     },
@@ -365,8 +384,8 @@
         "Italy"
       ],
       "metrics": [
-        "14",
-        "6"
+        "18",
+        "7"
       ]
     },
     {
@@ -393,6 +412,15 @@
       ],
       "metrics": [
         "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Denmark"
+      ],
+      "metrics": [
+        "1",
         "1"
       ]
     },
@@ -434,17 +462,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 25,
-    "users": 13,
-    "pageViews": 48,
-    "avgSessionDuration": 241,
-    "bounceRate": 0.4
+    "sessions": 30,
+    "users": 14,
+    "pageViews": 60,
+    "avgSessionDuration": 246,
+    "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 175,
-    "users": 74,
-    "pageViews": 348,
-    "avgSessionDuration": 204,
+    "sessions": 172,
+    "users": 72,
+    "pageViews": 339,
+    "avgSessionDuration": 211,
     "bounceRate": 0.4
   }
 }
