@@ -1,7 +1,7 @@
 {
   "name": "find.amalfi.day",
   "propertyId": "properties/531159837",
-  "updatedAt": "2026-10-23T09:49:45.854Z",
+  "updatedAt": "2026-10-24T09:21:29.360Z",
   "trend": [
     {
       "dimensions": [
@@ -175,16 +175,6 @@
     },
     {
       "dimensions": [
-        "20260923"
-      ],
-      "metrics": [
-        "4",
-        "3",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
         "20260926"
       ],
       "metrics": [
@@ -221,6 +211,16 @@
         "4",
         "1",
         "11"
+      ]
+    },
+    {
+      "dimensions": [
+        "20261023"
+      ],
+      "metrics": [
+        "4",
+        "2",
+        "4"
       ]
     },
     {
@@ -272,16 +272,6 @@
         "0",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "20261023"
-      ],
-      "metrics": [
-        "1",
-        "0",
-        "1"
-      ]
     }
   ],
   "topPages": [
@@ -290,8 +280,8 @@
         "/"
       ],
       "metrics": [
-        "27",
-        "22"
+        "28",
+        "23"
       ]
     },
     {
@@ -308,8 +298,8 @@
         "/route/amalfi-house.html"
       ],
       "metrics": [
-        "15",
-        "11"
+        "16",
+        "12"
       ]
     },
     {
@@ -328,8 +318,8 @@
         "(direct)"
       ],
       "metrics": [
-        "15",
-        "8"
+        "16",
+        "10"
       ]
     },
     {
@@ -337,7 +327,7 @@
         "airbnb.dk"
       ],
       "metrics": [
-        "4",
+        "5",
         "1"
       ]
     },
@@ -399,6 +389,15 @@
     },
     {
       "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
         "Belgium"
       ],
       "metrics": [
@@ -450,29 +449,20 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 30,
-    "users": 14,
-    "pageViews": 60,
-    "avgSessionDuration": 246,
+    "sessions": 32,
+    "users": 16,
+    "pageViews": 62,
+    "avgSessionDuration": 231,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 172,
-    "users": 72,
-    "pageViews": 339,
-    "avgSessionDuration": 211,
+    "sessions": 171,
+    "users": 71,
+    "pageViews": 335,
+    "avgSessionDuration": 196,
     "bounceRate": 0.4
   }
 }

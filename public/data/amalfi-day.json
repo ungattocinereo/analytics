@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-10-23T09:49:41.190Z",
+  "updatedAt": "2026-10-24T09:21:28.252Z",
   "trend": [
     {
       "dimensions": [
@@ -165,12 +165,12 @@
     },
     {
       "dimensions": [
-        "20260923"
+        "20261023"
       ],
       "metrics": [
-        "10",
-        "6",
-        "21"
+        "11",
+        "9",
+        "12"
       ]
     },
     {
@@ -295,16 +295,6 @@
     },
     {
       "dimensions": [
-        "20261023"
-      ],
-      "metrics": [
-        "4",
-        "3",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
         "20261020"
       ],
       "metrics": [
@@ -320,8 +310,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "38",
-        "35"
+        "35",
+        "33"
       ]
     },
     {
@@ -347,8 +337,8 @@
         "/ferry-timetables"
       ],
       "metrics": [
-        "6",
-        "5"
+        "5",
+        "4"
       ]
     },
     {
@@ -365,8 +355,17 @@
         "/"
       ],
       "metrics": [
-        "3",
-        "3"
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/parking"
+      ],
+      "metrics": [
+        "2",
+        "2"
       ]
     },
     {
@@ -422,15 +421,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "/parking"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "sources": [
@@ -440,7 +430,7 @@
       ],
       "metrics": [
         "25",
-        "19"
+        "18"
       ]
     },
     {
@@ -448,8 +438,8 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "17",
-        "16"
+        "16",
+        "15"
       ]
     },
     {
@@ -457,8 +447,8 @@
         "(direct)"
       ],
       "metrics": [
-        "10",
-        "5"
+        "8",
+        "4"
       ]
     },
     {
@@ -466,17 +456,26 @@
         "duckduckgo"
       ],
       "metrics": [
-        "3",
+        "4",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "ecosia.org"
+      ],
+      "metrics": [
+        "2",
         "1"
       ]
     },
     {
       "dimensions": [
-        "yahoo"
+        "(not set)"
       ],
       "metrics": [
-        "2",
-        "2"
+        "1",
+        "1"
       ]
     },
     {
@@ -508,7 +507,7 @@
     },
     {
       "dimensions": [
-        "yandex.ru"
+        "yahoo"
       ],
       "metrics": [
         "1",
@@ -522,7 +521,7 @@
         "Italy"
       ],
       "metrics": [
-        "19",
+        "20",
         "14"
       ]
     },
@@ -531,8 +530,8 @@
         "United Kingdom"
       ],
       "metrics": [
-        "11",
-        "9"
+        "9",
+        "7"
       ]
     },
     {
@@ -540,8 +539,8 @@
         "United States"
       ],
       "metrics": [
-        "10",
-        "8"
+        "8",
+        "6"
       ]
     },
     {
@@ -549,8 +548,8 @@
         "Denmark"
       ],
       "metrics": [
-        "4",
-        "3"
+        "3",
+        "2"
       ]
     },
     {
@@ -559,6 +558,15 @@
       ],
       "metrics": [
         "3",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Austria"
+      ],
+      "metrics": [
+        "2",
         "2"
       ]
     },
@@ -591,35 +599,26 @@
     },
     {
       "dimensions": [
-        "Australia"
+        "Netherlands"
       ],
       "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Austria"
-      ],
-      "metrics": [
-        "1",
-        "1"
+        "2",
+        "2"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 61,
-    "users": 47,
-    "pageViews": 73,
-    "avgSessionDuration": 158,
+    "sessions": 60,
+    "users": 45,
+    "pageViews": 69,
+    "avgSessionDuration": 135,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 375,
-    "users": 245,
-    "pageViews": 626,
-    "avgSessionDuration": 223,
+    "sessions": 372,
+    "users": 244,
+    "pageViews": 612,
+    "avgSessionDuration": 218,
     "bounceRate": 0.4
   }
 }

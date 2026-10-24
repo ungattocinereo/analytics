@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-10-23T09:49:39.766Z",
+  "updatedAt": "2026-10-24T09:21:26.573Z",
   "trend": [
     {
       "dimensions": [
@@ -71,16 +71,6 @@
         "30",
         "27",
         "32"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260923"
-      ],
-      "metrics": [
-        "27",
-        "25",
-        "31"
       ]
     },
     {
@@ -295,6 +285,16 @@
     },
     {
       "dimensions": [
+        "20261023"
+      ],
+      "metrics": [
+        "9",
+        "9",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
         "20261016"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20261023"
+        "20261024"
       ],
       "metrics": [
-        "1",
-        "1",
-        "1"
+        "2",
+        "2",
+        "2"
       ]
     }
   ],
@@ -344,7 +344,7 @@
     },
     {
       "dimensions": [
-        "/blog/colatura-di-alici-di-cetara"
+        "/blog/atrani-for-lovers-part-1"
       ],
       "metrics": [
         "2",
@@ -363,6 +363,15 @@
     {
       "dimensions": [
         "/blog/mozarella-buffala-campania-italia"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/transport"
       ],
       "metrics": [
         "2",
@@ -398,15 +407,6 @@
     },
     {
       "dimensions": [
-        "/blog/atrani-for-lovers-part-1"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/atrani-na-dva-dnia-stal-ghorodom-knigh-i-skulptur-u-moria"
       ],
       "metrics": [
@@ -416,7 +416,16 @@
     },
     {
       "dimensions": [
-        "/blog/carnivale-maiori-2019-anterprima"
+        "/blog/atrani-samyi-siekrietnyi-ugholok-amalfitanskogho-pobieriezhia"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/colatura-di-alici-di-cetara"
       ],
       "metrics": [
         "1",
@@ -440,15 +449,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "/blog/li-galli-ostrov-nurieieva-u-pozitano-otbilsia-ot-liuksovogho-resorta"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "sources": [
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "68",
-        "68"
+        "64",
+        "64"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "10",
-        "9"
+        "14",
+        "13"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "google"
       ],
       "metrics": [
-        "7",
-        "6"
+        "9",
+        "8"
       ]
     },
     {
@@ -513,8 +513,8 @@
         "Russia"
       ],
       "metrics": [
-        "60",
-        "59"
+        "59",
+        "58"
       ]
     },
     {
@@ -540,8 +540,8 @@
         "Italy"
       ],
       "metrics": [
-        "3",
-        "2"
+        "4",
+        "3"
       ]
     },
     {
@@ -556,6 +556,15 @@
     {
       "dimensions": [
         "Germany"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "United Kingdom"
       ],
       "metrics": [
         "2",
@@ -588,28 +597,19 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "China"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 89,
-    "users": 87,
-    "pageViews": 91,
-    "avgSessionDuration": 46,
+    "sessions": 91,
+    "users": 89,
+    "pageViews": 93,
+    "avgSessionDuration": 53,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 646,
-    "users": 593,
-    "pageViews": 833,
+    "sessions": 629,
+    "users": 579,
+    "pageViews": 812,
     "avgSessionDuration": 74,
     "bounceRate": 0.7
   }
