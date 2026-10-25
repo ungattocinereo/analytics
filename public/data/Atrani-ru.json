@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-10-24T09:21:26.573Z",
+  "updatedAt": "2026-10-25T09:38:51.270Z",
   "trend": [
     {
       "dimensions": [
@@ -81,16 +81,6 @@
         "27",
         "23",
         "25"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260924"
-      ],
-      "metrics": [
-        "26",
-        "25",
-        "27"
       ]
     },
     {
@@ -285,6 +275,16 @@
     },
     {
       "dimensions": [
+        "20261024"
+      ],
+      "metrics": [
+        "10",
+        "10",
+        "10"
+      ]
+    },
+    {
+      "dimensions": [
         "20261023"
       ],
       "metrics": [
@@ -305,7 +305,7 @@
     },
     {
       "dimensions": [
-        "20261024"
+        "20261025"
       ],
       "metrics": [
         "2",
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "54",
-        "55"
+        "52",
+        "53"
       ]
     },
     {
@@ -335,34 +335,7 @@
     },
     {
       "dimensions": [
-        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/atrani-for-lovers-part-1"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/eng-atrani"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/mozarella-buffala-campania-italia"
       ],
       "metrics": [
         "2",
@@ -449,6 +422,33 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "/blog/le-palme-restauraunt-atrani"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/li-galli-ostrov-nurieieva-u-pozitano-otbilsia-ot-liuksovogho-resorta"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/netflix-snimaiet-film-positano-s-makkonakhi-i-saldanoi-na-pobieriezhie-amalfi"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "sources": [
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "64",
-        "64"
+        "58",
+        "58"
       ]
     },
     {
@@ -467,7 +467,7 @@
       ],
       "metrics": [
         "14",
-        "13"
+        "14"
       ]
     },
     {
@@ -475,17 +475,8 @@
         "google"
       ],
       "metrics": [
-        "9",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "m.facebook.com"
-      ],
-      "metrics": [
-        "2",
-        "2"
+        "8",
+        "7"
       ]
     },
     {
@@ -505,6 +496,15 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "m.facebook.com"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "countries": [
@@ -513,8 +513,8 @@
         "Russia"
       ],
       "metrics": [
-        "59",
-        "58"
+        "53",
+        "53"
       ]
     },
     {
@@ -531,8 +531,8 @@
         "United States"
       ],
       "metrics": [
-        "7",
-        "7"
+        "6",
+        "6"
       ]
     },
     {
@@ -549,8 +549,8 @@
         ""
       ],
       "metrics": [
-        "2",
-        "2"
+        "3",
+        "3"
       ]
     },
     {
@@ -600,17 +600,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 91,
-    "users": 89,
-    "pageViews": 93,
-    "avgSessionDuration": 53,
+    "sessions": 83,
+    "users": 82,
+    "pageViews": 85,
+    "avgSessionDuration": 43,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 629,
-    "users": 579,
-    "pageViews": 812,
-    "avgSessionDuration": 74,
+    "sessions": 612,
+    "users": 565,
+    "pageViews": 795,
+    "avgSessionDuration": 75,
     "bounceRate": 0.7
   }
 }

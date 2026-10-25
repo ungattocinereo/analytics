@@ -1,7 +1,7 @@
 {
   "name": "find.amalfi.day",
   "propertyId": "properties/531159837",
-  "updatedAt": "2026-10-24T09:21:29.360Z",
+  "updatedAt": "2026-10-25T09:38:53.939Z",
   "trend": [
     {
       "dimensions": [
@@ -71,16 +71,6 @@
         "9",
         "2",
         "26"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260924"
-      ],
-      "metrics": [
-        "8",
-        "4",
-        "13"
       ]
     },
     {
@@ -265,6 +255,16 @@
     },
     {
       "dimensions": [
+        "20261024"
+      ],
+      "metrics": [
+        "2",
+        "1",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
         "20261016"
       ],
       "metrics": [
@@ -280,8 +280,8 @@
         "/"
       ],
       "metrics": [
-        "28",
-        "23"
+        "25",
+        "21"
       ]
     },
     {
@@ -298,8 +298,8 @@
         "/route/amalfi-house.html"
       ],
       "metrics": [
-        "16",
-        "12"
+        "13",
+        "10"
       ]
     },
     {
@@ -318,8 +318,8 @@
         "(direct)"
       ],
       "metrics": [
-        "16",
-        "10"
+        "11",
+        "8"
       ]
     },
     {
@@ -351,11 +351,29 @@
     },
     {
       "dimensions": [
+        "airbnb.be"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "l.instagram.com"
       ],
       "metrics": [
         "2",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "(not set)"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     },
     {
@@ -374,7 +392,7 @@
         "Italy"
       ],
       "metrics": [
-        "18",
+        "19",
         "7"
       ]
     },
@@ -394,24 +412,6 @@
       "metrics": [
         "3",
         "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "Belgium"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "Israel"
-      ],
-      "metrics": [
-        "2",
-        "1"
       ]
     },
     {
@@ -452,17 +452,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 32,
-    "users": 16,
-    "pageViews": 62,
-    "avgSessionDuration": 231,
+    "sessions": 29,
+    "users": 15,
+    "pageViews": 56,
+    "avgSessionDuration": 124,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 171,
-    "users": 71,
-    "pageViews": 335,
-    "avgSessionDuration": 196,
+    "sessions": 165,
+    "users": 68,
+    "pageViews": 326,
+    "avgSessionDuration": 198,
     "bounceRate": 0.4
   }
 }

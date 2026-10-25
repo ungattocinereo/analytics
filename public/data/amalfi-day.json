@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-10-24T09:21:28.252Z",
+  "updatedAt": "2026-10-25T09:38:52.803Z",
   "trend": [
     {
       "dimensions": [
@@ -245,16 +245,6 @@
     },
     {
       "dimensions": [
-        "20260924"
-      ],
-      "metrics": [
-        "6",
-        "5",
-        "10"
-      ]
-    },
-    {
-      "dimensions": [
         "20260925"
       ],
       "metrics": [
@@ -295,12 +285,32 @@
     },
     {
       "dimensions": [
+        "20261024"
+      ],
+      "metrics": [
+        "3",
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
         "20261020"
       ],
       "metrics": [
         "2",
         "2",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "20261025"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "1"
       ]
     }
   ],
@@ -310,8 +320,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "35",
-        "33"
+        "37",
+        "35"
       ]
     },
     {
@@ -346,8 +356,8 @@
         "/parking/"
       ],
       "metrics": [
-        "4",
-        "5"
+        "3",
+        "3"
       ]
     },
     {
@@ -362,15 +372,6 @@
     {
       "dimensions": [
         "/parking"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photoshootings/shifa/"
       ],
       "metrics": [
         "2",
@@ -421,6 +422,15 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "/photoshootings"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "sources": [
@@ -430,7 +440,7 @@
       ],
       "metrics": [
         "25",
-        "18"
+        "19"
       ]
     },
     {
@@ -438,8 +448,8 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "16",
-        "15"
+        "15",
+        "14"
       ]
     },
     {
@@ -447,7 +457,7 @@
         "(direct)"
       ],
       "metrics": [
-        "8",
+        "7",
         "4"
       ]
     },
@@ -471,11 +481,11 @@
     },
     {
       "dimensions": [
-        "(not set)"
+        "yahoo"
       ],
       "metrics": [
-        "1",
-        "1"
+        "2",
+        "2"
       ]
     },
     {
@@ -507,7 +517,7 @@
     },
     {
       "dimensions": [
-        "yahoo"
+        "yandex.ru"
       ],
       "metrics": [
         "1",
@@ -521,8 +531,8 @@
         "Italy"
       ],
       "metrics": [
-        "20",
-        "14"
+        "19",
+        "15"
       ]
     },
     {
@@ -539,8 +549,8 @@
         "United States"
       ],
       "metrics": [
-        "8",
-        "6"
+        "9",
+        "8"
       ]
     },
     {
@@ -550,6 +560,15 @@
       "metrics": [
         "3",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Netherlands"
+      ],
+      "metrics": [
+        "3",
+        "3"
       ]
     },
     {
@@ -564,15 +583,6 @@
     {
       "dimensions": [
         "Austria"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "India"
       ],
       "metrics": [
         "2",
@@ -599,26 +609,26 @@
     },
     {
       "dimensions": [
-        "Netherlands"
+        "Australia"
       ],
       "metrics": [
-        "2",
-        "2"
+        "1",
+        "1"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 60,
-    "users": 45,
+    "sessions": 59,
+    "users": 46,
     "pageViews": 69,
-    "avgSessionDuration": 135,
-    "bounceRate": 0.5
+    "avgSessionDuration": 141,
+    "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 372,
-    "users": 244,
-    "pageViews": 612,
-    "avgSessionDuration": 218,
+    "sessions": 370,
+    "users": 243,
+    "pageViews": 606,
+    "avgSessionDuration": 215,
     "bounceRate": 0.4
   }
 }
