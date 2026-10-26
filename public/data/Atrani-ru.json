@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-10-25T09:38:51.270Z",
+  "updatedAt": "2026-10-26T10:52:22.120Z",
   "trend": [
     {
       "dimensions": [
@@ -175,16 +175,6 @@
     },
     {
       "dimensions": [
-        "20260925"
-      ],
-      "metrics": [
-        "18",
-        "18",
-        "18"
-      ]
-    },
-    {
-      "dimensions": [
         "20261017"
       ],
       "metrics": [
@@ -295,6 +285,16 @@
     },
     {
       "dimensions": [
+        "20261025"
+      ],
+      "metrics": [
+        "9",
+        "9",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
         "20261016"
       ],
       "metrics": [
@@ -305,7 +305,7 @@
     },
     {
       "dimensions": [
-        "20261025"
+        "20261026"
       ],
       "metrics": [
         "2",
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "52",
-        "53"
+        "51",
+        "51"
       ]
     },
     {
@@ -336,6 +336,15 @@
     {
       "dimensions": [
         "/blog/atrani-for-lovers-part-1"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/le-palme-restauraunt-atrani"
       ],
       "metrics": [
         "2",
@@ -380,7 +389,7 @@
     },
     {
       "dimensions": [
-        "/blog/atrani-na-dva-dnia-stal-ghorodom-knigh-i-skulptur-u-moria"
+        "/blog/2019-11-15"
       ],
       "metrics": [
         "1",
@@ -425,15 +434,6 @@
     },
     {
       "dimensions": [
-        "/blog/le-palme-restauraunt-atrani"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/li-galli-ostrov-nurieieva-u-pozitano-otbilsia-ot-liuksovogho-resorta"
       ],
       "metrics": [
@@ -443,7 +443,7 @@
     },
     {
       "dimensions": [
-        "/blog/netflix-snimaiet-film-positano-s-makkonakhi-i-saldanoi-na-pobieriezhie-amalfi"
+        "/blog/new-year-2020"
       ],
       "metrics": [
         "1",
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "58",
-        "58"
+        "54",
+        "54"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "14",
-        "14"
+        "15",
+        "15"
       ]
     },
     {
@@ -475,17 +475,8 @@
         "google"
       ],
       "metrics": [
-        "8",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "(not set)"
-      ],
-      "metrics": [
-        "1",
-        "1"
+        "9",
+        "8"
       ]
     },
     {
@@ -513,8 +504,8 @@
         "Russia"
       ],
       "metrics": [
-        "53",
-        "53"
+        "54",
+        "54"
       ]
     },
     {
@@ -522,17 +513,8 @@
         "(not set)"
       ],
       "metrics": [
-        "7",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "6",
-        "6"
+        "9",
+        "9"
       ]
     },
     {
@@ -546,34 +528,25 @@
     },
     {
       "dimensions": [
-        ""
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "Germany"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "United Kingdom"
       ],
       "metrics": [
-        "2",
-        "2"
+        "4",
+        "4"
       ]
     },
     {
       "dimensions": [
-        "Australia"
+        "United States"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        ""
       ],
       "metrics": [
         "1",
@@ -591,7 +564,25 @@
     },
     {
       "dimensions": [
-        "Brazil"
+        "Israel"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Latvia"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Netherlands"
       ],
       "metrics": [
         "1",
@@ -600,17 +591,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 83,
-    "users": 82,
-    "pageViews": 85,
-    "avgSessionDuration": 43,
+    "sessions": 80,
+    "users": 79,
+    "pageViews": 82,
+    "avgSessionDuration": 61,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 612,
-    "users": 565,
-    "pageViews": 795,
-    "avgSessionDuration": 75,
+    "sessions": 603,
+    "users": 556,
+    "pageViews": 786,
+    "avgSessionDuration": 78,
     "bounceRate": 0.7
   }
 }

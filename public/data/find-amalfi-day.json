@@ -1,18 +1,8 @@
 {
   "name": "find.amalfi.day",
   "propertyId": "properties/531159837",
-  "updatedAt": "2026-10-25T09:38:53.939Z",
+  "updatedAt": "2026-10-26T10:52:25.264Z",
   "trend": [
-    {
-      "dimensions": [
-        "20260925"
-      ],
-      "metrics": [
-        "17",
-        "4",
-        "30"
-      ]
-    },
     {
       "dimensions": [
         "20260930"
@@ -280,8 +270,8 @@
         "/"
       ],
       "metrics": [
-        "25",
-        "21"
+        "23",
+        "19"
       ]
     },
     {
@@ -289,8 +279,8 @@
         "/route/atrani-house.html"
       ],
       "metrics": [
-        "17",
-        "15"
+        "16",
+        "14"
       ]
     },
     {
@@ -298,8 +288,8 @@
         "/route/amalfi-house.html"
       ],
       "metrics": [
-        "13",
-        "10"
+        "10",
+        "8"
       ]
     },
     {
@@ -318,8 +308,8 @@
         "(direct)"
       ],
       "metrics": [
-        "11",
-        "8"
+        "8",
+        "7"
       ]
     },
     {
@@ -369,15 +359,6 @@
     },
     {
       "dimensions": [
-        "(not set)"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "facebook.com"
       ],
       "metrics": [
@@ -392,8 +373,8 @@
         "Italy"
       ],
       "metrics": [
-        "19",
-        "7"
+        "16",
+        "6"
       ]
     },
     {
@@ -452,16 +433,16 @@
     }
   ],
   "summary7d": {
-    "sessions": 29,
-    "users": 15,
-    "pageViews": 56,
-    "avgSessionDuration": 124,
+    "sessions": 26,
+    "users": 14,
+    "pageViews": 50,
+    "avgSessionDuration": 137,
     "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 165,
-    "users": 68,
-    "pageViews": 326,
+    "sessions": 148,
+    "users": 65,
+    "pageViews": 296,
     "avgSessionDuration": 198,
     "bounceRate": 0.4
   }

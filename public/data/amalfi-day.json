@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-10-25T09:38:52.803Z",
+  "updatedAt": "2026-10-26T10:52:23.914Z",
   "trend": [
     {
       "dimensions": [
@@ -245,16 +245,6 @@
     },
     {
       "dimensions": [
-        "20260925"
-      ],
-      "metrics": [
-        "6",
-        "6",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
         "20261010"
       ],
       "metrics": [
@@ -295,6 +285,16 @@
     },
     {
       "dimensions": [
+        "20261025"
+      ],
+      "metrics": [
+        "3",
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
         "20261020"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20261025"
+        "20261026"
       ],
       "metrics": [
-        "1",
-        "1",
-        "1"
+        "2",
+        "0",
+        "2"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "37",
-        "35"
+        "29",
+        "28"
       ]
     },
     {
@@ -329,8 +329,8 @@
         "/directions/"
       ],
       "metrics": [
-        "7",
-        "2"
+        "8",
+        "3"
       ]
     },
     {
@@ -356,17 +356,8 @@
         "/parking/"
       ],
       "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/"
-      ],
-      "metrics": [
-        "2",
-        "2"
+        "4",
+        "4"
       ]
     },
     {
@@ -376,6 +367,15 @@
       "metrics": [
         "2",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     },
     {
@@ -439,8 +439,8 @@
         "google"
       ],
       "metrics": [
-        "25",
-        "19"
+        "22",
+        "16"
       ]
     },
     {
@@ -448,7 +448,7 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "15",
+        "14",
         "14"
       ]
     },
@@ -457,7 +457,7 @@
         "(direct)"
       ],
       "metrics": [
-        "7",
+        "6",
         "4"
       ]
     },
@@ -490,15 +490,6 @@
     },
     {
       "dimensions": [
-        "bing"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "m.facebook.com"
       ],
       "metrics": [
@@ -517,11 +508,11 @@
     },
     {
       "dimensions": [
-        "yandex.ru"
+        "uk.search.yahoo.com"
       ],
       "metrics": [
         "1",
-        "1"
+        "0"
       ]
     }
   ],
@@ -531,17 +522,8 @@
         "Italy"
       ],
       "metrics": [
-        "19",
-        "15"
-      ]
-    },
-    {
-      "dimensions": [
-        "United Kingdom"
-      ],
-      "metrics": [
-        "9",
-        "7"
+        "17",
+        "14"
       ]
     },
     {
@@ -555,11 +537,29 @@
     },
     {
       "dimensions": [
+        "United Kingdom"
+      ],
+      "metrics": [
+        "6",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
         "Denmark"
       ],
       "metrics": [
-        "3",
+        "4",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Spain"
+      ],
+      "metrics": [
+        "4",
+        "3"
       ]
     },
     {
@@ -573,34 +573,7 @@
     },
     {
       "dimensions": [
-        "Spain"
-      ],
-      "metrics": [
-        "3",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "Austria"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "Israel"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "Luxembourg"
       ],
       "metrics": [
         "2",
@@ -615,20 +588,38 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "Austria"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Azerbaijan"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 59,
-    "users": 46,
-    "pageViews": 69,
-    "avgSessionDuration": 141,
+    "sessions": 53,
+    "users": 41,
+    "pageViews": 62,
+    "avgSessionDuration": 163,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 370,
-    "users": 243,
-    "pageViews": 606,
-    "avgSessionDuration": 215,
+    "sessions": 368,
+    "users": 240,
+    "pageViews": 601,
+    "avgSessionDuration": 217,
     "bounceRate": 0.4
   }
 }
