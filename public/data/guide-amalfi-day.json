@@ -1,7 +1,7 @@
 {
   "name": "guide.amalfi.day",
   "propertyId": "properties/533587112",
-  "updatedAt": "2026-10-26T10:52:24.489Z",
+  "updatedAt": "2026-10-27T10:16:57.235Z",
   "trend": [
     {
       "dimensions": [
@@ -34,53 +34,14 @@
       ]
     }
   ],
-  "topPages": [
-    {
-      "dimensions": [
-        "/"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/place/lo-smeraldino-amalfi"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    }
-  ],
-  "sources": [
-    {
-      "dimensions": [
-        "(direct)"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    }
-  ],
-  "countries": [
-    {
-      "dimensions": [
-        "Italy"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    }
-  ],
+  "topPages": [],
+  "sources": [],
+  "countries": [],
   "summary7d": {
-    "sessions": 1,
-    "users": 1,
-    "pageViews": 2,
-    "avgSessionDuration": 48,
+    "sessions": 0,
+    "users": 0,
+    "pageViews": 0,
+    "avgSessionDuration": 0,
     "bounceRate": 0
   },
   "summary30d": {

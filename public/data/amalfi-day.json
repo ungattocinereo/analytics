@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-10-26T10:52:23.914Z",
+  "updatedAt": "2026-10-27T10:16:56.558Z",
   "trend": [
     {
       "dimensions": [
@@ -31,16 +31,6 @@
         "21",
         "18",
         "29"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260926"
-      ],
-      "metrics": [
-        "20",
-        "16",
-        "26"
       ]
     },
     {
@@ -175,6 +165,16 @@
     },
     {
       "dimensions": [
+        "20261026"
+      ],
+      "metrics": [
+        "11",
+        "4",
+        "11"
+      ]
+    },
+    {
+      "dimensions": [
         "20261013"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20261026"
+        "20261027"
       ],
       "metrics": [
-        "2",
-        "0",
-        "2"
+        "1",
+        "1",
+        "4"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "29",
-        "28"
+        "27",
+        "27"
       ]
     },
     {
@@ -329,17 +329,8 @@
         "/directions/"
       ],
       "metrics": [
-        "8",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/ferry-timetables/"
-      ],
-      "metrics": [
-        "7",
-        "6"
+        "10",
+        "5"
       ]
     },
     {
@@ -347,8 +338,17 @@
         "/ferry-timetables"
       ],
       "metrics": [
-        "5",
-        "4"
+        "6",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/ferry-timetables/"
+      ],
+      "metrics": [
+        "4",
+        "3"
       ]
     },
     {
@@ -362,20 +362,20 @@
     },
     {
       "dimensions": [
-        "/parking"
+        "/photoshootings"
       ],
       "metrics": [
-        "2",
+        "4",
         "2"
       ]
     },
     {
       "dimensions": [
-        "/"
+        "/parking"
       ],
       "metrics": [
-        "1",
-        "1"
+        "2",
+        "2"
       ]
     },
     {
@@ -425,7 +425,7 @@
     },
     {
       "dimensions": [
-        "/photoshootings"
+        "/photoshootings/stephanie-positano/"
       ],
       "metrics": [
         "1",
@@ -440,7 +440,7 @@
       ],
       "metrics": [
         "22",
-        "16"
+        "14"
       ]
     },
     {
@@ -448,8 +448,8 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "14",
-        "14"
+        "11",
+        "11"
       ]
     },
     {
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "6",
-        "4"
+        "7",
+        "3"
       ]
     },
     {
@@ -472,6 +472,15 @@
     },
     {
       "dimensions": [
+        "yahoo"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
         "ecosia.org"
       ],
       "metrics": [
@@ -481,16 +490,16 @@
     },
     {
       "dimensions": [
-        "yahoo"
+        "(not set)"
       ],
       "metrics": [
-        "2",
-        "2"
+        "1",
+        "1"
       ]
     },
     {
       "dimensions": [
-        "m.facebook.com"
+        "bing"
       ],
       "metrics": [
         "1",
@@ -523,7 +532,7 @@
       ],
       "metrics": [
         "17",
-        "14"
+        "13"
       ]
     },
     {
@@ -537,10 +546,10 @@
     },
     {
       "dimensions": [
-        "United Kingdom"
+        "Spain"
       ],
       "metrics": [
-        "6",
+        "5",
         "3"
       ]
     },
@@ -550,16 +559,25 @@
       ],
       "metrics": [
         "4",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "United Kingdom"
+      ],
+      "metrics": [
+        "4",
         "2"
       ]
     },
     {
       "dimensions": [
-        "Spain"
+        "Bulgaria"
       ],
       "metrics": [
-        "4",
-        "3"
+        "3",
+        "1"
       ]
     },
     {
@@ -569,15 +587,6 @@
       "metrics": [
         "3",
         "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "Israel"
-      ],
-      "metrics": [
-        "2",
-        "2"
       ]
     },
     {
@@ -600,7 +609,7 @@
     },
     {
       "dimensions": [
-        "Azerbaijan"
+        "Chile"
       ],
       "metrics": [
         "1",
@@ -609,17 +618,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 53,
-    "users": 41,
-    "pageViews": 62,
-    "avgSessionDuration": 163,
+    "sessions": 52,
+    "users": 36,
+    "pageViews": 63,
+    "avgSessionDuration": 162,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 368,
-    "users": 240,
-    "pageViews": 601,
-    "avgSessionDuration": 217,
+    "sessions": 357,
+    "users": 232,
+    "pageViews": 588,
+    "avgSessionDuration": 221,
     "bounceRate": 0.4
   }
 }
