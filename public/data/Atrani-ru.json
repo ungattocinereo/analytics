@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-10-27T10:16:54.409Z",
+  "updatedAt": "2026-10-28T11:09:13.514Z",
   "trend": [
     {
       "dimensions": [
@@ -81,16 +81,6 @@
         "26",
         "26",
         "26"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260927"
-      ],
-      "metrics": [
-        "24",
-        "22",
-        "32"
       ]
     },
     {
@@ -225,6 +215,16 @@
     },
     {
       "dimensions": [
+        "20261027"
+      ],
+      "metrics": [
+        "13",
+        "13",
+        "16"
+      ]
+    },
+    {
+      "dimensions": [
         "20261018"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20261027"
+        "20261028"
       ],
       "metrics": [
-        "3",
-        "3",
-        "3"
+        "5",
+        "5",
+        "5"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "47",
-        "47"
+        "48",
+        "48"
       ]
     },
     {
@@ -338,8 +338,8 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "6",
-        "4"
+        "7",
+        "5"
       ]
     },
     {
@@ -347,8 +347,8 @@
         "/blog/le-palme-restauraunt-atrani"
       ],
       "metrics": [
-        "3",
-        "4"
+        "4",
+        "5"
       ]
     },
     {
@@ -363,6 +363,15 @@
     {
       "dimensions": [
         "/blog/atrani-samyi-siekrietnyi-ugholok-amalfitanskogho-pobieriezhia"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photos"
       ],
       "metrics": [
         "2",
@@ -390,15 +399,6 @@
     {
       "dimensions": [
         "/blog"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/10-faktov-o-kampanii-ot-samogho-malienkogho-ghorodka-italii-do-posliedniegho-izvierzhieniia-viezuviia"
       ],
       "metrics": [
         "1",
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "52",
-        "52"
+        "56",
+        "56"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "google"
       ],
       "metrics": [
-        "9",
-        "8"
+        "8",
+        "7"
       ]
     },
     {
@@ -513,8 +513,8 @@
         "Russia"
       ],
       "metrics": [
-        "57",
-        "56"
+        "58",
+        "57"
       ]
     },
     {
@@ -522,8 +522,17 @@
         "(not set)"
       ],
       "metrics": [
-        "7",
-        "7"
+        "8",
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "Italy"
+      ],
+      "metrics": [
+        "4",
+        "3"
       ]
     },
     {
@@ -546,16 +555,7 @@
     },
     {
       "dimensions": [
-        "Italy"
-      ],
-      "metrics": [
-        "3",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        ""
+        "Argentina"
       ],
       "metrics": [
         "2",
@@ -564,7 +564,16 @@
     },
     {
       "dimensions": [
-        "Argentina"
+        "China"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        ""
       ],
       "metrics": [
         "1",
@@ -582,16 +591,7 @@
     },
     {
       "dimensions": [
-        "Belarus"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "China"
+        "Israel"
       ],
       "metrics": [
         "1",
@@ -600,17 +600,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 84,
-    "users": 82,
-    "pageViews": 87,
-    "avgSessionDuration": 96,
-    "bounceRate": 0.8
+    "sessions": 87,
+    "users": 85,
+    "pageViews": 92,
+    "avgSessionDuration": 69,
+    "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 588,
-    "users": 541,
-    "pageViews": 769,
-    "avgSessionDuration": 84,
+    "sessions": 579,
+    "users": 534,
+    "pageViews": 755,
+    "avgSessionDuration": 83,
     "bounceRate": 0.7
   }
 }

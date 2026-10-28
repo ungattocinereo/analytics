@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-10-27T10:16:56.558Z",
+  "updatedAt": "2026-10-28T11:09:16.115Z",
   "trend": [
     {
       "dimensions": [
@@ -101,16 +101,6 @@
         "14",
         "10",
         "21"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260927"
-      ],
-      "metrics": [
-        "13",
-        "12",
-        "26"
       ]
     },
     {
@@ -265,6 +255,16 @@
     },
     {
       "dimensions": [
+        "20261027"
+      ],
+      "metrics": [
+        "5",
+        "4",
+        "15"
+      ]
+    },
+    {
+      "dimensions": [
         "20261021"
       ],
       "metrics": [
@@ -295,22 +295,22 @@
     },
     {
       "dimensions": [
+        "20261028"
+      ],
+      "metrics": [
+        "3",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
         "20261020"
       ],
       "metrics": [
         "2",
         "2",
         "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "20261027"
-      ],
-      "metrics": [
-        "1",
-        "1",
-        "4"
       ]
     }
   ],
@@ -338,8 +338,8 @@
         "/ferry-timetables"
       ],
       "metrics": [
-        "6",
-        "5"
+        "7",
+        "6"
       ]
     },
     {
@@ -347,8 +347,17 @@
         "/ferry-timetables/"
       ],
       "metrics": [
-        "4",
-        "3"
+        "7",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photoshootings"
+      ],
+      "metrics": [
+        "7",
+        "4"
       ]
     },
     {
@@ -358,15 +367,6 @@
       "metrics": [
         "4",
         "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photoshootings"
-      ],
-      "metrics": [
-        "4",
-        "2"
       ]
     },
     {
@@ -389,7 +389,7 @@
     },
     {
       "dimensions": [
-        "/blog/amalfi-coast-launches-metro-style-bus-network/"
+        "/beaches"
       ],
       "metrics": [
         "1",
@@ -416,6 +416,15 @@
     },
     {
       "dimensions": [
+        "/experience"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "/experience/car-tours"
       ],
       "metrics": [
@@ -425,7 +434,16 @@
     },
     {
       "dimensions": [
-        "/photoshootings/stephanie-positano/"
+        "/photoshootings/hinad-amalfi-sunrise/"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photoshootings/lashada"
       ],
       "metrics": [
         "1",
@@ -439,8 +457,8 @@
         "google"
       ],
       "metrics": [
-        "22",
-        "14"
+        "25",
+        "16"
       ]
     },
     {
@@ -448,8 +466,8 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "11",
-        "11"
+        "12",
+        "12"
       ]
     },
     {
@@ -481,28 +499,19 @@
     },
     {
       "dimensions": [
+        "bing"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "ecosia.org"
       ],
       "metrics": [
         "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "(not set)"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "bing"
-      ],
-      "metrics": [
-        "1",
         "1"
       ]
     },
@@ -540,8 +549,8 @@
         "United States"
       ],
       "metrics": [
-        "9",
-        "8"
+        "11",
+        "9"
       ]
     },
     {
@@ -591,25 +600,25 @@
     },
     {
       "dimensions": [
+        "France"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Germany"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "Australia"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Austria"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Chile"
       ],
       "metrics": [
         "1",
@@ -618,17 +627,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 52,
-    "users": 36,
-    "pageViews": 63,
+    "sessions": 57,
+    "users": 40,
+    "pageViews": 76,
     "avgSessionDuration": 162,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 357,
-    "users": 232,
-    "pageViews": 588,
-    "avgSessionDuration": 221,
+    "sessions": 351,
+    "users": 228,
+    "pageViews": 577,
+    "avgSessionDuration": 210,
     "bounceRate": 0.4
   }
 }
