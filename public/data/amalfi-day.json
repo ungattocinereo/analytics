@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-10-28T11:09:16.115Z",
+  "updatedAt": "2026-10-29T11:22:26.471Z",
   "trend": [
     {
       "dimensions": [
@@ -81,16 +81,6 @@
         "16",
         "11",
         "24"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260928"
-      ],
-      "metrics": [
-        "14",
-        "10",
-        "23"
       ]
     },
     {
@@ -195,6 +185,16 @@
     },
     {
       "dimensions": [
+        "20261028"
+      ],
+      "metrics": [
+        "10",
+        "9",
+        "14"
+      ]
+    },
+    {
+      "dimensions": [
         "20261001"
       ],
       "metrics": [
@@ -295,17 +295,17 @@
     },
     {
       "dimensions": [
-        "20261028"
+        "20261020"
       ],
       "metrics": [
-        "3",
-        "3",
-        "4"
+        "2",
+        "2",
+        "2"
       ]
     },
     {
       "dimensions": [
-        "20261020"
+        "20261029"
       ],
       "metrics": [
         "2",
@@ -320,8 +320,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "27",
-        "27"
+        "35",
+        "32"
       ]
     },
     {
@@ -335,20 +335,11 @@
     },
     {
       "dimensions": [
-        "/ferry-timetables"
-      ],
-      "metrics": [
-        "7",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
         "/ferry-timetables/"
       ],
       "metrics": [
-        "7",
-        "5"
+        "9",
+        "7"
       ]
     },
     {
@@ -356,8 +347,17 @@
         "/photoshootings"
       ],
       "metrics": [
-        "7",
-        "4"
+        "8",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/ferry-timetables"
+      ],
+      "metrics": [
+        "6",
+        "5"
       ]
     },
     {
@@ -380,15 +380,6 @@
     },
     {
       "dimensions": [
-        "/apartments"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "/beaches"
       ],
       "metrics": [
@@ -407,25 +398,7 @@
     },
     {
       "dimensions": [
-        "/contact"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "/experience"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/experience/car-tours"
       ],
       "metrics": [
         "1",
@@ -444,6 +417,33 @@
     {
       "dimensions": [
         "/photoshootings/lashada"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photoshootings/nick-family-praiano/"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photoshootings/sally-rose-family-positano/"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photoshootings/shifa/"
       ],
       "metrics": [
         "1",
@@ -475,8 +475,8 @@
         "(direct)"
       ],
       "metrics": [
-        "7",
-        "3"
+        "11",
+        "6"
       ]
     },
     {
@@ -484,7 +484,7 @@
         "duckduckgo"
       ],
       "metrics": [
-        "4",
+        "3",
         "2"
       ]
     },
@@ -517,7 +517,7 @@
     },
     {
       "dimensions": [
-        "startpage.com"
+        "(not set)"
       ],
       "metrics": [
         "1",
@@ -526,11 +526,20 @@
     },
     {
       "dimensions": [
-        "uk.search.yahoo.com"
+        "facebook.com"
       ],
       "metrics": [
         "1",
-        "0"
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "startpage.com"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     }
   ],
@@ -549,8 +558,26 @@
         "United States"
       ],
       "metrics": [
-        "11",
-        "9"
+        "9",
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "France"
+      ],
+      "metrics": [
+        "5",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "Netherlands"
+      ],
+      "metrics": [
+        "5",
+        "5"
       ]
     },
     {
@@ -591,16 +618,7 @@
     },
     {
       "dimensions": [
-        "Netherlands"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "France"
+        "Austria"
       ],
       "metrics": [
         "2",
@@ -615,29 +633,20 @@
         "2",
         "2"
       ]
-    },
-    {
-      "dimensions": [
-        "Australia"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 57,
-    "users": 40,
-    "pageViews": 76,
-    "avgSessionDuration": 162,
+    "sessions": 62,
+    "users": 44,
+    "pageViews": 83,
+    "avgSessionDuration": 171,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 351,
+    "sessions": 346,
     "users": 228,
-    "pageViews": 577,
-    "avgSessionDuration": 210,
+    "pageViews": 566,
+    "avgSessionDuration": 200,
     "bounceRate": 0.4
   }
 }

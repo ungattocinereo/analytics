@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-10-28T11:09:13.514Z",
+  "updatedAt": "2026-10-29T11:22:25.199Z",
   "trend": [
     {
       "dimensions": [
@@ -51,16 +51,6 @@
         "32",
         "26",
         "67"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260928"
-      ],
-      "metrics": [
-        "30",
-        "27",
-        "32"
       ]
     },
     {
@@ -171,6 +161,16 @@
         "16",
         "15",
         "18"
+      ]
+    },
+    {
+      "dimensions": [
+        "20261028"
+      ],
+      "metrics": [
+        "15",
+        "15",
+        "17"
       ]
     },
     {
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20261028"
+        "20261029"
       ],
       "metrics": [
-        "5",
-        "5",
-        "5"
+        "2",
+        "2",
+        "2"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "48",
-        "48"
+        "51",
+        "50"
       ]
     },
     {
@@ -347,31 +347,22 @@
         "/blog/le-palme-restauraunt-atrani"
       ],
       "metrics": [
-        "4",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/atrani-for-lovers-part-1"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/atrani-samyi-siekrietnyi-ugholok-amalfitanskogho-pobieriezhia"
-      ],
-      "metrics": [
-        "2",
-        "2"
+        "5",
+        "6"
       ]
     },
     {
       "dimensions": [
         "/photos"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/atrani-samyi-siekrietnyi-ugholok-amalfitanskogho-pobieriezhia"
       ],
       "metrics": [
         "2",
@@ -398,15 +389,6 @@
     },
     {
       "dimensions": [
-        "/blog"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/2018-4-28"
       ],
       "metrics": [
@@ -425,6 +407,15 @@
     },
     {
       "dimensions": [
+        "/blog/atrani-for-lovers-part-1"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "/blog/auto-car-roads-amalfi-atrani"
       ],
       "metrics": [
@@ -434,7 +425,7 @@
     },
     {
       "dimensions": [
-        "/blog/colatura-di-alici-di-cetara"
+        "/blog/giorgio-armani-vybral-raviello-dlia-kampanii-mare-2026"
       ],
       "metrics": [
         "1",
@@ -443,7 +434,16 @@
     },
     {
       "dimensions": [
-        "/blog/giorgio-armani-vybral-raviello-dlia-kampanii-mare-2026"
+        "/blog/mozarella-buffala-campania-italia"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/novosti-s-amalfi-tiepier-kazhdyi-dien-v-telegram"
       ],
       "metrics": [
         "1",
@@ -466,7 +466,7 @@
         "yandex.ru"
       ],
       "metrics": [
-        "18",
+        "19",
         "17"
       ]
     },
@@ -499,7 +499,7 @@
     },
     {
       "dimensions": [
-        "m.facebook.com"
+        "yandex.by"
       ],
       "metrics": [
         "1",
@@ -513,7 +513,7 @@
         "Russia"
       ],
       "metrics": [
-        "58",
+        "59",
         "57"
       ]
     },
@@ -546,11 +546,11 @@
     },
     {
       "dimensions": [
-        "United States"
+        "China"
       ],
       "metrics": [
-        "4",
-        "4"
+        "3",
+        "3"
       ]
     },
     {
@@ -564,7 +564,7 @@
     },
     {
       "dimensions": [
-        "China"
+        "United States"
       ],
       "metrics": [
         "2",
@@ -591,7 +591,7 @@
     },
     {
       "dimensions": [
-        "Israel"
+        "Belarus"
       ],
       "metrics": [
         "1",
@@ -600,17 +600,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 87,
+    "sessions": 88,
     "users": 85,
-    "pageViews": 92,
-    "avgSessionDuration": 69,
-    "bounceRate": 0.7
+    "pageViews": 95,
+    "avgSessionDuration": 78,
+    "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 579,
-    "users": 534,
-    "pageViews": 755,
-    "avgSessionDuration": 83,
+    "sessions": 561,
+    "users": 519,
+    "pageViews": 737,
+    "avgSessionDuration": 84,
     "bounceRate": 0.7
   }
 }
