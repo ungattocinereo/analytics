@@ -2,64 +2,64 @@
   "Atrani.ru": {
     "name": "Atrani.ru",
     "propertyId": "properties/353046676",
-    "updatedAt": "2026-10-29T11:22:28.701Z",
+    "updatedAt": "2026-10-30T11:14:37.249Z",
     "summary7d": {
-      "sessions": 88,
+      "sessions": 91,
       "users": 85,
-      "pageViews": 95,
-      "avgSessionDuration": 78,
-      "bounceRate": 0.8
+      "pageViews": 98,
+      "avgSessionDuration": 76,
+      "bounceRate": 0.7
     },
     "summary30d": {
-      "sessions": 561,
-      "users": 519,
-      "pageViews": 737,
-      "avgSessionDuration": 84,
+      "sessions": 546,
+      "users": 507,
+      "pageViews": 720,
+      "avgSessionDuration": 73,
       "bounceRate": 0.7
     }
   },
   "Cinereo.it": {
     "name": "Cinereo.it",
     "propertyId": "properties/362803366",
-    "updatedAt": "2026-10-29T11:22:28.813Z",
+    "updatedAt": "2026-10-30T11:14:37.367Z",
     "summary7d": {
       "sessions": 7,
       "users": 1,
-      "pageViews": 9,
-      "avgSessionDuration": 236,
-      "bounceRate": 0.7
+      "pageViews": 8,
+      "avgSessionDuration": 2,
+      "bounceRate": 0.9
     },
     "summary30d": {
-      "sessions": 34,
+      "sessions": 35,
       "users": 12,
-      "pageViews": 116,
-      "avgSessionDuration": 418,
+      "pageViews": 117,
+      "avgSessionDuration": 406,
       "bounceRate": 0.6
     }
   },
   "amalfi.day": {
     "name": "amalfi.day",
     "propertyId": "properties/306713351",
-    "updatedAt": "2026-10-29T11:22:28.891Z",
+    "updatedAt": "2026-10-30T11:14:37.476Z",
     "summary7d": {
-      "sessions": 62,
-      "users": 44,
-      "pageViews": 83,
-      "avgSessionDuration": 171,
+      "sessions": 55,
+      "users": 38,
+      "pageViews": 70,
+      "avgSessionDuration": 123,
       "bounceRate": 0.4
     },
     "summary30d": {
-      "sessions": 346,
-      "users": 228,
-      "pageViews": 566,
-      "avgSessionDuration": 200,
+      "sessions": 327,
+      "users": 223,
+      "pageViews": 492,
+      "avgSessionDuration": 188,
       "bounceRate": 0.4
     }
   },
   "guide.amalfi.day": {
     "name": "guide.amalfi.day",
     "propertyId": "properties/533587112",
-    "updatedAt": "2026-10-29T11:22:28.973Z",
+    "updatedAt": "2026-10-30T11:14:38.507Z",
     "summary7d": {
       "sessions": 0,
       "users": 0,
@@ -78,64 +78,64 @@
   "find.amalfi.day": {
     "name": "find.amalfi.day",
     "propertyId": "properties/531159837",
-    "updatedAt": "2026-10-29T11:22:29.066Z",
+    "updatedAt": "2026-10-30T11:14:38.632Z",
     "summary7d": {
-      "sessions": 13,
+      "sessions": 10,
       "users": 6,
-      "pageViews": 22,
-      "avgSessionDuration": 135,
-      "bounceRate": 0.7
+      "pageViews": 12,
+      "avgSessionDuration": 40,
+      "bounceRate": 0.8
     },
     "summary30d": {
-      "sessions": 133,
-      "users": 63,
-      "pageViews": 262,
-      "avgSessionDuration": 197,
+      "sessions": 125,
+      "users": 61,
+      "pageViews": 243,
+      "avgSessionDuration": 188,
       "bounceRate": 0.4
     }
   },
   "Ceramiche Da Mario": {
     "name": "Ceramiche Da Mario",
     "propertyId": "properties/529437415",
-    "updatedAt": "2026-10-29T11:22:48.922Z",
+    "updatedAt": "2026-10-30T11:14:39.729Z",
     "summary7d": {
-      "sessions": 104,
+      "sessions": 105,
       "users": 94,
-      "pageViews": 240,
-      "avgSessionDuration": 51,
+      "pageViews": 242,
+      "avgSessionDuration": 49,
       "bounceRate": 0.6
     },
     "summary30d": {
-      "sessions": 423,
+      "sessions": 426,
       "users": 381,
-      "pageViews": 1154,
-      "avgSessionDuration": 88,
+      "pageViews": 1142,
+      "avgSessionDuration": 87,
       "bounceRate": 0.5
     }
   },
   "Moto Excursions": {
     "name": "Moto Excursions",
     "propertyId": "properties/533663747",
-    "updatedAt": "2026-10-29T11:22:49.396Z",
+    "updatedAt": "2026-10-30T11:14:40.314Z",
     "summary7d": {
-      "sessions": 36,
-      "users": 24,
-      "pageViews": 75,
-      "avgSessionDuration": 146,
+      "sessions": 37,
+      "users": 26,
+      "pageViews": 82,
+      "avgSessionDuration": 152,
       "bounceRate": 0.4
     },
     "summary30d": {
-      "sessions": 80,
-      "users": 63,
-      "pageViews": 186,
-      "avgSessionDuration": 145,
+      "sessions": 82,
+      "users": 65,
+      "pageViews": 196,
+      "avgSessionDuration": 148,
       "bounceRate": 0.4
     }
   },
   "Katerina": {
     "name": "Katerina",
     "propertyId": "properties/532751253",
-    "updatedAt": "2026-10-29T11:22:49.957Z",
+    "updatedAt": "2026-10-30T11:14:41.068Z",
     "summary7d": {
       "sessions": 6,
       "users": 5,
@@ -144,36 +144,36 @@
       "bounceRate": 0.5
     },
     "summary30d": {
-      "sessions": 25,
-      "users": 22,
-      "pageViews": 34,
-      "avgSessionDuration": 160,
+      "sessions": 24,
+      "users": 21,
+      "pageViews": 33,
+      "avgSessionDuration": 166,
       "bounceRate": 0.5
     }
   },
   "Masha": {
     "name": "Masha",
     "propertyId": "properties/533601370",
-    "updatedAt": "2026-10-29T11:22:50.496Z",
+    "updatedAt": "2026-10-30T11:14:41.584Z",
     "summary7d": {
-      "sessions": 13,
-      "users": 10,
-      "pageViews": 13,
-      "avgSessionDuration": 61,
+      "sessions": 11,
+      "users": 8,
+      "pageViews": 11,
+      "avgSessionDuration": 59,
       "bounceRate": 0.7
     },
     "summary30d": {
-      "sessions": 48,
+      "sessions": 47,
       "users": 39,
-      "pageViews": 48,
-      "avgSessionDuration": 46,
+      "pageViews": 47,
+      "avgSessionDuration": 47,
       "bounceRate": 0.7
     }
   },
   "Landing (menu.band)": {
     "name": "Landing (menu.band)",
     "propertyId": "properties/529373394",
-    "updatedAt": "2026-10-29T11:22:50.927Z",
+    "updatedAt": "2026-10-30T11:14:41.823Z",
     "summary7d": {
       "sessions": 0,
       "users": 0,
@@ -192,26 +192,26 @@
   "Le Palme": {
     "name": "Le Palme",
     "propertyId": "properties/529531573",
-    "updatedAt": "2026-10-29T11:22:51.437Z",
+    "updatedAt": "2026-10-30T11:14:42.413Z",
     "summary7d": {
-      "sessions": 21,
+      "sessions": 20,
       "users": 16,
-      "pageViews": 37,
-      "avgSessionDuration": 504,
-      "bounceRate": 0.2
+      "pageViews": 36,
+      "avgSessionDuration": 526,
+      "bounceRate": 0.3
     },
     "summary30d": {
-      "sessions": 123,
-      "users": 85,
-      "pageViews": 164,
-      "avgSessionDuration": 215,
+      "sessions": 119,
+      "users": 81,
+      "pageViews": 160,
+      "avgSessionDuration": 221,
       "bounceRate": 0.5
     }
   },
   "Birecto": {
     "name": "Birecto",
     "propertyId": "properties/532901805",
-    "updatedAt": "2026-10-29T11:22:51.749Z",
+    "updatedAt": "2026-10-30T11:14:42.777Z",
     "summary7d": {
       "sessions": 0,
       "users": 0,
@@ -230,19 +230,19 @@
   "Vittoria": {
     "name": "Vittoria",
     "propertyId": "properties/533254667",
-    "updatedAt": "2026-10-29T11:22:52.467Z",
+    "updatedAt": "2026-10-30T11:14:43.309Z",
     "summary7d": {
-      "sessions": 8,
+      "sessions": 7,
       "users": 3,
-      "pageViews": 8,
-      "avgSessionDuration": 14,
+      "pageViews": 7,
+      "avgSessionDuration": 16,
       "bounceRate": 0.9
     },
     "summary30d": {
-      "sessions": 69,
-      "users": 40,
-      "pageViews": 78,
-      "avgSessionDuration": 160,
+      "sessions": 64,
+      "users": 37,
+      "pageViews": 72,
+      "avgSessionDuration": 149,
       "bounceRate": 0.7
     }
   }

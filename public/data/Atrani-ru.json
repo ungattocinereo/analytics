@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-10-29T11:22:25.199Z",
+  "updatedAt": "2026-10-30T11:14:34.442Z",
   "trend": [
     {
       "dimensions": [
@@ -21,16 +21,6 @@
         "33",
         "31",
         "40"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260929"
-      ],
-      "metrics": [
-        "32",
-        "27",
-        "34"
       ]
     },
     {
@@ -175,6 +165,16 @@
     },
     {
       "dimensions": [
+        "20261029"
+      ],
+      "metrics": [
+        "15",
+        "12",
+        "15"
+      ]
+    },
+    {
+      "dimensions": [
         "20261014"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20261029"
+        "20261030"
       ],
       "metrics": [
-        "2",
-        "2",
-        "2"
+        "4",
+        "4",
+        "4"
       ]
     }
   ],
@@ -320,8 +320,17 @@
         "/"
       ],
       "metrics": [
-        "51",
-        "50"
+        "49",
+        "48"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
+      ],
+      "metrics": [
+        "9",
+        "7"
       ]
     },
     {
@@ -335,20 +344,20 @@
     },
     {
       "dimensions": [
-        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
-      ],
-      "metrics": [
-        "7",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/le-palme-restauraunt-atrani"
       ],
       "metrics": [
         "5",
         "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/atrani-samyi-siekrietnyi-ugholok-amalfitanskogho-pobieriezhia"
+      ],
+      "metrics": [
+        "3",
+        "3"
       ]
     },
     {
@@ -362,25 +371,34 @@
     },
     {
       "dimensions": [
-        "/blog/atrani-samyi-siekrietnyi-ugholok-amalfitanskogho-pobieriezhia"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "/transport"
       ],
       "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/atrani-for-lovers-part-1"
+      ],
+      "metrics": [
         "2",
         "2"
       ]
     },
     {
       "dimensions": [
-        "//checkout/"
+        "/atrani-render-preview"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog"
       ],
       "metrics": [
         "1",
@@ -407,25 +425,7 @@
     },
     {
       "dimensions": [
-        "/blog/atrani-for-lovers-part-1"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/auto-car-roads-amalfi-atrani"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/giorgio-armani-vybral-raviello-dlia-kampanii-mare-2026"
       ],
       "metrics": [
         "1",
@@ -458,7 +458,7 @@
       ],
       "metrics": [
         "56",
-        "56"
+        "54"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "19",
-        "17"
+        "20",
+        "18"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "google"
       ],
       "metrics": [
-        "8",
-        "7"
+        "10",
+        "8"
       ]
     },
     {
@@ -490,7 +490,7 @@
     },
     {
       "dimensions": [
-        "google.com"
+        "m.facebook.com"
       ],
       "metrics": [
         "1",
@@ -513,8 +513,8 @@
         "Russia"
       ],
       "metrics": [
-        "59",
-        "57"
+        "56",
+        "53"
       ]
     },
     {
@@ -531,13 +531,13 @@
         "Italy"
       ],
       "metrics": [
-        "4",
-        "3"
+        "7",
+        "4"
       ]
     },
     {
       "dimensions": [
-        "United Kingdom"
+        "China"
       ],
       "metrics": [
         "4",
@@ -546,7 +546,16 @@
     },
     {
       "dimensions": [
-        "China"
+        "United States"
+      ],
+      "metrics": [
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "United Kingdom"
       ],
       "metrics": [
         "3",
@@ -564,7 +573,7 @@
     },
     {
       "dimensions": [
-        "United States"
+        "Netherlands"
       ],
       "metrics": [
         "2",
@@ -588,29 +597,20 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "Belarus"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 88,
+    "sessions": 91,
     "users": 85,
-    "pageViews": 95,
-    "avgSessionDuration": 78,
-    "bounceRate": 0.8
+    "pageViews": 98,
+    "avgSessionDuration": 76,
+    "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 561,
-    "users": 519,
-    "pageViews": 737,
-    "avgSessionDuration": 84,
+    "sessions": 546,
+    "users": 507,
+    "pageViews": 720,
+    "avgSessionDuration": 73,
     "bounceRate": 0.7
   }
 }
