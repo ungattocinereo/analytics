@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-10-30T11:14:35.854Z",
+  "updatedAt": "2026-10-31T10:48:07.101Z",
   "trend": [
     {
       "dimensions": [
@@ -41,16 +41,6 @@
         "19",
         "13",
         "45"
-      ]
-    },
-    {
-      "dimensions": [
-        "20260930"
-      ],
-      "metrics": [
-        "17",
-        "9",
-        "28"
       ]
     },
     {
@@ -189,7 +179,7 @@
       ],
       "metrics": [
         "10",
-        "8",
+        "7",
         "10"
       ]
     },
@@ -231,6 +221,16 @@
         "8",
         "7",
         "11"
+      ]
+    },
+    {
+      "dimensions": [
+        "20261030"
+      ],
+      "metrics": [
+        "7",
+        "2",
+        "7"
       ]
     },
     {
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20261030"
+        "20261031"
       ],
       "metrics": [
-        "2",
         "1",
-        "2"
+        "1",
+        "1"
       ]
     }
   ],
@@ -326,15 +326,6 @@
     },
     {
       "dimensions": [
-        "/ferry-timetables/"
-      ],
-      "metrics": [
-        "10",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
         "/photoshootings"
       ],
       "metrics": [
@@ -344,11 +335,20 @@
     },
     {
       "dimensions": [
-        "/parking/"
+        "/ferry-timetables/"
       ],
       "metrics": [
         "6",
-        "6"
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/parking/"
+      ],
+      "metrics": [
+        "5",
+        "5"
       ]
     },
     {
@@ -362,7 +362,7 @@
     },
     {
       "dimensions": [
-        "/blog/transport-strike-this-friday-what-amalfi-coast-visitors-need-to-know/"
+        "/ferry-timetables"
       ],
       "metrics": [
         "2",
@@ -371,7 +371,7 @@
     },
     {
       "dimensions": [
-        "/ferry-timetables"
+        "/photoshootings/shifa/"
       ],
       "metrics": [
         "2",
@@ -398,7 +398,7 @@
     },
     {
       "dimensions": [
-        "/experience"
+        "/blog/transport-strike-this-friday-what-amalfi-coast-visitors-need-to-know/"
       ],
       "metrics": [
         "1",
@@ -407,7 +407,7 @@
     },
     {
       "dimensions": [
-        "/parking"
+        "/experience"
       ],
       "metrics": [
         "1",
@@ -457,8 +457,8 @@
         "google"
       ],
       "metrics": [
-        "24",
-        "18"
+        "20",
+        "15"
       ]
     },
     {
@@ -466,7 +466,7 @@
         "(direct)"
       ],
       "metrics": [
-        "12",
+        "16",
         "5"
       ]
     },
@@ -475,8 +475,8 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "7",
-        "7"
+        "5",
+        "5"
       ]
     },
     {
@@ -486,15 +486,6 @@
       "metrics": [
         "3",
         "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "ecosia.org"
-      ],
-      "metrics": [
-        "2",
-        "1"
       ]
     },
     {
@@ -509,15 +500,6 @@
     {
       "dimensions": [
         "(not set)"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "duckduckgo"
       ],
       "metrics": [
         "1",
@@ -541,6 +523,15 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "uk.search.yahoo.com"
+      ],
+      "metrics": [
+        "1",
+        "0"
+      ]
     }
   ],
   "countries": [
@@ -550,7 +541,7 @@
       ],
       "metrics": [
         "15",
-        "10"
+        "7"
       ]
     },
     {
@@ -558,8 +549,8 @@
         "United States"
       ],
       "metrics": [
-        "8",
-        "7"
+        "7",
+        "6"
       ]
     },
     {
@@ -573,33 +564,6 @@
     },
     {
       "dimensions": [
-        "Netherlands"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "Spain"
-      ],
-      "metrics": [
-        "4",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "United Kingdom"
-      ],
-      "metrics": [
-        "4",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
         "Bulgaria"
       ],
       "metrics": [
@@ -609,10 +573,28 @@
     },
     {
       "dimensions": [
-        "Austria"
+        "Netherlands"
       ],
       "metrics": [
-        "2",
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "Poland"
+      ],
+      "metrics": [
+        "3",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "United Kingdom"
+      ],
+      "metrics": [
+        "3",
         "2"
       ]
     },
@@ -627,7 +609,16 @@
     },
     {
       "dimensions": [
-        "Poland"
+        "India"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Spain"
       ],
       "metrics": [
         "2",
@@ -636,17 +627,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 55,
-    "users": 38,
-    "pageViews": 70,
-    "avgSessionDuration": 123,
+    "sessions": 50,
+    "users": 31,
+    "pageViews": 64,
+    "avgSessionDuration": 95,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 327,
-    "users": 223,
-    "pageViews": 492,
-    "avgSessionDuration": 188,
+    "sessions": 316,
+    "users": 219,
+    "pageViews": 470,
+    "avgSessionDuration": 178,
     "bounceRate": 0.4
   }
 }
