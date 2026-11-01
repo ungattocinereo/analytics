@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-10-31T10:48:07.101Z",
+  "updatedAt": "2026-11-01T11:45:20.571Z",
   "trend": [
     {
       "dimensions": [
@@ -185,16 +185,6 @@
     },
     {
       "dimensions": [
-        "20261001"
-      ],
-      "metrics": [
-        "9",
-        "6",
-        "20"
-      ]
-    },
-    {
-      "dimensions": [
         "20261004"
       ],
       "metrics": [
@@ -265,6 +255,16 @@
     },
     {
       "dimensions": [
+        "20261031"
+      ],
+      "metrics": [
+        "5",
+        "5",
+        "12"
+      ]
+    },
+    {
+      "dimensions": [
         "20261021"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20261031"
+        "20261101"
       ],
       "metrics": [
-        "1",
-        "1",
-        "1"
+        "2",
+        "2",
+        "2"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "29",
-        "26"
+        "32",
+        "29"
       ]
     },
     {
@@ -329,7 +329,7 @@
         "/photoshootings"
       ],
       "metrics": [
-        "8",
+        "12",
         "5"
       ]
     },
@@ -362,6 +362,15 @@
     },
     {
       "dimensions": [
+        "/"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "/ferry-timetables"
       ],
       "metrics": [
@@ -376,15 +385,6 @@
       "metrics": [
         "2",
         "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/"
-      ],
-      "metrics": [
-        "1",
-        "1"
       ]
     },
     {
@@ -408,6 +408,15 @@
     {
       "dimensions": [
         "/experience"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/experience/scooter"
       ],
       "metrics": [
         "1",
@@ -440,15 +449,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "/photoshootings/sally-rose-family-positano/"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "sources": [
@@ -457,8 +457,8 @@
         "google"
       ],
       "metrics": [
-        "20",
-        "15"
+        "19",
+        "14"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "(direct)"
       ],
       "metrics": [
-        "16",
-        "5"
+        "15",
+        "4"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "5",
-        "5"
+        "8",
+        "8"
       ]
     },
     {
@@ -484,8 +484,8 @@
         "bing"
       ],
       "metrics": [
-        "3",
-        "2"
+        "4",
+        "3"
       ]
     },
     {
@@ -500,6 +500,15 @@
     {
       "dimensions": [
         "(not set)"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "duckduckgo"
       ],
       "metrics": [
         "1",
@@ -540,8 +549,8 @@
         "Italy"
       ],
       "metrics": [
-        "15",
-        "7"
+        "17",
+        "9"
       ]
     },
     {
@@ -549,8 +558,8 @@
         "United States"
       ],
       "metrics": [
-        "7",
-        "6"
+        "6",
+        "5"
       ]
     },
     {
@@ -564,6 +573,15 @@
     },
     {
       "dimensions": [
+        "Poland"
+      ],
+      "metrics": [
+        "4",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "Bulgaria"
       ],
       "metrics": [
@@ -573,20 +591,11 @@
     },
     {
       "dimensions": [
-        "Netherlands"
+        "Spain"
       ],
       "metrics": [
         "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "Poland"
-      ],
-      "metrics": [
-        "3",
-        "1"
+        "2"
       ]
     },
     {
@@ -618,26 +627,26 @@
     },
     {
       "dimensions": [
-        "Spain"
+        "Netherlands"
       ],
       "metrics": [
         "2",
-        "1"
+        "2"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 50,
-    "users": 31,
-    "pageViews": 64,
-    "avgSessionDuration": 95,
+    "sessions": 53,
+    "users": 34,
+    "pageViews": 74,
+    "avgSessionDuration": 105,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 316,
-    "users": 219,
-    "pageViews": 470,
-    "avgSessionDuration": 178,
+    "sessions": 313,
+    "users": 221,
+    "pageViews": 463,
+    "avgSessionDuration": 174,
     "bounceRate": 0.4
   }
 }

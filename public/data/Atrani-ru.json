@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-10-31T10:48:05.541Z",
+  "updatedAt": "2026-11-01T11:45:18.790Z",
   "trend": [
     {
       "dimensions": [
@@ -21,16 +21,6 @@
         "33",
         "31",
         "40"
-      ]
-    },
-    {
-      "dimensions": [
-        "20261001"
-      ],
-      "metrics": [
-        "32",
-        "26",
-        "67"
       ]
     },
     {
@@ -295,6 +285,16 @@
     },
     {
       "dimensions": [
+        "20261031"
+      ],
+      "metrics": [
+        "9",
+        "9",
+        "10"
+      ]
+    },
+    {
+      "dimensions": [
         "20261016"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20261031"
+        "20261101"
       ],
       "metrics": [
-        "3",
-        "3",
-        "4"
+        "6",
+        "6",
+        "11"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "52",
-        "51"
+        "51",
+        "50"
       ]
     },
     {
@@ -353,6 +353,15 @@
     },
     {
       "dimensions": [
+        "/contacts"
+      ],
+      "metrics": [
+        "5",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
         "/photos"
       ],
       "metrics": [
@@ -362,16 +371,16 @@
     },
     {
       "dimensions": [
-        "/contacts"
+        "/blog"
       ],
       "metrics": [
-        "4",
+        "2",
         "2"
       ]
     },
     {
       "dimensions": [
-        "/blog"
+        "/blog/2019-11-15"
       ],
       "metrics": [
         "2",
@@ -425,15 +434,6 @@
     },
     {
       "dimensions": [
-        "/blog/2019-11-15"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/atrani-for-lovers-part-1"
       ],
       "metrics": [
@@ -443,7 +443,7 @@
     },
     {
       "dimensions": [
-        "/blog/auto-car-roads-amalfi-atrani"
+        "/blog/atrani-na-dva-dnia-stal-ghorodom-knigh-i-skulptur-u-moria"
       ],
       "metrics": [
         "1",
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "61",
-        "59"
+        "62",
+        "60"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "19",
-        "16"
+        "18",
+        "15"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "google"
       ],
       "metrics": [
-        "10",
-        "8"
+        "12",
+        "10"
       ]
     },
     {
@@ -486,6 +486,15 @@
       "metrics": [
         "3",
         "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "(not set)"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     },
     {
@@ -513,13 +522,22 @@
         "Russia"
       ],
       "metrics": [
-        "57",
-        "53"
+        "56",
+        "52"
       ]
     },
     {
       "dimensions": [
         "(not set)"
+      ],
+      "metrics": [
+        "9",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States"
       ],
       "metrics": [
         "8",
@@ -531,17 +549,8 @@
         "Italy"
       ],
       "metrics": [
-        "7",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "7",
-        "7"
+        "6",
+        "3"
       ]
     },
     {
@@ -555,6 +564,15 @@
     },
     {
       "dimensions": [
+        "United Kingdom"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
         "Argentina"
       ],
       "metrics": [
@@ -564,7 +582,7 @@
     },
     {
       "dimensions": [
-        "United Kingdom"
+        "Belarus"
       ],
       "metrics": [
         "2",
@@ -588,29 +606,20 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "Belarus"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 95,
-    "users": 88,
-    "pageViews": 108,
-    "avgSessionDuration": 69,
+    "sessions": 97,
+    "users": 90,
+    "pageViews": 115,
+    "avgSessionDuration": 75,
     "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 527,
-    "users": 497,
-    "pageViews": 610,
-    "avgSessionDuration": 51,
+    "sessions": 507,
+    "users": 484,
+    "pageViews": 560,
+    "avgSessionDuration": 48,
     "bounceRate": 0.7
   }
 }
