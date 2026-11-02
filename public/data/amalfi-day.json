@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-11-01T11:45:20.571Z",
+  "updatedAt": "2026-11-02T13:15:41.391Z",
   "trend": [
     {
       "dimensions": [
@@ -31,16 +31,6 @@
         "20",
         "13",
         "38"
-      ]
-    },
-    {
-      "dimensions": [
-        "20261002"
-      ],
-      "metrics": [
-        "19",
-        "13",
-        "45"
       ]
     },
     {
@@ -215,6 +205,16 @@
     },
     {
       "dimensions": [
+        "20261101"
+      ],
+      "metrics": [
+        "8",
+        "6",
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
         "20261030"
       ],
       "metrics": [
@@ -302,16 +302,6 @@
         "2",
         "2"
       ]
-    },
-    {
-      "dimensions": [
-        "20261101"
-      ],
-      "metrics": [
-        "2",
-        "2",
-        "2"
-      ]
     }
   ],
   "topPages": [
@@ -320,8 +310,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "32",
-        "29"
+        "31",
+        "28"
       ]
     },
     {
@@ -329,8 +319,8 @@
         "/photoshootings"
       ],
       "metrics": [
-        "12",
-        "5"
+        "13",
+        "6"
       ]
     },
     {
@@ -338,17 +328,8 @@
         "/ferry-timetables/"
       ],
       "metrics": [
-        "6",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "/parking/"
-      ],
-      "metrics": [
-        "5",
-        "5"
+        "7",
+        "6"
       ]
     },
     {
@@ -356,8 +337,17 @@
         "/directions/"
       ],
       "metrics": [
-        "3",
-        "3"
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/parking/"
+      ],
+      "metrics": [
+        "4",
+        "4"
       ]
     },
     {
@@ -365,8 +355,8 @@
         "/"
       ],
       "metrics": [
-        "2",
-        "2"
+        "3",
+        "3"
       ]
     },
     {
@@ -399,6 +389,15 @@
     {
       "dimensions": [
         "/blog/transport-strike-this-friday-what-amalfi-coast-visitors-need-to-know/"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/why-silver-moon-and-mar-di-cobalto-are-closed-in-amalfi/"
       ],
       "metrics": [
         "1",
@@ -440,15 +439,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "/photoshootings/nick-family-praiano/"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "sources": [
@@ -457,8 +447,8 @@
         "google"
       ],
       "metrics": [
-        "19",
-        "14"
+        "21",
+        "16"
       ]
     },
     {
@@ -466,8 +456,8 @@
         "(direct)"
       ],
       "metrics": [
-        "15",
-        "4"
+        "17",
+        "5"
       ]
     },
     {
@@ -476,7 +466,7 @@
       ],
       "metrics": [
         "8",
-        "8"
+        "7"
       ]
     },
     {
@@ -486,15 +476,6 @@
       "metrics": [
         "4",
         "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "yahoo"
-      ],
-      "metrics": [
-        "2",
-        "2"
       ]
     },
     {
@@ -541,6 +522,15 @@
         "1",
         "0"
       ]
+    },
+    {
+      "dimensions": [
+        "yahoo"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "countries": [
@@ -549,7 +539,7 @@
         "Italy"
       ],
       "metrics": [
-        "17",
+        "18",
         "9"
       ]
     },
@@ -576,8 +566,17 @@
         "Poland"
       ],
       "metrics": [
-        "4",
+        "5",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "United Kingdom"
+      ],
+      "metrics": [
+        "4",
+        "3"
       ]
     },
     {
@@ -591,20 +590,11 @@
     },
     {
       "dimensions": [
-        "Spain"
+        "Netherlands"
       ],
       "metrics": [
         "3",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "United Kingdom"
-      ],
-      "metrics": [
-        "3",
-        "2"
+        "3"
       ]
     },
     {
@@ -627,26 +617,26 @@
     },
     {
       "dimensions": [
-        "Netherlands"
+        "Spain"
       ],
       "metrics": [
         "2",
-        "2"
+        "1"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 53,
-    "users": 34,
-    "pageViews": 74,
-    "avgSessionDuration": 105,
+    "sessions": 56,
+    "users": 35,
+    "pageViews": 77,
+    "avgSessionDuration": 88,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 313,
-    "users": 221,
-    "pageViews": 463,
-    "avgSessionDuration": 174,
+    "sessions": 300,
+    "users": 215,
+    "pageViews": 424,
+    "avgSessionDuration": 164,
     "bounceRate": 0.4
   }
 }

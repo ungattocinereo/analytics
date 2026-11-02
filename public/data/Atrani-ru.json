@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-11-01T11:45:18.790Z",
+  "updatedAt": "2026-11-02T13:15:39.566Z",
   "trend": [
     {
       "dimensions": [
@@ -21,16 +21,6 @@
         "33",
         "31",
         "40"
-      ]
-    },
-    {
-      "dimensions": [
-        "20261002"
-      ],
-      "metrics": [
-        "27",
-        "23",
-        "25"
       ]
     },
     {
@@ -185,6 +175,16 @@
     },
     {
       "dimensions": [
+        "20261101"
+      ],
+      "metrics": [
+        "14",
+        "12",
+        "21"
+      ]
+    },
+    {
+      "dimensions": [
         "20261013"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20261101"
+        "20261102"
       ],
       "metrics": [
-        "6",
-        "6",
-        "11"
+        "3",
+        "2",
+        "3"
       ]
     }
   ],
@@ -320,17 +320,8 @@
         "/"
       ],
       "metrics": [
-        "51",
+        "52",
         "50"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
-      ],
-      "metrics": [
-        "9",
-        "7"
       ]
     },
     {
@@ -344,10 +335,10 @@
     },
     {
       "dimensions": [
-        "/blog/le-palme-restauraunt-atrani"
+        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "5",
+        "8",
         "6"
       ]
     },
@@ -371,7 +362,25 @@
     },
     {
       "dimensions": [
-        "/blog"
+        "/blog/le-palme-restauraunt-atrani"
+      ],
+      "metrics": [
+        "4",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/chto-dielat-na-amalfitanskom-pobieriezhie-iesli-dozhd-zhara-ili-otmienili-lodku"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2021/09/positano-steibek"
       ],
       "metrics": [
         "2",
@@ -380,7 +389,7 @@
     },
     {
       "dimensions": [
-        "/blog/2019-11-15"
+        "/blog"
       ],
       "metrics": [
         "2",
@@ -398,7 +407,7 @@
     },
     {
       "dimensions": [
-        "/transport"
+        "/blog/positano-steibek"
       ],
       "metrics": [
         "2",
@@ -407,11 +416,11 @@
     },
     {
       "dimensions": [
-        "/2021/09/positano-steibek"
+        "/transport"
       ],
       "metrics": [
-        "1",
-        "1"
+        "2",
+        "2"
       ]
     },
     {
@@ -434,16 +443,7 @@
     },
     {
       "dimensions": [
-        "/blog/atrani-for-lovers-part-1"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/atrani-na-dva-dnia-stal-ghorodom-knigh-i-skulptur-u-moria"
+        "/blog/2018-4-28-2"
       ],
       "metrics": [
         "1",
@@ -458,7 +458,7 @@
       ],
       "metrics": [
         "62",
-        "60"
+        "59"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "18",
-        "15"
+        "17",
+        "14"
       ]
     },
     {
@@ -475,7 +475,7 @@
         "google"
       ],
       "metrics": [
-        "12",
+        "13",
         "10"
       ]
     },
@@ -490,10 +490,10 @@
     },
     {
       "dimensions": [
-        "(not set)"
+        "yandex"
       ],
       "metrics": [
-        "1",
+        "2",
         "1"
       ]
     },
@@ -522,13 +522,13 @@
         "Russia"
       ],
       "metrics": [
-        "56",
-        "52"
+        "55",
+        "50"
       ]
     },
     {
       "dimensions": [
-        "(not set)"
+        "United States"
       ],
       "metrics": [
         "9",
@@ -537,7 +537,7 @@
     },
     {
       "dimensions": [
-        "United States"
+        "(not set)"
       ],
       "metrics": [
         "8",
@@ -549,8 +549,8 @@
         "Italy"
       ],
       "metrics": [
-        "6",
-        "3"
+        "7",
+        "4"
       ]
     },
     {
@@ -560,15 +560,6 @@
       "metrics": [
         "4",
         "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "United Kingdom"
-      ],
-      "metrics": [
-        "3",
-        "3"
       ]
     },
     {
@@ -591,35 +582,44 @@
     },
     {
       "dimensions": [
-        ""
+        "Kazakhstan"
       ],
       "metrics": [
-        "1",
+        "2",
         "1"
       ]
     },
     {
       "dimensions": [
-        "Armenia"
+        "Netherlands"
       ],
       "metrics": [
-        "1",
+        "2",
         "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Poland"
+      ],
+      "metrics": [
+        "2",
+        "2"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 97,
-    "users": 90,
-    "pageViews": 115,
-    "avgSessionDuration": 75,
+    "sessions": 99,
+    "users": 89,
+    "pageViews": 119,
+    "avgSessionDuration": 68,
     "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 507,
-    "users": 484,
-    "pageViews": 560,
-    "avgSessionDuration": 48,
+    "sessions": 491,
+    "users": 468,
+    "pageViews": 548,
+    "avgSessionDuration": 49,
     "bounceRate": 0.7
   }
 }

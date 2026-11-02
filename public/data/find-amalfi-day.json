@@ -1,7 +1,7 @@
 {
   "name": "find.amalfi.day",
   "propertyId": "properties/531159837",
-  "updatedAt": "2026-11-01T11:45:21.571Z",
+  "updatedAt": "2026-11-02T13:15:44.639Z",
   "trend": [
     {
       "dimensions": [
@@ -11,16 +11,6 @@
         "11",
         "5",
         "24"
-      ]
-    },
-    {
-      "dimensions": [
-        "20261002"
-      ],
-      "metrics": [
-        "9",
-        "5",
-        "25"
       ]
     },
     {
@@ -145,6 +135,16 @@
     },
     {
       "dimensions": [
+        "20261101"
+      ],
+      "metrics": [
+        "4",
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
         "20261005"
       ],
       "metrics": [
@@ -250,8 +250,8 @@
         "/"
       ],
       "metrics": [
-        "5",
-        "5"
+        "8",
+        "9"
       ]
     },
     {
@@ -270,8 +270,8 @@
         "(direct)"
       ],
       "metrics": [
-        "3",
-        "2"
+        "6",
+        "4"
       ]
     },
     {
@@ -280,6 +280,15 @@
       ],
       "metrics": [
         "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "(not set)"
+      ],
+      "metrics": [
+        "1",
         "1"
       ]
     },
@@ -309,7 +318,25 @@
       ],
       "metrics": [
         "3",
-        "1"
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "France"
+      ],
+      "metrics": [
+        "2",
+        "0"
       ]
     },
     {
@@ -323,11 +350,11 @@
     },
     {
       "dimensions": [
-        "France"
+        "Germany"
       ],
       "metrics": [
         "1",
-        "0"
+        "1"
       ]
     },
     {
@@ -338,29 +365,20 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 7,
-    "users": 4,
-    "pageViews": 7,
+    "sessions": 11,
+    "users": 7,
+    "pageViews": 10,
     "avgSessionDuration": 2,
     "bounceRate": 1
   },
   "summary30d": {
-    "sessions": 109,
-    "users": 51,
-    "pageViews": 218,
-    "avgSessionDuration": 211,
-    "bounceRate": 0.4
+    "sessions": 104,
+    "users": 50,
+    "pageViews": 196,
+    "avgSessionDuration": 213,
+    "bounceRate": 0.5
   }
 }
