@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-11-02T13:15:41.391Z",
+  "updatedAt": "2026-11-03T12:41:35.664Z",
   "trend": [
     {
       "dimensions": [
@@ -21,16 +21,6 @@
         "21",
         "18",
         "29"
-      ]
-    },
-    {
-      "dimensions": [
-        "20261003"
-      ],
-      "metrics": [
-        "20",
-        "13",
-        "38"
       ]
     },
     {
@@ -310,8 +300,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "31",
-        "28"
+        "25",
+        "22"
       ]
     },
     {
@@ -334,24 +324,6 @@
     },
     {
       "dimensions": [
-        "/directions/"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/parking/"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
         "/"
       ],
       "metrics": [
@@ -361,11 +333,11 @@
     },
     {
       "dimensions": [
-        "/ferry-timetables"
+        "/parking/"
       ],
       "metrics": [
-        "2",
-        "2"
+        "3",
+        "3"
       ]
     },
     {
@@ -406,6 +378,15 @@
     },
     {
       "dimensions": [
+        "/directions/"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "/experience"
       ],
       "metrics": [
@@ -416,6 +397,15 @@
     {
       "dimensions": [
         "/experience/scooter"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/ferry-timetables"
       ],
       "metrics": [
         "1",
@@ -447,8 +437,8 @@
         "google"
       ],
       "metrics": [
-        "21",
-        "16"
+        "16",
+        "14"
       ]
     },
     {
@@ -456,7 +446,7 @@
         "(direct)"
       ],
       "metrics": [
-        "17",
+        "14",
         "5"
       ]
     },
@@ -474,8 +464,8 @@
         "bing"
       ],
       "metrics": [
-        "4",
-        "3"
+        "3",
+        "2"
       ]
     },
     {
@@ -513,24 +503,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "uk.search.yahoo.com"
-      ],
-      "metrics": [
-        "1",
-        "0"
-      ]
-    },
-    {
-      "dimensions": [
-        "yahoo"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "countries": [
@@ -539,17 +511,8 @@
         "Italy"
       ],
       "metrics": [
-        "18",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "6",
-        "5"
+        "15",
+        "7"
       ]
     },
     {
@@ -572,20 +535,11 @@
     },
     {
       "dimensions": [
-        "United Kingdom"
+        "United States"
       ],
       "metrics": [
-        "4",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "Bulgaria"
-      ],
-      "metrics": [
-        "3",
-        "1"
+        "5",
+        "4"
       ]
     },
     {
@@ -599,11 +553,11 @@
     },
     {
       "dimensions": [
-        "Denmark"
+        "United Kingdom"
       ],
       "metrics": [
-        "2",
-        "0"
+        "3",
+        "3"
       ]
     },
     {
@@ -617,25 +571,43 @@
     },
     {
       "dimensions": [
-        "Spain"
+        "Austria"
       ],
       "metrics": [
-        "2",
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Canada"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Chile"
+      ],
+      "metrics": [
+        "1",
         "1"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 56,
-    "users": 35,
-    "pageViews": 77,
-    "avgSessionDuration": 88,
+    "sessions": 45,
+    "users": 31,
+    "pageViews": 66,
+    "avgSessionDuration": 103,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 300,
-    "users": 215,
-    "pageViews": 424,
+    "sessions": 280,
+    "users": 204,
+    "pageViews": 386,
     "avgSessionDuration": 164,
     "bounceRate": 0.4
   }

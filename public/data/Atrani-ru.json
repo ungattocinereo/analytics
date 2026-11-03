@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-11-02T13:15:39.566Z",
+  "updatedAt": "2026-11-03T12:41:34.260Z",
   "trend": [
     {
       "dimensions": [
@@ -31,16 +31,6 @@
         "26",
         "26",
         "26"
-      ]
-    },
-    {
-      "dimensions": [
-        "20261003"
-      ],
-      "metrics": [
-        "23",
-        "23",
-        "25"
       ]
     },
     {
@@ -265,6 +255,16 @@
     },
     {
       "dimensions": [
+        "20261102"
+      ],
+      "metrics": [
+        "10",
+        "8",
+        "10"
+      ]
+    },
+    {
+      "dimensions": [
         "20261023"
       ],
       "metrics": [
@@ -305,11 +305,11 @@
     },
     {
       "dimensions": [
-        "20261102"
+        "20261103"
       ],
       "metrics": [
+        "4",
         "3",
-        "2",
         "3"
       ]
     }
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "52",
-        "50"
+        "51",
+        "49"
       ]
     },
     {
@@ -338,8 +338,8 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "8",
-        "6"
+        "5",
+        "5"
       ]
     },
     {
@@ -362,11 +362,11 @@
     },
     {
       "dimensions": [
-        "/blog/le-palme-restauraunt-atrani"
+        "/2021/09/positano-steibek"
       ],
       "metrics": [
-        "4",
-        "5"
+        "3",
+        "3"
       ]
     },
     {
@@ -380,11 +380,11 @@
     },
     {
       "dimensions": [
-        "/2021/09/positano-steibek"
+        "/blog/le-palme-restauraunt-atrani"
       ],
       "metrics": [
-        "2",
-        "2"
+        "3",
+        "3"
       ]
     },
     {
@@ -398,20 +398,11 @@
     },
     {
       "dimensions": [
-        "/blog/atrani-samyi-siekrietnyi-ugholok-amalfitanskogho-pobieriezhia"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/positano-steibek"
       ],
       "metrics": [
         "2",
-        "2"
+        "3"
       ]
     },
     {
@@ -434,7 +425,7 @@
     },
     {
       "dimensions": [
-        "/blog/2018-4-28"
+        "/blog/2018-4-28-2"
       ],
       "metrics": [
         "1",
@@ -443,7 +434,16 @@
     },
     {
       "dimensions": [
-        "/blog/2018-4-28-2"
+        "/blog/2019-11-15"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/atrani-for-lovers-part-1"
       ],
       "metrics": [
         "1",
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "62",
-        "59"
+        "60",
+        "57"
       ]
     },
     {
@@ -466,7 +466,7 @@
         "yandex.ru"
       ],
       "metrics": [
-        "17",
+        "16",
         "14"
       ]
     },
@@ -476,16 +476,7 @@
       ],
       "metrics": [
         "13",
-        "10"
-      ]
-    },
-    {
-      "dimensions": [
-        "alice.yandex.ru"
-      ],
-      "metrics": [
-        "3",
-        "3"
+        "9"
       ]
     },
     {
@@ -508,6 +499,15 @@
     },
     {
       "dimensions": [
+        "ya.ru"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "yandex.by"
       ],
       "metrics": [
@@ -522,8 +522,8 @@
         "Russia"
       ],
       "metrics": [
-        "55",
-        "50"
+        "49",
+        "45"
       ]
     },
     {
@@ -558,8 +558,26 @@
         "China"
       ],
       "metrics": [
-        "4",
-        "4"
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "Kazakhstan"
+      ],
+      "metrics": [
+        "3",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Poland"
+      ],
+      "metrics": [
+        "3",
+        "3"
       ]
     },
     {
@@ -582,44 +600,26 @@
     },
     {
       "dimensions": [
-        "Kazakhstan"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "Netherlands"
       ],
       "metrics": [
         "2",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "Poland"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 99,
-    "users": 89,
-    "pageViews": 119,
-    "avgSessionDuration": 68,
+    "sessions": 94,
+    "users": 84,
+    "pageViews": 111,
+    "avgSessionDuration": 37,
     "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 491,
-    "users": 468,
-    "pageViews": 548,
-    "avgSessionDuration": 49,
+    "sessions": 479,
+    "users": 454,
+    "pageViews": 533,
+    "avgSessionDuration": 48,
     "bounceRate": 0.7
   }
 }
