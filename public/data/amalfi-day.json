@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-11-03T12:41:35.664Z",
+  "updatedAt": "2026-11-04T12:51:47.329Z",
   "trend": [
     {
       "dimensions": [
@@ -165,16 +165,6 @@
     },
     {
       "dimensions": [
-        "20261004"
-      ],
-      "metrics": [
-        "8",
-        "8",
-        "32"
-      ]
-    },
-    {
-      "dimensions": [
         "20261012"
       ],
       "metrics": [
@@ -292,6 +282,26 @@
         "2",
         "2"
       ]
+    },
+    {
+      "dimensions": [
+        "20261103"
+      ],
+      "metrics": [
+        "2",
+        "1",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "20261104"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "2"
+      ]
     }
   ],
   "topPages": [
@@ -309,8 +319,8 @@
         "/photoshootings"
       ],
       "metrics": [
-        "13",
-        "6"
+        "8",
+        "4"
       ]
     },
     {
@@ -327,8 +337,8 @@
         "/"
       ],
       "metrics": [
-        "3",
-        "3"
+        "4",
+        "4"
       ]
     },
     {
@@ -351,15 +361,6 @@
     },
     {
       "dimensions": [
-        "/beaches"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/transport-strike-this-friday-what-amalfi-coast-visitors-need-to-know/"
       ],
       "metrics": [
@@ -378,7 +379,7 @@
     },
     {
       "dimensions": [
-        "/directions/"
+        "/contact"
       ],
       "metrics": [
         "1",
@@ -387,7 +388,7 @@
     },
     {
       "dimensions": [
-        "/experience"
+        "/directions/"
       ],
       "metrics": [
         "1",
@@ -405,25 +406,7 @@
     },
     {
       "dimensions": [
-        "/ferry-timetables"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photoshootings/hinad-amalfi-sunrise/"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photoshootings/lashada"
+        "/photoshootings/nilsa-otanez-amalfi-atrani/"
       ],
       "metrics": [
         "1",
@@ -432,15 +415,6 @@
     }
   ],
   "sources": [
-    {
-      "dimensions": [
-        "google"
-      ],
-      "metrics": [
-        "16",
-        "14"
-      ]
-    },
     {
       "dimensions": [
         "(direct)"
@@ -452,11 +426,20 @@
     },
     {
       "dimensions": [
+        "google"
+      ],
+      "metrics": [
+        "14",
+        "13"
+      ]
+    },
+    {
+      "dimensions": [
         "chatgpt.com"
       ],
       "metrics": [
-        "8",
-        "7"
+        "7",
+        "6"
       ]
     },
     {
@@ -464,7 +447,16 @@
         "bing"
       ],
       "metrics": [
-        "3",
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "m.facebook.com"
+      ],
+      "metrics": [
+        "2",
         "2"
       ]
     },
@@ -497,11 +489,11 @@
     },
     {
       "dimensions": [
-        "m.facebook.com"
+        "uk.search.yahoo.com"
       ],
       "metrics": [
         "1",
-        "1"
+        "0"
       ]
     }
   ],
@@ -511,8 +503,8 @@
         "Italy"
       ],
       "metrics": [
-        "15",
-        "7"
+        "13",
+        "5"
       ]
     },
     {
@@ -535,10 +527,19 @@
     },
     {
       "dimensions": [
+        "United Kingdom"
+      ],
+      "metrics": [
+        "4",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
         "United States"
       ],
       "metrics": [
-        "5",
+        "4",
         "4"
       ]
     },
@@ -553,16 +554,16 @@
     },
     {
       "dimensions": [
-        "United Kingdom"
+        "India"
       ],
       "metrics": [
-        "3",
-        "3"
+        "2",
+        "2"
       ]
     },
     {
       "dimensions": [
-        "India"
+        "Sweden"
       ],
       "metrics": [
         "2",
@@ -586,29 +587,20 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "Chile"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 45,
-    "users": 31,
-    "pageViews": 66,
-    "avgSessionDuration": 103,
+    "sessions": 43,
+    "users": 29,
+    "pageViews": 55,
+    "avgSessionDuration": 82,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 280,
-    "users": 204,
-    "pageViews": 386,
-    "avgSessionDuration": 164,
+    "sessions": 275,
+    "users": 200,
+    "pageViews": 358,
+    "avgSessionDuration": 144,
     "bounceRate": 0.4
   }
 }

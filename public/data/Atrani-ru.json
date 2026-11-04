@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-11-03T12:41:34.260Z",
+  "updatedAt": "2026-11-04T12:51:46.002Z",
   "trend": [
     {
       "dimensions": [
@@ -51,16 +51,6 @@
         "21",
         "21",
         "29"
-      ]
-    },
-    {
-      "dimensions": [
-        "20261004"
-      ],
-      "metrics": [
-        "20",
-        "19",
-        "25"
       ]
     },
     {
@@ -308,9 +298,19 @@
         "20261103"
       ],
       "metrics": [
-        "4",
-        "3",
-        "3"
+        "7",
+        "6",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "20261104"
+      ],
+      "metrics": [
+        "6",
+        "6",
+        "6"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "51",
-        "49"
+        "50",
+        "48"
       ]
     },
     {
@@ -335,15 +335,6 @@
     },
     {
       "dimensions": [
-        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
-      ],
-      "metrics": [
-        "5",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
         "/contacts"
       ],
       "metrics": [
@@ -353,11 +344,11 @@
     },
     {
       "dimensions": [
-        "/photos"
+        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "5",
-        "5"
+        "4",
+        "4"
       ]
     },
     {
@@ -380,7 +371,7 @@
     },
     {
       "dimensions": [
-        "/blog/le-palme-restauraunt-atrani"
+        "/photos"
       ],
       "metrics": [
         "3",
@@ -398,20 +389,29 @@
     },
     {
       "dimensions": [
+        "/blog/atrani-for-lovers-part-1"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/le-palme-restauraunt-atrani"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "/blog/positano-steibek"
       ],
       "metrics": [
         "2",
         "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/transport"
-      ],
-      "metrics": [
-        "2",
-        "2"
       ]
     },
     {
@@ -443,7 +443,7 @@
     },
     {
       "dimensions": [
-        "/blog/atrani-for-lovers-part-1"
+        "/blog/atrani-na-dva-dnia-stal-ghorodom-knigh-i-skulptur-u-moria"
       ],
       "metrics": [
         "1",
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "60",
-        "57"
+        "57",
+        "54"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "16",
-        "14"
+        "15",
+        "13"
       ]
     },
     {
@@ -476,7 +476,7 @@
       ],
       "metrics": [
         "13",
-        "9"
+        "10"
       ]
     },
     {
@@ -522,8 +522,8 @@
         "Russia"
       ],
       "metrics": [
-        "49",
-        "45"
+        "50",
+        "47"
       ]
     },
     {
@@ -549,16 +549,7 @@
         "Italy"
       ],
       "metrics": [
-        "7",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "China"
-      ],
-      "metrics": [
-        "3",
+        "6",
         "3"
       ]
     },
@@ -582,7 +573,7 @@
     },
     {
       "dimensions": [
-        "Argentina"
+        "Belarus"
       ],
       "metrics": [
         "2",
@@ -591,7 +582,7 @@
     },
     {
       "dimensions": [
-        "Belarus"
+        "China"
       ],
       "metrics": [
         "2",
@@ -606,20 +597,29 @@
         "2",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        ""
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 94,
-    "users": 84,
-    "pageViews": 111,
-    "avgSessionDuration": 37,
+    "sessions": 90,
+    "users": 81,
+    "pageViews": 104,
+    "avgSessionDuration": 36,
     "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 479,
-    "users": 454,
-    "pageViews": 533,
-    "avgSessionDuration": 48,
+    "sessions": 468,
+    "users": 445,
+    "pageViews": 517,
+    "avgSessionDuration": 47,
     "bounceRate": 0.7
   }
 }

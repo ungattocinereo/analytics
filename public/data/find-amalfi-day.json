@@ -1,7 +1,7 @@
 {
   "name": "find.amalfi.day",
   "propertyId": "properties/531159837",
-  "updatedAt": "2026-11-03T12:41:36.685Z",
+  "updatedAt": "2026-11-04T12:51:48.357Z",
   "trend": [
     {
       "dimensions": [
@@ -250,8 +250,8 @@
         "/"
       ],
       "metrics": [
-        "8",
-        "9"
+        "6",
+        "7"
       ]
     },
     {
@@ -291,36 +291,9 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "airbnb.de"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "fr.airbnb.ca"
-      ],
-      "metrics": [
-        "1",
-        "0"
-      ]
     }
   ],
   "countries": [
-    {
-      "dimensions": [
-        "Italy"
-      ],
-      "metrics": [
-        "3",
-        "2"
-      ]
-    },
     {
       "dimensions": [
         "United States"
@@ -359,6 +332,15 @@
     },
     {
       "dimensions": [
+        "Italy"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "United Kingdom"
       ],
       "metrics": [
@@ -368,9 +350,9 @@
     }
   ],
   "summary7d": {
-    "sessions": 11,
-    "users": 7,
-    "pageViews": 10,
+    "sessions": 9,
+    "users": 6,
+    "pageViews": 8,
     "avgSessionDuration": 4,
     "bounceRate": 0.9
   },
