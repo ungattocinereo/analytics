@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-11-04T12:51:46.002Z",
+  "updatedAt": "2026-11-05T12:59:28.733Z",
   "trend": [
     {
       "dimensions": [
@@ -31,16 +31,6 @@
         "26",
         "26",
         "26"
-      ]
-    },
-    {
-      "dimensions": [
-        "20261005"
-      ],
-      "metrics": [
-        "23",
-        "21",
-        "23"
       ]
     },
     {
@@ -225,6 +215,16 @@
     },
     {
       "dimensions": [
+        "20261104"
+      ],
+      "metrics": [
+        "11",
+        "11",
+        "11"
+      ]
+    },
+    {
+      "dimensions": [
         "20261012"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20261104"
+        "20261105"
       ],
       "metrics": [
-        "6",
-        "6",
-        "6"
+        "3",
+        "3",
+        "4"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "50",
-        "48"
+        "42",
+        "41"
       ]
     },
     {
@@ -362,6 +362,15 @@
     },
     {
       "dimensions": [
+        "/blog"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
         "/blog/chto-dielat-na-amalfitanskom-pobieriezhie-iesli-dozhd-zhara-ili-otmienili-lodku"
       ],
       "metrics": [
@@ -371,34 +380,7 @@
     },
     {
       "dimensions": [
-        "/photos"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/atrani-for-lovers-part-1"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/le-palme-restauraunt-atrani"
       ],
       "metrics": [
         "2",
@@ -416,7 +398,34 @@
     },
     {
       "dimensions": [
+        "/blog/spaghietti-alle-vongole-bliudo-biez-kotorogho-amalfiiskoie-pobieriezhie-niemyslimo-2"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photos"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "/atrani-render-preview"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/10-faktov-o-kampanii-ot-samogho-malienkogho-ghorodka-italii-do-posliedniegho-izvierzhieniia-viezuviia"
       ],
       "metrics": [
         "1",
@@ -440,15 +449,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "/blog/atrani-na-dva-dnia-stal-ghorodom-knigh-i-skulptur-u-moria"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "sources": [
@@ -457,17 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "57",
-        "54"
-      ]
-    },
-    {
-      "dimensions": [
-        "yandex.ru"
-      ],
-      "metrics": [
-        "15",
-        "13"
+        "52",
+        "49"
       ]
     },
     {
@@ -477,6 +468,15 @@
       "metrics": [
         "13",
         "10"
+      ]
+    },
+    {
+      "dimensions": [
+        "yandex.ru"
+      ],
+      "metrics": [
+        "13",
+        "11"
       ]
     },
     {
@@ -499,7 +499,7 @@
     },
     {
       "dimensions": [
-        "ya.ru"
+        "scriblihelp.com"
       ],
       "metrics": [
         "1",
@@ -508,7 +508,7 @@
     },
     {
       "dimensions": [
-        "yandex.by"
+        "ya.ru"
       ],
       "metrics": [
         "1",
@@ -522,8 +522,8 @@
         "Russia"
       ],
       "metrics": [
-        "50",
-        "47"
+        "41",
+        "38"
       ]
     },
     {
@@ -531,8 +531,8 @@
         "United States"
       ],
       "metrics": [
-        "9",
-        "9"
+        "12",
+        "12"
       ]
     },
     {
@@ -573,16 +573,7 @@
     },
     {
       "dimensions": [
-        "Belarus"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "China"
+        "Germany"
       ],
       "metrics": [
         "2",
@@ -606,20 +597,29 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "Belarus"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 90,
-    "users": 81,
-    "pageViews": 104,
-    "avgSessionDuration": 36,
+    "sessions": 83,
+    "users": 74,
+    "pageViews": 96,
+    "avgSessionDuration": 27,
     "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 468,
-    "users": 445,
-    "pageViews": 517,
-    "avgSessionDuration": 47,
+    "sessions": 453,
+    "users": 432,
+    "pageViews": 503,
+    "avgSessionDuration": 46,
     "bounceRate": 0.7
   }
 }
