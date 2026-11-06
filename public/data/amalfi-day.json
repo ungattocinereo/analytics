@@ -1,18 +1,8 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-11-05T12:59:30.211Z",
+  "updatedAt": "2026-11-06T12:47:33.468Z",
   "trend": [
-    {
-      "dimensions": [
-        "20261006"
-      ],
-      "metrics": [
-        "21",
-        "18",
-        "29"
-      ]
-    },
     {
       "dimensions": [
         "20261022"
@@ -298,9 +288,9 @@
         "20261105"
       ],
       "metrics": [
-        "1",
-        "1",
-        "1"
+        "2",
+        "2",
+        "5"
       ]
     }
   ],
@@ -310,8 +300,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "19",
-        "19"
+        "16",
+        "16"
       ]
     },
     {
@@ -328,35 +318,8 @@
         "/"
       ],
       "metrics": [
-        "4",
+        "6",
         "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/parking/"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/ferry-timetables/"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/transport-strike-this-friday-what-amalfi-coast-visitors-need-to-know/"
-      ],
-      "metrics": [
-        "1",
-        "1"
       ]
     },
     {
@@ -397,6 +360,15 @@
     },
     {
       "dimensions": [
+        "/ferry-timetables/"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "/photoshootings/nilsa-otanez-amalfi-atrani/"
       ],
       "metrics": [
@@ -417,19 +389,10 @@
   "sources": [
     {
       "dimensions": [
-        "google"
-      ],
-      "metrics": [
-        "11",
-        "10"
-      ]
-    },
-    {
-      "dimensions": [
         "(direct)"
       ],
       "metrics": [
-        "10",
+        "8",
         "2"
       ]
     },
@@ -438,22 +401,22 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "5",
-        "4"
+        "6",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "google"
+      ],
+      "metrics": [
+        "6",
+        "6"
       ]
     },
     {
       "dimensions": [
         "bing"
-      ],
-      "metrics": [
-        "3",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "m.facebook.com"
       ],
       "metrics": [
         "2",
@@ -480,7 +443,7 @@
     },
     {
       "dimensions": [
-        "facebook.com"
+        "m.facebook.com"
       ],
       "metrics": [
         "1",
@@ -503,31 +466,13 @@
         "Italy"
       ],
       "metrics": [
-        "15",
-        "7"
+        "10",
+        "5"
       ]
     },
     {
       "dimensions": [
         "Poland"
-      ],
-      "metrics": [
-        "4",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "United Kingdom"
       ],
       "metrics": [
         "3",
@@ -536,11 +481,20 @@
     },
     {
       "dimensions": [
-        "Sweden"
+        "United States"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "United Kingdom"
       ],
       "metrics": [
         "2",
-        "2"
+        "1"
       ]
     },
     {
@@ -554,7 +508,7 @@
     },
     {
       "dimensions": [
-        "Estonia"
+        "Czechia"
       ],
       "metrics": [
         "1",
@@ -587,20 +541,29 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "Norway"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 35,
-    "users": 23,
-    "pageViews": 43,
-    "avgSessionDuration": 51,
+    "sessions": 26,
+    "users": 18,
+    "pageViews": 37,
+    "avgSessionDuration": 56,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 256,
-    "users": 187,
-    "pageViews": 326,
-    "avgSessionDuration": 140,
-    "bounceRate": 0.5
+    "sessions": 236,
+    "users": 174,
+    "pageViews": 301,
+    "avgSessionDuration": 150,
+    "bounceRate": 0.4
   }
 }

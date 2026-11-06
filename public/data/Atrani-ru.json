@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-11-05T12:59:28.733Z",
+  "updatedAt": "2026-11-06T12:47:32.175Z",
   "trend": [
     {
       "dimensions": [
@@ -11,16 +11,6 @@
         "34",
         "33",
         "37"
-      ]
-    },
-    {
-      "dimensions": [
-        "20261006"
-      ],
-      "metrics": [
-        "33",
-        "31",
-        "40"
       ]
     },
     {
@@ -308,9 +298,19 @@
         "20261105"
       ],
       "metrics": [
-        "3",
-        "3",
-        "4"
+        "6",
+        "6",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "20261106"
+      ],
+      "metrics": [
+        "2",
+        "2",
+        "2"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "42",
-        "41"
+        "39",
+        "38"
       ]
     },
     {
@@ -329,8 +329,8 @@
         "/experience"
       ],
       "metrics": [
-        "9",
-        "10"
+        "8",
+        "9"
       ]
     },
     {
@@ -344,25 +344,7 @@
     },
     {
       "dimensions": [
-        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
         "/2021/09/positano-steibek"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog"
       ],
       "metrics": [
         "3",
@@ -380,7 +362,16 @@
     },
     {
       "dimensions": [
-        "/blog/atrani-for-lovers-part-1"
+        "/blog"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
         "2",
@@ -416,15 +407,6 @@
     },
     {
       "dimensions": [
-        "/atrani-render-preview"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/10-faktov-o-kampanii-ot-samogho-malienkogho-ghorodka-italii-do-posliedniegho-izvierzhieniia-viezuviia"
       ],
       "metrics": [
@@ -449,6 +431,24 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "/blog/atrani-for-lovers-part-1"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/atrani-na-dva-dnia-stal-ghorodom-knigh-i-skulptur-u-moria"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "sources": [
@@ -457,17 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "52",
-        "49"
-      ]
-    },
-    {
-      "dimensions": [
-        "google"
-      ],
-      "metrics": [
-        "13",
-        "10"
+        "47",
+        "46"
       ]
     },
     {
@@ -475,8 +466,17 @@
         "yandex.ru"
       ],
       "metrics": [
-        "13",
-        "11"
+        "12",
+        "10"
+      ]
+    },
+    {
+      "dimensions": [
+        "google"
+      ],
+      "metrics": [
+        "9",
+        "7"
       ]
     },
     {
@@ -490,7 +490,7 @@
     },
     {
       "dimensions": [
-        "m.facebook.com"
+        "gipkd.com"
       ],
       "metrics": [
         "1",
@@ -522,8 +522,8 @@
         "Russia"
       ],
       "metrics": [
-        "41",
-        "38"
+        "38",
+        "35"
       ]
     },
     {
@@ -542,15 +542,6 @@
       "metrics": [
         "8",
         "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "Italy"
-      ],
-      "metrics": [
-        "6",
-        "3"
       ]
     },
     {
@@ -582,20 +573,11 @@
     },
     {
       "dimensions": [
-        "Netherlands"
+        "Italy"
       ],
       "metrics": [
         "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        ""
-      ],
-      "metrics": [
-        "1",
-        "1"
+        "2"
       ]
     },
     {
@@ -606,20 +588,38 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "Belgium"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "China"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 83,
-    "users": 74,
-    "pageViews": 96,
-    "avgSessionDuration": 27,
-    "bounceRate": 0.7
+    "sessions": 73,
+    "users": 67,
+    "pageViews": 86,
+    "avgSessionDuration": 30,
+    "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 453,
-    "users": 432,
-    "pageViews": 503,
-    "avgSessionDuration": 46,
+    "sessions": 425,
+    "users": 407,
+    "pageViews": 468,
+    "avgSessionDuration": 45,
     "bounceRate": 0.7
   }
 }
