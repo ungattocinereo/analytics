@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-11-06T12:47:33.468Z",
+  "updatedAt": "2026-11-07T11:35:54.579Z",
   "trend": [
     {
       "dimensions": [
@@ -41,16 +41,6 @@
         "13",
         "11",
         "15"
-      ]
-    },
-    {
-      "dimensions": [
-        "20261007"
-      ],
-      "metrics": [
-        "12",
-        "9",
-        "12"
       ]
     },
     {
@@ -255,6 +245,16 @@
     },
     {
       "dimensions": [
+        "20261106"
+      ],
+      "metrics": [
+        "3",
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
         "20261020"
       ],
       "metrics": [
@@ -300,8 +300,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "16",
-        "16"
+        "10",
+        "10"
       ]
     },
     {
@@ -320,6 +320,15 @@
       "metrics": [
         "6",
         "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/ferry-timetables/"
+      ],
+      "metrics": [
+        "2",
+        "2"
       ]
     },
     {
@@ -360,7 +369,7 @@
     },
     {
       "dimensions": [
-        "/ferry-timetables/"
+        "/photoshootings/hinad-amalfi-sunrise/"
       ],
       "metrics": [
         "1",
@@ -389,15 +398,6 @@
   "sources": [
     {
       "dimensions": [
-        "(direct)"
-      ],
-      "metrics": [
-        "8",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "chatgpt.com"
       ],
       "metrics": [
@@ -410,8 +410,17 @@
         "google"
       ],
       "metrics": [
-        "6",
-        "6"
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "(direct)"
+      ],
+      "metrics": [
+        "3",
+        "2"
       ]
     },
     {
@@ -421,6 +430,15 @@
       "metrics": [
         "2",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "(data not available)"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     },
     {
@@ -435,6 +453,15 @@
     {
       "dimensions": [
         "duckduckgo"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "ecosia.org"
       ],
       "metrics": [
         "1",
@@ -466,17 +493,8 @@
         "Italy"
       ],
       "metrics": [
-        "10",
+        "6",
         "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "Poland"
-      ],
-      "metrics": [
-        "3",
-        "2"
       ]
     },
     {
@@ -486,6 +504,15 @@
       "metrics": [
         "3",
         "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "Poland"
+      ],
+      "metrics": [
+        "2",
+        "1"
       ]
     },
     {
@@ -526,6 +553,15 @@
     },
     {
       "dimensions": [
+        "Germany"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "India"
       ],
       "metrics": [
@@ -541,29 +577,20 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "Norway"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 26,
-    "users": 18,
-    "pageViews": 37,
-    "avgSessionDuration": 56,
+    "sessions": 22,
+    "users": 19,
+    "pageViews": 33,
+    "avgSessionDuration": 79,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 236,
-    "users": 174,
-    "pageViews": 301,
-    "avgSessionDuration": 150,
+    "sessions": 227,
+    "users": 169,
+    "pageViews": 292,
+    "avgSessionDuration": 155,
     "bounceRate": 0.4
   }
 }

@@ -1,18 +1,8 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-11-06T12:47:32.175Z",
+  "updatedAt": "2026-11-07T11:35:51.599Z",
   "trend": [
-    {
-      "dimensions": [
-        "20261007"
-      ],
-      "metrics": [
-        "34",
-        "33",
-        "37"
-      ]
-    },
     {
       "dimensions": [
         "20261010"
@@ -285,6 +275,16 @@
     },
     {
       "dimensions": [
+        "20261106"
+      ],
+      "metrics": [
+        "8",
+        "8",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
         "20261103"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20261106"
+        "20261107"
       ],
       "metrics": [
-        "2",
-        "2",
-        "2"
+        "3",
+        "3",
+        "4"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "39",
-        "38"
+        "34",
+        "33"
       ]
     },
     {
@@ -329,26 +329,8 @@
         "/experience"
       ],
       "metrics": [
-        "8",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
-        "/contacts"
-      ],
-      "metrics": [
-        "5",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2021/09/positano-steibek"
-      ],
-      "metrics": [
-        "3",
-        "3"
+        "7",
+        "7"
       ]
     },
     {
@@ -362,7 +344,43 @@
     },
     {
       "dimensions": [
+        "/2021/09/positano-steibek"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "/blog"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/10-faktov-o-kampanii-ot-samogho-malienkogho-ghorodka-italii-do-posliedniegho-izvierzhieniia-viezuviia"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/colatura-di-alici-di-cetara"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/giorgio-armani-vybral-raviello-dlia-kampanii-mare-2026"
       ],
       "metrics": [
         "2",
@@ -398,20 +416,11 @@
     },
     {
       "dimensions": [
-        "/photos"
+        "/contacts"
       ],
       "metrics": [
         "2",
         "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/10-faktov-o-kampanii-ot-samogho-malienkogho-ghorodka-italii-do-posliedniegho-izvierzhieniia-viezuviia"
-      ],
-      "metrics": [
-        "1",
-        "1"
       ]
     },
     {
@@ -440,15 +449,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "/blog/atrani-na-dva-dnia-stal-ghorodom-knigh-i-skulptur-u-moria"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "sources": [
@@ -457,17 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "47",
-        "46"
-      ]
-    },
-    {
-      "dimensions": [
-        "yandex.ru"
-      ],
-      "metrics": [
-        "12",
-        "10"
+        "43",
+        "42"
       ]
     },
     {
@@ -475,8 +466,26 @@
         "google"
       ],
       "metrics": [
-        "9",
+        "8",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "yandex.ru"
+      ],
+      "metrics": [
+        "8",
         "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "aocr.org"
+      ],
+      "metrics": [
+        "4",
+        "4"
       ]
     },
     {
@@ -485,6 +494,15 @@
       ],
       "metrics": [
         "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "(not set)"
+      ],
+      "metrics": [
+        "1",
         "1"
       ]
     },
@@ -522,8 +540,8 @@
         "Russia"
       ],
       "metrics": [
-        "38",
-        "35"
+        "32",
+        "30"
       ]
     },
     {
@@ -531,8 +549,8 @@
         "United States"
       ],
       "metrics": [
-        "12",
-        "12"
+        "15",
+        "15"
       ]
     },
     {
@@ -540,8 +558,8 @@
         "(not set)"
       ],
       "metrics": [
-        "8",
-        "8"
+        "7",
+        "7"
       ]
     },
     {
@@ -555,15 +573,6 @@
     },
     {
       "dimensions": [
-        "Poland"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
         "Germany"
       ],
       "metrics": [
@@ -573,7 +582,7 @@
     },
     {
       "dimensions": [
-        "Italy"
+        "Poland"
       ],
       "metrics": [
         "2",
@@ -582,7 +591,7 @@
     },
     {
       "dimensions": [
-        "Belarus"
+        ""
       ],
       "metrics": [
         "1",
@@ -591,7 +600,16 @@
     },
     {
       "dimensions": [
-        "Belgium"
+        "Armenia"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Belarus"
       ],
       "metrics": [
         "1",
@@ -609,17 +627,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 73,
-    "users": 67,
-    "pageViews": 86,
-    "avgSessionDuration": 30,
+    "sessions": 68,
+    "users": 63,
+    "pageViews": 78,
+    "avgSessionDuration": 28,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 425,
-    "users": 407,
-    "pageViews": 468,
-    "avgSessionDuration": 45,
+    "sessions": 399,
+    "users": 383,
+    "pageViews": 442,
+    "avgSessionDuration": 43,
     "bounceRate": 0.7
   }
 }
