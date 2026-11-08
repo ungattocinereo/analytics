@@ -1,7 +1,7 @@
 {
   "name": "find.amalfi.day",
   "propertyId": "properties/531159837",
-  "updatedAt": "2026-11-07T11:35:55.630Z",
+  "updatedAt": "2026-11-08T11:48:00.383Z",
   "trend": [
     {
       "dimensions": [
@@ -71,16 +71,6 @@
         "5",
         "3",
         "10"
-      ]
-    },
-    {
-      "dimensions": [
-        "20261008"
-      ],
-      "metrics": [
-        "4",
-        "3",
-        "8"
       ]
     },
     {
@@ -230,17 +220,8 @@
         "/"
       ],
       "metrics": [
-        "6",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "/route/amalfi-awesome.html"
-      ],
-      "metrics": [
-        "2",
-        "2"
+        "5",
+        "6"
       ]
     }
   ],
@@ -250,17 +231,8 @@
         "(direct)"
       ],
       "metrics": [
-        "6",
+        "5",
         "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "chatgpt.com"
-      ],
-      "metrics": [
-        "2",
-        "1"
       ]
     },
     {
@@ -288,7 +260,7 @@
         "France"
       ],
       "metrics": [
-        "2",
+        "1",
         "0"
       ]
     },
@@ -300,38 +272,20 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "Italy"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "United Kingdom"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 9,
-    "users": 5,
-    "pageViews": 8,
-    "avgSessionDuration": 3,
-    "bounceRate": 0.9
+    "sessions": 6,
+    "users": 4,
+    "pageViews": 5,
+    "avgSessionDuration": 5,
+    "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 89,
-    "users": 42,
-    "pageViews": 166,
-    "avgSessionDuration": 217,
+    "sessions": 85,
+    "users": 39,
+    "pageViews": 158,
+    "avgSessionDuration": 222,
     "bounceRate": 0.5
   }
 }

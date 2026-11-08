@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-11-07T11:35:51.599Z",
+  "updatedAt": "2026-11-08T11:47:57.963Z",
   "trend": [
     {
       "dimensions": [
@@ -31,16 +31,6 @@
         "20",
         "19",
         "22"
-      ]
-    },
-    {
-      "dimensions": [
-        "20261008"
-      ],
-      "metrics": [
-        "19",
-        "19",
-        "21"
       ]
     },
     {
@@ -235,6 +225,16 @@
     },
     {
       "dimensions": [
+        "20261107"
+      ],
+      "metrics": [
+        "10",
+        "10",
+        "12"
+      ]
+    },
+    {
+      "dimensions": [
         "20261023"
       ],
       "metrics": [
@@ -275,16 +275,6 @@
     },
     {
       "dimensions": [
-        "20261106"
-      ],
-      "metrics": [
-        "8",
-        "8",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
         "20261103"
       ],
       "metrics": [
@@ -305,12 +295,22 @@
     },
     {
       "dimensions": [
-        "20261107"
+        "20261106"
+      ],
+      "metrics": [
+        "6",
+        "6",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "20261108"
       ],
       "metrics": [
         "3",
         "3",
-        "4"
+        "3"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "34",
-        "33"
+        "32",
+        "31"
       ]
     },
     {
@@ -329,13 +329,31 @@
         "/experience"
       ],
       "metrics": [
-        "7",
-        "7"
+        "8",
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
+      ],
+      "metrics": [
+        "4",
+        "4"
       ]
     },
     {
       "dimensions": [
         "/blog/chto-dielat-na-amalfitanskom-pobieriezhie-iesli-dozhd-zhara-ili-otmienili-lodku"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/contacts"
       ],
       "metrics": [
         "3",
@@ -371,7 +389,7 @@
     },
     {
       "dimensions": [
-        "/blog/colatura-di-alici-di-cetara"
+        "/blog/atrani-for-lovers-part-1"
       ],
       "metrics": [
         "2",
@@ -381,15 +399,6 @@
     {
       "dimensions": [
         "/blog/giorgio-armani-vybral-raviello-dlia-kampanii-mare-2026"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
         "2",
@@ -416,11 +425,11 @@
     },
     {
       "dimensions": [
-        "/contacts"
+        "/apartments"
       ],
       "metrics": [
-        "2",
-        "2"
+        "1",
+        "1"
       ]
     },
     {
@@ -434,16 +443,7 @@
     },
     {
       "dimensions": [
-        "/blog/2019-11-15"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/atrani-for-lovers-part-1"
+        "/blog/atrani-na-dva-dnia-stal-ghorodom-knigh-i-skulptur-u-moria"
       ],
       "metrics": [
         "1",
@@ -457,8 +457,17 @@
         "(direct)"
       ],
       "metrics": [
-        "43",
-        "42"
+        "41",
+        "40"
+      ]
+    },
+    {
+      "dimensions": [
+        "yandex.ru"
+      ],
+      "metrics": [
+        "9",
+        "8"
       ]
     },
     {
@@ -472,20 +481,20 @@
     },
     {
       "dimensions": [
-        "yandex.ru"
+        "aocr.org"
       ],
       "metrics": [
-        "8",
-        "7"
+        "2",
+        "2"
       ]
     },
     {
       "dimensions": [
-        "aocr.org"
+        "ya.ru"
       ],
       "metrics": [
-        "4",
-        "4"
+        "2",
+        "2"
       ]
     },
     {
@@ -494,15 +503,6 @@
       ],
       "metrics": [
         "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "(not set)"
-      ],
-      "metrics": [
-        "1",
         "1"
       ]
     },
@@ -517,7 +517,7 @@
     },
     {
       "dimensions": [
-        "scriblihelp.com"
+        "m.facebook.com"
       ],
       "metrics": [
         "1",
@@ -526,7 +526,7 @@
     },
     {
       "dimensions": [
-        "ya.ru"
+        "scriblihelp.com"
       ],
       "metrics": [
         "1",
@@ -540,8 +540,8 @@
         "Russia"
       ],
       "metrics": [
-        "32",
-        "30"
+        "34",
+        "32"
       ]
     },
     {
@@ -549,8 +549,8 @@
         "United States"
       ],
       "metrics": [
-        "15",
-        "15"
+        "13",
+        "13"
       ]
     },
     {
@@ -558,8 +558,8 @@
         "(not set)"
       ],
       "metrics": [
-        "7",
-        "7"
+        "6",
+        "6"
       ]
     },
     {
@@ -609,7 +609,7 @@
     },
     {
       "dimensions": [
-        "Belarus"
+        "China"
       ],
       "metrics": [
         "1",
@@ -618,7 +618,7 @@
     },
     {
       "dimensions": [
-        "China"
+        "Italy"
       ],
       "metrics": [
         "1",
@@ -627,17 +627,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 68,
-    "users": 63,
-    "pageViews": 78,
-    "avgSessionDuration": 28,
-    "bounceRate": 0.8
+    "sessions": 67,
+    "users": 62,
+    "pageViews": 77,
+    "avgSessionDuration": 30,
+    "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 399,
-    "users": 383,
-    "pageViews": 442,
-    "avgSessionDuration": 43,
+    "sessions": 389,
+    "users": 372,
+    "pageViews": 430,
+    "avgSessionDuration": 42,
     "bounceRate": 0.7
   }
 }

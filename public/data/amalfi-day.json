@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-11-07T11:35:54.579Z",
+  "updatedAt": "2026-11-08T11:47:59.248Z",
   "trend": [
     {
       "dimensions": [
@@ -11,16 +11,6 @@
         "17",
         "12",
         "23"
-      ]
-    },
-    {
-      "dimensions": [
-        "20261008"
-      ],
-      "metrics": [
-        "16",
-        "11",
-        "24"
       ]
     },
     {
@@ -292,6 +282,26 @@
         "2",
         "5"
       ]
+    },
+    {
+      "dimensions": [
+        "20261107"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "20261108"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "3"
+      ]
     }
   ],
   "topPages": [
@@ -300,17 +310,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "10",
-        "10"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photoshootings"
-      ],
-      "metrics": [
-        "8",
-        "4"
+        "9",
+        "8"
       ]
     },
     {
@@ -324,6 +325,24 @@
     },
     {
       "dimensions": [
+        "/photoshootings"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/contact"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "/ferry-timetables/"
       ],
       "metrics": [
@@ -333,7 +352,7 @@
     },
     {
       "dimensions": [
-        "/blog/why-silver-moon-and-mar-di-cobalto-are-closed-in-amalfi/"
+        "/apartments"
       ],
       "metrics": [
         "1",
@@ -342,7 +361,7 @@
     },
     {
       "dimensions": [
-        "/contact"
+        "/blog/why-silver-moon-and-mar-di-cobalto-are-closed-in-amalfi/"
       ],
       "metrics": [
         "1",
@@ -360,34 +379,7 @@
     },
     {
       "dimensions": [
-        "/experience/scooter"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "/photoshootings/hinad-amalfi-sunrise/"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photoshootings/nilsa-otanez-amalfi-atrani/"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photoshootings/shifa/"
       ],
       "metrics": [
         "1",
@@ -410,8 +402,8 @@
         "google"
       ],
       "metrics": [
-        "5",
-        "5"
+        "4",
+        "4"
       ]
     },
     {
@@ -434,25 +426,7 @@
     },
     {
       "dimensions": [
-        "(data not available)"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "ca.search.yahoo.com"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "duckduckgo"
       ],
       "metrics": [
         "1",
@@ -499,29 +473,20 @@
     },
     {
       "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "Poland"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "United Kingdom"
       ],
       "metrics": [
+        "3",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States"
+      ],
+      "metrics": [
         "2",
-        "1"
+        "2"
       ]
     },
     {
@@ -562,7 +527,7 @@
     },
     {
       "dimensions": [
-        "India"
+        "Netherlands"
       ],
       "metrics": [
         "1",
@@ -571,7 +536,16 @@
     },
     {
       "dimensions": [
-        "Netherlands"
+        "Poland"
+      ],
+      "metrics": [
+        "1",
+        "0"
+      ]
+    },
+    {
+      "dimensions": [
+        "Sweden"
       ],
       "metrics": [
         "1",
@@ -580,17 +554,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 22,
-    "users": 19,
-    "pageViews": 33,
-    "avgSessionDuration": 79,
-    "bounceRate": 0.4
+    "sessions": 19,
+    "users": 16,
+    "pageViews": 26,
+    "avgSessionDuration": 53,
+    "bounceRate": 0.5
   },
   "summary30d": {
-    "sessions": 227,
-    "users": 169,
-    "pageViews": 292,
-    "avgSessionDuration": 155,
+    "sessions": 213,
+    "users": 161,
+    "pageViews": 273,
+    "avgSessionDuration": 143,
     "bounceRate": 0.4
   }
 }
