@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-11-08T11:47:57.963Z",
+  "updatedAt": "2026-11-09T13:42:52.135Z",
   "trend": [
     {
       "dimensions": [
@@ -29,16 +29,6 @@
       ],
       "metrics": [
         "20",
-        "19",
-        "22"
-      ]
-    },
-    {
-      "dimensions": [
-        "20261009"
-      ],
-      "metrics": [
-        "19",
         "19",
         "22"
       ]
@@ -121,6 +111,16 @@
         "14",
         "12",
         "21"
+      ]
+    },
+    {
+      "dimensions": [
+        "20261108"
+      ],
+      "metrics": [
+        "14",
+        "14",
+        "15"
       ]
     },
     {
@@ -305,7 +305,7 @@
     },
     {
       "dimensions": [
-        "20261108"
+        "20261109"
       ],
       "metrics": [
         "3",
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "32",
-        "31"
+        "35",
+        "35"
       ]
     },
     {
@@ -340,33 +340,6 @@
       "metrics": [
         "4",
         "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/chto-dielat-na-amalfitanskom-pobieriezhie-iesli-dozhd-zhara-ili-otmienili-lodku"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/contacts"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2021/09/positano-steibek"
-      ],
-      "metrics": [
-        "2",
-        "2"
       ]
     },
     {
@@ -398,29 +371,38 @@
     },
     {
       "dimensions": [
-        "/blog/giorgio-armani-vybral-raviello-dlia-kampanii-mare-2026"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/positano-steibek"
-      ],
-      "metrics": [
-        "2",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/spaghietti-alle-vongole-bliudo-biez-kotorogho-amalfiiskoie-pobieriezhie-niemyslimo-2"
       ],
       "metrics": [
         "2",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/contacts"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/2021/09/positano-steibek"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     },
     {
@@ -443,7 +425,25 @@
     },
     {
       "dimensions": [
-        "/blog/atrani-na-dva-dnia-stal-ghorodom-knigh-i-skulptur-u-moria"
+        "/blog/colatura-di-alici-di-cetara"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/giorgio-armani-vybral-raviello-dlia-kampanii-mare-2026"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/how-to-get-to-amalfi"
       ],
       "metrics": [
         "1",
@@ -457,13 +457,13 @@
         "(direct)"
       ],
       "metrics": [
-        "41",
-        "40"
+        "44",
+        "43"
       ]
     },
     {
       "dimensions": [
-        "yandex.ru"
+        "google"
       ],
       "metrics": [
         "9",
@@ -472,10 +472,10 @@
     },
     {
       "dimensions": [
-        "google"
+        "yandex.ru"
       ],
       "metrics": [
-        "8",
+        "7",
         "6"
       ]
     },
@@ -495,15 +495,6 @@
       "metrics": [
         "2",
         "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "yandex"
-      ],
-      "metrics": [
-        "2",
-        "1"
       ]
     },
     {
@@ -541,7 +532,7 @@
       ],
       "metrics": [
         "34",
-        "32"
+        "33"
       ]
     },
     {
@@ -558,31 +549,13 @@
         "(not set)"
       ],
       "metrics": [
-        "6",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "Kazakhstan"
-      ],
-      "metrics": [
-        "3",
-        "1"
+        "7",
+        "7"
       ]
     },
     {
       "dimensions": [
         "Germany"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "Poland"
       ],
       "metrics": [
         "2",
@@ -601,6 +574,24 @@
     {
       "dimensions": [
         "Armenia"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Belarus"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Canada"
       ],
       "metrics": [
         "1",
@@ -628,16 +619,16 @@
   ],
   "summary7d": {
     "sessions": 67,
-    "users": 62,
-    "pageViews": 77,
-    "avgSessionDuration": 30,
+    "users": 64,
+    "pageViews": 71,
+    "avgSessionDuration": 33,
     "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 389,
-    "users": 372,
-    "pageViews": 430,
-    "avgSessionDuration": 42,
+    "sessions": 384,
+    "users": 367,
+    "pageViews": 423,
+    "avgSessionDuration": 45,
     "bounceRate": 0.7
   }
 }

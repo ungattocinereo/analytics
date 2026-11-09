@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-11-08T11:47:59.248Z",
+  "updatedAt": "2026-11-09T13:42:53.422Z",
   "trend": [
     {
       "dimensions": [
@@ -21,16 +21,6 @@
         "14",
         "10",
         "21"
-      ]
-    },
-    {
-      "dimensions": [
-        "20261009"
-      ],
-      "metrics": [
-        "13",
-        "11",
-        "15"
       ]
     },
     {
@@ -215,6 +205,16 @@
     },
     {
       "dimensions": [
+        "20261108"
+      ],
+      "metrics": [
+        "4",
+        "4",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
         "20261024"
       ],
       "metrics": [
@@ -292,16 +292,6 @@
         "1",
         "2"
       ]
-    },
-    {
-      "dimensions": [
-        "20261108"
-      ],
-      "metrics": [
-        "1",
-        "1",
-        "3"
-      ]
     }
   ],
   "topPages": [
@@ -310,8 +300,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "9",
-        "8"
+        "6",
+        "5"
       ]
     },
     {
@@ -319,16 +309,16 @@
         "/"
       ],
       "metrics": [
-        "6",
-        "4"
+        "5",
+        "3"
       ]
     },
     {
       "dimensions": [
-        "/photoshootings"
+        "/parking/"
       ],
       "metrics": [
-        "3",
+        "4",
         "3"
       ]
     },
@@ -343,7 +333,7 @@
     },
     {
       "dimensions": [
-        "/ferry-timetables/"
+        "/photoshootings"
       ],
       "metrics": [
         "2",
@@ -361,16 +351,7 @@
     },
     {
       "dimensions": [
-        "/blog/why-silver-moon-and-mar-di-cobalto-are-closed-in-amalfi/"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/directions/"
+        "/ferry-timetables/"
       ],
       "metrics": [
         "1",
@@ -393,17 +374,8 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "6",
+        "5",
         "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "google"
-      ],
-      "metrics": [
-        "4",
-        "4"
       ]
     },
     {
@@ -411,7 +383,16 @@
         "(direct)"
       ],
       "metrics": [
-        "3",
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "google"
+      ],
+      "metrics": [
+        "2",
         "2"
       ]
     },
@@ -420,8 +401,8 @@
         "bing"
       ],
       "metrics": [
-        "2",
-        "2"
+        "1",
+        "1"
       ]
     },
     {
@@ -467,22 +448,13 @@
         "Italy"
       ],
       "metrics": [
-        "6",
-        "5"
+        "4",
+        "4"
       ]
     },
     {
       "dimensions": [
-        "United Kingdom"
-      ],
-      "metrics": [
-        "3",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "United States"
+        "Canada"
       ],
       "metrics": [
         "2",
@@ -491,25 +463,16 @@
     },
     {
       "dimensions": [
-        "Canada"
+        "United Kingdom"
       ],
       "metrics": [
-        "1",
+        "2",
         "1"
       ]
     },
     {
       "dimensions": [
         "Czechia"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "France"
       ],
       "metrics": [
         "1",
@@ -527,20 +490,11 @@
     },
     {
       "dimensions": [
-        "Netherlands"
+        "North Macedonia"
       ],
       "metrics": [
         "1",
         "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Poland"
-      ],
-      "metrics": [
-        "1",
-        "0"
       ]
     },
     {
@@ -551,19 +505,37 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "Ukraine"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 19,
-    "users": 16,
-    "pageViews": 26,
-    "avgSessionDuration": 53,
-    "bounceRate": 0.5
+    "sessions": 14,
+    "users": 13,
+    "pageViews": 22,
+    "avgSessionDuration": 103,
+    "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 213,
-    "users": 161,
-    "pageViews": 273,
+    "sessions": 203,
+    "users": 153,
+    "pageViews": 262,
     "avgSessionDuration": 143,
     "bounceRate": 0.4
   }
