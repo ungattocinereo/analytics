@@ -1,18 +1,8 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-11-09T13:42:52.135Z",
+  "updatedAt": "2026-11-10T13:21:00.439Z",
   "trend": [
-    {
-      "dimensions": [
-        "20261010"
-      ],
-      "metrics": [
-        "26",
-        "26",
-        "26"
-      ]
-    },
     {
       "dimensions": [
         "20261015"
@@ -265,6 +255,16 @@
     },
     {
       "dimensions": [
+        "20261109"
+      ],
+      "metrics": [
+        "9",
+        "9",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
         "20261016"
       ],
       "metrics": [
@@ -281,6 +281,16 @@
         "7",
         "6",
         "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "20261110"
+      ],
+      "metrics": [
+        "7",
+        "7",
+        "7"
       ]
     },
     {
@@ -302,16 +312,6 @@
         "6",
         "7"
       ]
-    },
-    {
-      "dimensions": [
-        "20261109"
-      ],
-      "metrics": [
-        "3",
-        "3",
-        "3"
-      ]
     }
   ],
   "topPages": [
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "35",
-        "35"
+        "37",
+        "37"
       ]
     },
     {
@@ -338,8 +338,8 @@
         "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
-        "4",
-        "4"
+        "3",
+        "3"
       ]
     },
     {
@@ -363,6 +363,15 @@
     {
       "dimensions": [
         "/blog/atrani-for-lovers-part-1"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/giorgio-armani-vybral-raviello-dlia-kampanii-mare-2026"
       ],
       "metrics": [
         "2",
@@ -416,25 +425,7 @@
     },
     {
       "dimensions": [
-        "/blog/2018-4-28-2"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/colatura-di-alici-di-cetara"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/giorgio-armani-vybral-raviello-dlia-kampanii-mare-2026"
       ],
       "metrics": [
         "1",
@@ -449,6 +440,15 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "/blog/morie-v-atrani-stalo-otlichnym-ofitsialno"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "sources": [
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "44",
-        "43"
+        "48",
+        "48"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "9",
-        "8"
+        "10",
+        "9"
       ]
     },
     {
@@ -475,22 +475,13 @@
         "yandex.ru"
       ],
       "metrics": [
-        "7",
+        "6",
         "6"
       ]
     },
     {
       "dimensions": [
         "aocr.org"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "ya.ru"
       ],
       "metrics": [
         "2",
@@ -523,6 +514,15 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "ya.ru"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "countries": [
@@ -531,8 +531,8 @@
         "Russia"
       ],
       "metrics": [
-        "34",
-        "33"
+        "36",
+        "36"
       ]
     },
     {
@@ -555,7 +555,16 @@
     },
     {
       "dimensions": [
-        "Germany"
+        "Belarus"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Italy"
       ],
       "metrics": [
         "2",
@@ -582,15 +591,6 @@
     },
     {
       "dimensions": [
-        "Belarus"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "Canada"
       ],
       "metrics": [
@@ -609,7 +609,7 @@
     },
     {
       "dimensions": [
-        "Italy"
+        "Germany"
       ],
       "metrics": [
         "1",
@@ -618,17 +618,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 67,
-    "users": 64,
-    "pageViews": 71,
-    "avgSessionDuration": 33,
-    "bounceRate": 0.7
+    "sessions": 70,
+    "users": 69,
+    "pageViews": 74,
+    "avgSessionDuration": 30,
+    "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 384,
-    "users": 367,
-    "pageViews": 423,
-    "avgSessionDuration": 45,
+    "sessions": 371,
+    "users": 353,
+    "pageViews": 410,
+    "avgSessionDuration": 46,
     "bounceRate": 0.7
   }
 }

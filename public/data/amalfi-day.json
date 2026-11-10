@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-11-09T13:42:53.422Z",
+  "updatedAt": "2026-11-10T13:21:04.287Z",
   "trend": [
     {
       "dimensions": [
@@ -155,16 +155,6 @@
     },
     {
       "dimensions": [
-        "20261010"
-      ],
-      "metrics": [
-        "6",
-        "5",
-        "10"
-      ]
-    },
-    {
-      "dimensions": [
         "20261017"
       ],
       "metrics": [
@@ -245,6 +235,16 @@
     },
     {
       "dimensions": [
+        "20261109"
+      ],
+      "metrics": [
+        "3",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
         "20261020"
       ],
       "metrics": [
@@ -292,6 +292,16 @@
         "1",
         "2"
       ]
+    },
+    {
+      "dimensions": [
+        "20261110"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "1"
+      ]
     }
   ],
   "topPages": [
@@ -318,7 +328,16 @@
         "/parking/"
       ],
       "metrics": [
-        "4",
+        "5",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photoshootings"
+      ],
+      "metrics": [
+        "3",
         "3"
       ]
     },
@@ -333,7 +352,7 @@
     },
     {
       "dimensions": [
-        "/photoshootings"
+        "/ferry-timetables/"
       ],
       "metrics": [
         "2",
@@ -351,7 +370,7 @@
     },
     {
       "dimensions": [
-        "/ferry-timetables/"
+        "/blog/the-52nd-gran-carnevale-di-maiori-2026-dreams-floats-fireworks-on-the-amalfi-coast/"
       ],
       "metrics": [
         "1",
@@ -366,12 +385,30 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "/photoshootings/nathalie-amalfi/"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "sources": [
     {
       "dimensions": [
         "chatgpt.com"
+      ],
+      "metrics": [
+        "6",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "google"
       ],
       "metrics": [
         "5",
@@ -381,15 +418,6 @@
     {
       "dimensions": [
         "(direct)"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "google"
       ],
       "metrics": [
         "2",
@@ -448,8 +476,8 @@
         "Italy"
       ],
       "metrics": [
-        "4",
-        "4"
+        "5",
+        "5"
       ]
     },
     {
@@ -467,6 +495,24 @@
       ],
       "metrics": [
         "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Chile"
+      ],
+      "metrics": [
+        "1",
         "1"
       ]
     },
@@ -499,25 +545,16 @@
     },
     {
       "dimensions": [
+        "Portugal"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "Sweden"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Ukraine"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "United States"
       ],
       "metrics": [
         "1",
@@ -526,17 +563,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 14,
-    "users": 13,
-    "pageViews": 22,
-    "avgSessionDuration": 103,
-    "bounceRate": 0.4
+    "sessions": 18,
+    "users": 17,
+    "pageViews": 27,
+    "avgSessionDuration": 127,
+    "bounceRate": 0.3
   },
   "summary30d": {
-    "sessions": 203,
-    "users": 153,
-    "pageViews": 262,
-    "avgSessionDuration": 143,
+    "sessions": 201,
+    "users": 151,
+    "pageViews": 257,
+    "avgSessionDuration": 141,
     "bounceRate": 0.4
   }
 }
