@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-11-10T13:21:04.287Z",
+  "updatedAt": "2026-11-11T12:31:48.858Z",
   "trend": [
     {
       "dimensions": [
@@ -11,16 +11,6 @@
         "17",
         "12",
         "23"
-      ]
-    },
-    {
-      "dimensions": [
-        "20261011"
-      ],
-      "metrics": [
-        "14",
-        "10",
-        "21"
       ]
     },
     {
@@ -205,6 +195,16 @@
     },
     {
       "dimensions": [
+        "20261110"
+      ],
+      "metrics": [
+        "4",
+        "2",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
         "20261024"
       ],
       "metrics": [
@@ -292,26 +292,25 @@
         "1",
         "2"
       ]
-    },
-    {
-      "dimensions": [
-        "20261110"
-      ],
-      "metrics": [
-        "1",
-        "1",
-        "1"
-      ]
     }
   ],
   "topPages": [
     {
       "dimensions": [
+        "/parking/"
+      ],
+      "metrics": [
+        "7",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
         "/timetables/"
       ],
       "metrics": [
-        "6",
-        "5"
+        "5",
+        "4"
       ]
     },
     {
@@ -319,17 +318,8 @@
         "/"
       ],
       "metrics": [
-        "5",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/parking/"
-      ],
-      "metrics": [
-        "5",
-        "4"
+        "4",
+        "2"
       ]
     },
     {
@@ -339,6 +329,15 @@
       "metrics": [
         "3",
         "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/the-52nd-gran-carnevale-di-maiori-2026-dreams-floats-fireworks-on-the-amalfi-coast/"
+      ],
+      "metrics": [
+        "2",
+        "2"
       ]
     },
     {
@@ -370,15 +369,6 @@
     },
     {
       "dimensions": [
-        "/blog/the-52nd-gran-carnevale-di-maiori-2026-dreams-floats-fireworks-on-the-amalfi-coast/"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "/photoshootings/hinad-amalfi-sunrise/"
       ],
       "metrics": [
@@ -399,20 +389,20 @@
   "sources": [
     {
       "dimensions": [
-        "chatgpt.com"
+        "google"
       ],
       "metrics": [
-        "6",
+        "8",
         "6"
       ]
     },
     {
       "dimensions": [
-        "google"
+        "chatgpt.com"
       ],
       "metrics": [
-        "5",
-        "5"
+        "6",
+        "6"
       ]
     },
     {
@@ -450,24 +440,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "m.facebook.com"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "uk.search.yahoo.com"
-      ],
-      "metrics": [
-        "1",
-        "0"
-      ]
     }
   ],
   "countries": [
@@ -482,20 +454,20 @@
     },
     {
       "dimensions": [
+        "Portugal"
+      ],
+      "metrics": [
+        "3",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "Canada"
       ],
       "metrics": [
         "2",
         "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "United Kingdom"
-      ],
-      "metrics": [
-        "2",
-        "1"
       ]
     },
     {
@@ -536,6 +508,15 @@
     },
     {
       "dimensions": [
+        "Hungary"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "North Macedonia"
       ],
       "metrics": [
@@ -545,16 +526,7 @@
     },
     {
       "dimensions": [
-        "Portugal"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Sweden"
+        "Ukraine"
       ],
       "metrics": [
         "1",
@@ -563,17 +535,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 18,
+    "sessions": 19,
     "users": 17,
-    "pageViews": 27,
-    "avgSessionDuration": 127,
+    "pageViews": 28,
+    "avgSessionDuration": 126,
     "bounceRate": 0.3
   },
   "summary30d": {
-    "sessions": 201,
-    "users": 151,
-    "pageViews": 257,
-    "avgSessionDuration": 141,
+    "sessions": 189,
+    "users": 142,
+    "pageViews": 239,
+    "avgSessionDuration": 139,
     "bounceRate": 0.4
   }
 }

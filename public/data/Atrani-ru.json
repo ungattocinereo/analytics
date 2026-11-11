@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-11-10T13:21:00.439Z",
+  "updatedAt": "2026-11-11T12:31:46.795Z",
   "trend": [
     {
       "dimensions": [
@@ -11,16 +11,6 @@
         "21",
         "21",
         "29"
-      ]
-    },
-    {
-      "dimensions": [
-        "20261011"
-      ],
-      "metrics": [
-        "20",
-        "19",
-        "22"
       ]
     },
     {
@@ -165,6 +155,16 @@
     },
     {
       "dimensions": [
+        "20261110"
+      ],
+      "metrics": [
+        "12",
+        "12",
+        "12"
+      ]
+    },
+    {
+      "dimensions": [
         "20261021"
       ],
       "metrics": [
@@ -285,16 +285,6 @@
     },
     {
       "dimensions": [
-        "20261110"
-      ],
-      "metrics": [
-        "7",
-        "7",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
         "20261105"
       ],
       "metrics": [
@@ -312,6 +302,16 @@
         "6",
         "7"
       ]
+    },
+    {
+      "dimensions": [
+        "20261111"
+      ],
+      "metrics": [
+        "4",
+        "4",
+        "4"
+      ]
     }
   ],
   "topPages": [
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "37",
-        "37"
+        "41",
+        "41"
       ]
     },
     {
@@ -354,15 +354,6 @@
     {
       "dimensions": [
         "/blog/10-faktov-o-kampanii-ot-samogho-malienkogho-ghorodka-italii-do-posliedniegho-izvierzhieniia-viezuviia"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/atrani-for-lovers-part-1"
       ],
       "metrics": [
         "2",
@@ -407,7 +398,16 @@
     },
     {
       "dimensions": [
-        "/2021/09/positano-steibek"
+        "/eng"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/apartments"
       ],
       "metrics": [
         "1",
@@ -416,7 +416,16 @@
     },
     {
       "dimensions": [
-        "/apartments"
+        "/blog/atrani-for-lovers-part-1"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/atrani-samyi-siekrietnyi-ugholok-amalfitanskogho-pobieriezhia"
       ],
       "metrics": [
         "1",
@@ -440,15 +449,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "/blog/morie-v-atrani-stalo-otlichnym-ofitsialno"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "sources": [
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "48",
-        "48"
+        "52",
+        "52"
       ]
     },
     {
@@ -466,7 +466,7 @@
         "google"
       ],
       "metrics": [
-        "10",
+        "9",
         "9"
       ]
     },
@@ -475,8 +475,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "6",
-        "6"
+        "5",
+        "5"
       ]
     },
     {
@@ -531,8 +531,8 @@
         "Russia"
       ],
       "metrics": [
-        "36",
-        "36"
+        "37",
+        "37"
       ]
     },
     {
@@ -549,8 +549,8 @@
         "(not set)"
       ],
       "metrics": [
-        "7",
-        "7"
+        "8",
+        "8"
       ]
     },
     {
@@ -591,25 +591,25 @@
     },
     {
       "dimensions": [
+        "Australia"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Azerbaijan"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "Canada"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "China"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Germany"
       ],
       "metrics": [
         "1",
@@ -618,17 +618,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 70,
-    "users": 69,
-    "pageViews": 74,
-    "avgSessionDuration": 30,
+    "sessions": 72,
+    "users": 72,
+    "pageViews": 77,
+    "avgSessionDuration": 31,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 371,
-    "users": 353,
-    "pageViews": 410,
-    "avgSessionDuration": 46,
+    "sessions": 359,
+    "users": 343,
+    "pageViews": 397,
+    "avgSessionDuration": 47,
     "bounceRate": 0.7
   }
 }
