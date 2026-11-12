@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-11-11T12:31:46.795Z",
+  "updatedAt": "2026-11-12T13:37:04.526Z",
   "trend": [
     {
       "dimensions": [
@@ -185,16 +185,6 @@
     },
     {
       "dimensions": [
-        "20261012"
-      ],
-      "metrics": [
-        "10",
-        "10",
-        "12"
-      ]
-    },
-    {
-      "dimensions": [
         "20261024"
       ],
       "metrics": [
@@ -265,6 +255,16 @@
     },
     {
       "dimensions": [
+        "20261111"
+      ],
+      "metrics": [
+        "9",
+        "9",
+        "10"
+      ]
+    },
+    {
+      "dimensions": [
         "20261016"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20261111"
+        "20261112"
       ],
       "metrics": [
-        "4",
-        "4",
-        "4"
+        "3",
+        "3",
+        "3"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "41",
-        "41"
+        "40",
+        "40"
       ]
     },
     {
@@ -331,6 +331,15 @@
       "metrics": [
         "8",
         "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
+      ],
+      "metrics": [
+        "4",
+        "3"
       ]
     },
     {
@@ -353,34 +362,7 @@
     },
     {
       "dimensions": [
-        "/blog/10-faktov-o-kampanii-ot-samogho-malienkogho-ghorodka-italii-do-posliedniegho-izvierzhieniia-viezuviia"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/giorgio-armani-vybral-raviello-dlia-kampanii-mare-2026"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/spaghietti-alle-vongole-bliudo-biez-kotorogho-amalfiiskoie-pobieriezhie-niemyslimo-2"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
       ],
       "metrics": [
         "2",
@@ -408,6 +390,15 @@
     {
       "dimensions": [
         "/apartments"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/10-faktov-o-kampanii-ot-samogho-malienkogho-ghorodka-italii-do-posliedniegho-izvierzhieniia-viezuviia"
       ],
       "metrics": [
         "1",
@@ -449,6 +440,15 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "/blog/morie-v-atrani-stalo-otlichnym-ofitsialno"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "sources": [
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "52",
-        "52"
+        "50",
+        "50"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "9",
-        "9"
+        "10",
+        "10"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "5",
-        "5"
+        "4",
+        "4"
       ]
     },
     {
@@ -508,15 +508,6 @@
     },
     {
       "dimensions": [
-        "scriblihelp.com"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "ya.ru"
       ],
       "metrics": [
@@ -531,8 +522,8 @@
         "Russia"
       ],
       "metrics": [
-        "37",
-        "37"
+        "35",
+        "35"
       ]
     },
     {
@@ -540,8 +531,8 @@
         "United States"
       ],
       "metrics": [
-        "13",
-        "13"
+        "12",
+        "12"
       ]
     },
     {
@@ -549,13 +540,22 @@
         "(not set)"
       ],
       "metrics": [
-        "8",
-        "8"
+        "7",
+        "7"
       ]
     },
     {
       "dimensions": [
         "Belarus"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        ""
       ],
       "metrics": [
         "2",
@@ -569,15 +569,6 @@
       "metrics": [
         "2",
         "2"
-      ]
-    },
-    {
-      "dimensions": [
-        ""
-      ],
-      "metrics": [
-        "1",
-        "1"
       ]
     },
     {
@@ -618,17 +609,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 72,
-    "users": 72,
-    "pageViews": 77,
-    "avgSessionDuration": 31,
+    "sessions": 69,
+    "users": 69,
+    "pageViews": 75,
+    "avgSessionDuration": 47,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 359,
-    "users": 343,
-    "pageViews": 397,
-    "avgSessionDuration": 47,
+    "sessions": 357,
+    "users": 341,
+    "pageViews": 394,
+    "avgSessionDuration": 50,
     "bounceRate": 0.7
   }
 }

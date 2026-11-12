@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-11-11T12:31:48.858Z",
+  "updatedAt": "2026-11-12T13:37:06.873Z",
   "trend": [
     {
       "dimensions": [
@@ -101,16 +101,6 @@
         "10",
         "7",
         "10"
-      ]
-    },
-    {
-      "dimensions": [
-        "20261012"
-      ],
-      "metrics": [
-        "8",
-        "7",
-        "8"
       ]
     },
     {
@@ -285,6 +275,16 @@
     },
     {
       "dimensions": [
+        "20261111"
+      ],
+      "metrics": [
+        "2",
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "20261107"
       ],
       "metrics": [
@@ -324,15 +324,6 @@
     },
     {
       "dimensions": [
-        "/photoshootings"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/the-52nd-gran-carnevale-di-maiori-2026-dreams-floats-fireworks-on-the-amalfi-coast/"
       ],
       "metrics": [
@@ -352,6 +343,15 @@
     {
       "dimensions": [
         "/ferry-timetables/"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photoshootings"
       ],
       "metrics": [
         "2",
@@ -392,8 +392,8 @@
         "google"
       ],
       "metrics": [
-        "8",
-        "6"
+        "9",
+        "7"
       ]
     },
     {
@@ -401,8 +401,8 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "6",
-        "6"
+        "5",
+        "5"
       ]
     },
     {
@@ -410,17 +410,8 @@
         "(direct)"
       ],
       "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "bing"
-      ],
-      "metrics": [
-        "1",
-        "1"
+        "3",
+        "3"
       ]
     },
     {
@@ -448,8 +439,17 @@
         "Italy"
       ],
       "metrics": [
-        "5",
-        "5"
+        "4",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "Canada"
+      ],
+      "metrics": [
+        "3",
+        "3"
       ]
     },
     {
@@ -463,16 +463,7 @@
     },
     {
       "dimensions": [
-        "Canada"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "United States"
+        "United Kingdom"
       ],
       "metrics": [
         "2",
@@ -537,15 +528,15 @@
   "summary7d": {
     "sessions": 19,
     "users": 17,
-    "pageViews": 28,
-    "avgSessionDuration": 126,
+    "pageViews": 27,
+    "avgSessionDuration": 130,
     "bounceRate": 0.3
   },
   "summary30d": {
-    "sessions": 189,
-    "users": 142,
-    "pageViews": 239,
-    "avgSessionDuration": 139,
+    "sessions": 184,
+    "users": 137,
+    "pageViews": 233,
+    "avgSessionDuration": 142,
     "bounceRate": 0.4
   }
 }
