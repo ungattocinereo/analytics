@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-11-12T13:37:06.873Z",
+  "updatedAt": "2026-11-13T12:57:53.653Z",
   "trend": [
     {
       "dimensions": [
@@ -51,16 +51,6 @@
         "11",
         "4",
         "11"
-      ]
-    },
-    {
-      "dimensions": [
-        "20261013"
-      ],
-      "metrics": [
-        "10",
-        "8",
-        "13"
       ]
     },
     {
@@ -285,12 +275,32 @@
     },
     {
       "dimensions": [
+        "20261112"
+      ],
+      "metrics": [
+        "2",
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "20261107"
       ],
       "metrics": [
         "1",
         "1",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "20261113"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "1"
       ]
     }
   ],
@@ -311,15 +321,6 @@
       "metrics": [
         "5",
         "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/"
-      ],
-      "metrics": [
-        "4",
-        "2"
       ]
     },
     {
@@ -360,7 +361,25 @@
     },
     {
       "dimensions": [
+        "/"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
         "/apartments"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/why-silver-moon-and-mar-di-cobalto-are-closed-in-amalfi/"
       ],
       "metrics": [
         "1",
@@ -392,8 +411,8 @@
         "google"
       ],
       "metrics": [
-        "9",
-        "7"
+        "11",
+        "9"
       ]
     },
     {
@@ -401,8 +420,8 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "5",
-        "5"
+        "4",
+        "4"
       ]
     },
     {
@@ -416,7 +435,7 @@
     },
     {
       "dimensions": [
-        "ca.search.yahoo.com"
+        "ecosia.org"
       ],
       "metrics": [
         "1",
@@ -425,7 +444,7 @@
     },
     {
       "dimensions": [
-        "ecosia.org"
+        "facebook.com"
       ],
       "metrics": [
         "1",
@@ -436,16 +455,16 @@
   "countries": [
     {
       "dimensions": [
-        "Italy"
+        "Canada"
       ],
       "metrics": [
-        "4",
-        "4"
+        "3",
+        "3"
       ]
     },
     {
       "dimensions": [
-        "Canada"
+        "Italy"
       ],
       "metrics": [
         "3",
@@ -466,13 +485,22 @@
         "United Kingdom"
       ],
       "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States"
+      ],
+      "metrics": [
         "2",
         "2"
       ]
     },
     {
       "dimensions": [
-        "Chile"
+        "Brazil"
       ],
       "metrics": [
         "1",
@@ -481,7 +509,7 @@
     },
     {
       "dimensions": [
-        "Czechia"
+        "Chile"
       ],
       "metrics": [
         "1",
@@ -514,29 +542,20 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "Ukraine"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 19,
-    "users": 17,
-    "pageViews": 27,
-    "avgSessionDuration": 130,
+    "sessions": 20,
+    "users": 18,
+    "pageViews": 25,
+    "avgSessionDuration": 117,
     "bounceRate": 0.3
   },
   "summary30d": {
-    "sessions": 184,
-    "users": 137,
-    "pageViews": 233,
-    "avgSessionDuration": 142,
+    "sessions": 178,
+    "users": 133,
+    "pageViews": 223,
+    "avgSessionDuration": 133,
     "bounceRate": 0.4
   }
 }
