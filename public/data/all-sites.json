@@ -2,66 +2,64 @@
   "Atrani.ru": {
     "name": "Atrani.ru",
     "propertyId": "properties/353046676",
-    "updatedAt": "2026-11-13T12:59:55.561Z",
-    "error": "API error 502: <!DOCTYPE html>\n<html lang=en>\n  <meta charset=utf-8>\n  <meta name=viewport content=\"initial-scale=1, minimum-scale=1, width=device-width\">\n  <title>Error 502 (Server Error)!!1</title>\n  <style>\n    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}\n  </style>\n  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>\n  <p><b>502.</b> <ins>That’s an error.</ins>\n  <p>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.  <ins>That’s all we know.</ins>\n",
+    "updatedAt": "2026-11-14T11:59:25.999Z",
     "summary7d": {
-      "sessions": 0,
-      "users": 0,
-      "pageViews": 0,
-      "avgSessionDuration": 0,
-      "bounceRate": 0
+      "sessions": 88,
+      "users": 81,
+      "pageViews": 131,
+      "avgSessionDuration": 102,
+      "bounceRate": 0.7
     },
     "summary30d": {
-      "sessions": 0,
-      "users": 0,
-      "pageViews": 0,
-      "avgSessionDuration": 0,
-      "bounceRate": 0
+      "sessions": 361,
+      "users": 338,
+      "pageViews": 435,
+      "avgSessionDuration": 64,
+      "bounceRate": 0.7
     }
   },
   "Cinereo.it": {
     "name": "Cinereo.it",
     "propertyId": "properties/362803366",
-    "updatedAt": "2026-11-13T13:00:55.625Z",
-    "error": "API error 502: <!DOCTYPE html>\n<html lang=en>\n  <meta charset=utf-8>\n  <meta name=viewport content=\"initial-scale=1, minimum-scale=1, width=device-width\">\n  <title>Error 502 (Server Error)!!1</title>\n  <style>\n    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}\n  </style>\n  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>\n  <p><b>502.</b> <ins>That’s an error.</ins>\n  <p>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.  <ins>That’s all we know.</ins>\n",
+    "updatedAt": "2026-11-14T11:59:26.137Z",
     "summary7d": {
-      "sessions": 0,
-      "users": 0,
-      "pageViews": 0,
-      "avgSessionDuration": 0,
-      "bounceRate": 0
+      "sessions": 13,
+      "users": 3,
+      "pageViews": 33,
+      "avgSessionDuration": 194,
+      "bounceRate": 0.6
     },
     "summary30d": {
-      "sessions": 0,
-      "users": 0,
-      "pageViews": 0,
-      "avgSessionDuration": 0,
-      "bounceRate": 0
+      "sessions": 32,
+      "users": 5,
+      "pageViews": 58,
+      "avgSessionDuration": 141,
+      "bounceRate": 0.7
     }
   },
   "amalfi.day": {
     "name": "amalfi.day",
     "propertyId": "properties/306713351",
-    "updatedAt": "2026-11-13T13:00:55.783Z",
+    "updatedAt": "2026-11-14T11:59:26.260Z",
     "summary7d": {
-      "sessions": 20,
-      "users": 18,
-      "pageViews": 25,
-      "avgSessionDuration": 117,
+      "sessions": 23,
+      "users": 19,
+      "pageViews": 27,
+      "avgSessionDuration": 113,
       "bounceRate": 0.3
     },
     "summary30d": {
-      "sessions": 178,
-      "users": 133,
-      "pageViews": 223,
-      "avgSessionDuration": 133,
+      "sessions": 172,
+      "users": 126,
+      "pageViews": 214,
+      "avgSessionDuration": 115,
       "bounceRate": 0.4
     }
   },
   "guide.amalfi.day": {
     "name": "guide.amalfi.day",
     "propertyId": "properties/533587112",
-    "updatedAt": "2026-11-13T13:00:55.892Z",
+    "updatedAt": "2026-11-14T11:59:26.356Z",
     "summary7d": {
       "sessions": 0,
       "users": 0,
@@ -80,38 +78,37 @@
   "find.amalfi.day": {
     "name": "find.amalfi.day",
     "propertyId": "properties/531159837",
-    "updatedAt": "2026-11-13T13:01:55.919Z",
-    "error": "API error 502: <!DOCTYPE html>\n<html lang=en>\n  <meta charset=utf-8>\n  <meta name=viewport content=\"initial-scale=1, minimum-scale=1, width=device-width\">\n  <title>Error 502 (Server Error)!!1</title>\n  <style>\n    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}\n  </style>\n  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>\n  <p><b>502.</b> <ins>That’s an error.</ins>\n  <p>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.  <ins>That’s all we know.</ins>\n",
+    "updatedAt": "2026-11-14T11:59:26.473Z",
     "summary7d": {
-      "sessions": 0,
-      "users": 0,
-      "pageViews": 0,
+      "sessions": 5,
+      "users": 4,
+      "pageViews": 4,
       "avgSessionDuration": 0,
-      "bounceRate": 0
+      "bounceRate": 1
     },
     "summary30d": {
-      "sessions": 0,
-      "users": 0,
-      "pageViews": 0,
-      "avgSessionDuration": 0,
-      "bounceRate": 0
+      "sessions": 53,
+      "users": 29,
+      "pageViews": 83,
+      "avgSessionDuration": 147,
+      "bounceRate": 0.6
     }
   },
   "Ceramiche Da Mario": {
     "name": "Ceramiche Da Mario",
     "propertyId": "properties/529437415",
-    "updatedAt": "2026-11-13T13:01:57.311Z",
+    "updatedAt": "2026-11-14T11:59:27.374Z",
     "summary7d": {
-      "sessions": 151,
-      "users": 141,
-      "pageViews": 285,
-      "avgSessionDuration": 68,
+      "sessions": 154,
+      "users": 143,
+      "pageViews": 300,
+      "avgSessionDuration": 69,
       "bounceRate": 0.7
     },
     "summary30d": {
-      "sessions": 459,
-      "users": 422,
-      "pageViews": 1017,
+      "sessions": 465,
+      "users": 428,
+      "pageViews": 1036,
       "avgSessionDuration": 76,
       "bounceRate": 0.6
     }
@@ -119,65 +116,64 @@
   "Moto Excursions": {
     "name": "Moto Excursions",
     "propertyId": "properties/533663747",
-    "updatedAt": "2026-11-13T13:01:58.698Z",
+    "updatedAt": "2026-11-14T11:59:28.020Z",
     "summary7d": {
-      "sessions": 45,
-      "users": 38,
-      "pageViews": 89,
-      "avgSessionDuration": 120,
+      "sessions": 42,
+      "users": 35,
+      "pageViews": 86,
+      "avgSessionDuration": 124,
       "bounceRate": 0.7
     },
     "summary30d": {
-      "sessions": 130,
-      "users": 93,
-      "pageViews": 293,
-      "avgSessionDuration": 150,
+      "sessions": 124,
+      "users": 88,
+      "pageViews": 278,
+      "avgSessionDuration": 146,
       "bounceRate": 0.5
     }
   },
   "Katerina": {
     "name": "Katerina",
     "propertyId": "properties/532751253",
-    "updatedAt": "2026-11-13T13:02:58.722Z",
-    "error": "API error 502: <!DOCTYPE html>\n<html lang=en>\n  <meta charset=utf-8>\n  <meta name=viewport content=\"initial-scale=1, minimum-scale=1, width=device-width\">\n  <title>Error 502 (Server Error)!!1</title>\n  <style>\n    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}\n  </style>\n  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>\n  <p><b>502.</b> <ins>That’s an error.</ins>\n  <p>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.  <ins>That’s all we know.</ins>\n",
+    "updatedAt": "2026-11-14T11:59:48.304Z",
     "summary7d": {
-      "sessions": 0,
-      "users": 0,
-      "pageViews": 0,
-      "avgSessionDuration": 0,
-      "bounceRate": 0
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 1,
+      "avgSessionDuration": 7,
+      "bounceRate": 1
     },
     "summary30d": {
-      "sessions": 0,
-      "users": 0,
-      "pageViews": 0,
-      "avgSessionDuration": 0,
-      "bounceRate": 0
+      "sessions": 12,
+      "users": 11,
+      "pageViews": 15,
+      "avgSessionDuration": 118,
+      "bounceRate": 0.7
     }
   },
   "Masha": {
     "name": "Masha",
     "propertyId": "properties/533601370",
-    "updatedAt": "2026-11-13T13:03:00.028Z",
+    "updatedAt": "2026-11-14T11:59:48.914Z",
     "summary7d": {
-      "sessions": 12,
-      "users": 12,
-      "pageViews": 20,
-      "avgSessionDuration": 111,
-      "bounceRate": 0.5
+      "sessions": 9,
+      "users": 9,
+      "pageViews": 12,
+      "avgSessionDuration": 116,
+      "bounceRate": 0.4
     },
     "summary30d": {
-      "sessions": 39,
-      "users": 34,
-      "pageViews": 47,
-      "avgSessionDuration": 61,
+      "sessions": 37,
+      "users": 32,
+      "pageViews": 45,
+      "avgSessionDuration": 64,
       "bounceRate": 0.6
     }
   },
   "Landing (menu.band)": {
     "name": "Landing (menu.band)",
     "propertyId": "properties/529373394",
-    "updatedAt": "2026-11-13T13:03:03.074Z",
+    "updatedAt": "2026-11-14T11:59:49.247Z",
     "summary7d": {
       "sessions": 0,
       "users": 0,
@@ -196,28 +192,26 @@
   "Le Palme": {
     "name": "Le Palme",
     "propertyId": "properties/529531573",
-    "updatedAt": "2026-11-13T13:04:03.099Z",
-    "error": "API error 502: <!DOCTYPE html>\n<html lang=en>\n  <meta charset=utf-8>\n  <meta name=viewport content=\"initial-scale=1, minimum-scale=1, width=device-width\">\n  <title>Error 502 (Server Error)!!1</title>\n  <style>\n    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}\n  </style>\n  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>\n  <p><b>502.</b> <ins>That’s an error.</ins>\n  <p>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.  <ins>That’s all we know.</ins>\n",
+    "updatedAt": "2026-11-14T11:59:49.808Z",
     "summary7d": {
-      "sessions": 0,
-      "users": 0,
-      "pageViews": 0,
-      "avgSessionDuration": 0,
-      "bounceRate": 0
+      "sessions": 6,
+      "users": 4,
+      "pageViews": 7,
+      "avgSessionDuration": 65,
+      "bounceRate": 0.5
     },
     "summary30d": {
-      "sessions": 0,
-      "users": 0,
-      "pageViews": 0,
-      "avgSessionDuration": 0,
-      "bounceRate": 0
+      "sessions": 61,
+      "users": 40,
+      "pageViews": 80,
+      "avgSessionDuration": 257,
+      "bounceRate": 0.5
     }
   },
   "Birecto": {
     "name": "Birecto",
     "propertyId": "properties/532901805",
-    "updatedAt": "2026-11-13T13:05:03.162Z",
-    "error": "API error 502: <!DOCTYPE html>\n<html lang=en>\n  <meta charset=utf-8>\n  <meta name=viewport content=\"initial-scale=1, minimum-scale=1, width=device-width\">\n  <title>Error 502 (Server Error)!!1</title>\n  <style>\n    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}\n  </style>\n  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>\n  <p><b>502.</b> <ins>That’s an error.</ins>\n  <p>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.  <ins>That’s all we know.</ins>\n",
+    "updatedAt": "2026-11-14T11:59:50.213Z",
     "summary7d": {
       "sessions": 0,
       "users": 0,
@@ -236,21 +230,20 @@
   "Vittoria": {
     "name": "Vittoria",
     "propertyId": "properties/533254667",
-    "updatedAt": "2026-11-13T13:06:03.233Z",
-    "error": "API error 502: <!DOCTYPE html>\n<html lang=en>\n  <meta charset=utf-8>\n  <meta name=viewport content=\"initial-scale=1, minimum-scale=1, width=device-width\">\n  <title>Error 502 (Server Error)!!1</title>\n  <style>\n    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}\n  </style>\n  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>\n  <p><b>502.</b> <ins>That’s an error.</ins>\n  <p>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.  <ins>That’s all we know.</ins>\n",
+    "updatedAt": "2026-11-14T11:59:50.973Z",
     "summary7d": {
-      "sessions": 0,
-      "users": 0,
-      "pageViews": 0,
-      "avgSessionDuration": 0,
+      "sessions": 1,
+      "users": 1,
+      "pageViews": 4,
+      "avgSessionDuration": 178,
       "bounceRate": 0
     },
     "summary30d": {
-      "sessions": 0,
-      "users": 0,
-      "pageViews": 0,
-      "avgSessionDuration": 0,
-      "bounceRate": 0
+      "sessions": 25,
+      "users": 13,
+      "pageViews": 29,
+      "avgSessionDuration": 69,
+      "bounceRate": 0.8
     }
   }
 }
