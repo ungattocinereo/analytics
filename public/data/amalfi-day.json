@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-11-14T11:59:24.697Z",
+  "updatedAt": "2026-11-15T12:34:44.488Z",
   "trend": [
     {
       "dimensions": [
@@ -40,16 +40,6 @@
       "metrics": [
         "11",
         "4",
-        "11"
-      ]
-    },
-    {
-      "dimensions": [
-        "20261015"
-      ],
-      "metrics": [
-        "10",
-        "7",
         "11"
       ]
     },
@@ -225,6 +215,16 @@
     },
     {
       "dimensions": [
+        "20261114"
+      ],
+      "metrics": [
+        "3",
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
         "20261020"
       ],
       "metrics": [
@@ -285,12 +285,12 @@
     },
     {
       "dimensions": [
-        "20261114"
+        "20261115"
       ],
       "metrics": [
         "2",
         "2",
-        "2"
+        "3"
       ]
     },
     {
@@ -319,8 +319,26 @@
         "/timetables/"
       ],
       "metrics": [
-        "6",
+        "5",
         "6"
+      ]
+    },
+    {
+      "dimensions": [
+        "/"
+      ],
+      "metrics": [
+        "3",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photoshootings"
+      ],
+      "metrics": [
+        "3",
+        "3"
       ]
     },
     {
@@ -339,24 +357,6 @@
       "metrics": [
         "2",
         "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photoshootings"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/"
-      ],
-      "metrics": [
-        "1",
-        "1"
       ]
     },
     {
@@ -420,8 +420,8 @@
         "google"
       ],
       "metrics": [
-        "15",
-        "11"
+        "16",
+        "12"
       ]
     },
     {
@@ -429,8 +429,8 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "5",
-        "5"
+        "4",
+        "4"
       ]
     },
     {
@@ -438,8 +438,8 @@
         "(direct)"
       ],
       "metrics": [
-        "2",
-        "2"
+        "3",
+        "3"
       ]
     },
     {
@@ -450,9 +450,27 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "m.facebook.com"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "countries": [
+    {
+      "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "5",
+        "4"
+      ]
+    },
     {
       "dimensions": [
         "Canada"
@@ -464,20 +482,11 @@
     },
     {
       "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "4",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
         "Italy"
       ],
       "metrics": [
-        "3",
-        "3"
+        "4",
+        "4"
       ]
     },
     {
@@ -545,17 +554,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 23,
-    "users": 19,
-    "pageViews": 27,
-    "avgSessionDuration": 113,
-    "bounceRate": 0.3
+    "sessions": 25,
+    "users": 21,
+    "pageViews": 29,
+    "avgSessionDuration": 188,
+    "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 172,
-    "users": 126,
-    "pageViews": 214,
-    "avgSessionDuration": 115,
+    "sessions": 165,
+    "users": 122,
+    "pageViews": 207,
+    "avgSessionDuration": 131,
     "bounceRate": 0.4
   }
 }

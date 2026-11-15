@@ -1,18 +1,8 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-11-14T11:59:22.756Z",
+  "updatedAt": "2026-11-15T12:34:43.319Z",
   "trend": [
-    {
-      "dimensions": [
-        "20261015"
-      ],
-      "metrics": [
-        "21",
-        "21",
-        "29"
-      ]
-    },
     {
       "dimensions": [
         "20261017"
@@ -121,6 +111,16 @@
         "13",
         "13",
         "16"
+      ]
+    },
+    {
+      "dimensions": [
+        "20261114"
+      ],
+      "metrics": [
+        "13",
+        "13",
+        "14"
       ]
     },
     {
@@ -285,16 +285,6 @@
     },
     {
       "dimensions": [
-        "20261114"
-      ],
-      "metrics": [
-        "7",
-        "7",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
         "20261105"
       ],
       "metrics": [
@@ -312,6 +302,16 @@
         "6",
         "7"
       ]
+    },
+    {
+      "dimensions": [
+        "20261115"
+      ],
+      "metrics": [
+        "3",
+        "3",
+        "3"
+      ]
     }
   ],
   "topPages": [
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "87",
-        "54"
+        "88",
+        "55"
       ]
     },
     {
@@ -329,8 +329,8 @@
         "/experience"
       ],
       "metrics": [
-        "10",
-        "10"
+        "9",
+        "9"
       ]
     },
     {
@@ -344,20 +344,11 @@
     },
     {
       "dimensions": [
-        "/apartments"
+        "/contacts"
       ],
       "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
-      ],
-      "metrics": [
-        "3",
-        "3"
+        "4",
+        "4"
       ]
     },
     {
@@ -371,11 +362,11 @@
     },
     {
       "dimensions": [
-        "/contacts"
+        "/apartments"
       ],
       "metrics": [
-        "3",
-        "3"
+        "2",
+        "2"
       ]
     },
     {
@@ -425,16 +416,7 @@
     },
     {
       "dimensions": [
-        "/blog"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/atrani-for-lovers-part-1"
+        "/blog/atrani-history"
       ],
       "metrics": [
         "1",
@@ -449,6 +431,24 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "/blog/giorgio-armani-vybral-raviello-dlia-kampanii-mare-2026"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "sources": [
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "72",
-        "65"
+        "73",
+        "66"
       ]
     },
     {
@@ -472,16 +472,7 @@
     },
     {
       "dimensions": [
-        "yandex.ru"
-      ],
-      "metrics": [
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "m.facebook.com"
+        "facebook.com"
       ],
       "metrics": [
         "1",
@@ -496,6 +487,15 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "yandex.ru"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "countries": [
@@ -504,8 +504,8 @@
         "Russia"
       ],
       "metrics": [
-        "40",
-        "40"
+        "39",
+        "39"
       ]
     },
     {
@@ -519,7 +519,7 @@
     },
     {
       "dimensions": [
-        "United States"
+        "(not set)"
       ],
       "metrics": [
         "8",
@@ -528,7 +528,7 @@
     },
     {
       "dimensions": [
-        "(not set)"
+        "United States"
       ],
       "metrics": [
         "7",
@@ -549,8 +549,17 @@
         ""
       ],
       "metrics": [
-        "3",
-        "3"
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Poland"
+      ],
+      "metrics": [
+        "2",
+        "2"
       ]
     },
     {
@@ -579,29 +588,20 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "Canada"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 88,
-    "users": 81,
-    "pageViews": 131,
-    "avgSessionDuration": 102,
+    "sessions": 87,
+    "users": 80,
+    "pageViews": 128,
+    "avgSessionDuration": 101,
     "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 361,
-    "users": 338,
-    "pageViews": 435,
-    "avgSessionDuration": 64,
+    "sessions": 349,
+    "users": 326,
+    "pageViews": 415,
+    "avgSessionDuration": 65,
     "bounceRate": 0.7
   }
 }
