@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-11-15T12:34:44.488Z",
+  "updatedAt": "2026-11-16T13:27:14.392Z",
   "trend": [
     {
       "dimensions": [
@@ -75,16 +75,6 @@
     },
     {
       "dimensions": [
-        "20261016"
-      ],
-      "metrics": [
-        "8",
-        "7",
-        "11"
-      ]
-    },
-    {
-      "dimensions": [
         "20261101"
       ],
       "metrics": [
@@ -101,6 +91,16 @@
         "7",
         "2",
         "7"
+      ]
+    },
+    {
+      "dimensions": [
+        "20261115"
+      ],
+      "metrics": [
+        "6",
+        "6",
+        "9"
       ]
     },
     {
@@ -285,12 +285,12 @@
     },
     {
       "dimensions": [
-        "20261115"
+        "20261116"
       ],
       "metrics": [
         "2",
-        "2",
-        "3"
+        "1",
+        "1"
       ]
     },
     {
@@ -307,20 +307,20 @@
   "topPages": [
     {
       "dimensions": [
-        "/parking/"
+        "/timetables/"
       ],
       "metrics": [
         "8",
-        "7"
+        "9"
       ]
     },
     {
       "dimensions": [
-        "/timetables/"
+        "/parking/"
       ],
       "metrics": [
-        "5",
-        "6"
+        "4",
+        "4"
       ]
     },
     {
@@ -330,6 +330,15 @@
       "metrics": [
         "3",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/ferry-timetables/"
+      ],
+      "metrics": [
+        "3",
+        "3"
       ]
     },
     {
@@ -352,16 +361,7 @@
     },
     {
       "dimensions": [
-        "/contact"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/apartments"
+        "/blog/why-silver-moon-and-mar-di-cobalto-are-closed-in-amalfi/"
       ],
       "metrics": [
         "1",
@@ -370,7 +370,7 @@
     },
     {
       "dimensions": [
-        "/blog/why-silver-moon-and-mar-di-cobalto-are-closed-in-amalfi/"
+        "/contact"
       ],
       "metrics": [
         "1",
@@ -388,7 +388,7 @@
     },
     {
       "dimensions": [
-        "/ferry-timetables/"
+        "/how-to-get/"
       ],
       "metrics": [
         "1",
@@ -420,8 +420,8 @@
         "google"
       ],
       "metrics": [
-        "16",
-        "12"
+        "15",
+        "11"
       ]
     },
     {
@@ -444,16 +444,25 @@
     },
     {
       "dimensions": [
-        "facebook.com"
+        "m.facebook.com"
       ],
       "metrics": [
-        "1",
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "yahoo"
+      ],
+      "metrics": [
+        "2",
         "1"
       ]
     },
     {
       "dimensions": [
-        "m.facebook.com"
+        "facebook.com"
       ],
       "metrics": [
         "1",
@@ -464,28 +473,19 @@
   "countries": [
     {
       "dimensions": [
+        "Italy"
+      ],
+      "metrics": [
+        "6",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
         "United States"
       ],
       "metrics": [
         "5",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "Canada"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "Italy"
-      ],
-      "metrics": [
-        "4",
         "4"
       ]
     },
@@ -509,10 +509,28 @@
     },
     {
       "dimensions": [
+        "Canada"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "Singapore"
       ],
       "metrics": [
         "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "Australia"
+      ],
+      "metrics": [
+        "1",
         "1"
       ]
     },
@@ -542,29 +560,20 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "North Macedonia"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 25,
-    "users": 21,
+    "sessions": 27,
+    "users": 22,
     "pageViews": 29,
-    "avgSessionDuration": 188,
+    "avgSessionDuration": 190,
     "bounceRate": 0.4
   },
   "summary30d": {
-    "sessions": 165,
-    "users": 122,
-    "pageViews": 207,
-    "avgSessionDuration": 131,
+    "sessions": 163,
+    "users": 120,
+    "pageViews": 203,
+    "avgSessionDuration": 127,
     "bounceRate": 0.4
   }
 }

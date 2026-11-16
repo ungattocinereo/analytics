@@ -1,7 +1,7 @@
 {
   "name": "Cinereo.it",
   "propertyId": "properties/362803366",
-  "updatedAt": "2026-11-15T12:34:43.934Z",
+  "updatedAt": "2026-11-16T13:27:13.722Z",
   "trend": [
     {
       "dimensions": [
@@ -25,22 +25,22 @@
     },
     {
       "dimensions": [
+        "20261115"
+      ],
+      "metrics": [
+        "5",
+        "3",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
         "20261111"
       ],
       "metrics": [
         "3",
         "1",
         "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "20261016"
-      ],
-      "metrics": [
-        "2",
-        "2",
-        "2"
       ]
     },
     {
@@ -152,6 +152,16 @@
         "0",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "20261112"
+      ],
+      "metrics": [
+        "1",
+        "0",
+        "1"
+      ]
     }
   ],
   "topPages": [
@@ -160,8 +170,8 @@
         "/"
       ],
       "metrics": [
-        "32",
-        "12"
+        "38",
+        "18"
       ]
     }
   ],
@@ -171,8 +181,8 @@
         "(direct)"
       ],
       "metrics": [
-        "12",
-        "3"
+        "18",
+        "5"
       ]
     }
   ],
@@ -182,23 +192,41 @@
         "Italy"
       ],
       "metrics": [
-        "12",
+        "16",
         "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "Germany"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 12,
-    "users": 3,
-    "pageViews": 32,
-    "avgSessionDuration": 210,
-    "bounceRate": 0.6
+    "sessions": 18,
+    "users": 5,
+    "pageViews": 38,
+    "avgSessionDuration": 140,
+    "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 30,
-    "users": 5,
-    "pageViews": 56,
-    "avgSessionDuration": 150,
+    "sessions": 34,
+    "users": 6,
+    "pageViews": 60,
+    "avgSessionDuration": 132,
     "bounceRate": 0.7
   }
 }
