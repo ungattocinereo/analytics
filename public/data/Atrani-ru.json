@@ -1,18 +1,8 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-11-16T13:27:13.110Z",
+  "updatedAt": "2026-11-17T14:12:33.037Z",
   "trend": [
-    {
-      "dimensions": [
-        "20261017"
-      ],
-      "metrics": [
-        "18",
-        "17",
-        "18"
-      ]
-    },
     {
       "dimensions": [
         "20261026"
@@ -51,6 +41,16 @@
         "15",
         "11",
         "48"
+      ]
+    },
+    {
+      "dimensions": [
+        "20261116"
+      ],
+      "metrics": [
+        "15",
+        "15",
+        "16"
       ]
     },
     {
@@ -285,6 +285,16 @@
     },
     {
       "dimensions": [
+        "20261117"
+      ],
+      "metrics": [
+        "7",
+        "7",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
         "20261105"
       ],
       "metrics": [
@@ -302,16 +312,6 @@
         "6",
         "7"
       ]
-    },
-    {
-      "dimensions": [
-        "20261116"
-      ],
-      "metrics": [
-        "6",
-        "6",
-        "7"
-      ]
     }
   ],
   "topPages": [
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "86",
-        "53"
+        "94",
+        "61"
       ]
     },
     {
@@ -371,6 +371,15 @@
     },
     {
       "dimensions": [
+        "/blog/atrani-na-dva-dnia-stal-ghorodom-knigh-i-skulptur-u-moria"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
       ],
       "metrics": [
@@ -398,15 +407,6 @@
     },
     {
       "dimensions": [
-        "/eng"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "/2021/09/positano-steibek"
       ],
       "metrics": [
@@ -417,15 +417,6 @@
     {
       "dimensions": [
         "/blog/atrani-history"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/atrani-na-dva-dnia-stal-ghorodom-knigh-i-skulptur-u-moria"
       ],
       "metrics": [
         "1",
@@ -449,6 +440,15 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "sources": [
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "74",
-        "66"
+        "81",
+        "73"
       ]
     },
     {
@@ -495,8 +495,8 @@
         "Russia"
       ],
       "metrics": [
-        "37",
-        "37"
+        "45",
+        "45"
       ]
     },
     {
@@ -504,8 +504,8 @@
         "Italy"
       ],
       "metrics": [
-        "14",
-        "7"
+        "13",
+        "6"
       ]
     },
     {
@@ -513,8 +513,8 @@
         "(not set)"
       ],
       "metrics": [
-        "8",
-        "8"
+        "9",
+        "9"
       ]
     },
     {
@@ -537,11 +537,11 @@
     },
     {
       "dimensions": [
-        ""
+        "Finland"
       ],
       "metrics": [
-        "2",
-        "2"
+        "3",
+        "3"
       ]
     },
     {
@@ -564,11 +564,11 @@
     },
     {
       "dimensions": [
-        "United Kingdom"
+        ""
       ],
       "metrics": [
-        "2",
-        "2"
+        "1",
+        "1"
       ]
     },
     {
@@ -582,17 +582,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 85,
-    "users": 77,
-    "pageViews": 126,
-    "avgSessionDuration": 90,
+    "sessions": 92,
+    "users": 84,
+    "pageViews": 135,
+    "avgSessionDuration": 83,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 353,
+    "sessions": 351,
     "users": 329,
     "pageViews": 420,
-    "avgSessionDuration": 64,
+    "avgSessionDuration": 60,
     "bounceRate": 0.7
   }
 }
