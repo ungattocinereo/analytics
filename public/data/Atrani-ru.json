@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-11-17T14:12:33.037Z",
+  "updatedAt": "2026-11-18T13:44:18.190Z",
   "trend": [
     {
       "dimensions": [
@@ -11,6 +11,16 @@
         "16",
         "15",
         "18"
+      ]
+    },
+    {
+      "dimensions": [
+        "20261117"
+      ],
+      "metrics": [
+        "16",
+        "16",
+        "19"
       ]
     },
     {
@@ -121,16 +131,6 @@
         "13",
         "13",
         "14"
-      ]
-    },
-    {
-      "dimensions": [
-        "20261018"
-      ],
-      "metrics": [
-        "12",
-        "12",
-        "12"
       ]
     },
     {
@@ -285,16 +285,6 @@
     },
     {
       "dimensions": [
-        "20261117"
-      ],
-      "metrics": [
-        "7",
-        "7",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
         "20261105"
       ],
       "metrics": [
@@ -312,6 +302,16 @@
         "6",
         "7"
       ]
+    },
+    {
+      "dimensions": [
+        "20261118"
+      ],
+      "metrics": [
+        "6",
+        "6",
+        "6"
+      ]
     }
   ],
   "topPages": [
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "94",
-        "61"
+        "96",
+        "63"
       ]
     },
     {
@@ -335,11 +335,11 @@
     },
     {
       "dimensions": [
-        "/blog/atrani-samyi-siekrietnyi-ugholok-amalfitanskogho-pobieriezhia"
+        "/blog/atrani-history"
       ],
       "metrics": [
         "3",
-        "4"
+        "2"
       ]
     },
     {
@@ -362,6 +362,15 @@
     },
     {
       "dimensions": [
+        "/2021/09/positano-steibek"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "/apartments"
       ],
       "metrics": [
@@ -376,6 +385,15 @@
       "metrics": [
         "2",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/atrani-samyi-siekrietnyi-ugholok-amalfitanskogho-pobieriezhia"
+      ],
+      "metrics": [
+        "2",
+        "3"
       ]
     },
     {
@@ -407,25 +425,16 @@
     },
     {
       "dimensions": [
-        "/2021/09/positano-steibek"
+        "/timetables"
       ],
       "metrics": [
-        "1",
-        "1"
+        "2",
+        "2"
       ]
     },
     {
       "dimensions": [
-        "/blog/atrani-history"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/giorgio-armani-vybral-raviello-dlia-kampanii-mare-2026"
+        "/blog/atrani-ghotovitsia-k-prazdniku-santa-maria-maddalena-protsiessiia-muzyka-i-fieiiervierk-22-iiulia"
       ],
       "metrics": [
         "1",
@@ -440,15 +449,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "sources": [
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "81",
-        "73"
+        "87",
+        "79"
       ]
     },
     {
@@ -466,22 +466,13 @@
         "google"
       ],
       "metrics": [
-        "9",
-        "9"
+        "7",
+        "7"
       ]
     },
     {
       "dimensions": [
         "facebook.com"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "yandex.ru"
       ],
       "metrics": [
         "1",
@@ -495,8 +486,8 @@
         "Russia"
       ],
       "metrics": [
-        "45",
-        "45"
+        "47",
+        "47"
       ]
     },
     {
@@ -513,8 +504,8 @@
         "(not set)"
       ],
       "metrics": [
-        "9",
-        "9"
+        "8",
+        "8"
       ]
     },
     {
@@ -522,17 +513,8 @@
         "United States"
       ],
       "metrics": [
-        "6",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
-        "Belarus"
-      ],
-      "metrics": [
-        "3",
-        "3"
+        "8",
+        "8"
       ]
     },
     {
@@ -546,20 +528,29 @@
     },
     {
       "dimensions": [
+        "Poland"
+      ],
+      "metrics": [
+        "3",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "Belarus"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "France"
       ],
       "metrics": [
         "2",
         "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Poland"
-      ],
-      "metrics": [
-        "2",
-        "2"
       ]
     },
     {
@@ -573,7 +564,7 @@
     },
     {
       "dimensions": [
-        "Australia"
+        "Dominican Republic"
       ],
       "metrics": [
         "1",
@@ -582,17 +573,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 92,
-    "users": 84,
-    "pageViews": 135,
-    "avgSessionDuration": 83,
+    "sessions": 95,
+    "users": 87,
+    "pageViews": 139,
+    "avgSessionDuration": 77,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 351,
-    "users": 329,
-    "pageViews": 420,
+    "sessions": 354,
+    "users": 332,
+    "pageViews": 424,
     "avgSessionDuration": 60,
-    "bounceRate": 0.7
+    "bounceRate": 0.8
   }
 }

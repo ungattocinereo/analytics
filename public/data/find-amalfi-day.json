@@ -1,7 +1,7 @@
 {
   "name": "find.amalfi.day",
   "propertyId": "properties/531159837",
-  "updatedAt": "2026-11-17T14:12:35.253Z",
+  "updatedAt": "2026-11-18T13:44:20.617Z",
   "trend": [
     {
       "dimensions": [
@@ -51,16 +51,6 @@
         "4",
         "3",
         "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "20261018"
-      ],
-      "metrics": [
-        "3",
-        "1",
-        "6"
       ]
     },
     {
@@ -187,15 +177,6 @@
   "topPages": [
     {
       "dimensions": [
-        "/route/amalfi-house.html"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "/"
       ],
       "metrics": [
@@ -213,15 +194,6 @@
         "2",
         "2"
       ]
-    },
-    {
-      "dimensions": [
-        "(direct)"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "countries": [
@@ -233,29 +205,20 @@
         "2",
         "2"
       ]
-    },
-    {
-      "dimensions": [
-        "Canada"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 3,
-    "users": 3,
-    "pageViews": 1,
+    "sessions": 2,
+    "users": 2,
+    "pageViews": 0,
     "avgSessionDuration": 0,
     "bounceRate": 1
   },
   "summary30d": {
-    "sessions": 48,
-    "users": 28,
-    "pageViews": 72,
-    "avgSessionDuration": 76,
+    "sessions": 45,
+    "users": 27,
+    "pageViews": 66,
+    "avgSessionDuration": 80,
     "bounceRate": 0.7
   }
 }
