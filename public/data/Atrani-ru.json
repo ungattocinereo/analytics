@@ -1,8 +1,18 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-11-18T13:44:18.190Z",
+  "updatedAt": "2026-11-19T14:13:06.097Z",
   "trend": [
+    {
+      "dimensions": [
+        "20261118"
+      ],
+      "metrics": [
+        "17",
+        "17",
+        "17"
+      ]
+    },
     {
       "dimensions": [
         "20261026"
@@ -21,6 +31,16 @@
         "16",
         "16",
         "19"
+      ]
+    },
+    {
+      "dimensions": [
+        "20261119"
+      ],
+      "metrics": [
+        "16",
+        "11",
+        "49"
       ]
     },
     {
@@ -101,16 +121,6 @@
         "14",
         "14",
         "15"
-      ]
-    },
-    {
-      "dimensions": [
-        "20261019"
-      ],
-      "metrics": [
-        "13",
-        "13",
-        "14"
       ]
     },
     {
@@ -302,16 +312,6 @@
         "6",
         "7"
       ]
-    },
-    {
-      "dimensions": [
-        "20261118"
-      ],
-      "metrics": [
-        "6",
-        "6",
-        "6"
-      ]
     }
   ],
   "topPages": [
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "96",
-        "63"
+        "138",
+        "81"
       ]
     },
     {
@@ -329,8 +329,17 @@
         "/experience"
       ],
       "metrics": [
-        "9",
-        "9"
+        "10",
+        "10"
+      ]
+    },
+    {
+      "dimensions": [
+        "/apartments"
+      ],
+      "metrics": [
+        "4",
+        "4"
       ]
     },
     {
@@ -340,6 +349,15 @@
       "metrics": [
         "3",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/atrani-samyi-siekrietnyi-ugholok-amalfitanskogho-pobieriezhia"
+      ],
+      "metrics": [
+        "3",
+        "4"
       ]
     },
     {
@@ -371,7 +389,7 @@
     },
     {
       "dimensions": [
-        "/apartments"
+        "/blog"
       ],
       "metrics": [
         "2",
@@ -385,24 +403,6 @@
       "metrics": [
         "2",
         "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/atrani-samyi-siekrietnyi-ugholok-amalfitanskogho-pobieriezhia"
-      ],
-      "metrics": [
-        "2",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/ti-voglio-bene-kak-na-iughie-italii-ghovoriat-o-liubvi-biez-pafosa"
-      ],
-      "metrics": [
-        "2",
-        "1"
       ]
     },
     {
@@ -434,16 +434,16 @@
     },
     {
       "dimensions": [
-        "/blog/atrani-ghotovitsia-k-prazdniku-santa-maria-maddalena-protsiessiia-muzyka-i-fieiiervierk-22-iiulia"
+        "/tours-vespa"
       ],
       "metrics": [
-        "1",
-        "1"
+        "2",
+        "2"
       ]
     },
     {
       "dimensions": [
-        "/blog/how-to-get-to-amalfi"
+        "/blog/atrani-ghotovitsia-k-prazdniku-santa-maria-maddalena-protsiessiia-muzyka-i-fieiiervierk-22-iiulia"
       ],
       "metrics": [
         "1",
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "87",
-        "79"
+        "104",
+        "90"
       ]
     },
     {
@@ -478,6 +478,15 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "yandex.ru"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "countries": [
@@ -486,8 +495,8 @@
         "Russia"
       ],
       "metrics": [
-        "47",
-        "47"
+        "52",
+        "52"
       ]
     },
     {
@@ -495,8 +504,17 @@
         "Italy"
       ],
       "metrics": [
-        "13",
-        "6"
+        "21",
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "10",
+        "10"
       ]
     },
     {
@@ -510,20 +528,11 @@
     },
     {
       "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "8",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
         "Finland"
       ],
       "metrics": [
-        "3",
-        "3"
+        "5",
+        "5"
       ]
     },
     {
@@ -537,11 +546,11 @@
     },
     {
       "dimensions": [
-        "Belarus"
+        "Singapore"
       ],
       "metrics": [
-        "2",
-        "2"
+        "3",
+        "3"
       ]
     },
     {
@@ -564,7 +573,7 @@
     },
     {
       "dimensions": [
-        "Dominican Republic"
+        "Belarus"
       ],
       "metrics": [
         "1",
@@ -573,17 +582,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 95,
-    "users": 87,
-    "pageViews": 139,
-    "avgSessionDuration": 77,
+    "sessions": 113,
+    "users": 99,
+    "pageViews": 189,
+    "avgSessionDuration": 133,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 354,
-    "users": 332,
-    "pageViews": 424,
-    "avgSessionDuration": 60,
+    "sessions": 369,
+    "users": 340,
+    "pageViews": 470,
+    "avgSessionDuration": 81,
     "bounceRate": 0.8
   }
 }

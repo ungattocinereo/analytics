@@ -1,7 +1,7 @@
 {
   "name": "find.amalfi.day",
   "propertyId": "properties/531159837",
-  "updatedAt": "2026-11-18T13:44:20.617Z",
+  "updatedAt": "2026-11-19T14:13:09.119Z",
   "trend": [
     {
       "dimensions": [
@@ -172,6 +172,16 @@
         "1",
         "0"
       ]
+    },
+    {
+      "dimensions": [
+        "20261118"
+      ],
+      "metrics": [
+        "1",
+        "0",
+        "1"
+      ]
     }
   ],
   "topPages": [
@@ -180,7 +190,7 @@
         "/"
       ],
       "metrics": [
-        "0",
+        "1",
         "2"
       ]
     }
@@ -188,11 +198,20 @@
   "sources": [
     {
       "dimensions": [
+        "(direct)"
+      ],
+      "metrics": [
+        "1",
+        "0"
+      ]
+    },
+    {
+      "dimensions": [
         "(not set)"
       ],
       "metrics": [
-        "2",
-        "2"
+        "1",
+        "1"
       ]
     }
   ],
@@ -202,23 +221,32 @@
         "Germany"
       ],
       "metrics": [
-        "2",
-        "2"
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "1",
+        "0"
       ]
     }
   ],
   "summary7d": {
     "sessions": 2,
-    "users": 2,
-    "pageViews": 0,
+    "users": 1,
+    "pageViews": 1,
     "avgSessionDuration": 0,
     "bounceRate": 1
   },
   "summary30d": {
-    "sessions": 45,
+    "sessions": 46,
     "users": 27,
-    "pageViews": 66,
-    "avgSessionDuration": 80,
+    "pageViews": 67,
+    "avgSessionDuration": 78,
     "bounceRate": 0.7
   }
 }
