@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-11-20T13:54:44.248Z",
+  "updatedAt": "2026-11-21T13:18:14.425Z",
   "trend": [
     {
       "dimensions": [
@@ -145,16 +145,6 @@
     },
     {
       "dimensions": [
-        "20261021"
-      ],
-      "metrics": [
-        "4",
-        "4",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
         "20261108"
       ],
       "metrics": [
@@ -235,6 +225,16 @@
     },
     {
       "dimensions": [
+        "20261120"
+      ],
+      "metrics": [
+        "3",
+        "3",
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
         "20261103"
       ],
       "metrics": [
@@ -292,16 +292,6 @@
         "1",
         "2"
       ]
-    },
-    {
-      "dimensions": [
-        "20261120"
-      ],
-      "metrics": [
-        "1",
-        "1",
-        "1"
-      ]
     }
   ],
   "topPages": [
@@ -316,6 +306,15 @@
     },
     {
       "dimensions": [
+        "/contact/"
+      ],
+      "metrics": [
+        "24",
+        "6"
+      ]
+    },
+    {
+      "dimensions": [
         "/apartments/"
       ],
       "metrics": [
@@ -325,20 +324,11 @@
     },
     {
       "dimensions": [
-        "/contact/"
-      ],
-      "metrics": [
-        "23",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
         "/timetables/"
       ],
       "metrics": [
-        "15",
-        "14"
+        "14",
+        "12"
       ]
     },
     {
@@ -346,8 +336,8 @@
         "/photoshootings/"
       ],
       "metrics": [
-        "10",
-        "7"
+        "11",
+        "8"
       ]
     },
     {
@@ -355,8 +345,8 @@
         "/ferry-timetables/"
       ],
       "metrics": [
-        "7",
-        "7"
+        "8",
+        "8"
       ]
     },
     {
@@ -397,6 +387,15 @@
     },
     {
       "dimensions": [
+        "/photoshootings/tom-sam-atrani/"
+      ],
+      "metrics": [
+        "3",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
         "/book/awesome/"
       ],
       "metrics": [
@@ -424,20 +423,11 @@
     },
     {
       "dimensions": [
-        "/photoshootings"
+        "/what-to-do/"
       ],
       "metrics": [
         "2",
         "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photoshootings/tom-sam-atrani/"
-      ],
-      "metrics": [
-        "2",
-        "1"
       ]
     }
   ],
@@ -447,8 +437,8 @@
         "(direct)"
       ],
       "metrics": [
-        "24",
-        "7"
+        "25",
+        "8"
       ]
     },
     {
@@ -456,8 +446,8 @@
         "google"
       ],
       "metrics": [
-        "14",
-        "12"
+        "11",
+        "11"
       ]
     },
     {
@@ -504,15 +494,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "facebook.com"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "countries": [
@@ -530,8 +511,8 @@
         "United States"
       ],
       "metrics": [
-        "9",
-        "7"
+        "7",
+        "6"
       ]
     },
     {
@@ -546,15 +527,6 @@
     {
       "dimensions": [
         "India"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Singapore"
       ],
       "metrics": [
         "2",
@@ -605,20 +577,29 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "Ireland"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 55,
-    "users": 33,
-    "pageViews": 209,
-    "avgSessionDuration": 1846,
+    "sessions": 52,
+    "users": 32,
+    "pageViews": 212,
+    "avgSessionDuration": 1957,
     "bounceRate": 0.3
   },
   "summary30d": {
-    "sessions": 174,
-    "users": 118,
-    "pageViews": 366,
-    "avgSessionDuration": 670,
-    "bounceRate": 0.4
+    "sessions": 172,
+    "users": 116,
+    "pageViews": 368,
+    "avgSessionDuration": 681,
+    "bounceRate": 0.3
   }
 }
