@@ -1,18 +1,8 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-11-21T13:18:14.425Z",
+  "updatedAt": "2026-11-22T13:09:59.422Z",
   "trend": [
-    {
-      "dimensions": [
-        "20261022"
-      ],
-      "metrics": [
-        "17",
-        "12",
-        "23"
-      ]
-    },
     {
       "dimensions": [
         "20261118"
@@ -292,6 +282,26 @@
         "1",
         "2"
       ]
+    },
+    {
+      "dimensions": [
+        "20261121"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "20261122"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "1"
+      ]
     }
   ],
   "topPages": [
@@ -327,8 +337,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "14",
-        "12"
+        "12",
+        "10"
       ]
     },
     {
@@ -345,8 +355,8 @@
         "/ferry-timetables/"
       ],
       "metrics": [
-        "8",
-        "8"
+        "9",
+        "9"
       ]
     },
     {
@@ -423,11 +433,11 @@
     },
     {
       "dimensions": [
-        "/what-to-do/"
+        "/photoshootings/couple-photoshoot/"
       ],
       "metrics": [
         "2",
-        "2"
+        "1"
       ]
     }
   ],
@@ -455,8 +465,8 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "9",
-        "7"
+        "8",
+        "6"
       ]
     },
     {
@@ -502,8 +512,8 @@
         "Italy"
       ],
       "metrics": [
-        "30",
-        "12"
+        "28",
+        "10"
       ]
     },
     {
@@ -580,7 +590,7 @@
     },
     {
       "dimensions": [
-        "Ireland"
+        "Egypt"
       ],
       "metrics": [
         "1",
@@ -589,17 +599,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 52,
-    "users": 32,
+    "sessions": 51,
+    "users": 31,
     "pageViews": 212,
-    "avgSessionDuration": 1957,
-    "bounceRate": 0.3
+    "avgSessionDuration": 2017,
+    "bounceRate": 0.2
   },
   "summary30d": {
-    "sessions": 172,
-    "users": 116,
-    "pageViews": 368,
-    "avgSessionDuration": 681,
+    "sessions": 157,
+    "users": 107,
+    "pageViews": 348,
+    "avgSessionDuration": 733,
     "bounceRate": 0.3
   }
 }

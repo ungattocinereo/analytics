@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-11-21T13:18:12.365Z",
+  "updatedAt": "2026-11-22T13:09:58.177Z",
   "trend": [
     {
       "dimensions": [
@@ -55,6 +55,16 @@
     },
     {
       "dimensions": [
+        "20261121"
+      ],
+      "metrics": [
+        "16",
+        "16",
+        "16"
+      ]
+    },
+    {
+      "dimensions": [
         "20261028"
       ],
       "metrics": [
@@ -91,16 +101,6 @@
         "15",
         "15",
         "16"
-      ]
-    },
-    {
-      "dimensions": [
-        "20261022"
-      ],
-      "metrics": [
-        "14",
-        "13",
-        "14"
       ]
     },
     {
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20261121"
+        "20261122"
       ],
       "metrics": [
-        "3",
-        "3",
-        "3"
+        "6",
+        "5",
+        "7"
       ]
     }
   ],
@@ -320,8 +320,8 @@
         "/"
       ],
       "metrics": [
-        "103",
-        "78"
+        "108",
+        "84"
       ]
     },
     {
@@ -335,7 +335,7 @@
     },
     {
       "dimensions": [
-        "/apartments"
+        "/2021/09/positano-steibek"
       ],
       "metrics": [
         "3",
@@ -353,15 +353,6 @@
     },
     {
       "dimensions": [
-        "/blog/atrani-history"
-      ],
-      "metrics": [
-        "3",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "/blog/atrani-samyi-siekrietnyi-ugholok-amalfitanskogho-pobieriezhia"
       ],
       "metrics": [
@@ -371,11 +362,20 @@
     },
     {
       "dimensions": [
-        "/2021/09/positano-steibek"
+        "/apartments"
       ],
       "metrics": [
         "2",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/atrani-history"
+      ],
+      "metrics": [
+        "2",
+        "1"
       ]
     },
     {
@@ -398,7 +398,7 @@
     },
     {
       "dimensions": [
-        "/directions-awesome"
+        "/photos"
       ],
       "metrics": [
         "2",
@@ -408,6 +408,15 @@
     {
       "dimensions": [
         "/timetables"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/tours-car"
       ],
       "metrics": [
         "2",
@@ -440,15 +449,6 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "/blog/atrani-ghotovitsia-k-prazdniku-santa-maria-maddalena-protsiessiia-muzyka-i-fieiiervierk-22-iiulia"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "sources": [
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "100",
-        "94"
+        "110",
+        "103"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "7",
-        "6"
+        "5",
+        "4"
       ]
     },
     {
@@ -490,15 +490,6 @@
     },
     {
       "dimensions": [
-        "facebook.com"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "yandex"
       ],
       "metrics": [
@@ -513,8 +504,8 @@
         "Russia"
       ],
       "metrics": [
-        "62",
-        "61"
+        "63",
+        "62"
       ]
     },
     {
@@ -522,17 +513,8 @@
         "Italy"
       ],
       "metrics": [
-        "11",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "10",
-        "10"
+        "12",
+        "6"
       ]
     },
     {
@@ -540,8 +522,17 @@
         "(not set)"
       ],
       "metrics": [
-        "8",
-        "8"
+        "9",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "9",
+        "9"
       ]
     },
     {
@@ -549,8 +540,8 @@
         "Finland"
       ],
       "metrics": [
-        "5",
-        "5"
+        "8",
+        "8"
       ]
     },
     {
@@ -564,11 +555,11 @@
     },
     {
       "dimensions": [
-        "Singapore"
+        "Brazil"
       ],
       "metrics": [
-        "3",
-        "3"
+        "2",
+        "2"
       ]
     },
     {
@@ -582,16 +573,16 @@
     },
     {
       "dimensions": [
-        ""
+        "Singapore"
       ],
       "metrics": [
-        "1",
-        "1"
+        "2",
+        "2"
       ]
     },
     {
       "dimensions": [
-        "Brazil"
+        ""
       ],
       "metrics": [
         "1",
@@ -600,17 +591,17 @@
     }
   ],
   "summary7d": {
-    "sessions": 112,
-    "users": 105,
-    "pageViews": 151,
-    "avgSessionDuration": 86,
+    "sessions": 119,
+    "users": 111,
+    "pageViews": 157,
+    "avgSessionDuration": 78,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 372,
-    "users": 343,
-    "pageViews": 473,
-    "avgSessionDuration": 74,
+    "sessions": 378,
+    "users": 348,
+    "pageViews": 479,
+    "avgSessionDuration": 73,
     "bounceRate": 0.8
   }
 }
