@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-11-22T13:09:58.177Z",
+  "updatedAt": "2026-11-23T15:46:59.869Z",
   "trend": [
     {
       "dimensions": [
@@ -11,6 +11,16 @@
         "23",
         "18",
         "57"
+      ]
+    },
+    {
+      "dimensions": [
+        "20261122"
+      ],
+      "metrics": [
+        "18",
+        "12",
+        "147"
       ]
     },
     {
@@ -155,6 +165,16 @@
     },
     {
       "dimensions": [
+        "20261123"
+      ],
+      "metrics": [
+        "13",
+        "10",
+        "54"
+      ]
+    },
+    {
+      "dimensions": [
         "20261110"
       ],
       "metrics": [
@@ -211,16 +231,6 @@
         "10",
         "10",
         "12"
-      ]
-    },
-    {
-      "dimensions": [
-        "20261023"
-      ],
-      "metrics": [
-        "9",
-        "9",
-        "9"
       ]
     },
     {
@@ -302,26 +312,25 @@
         "6",
         "7"
       ]
-    },
-    {
-      "dimensions": [
-        "20261122"
-      ],
-      "metrics": [
-        "6",
-        "5",
-        "7"
-      ]
     }
   ],
   "topPages": [
     {
       "dimensions": [
+        "/concept-atrani-blender"
+      ],
+      "metrics": [
+        "174",
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
         "/"
       ],
       "metrics": [
-        "108",
-        "84"
+        "118",
+        "94"
       ]
     },
     {
@@ -353,15 +362,6 @@
     },
     {
       "dimensions": [
-        "/blog/atrani-samyi-siekrietnyi-ugholok-amalfitanskogho-pobieriezhia"
-      ],
-      "metrics": [
-        "3",
-        "5"
-      ]
-    },
-    {
-      "dimensions": [
         "/apartments"
       ],
       "metrics": [
@@ -381,6 +381,24 @@
     {
       "dimensions": [
         "/blog/atrani-na-dva-dnia-stal-ghorodom-knigh-i-skulptur-u-moria"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/atrani-samyi-siekrietnyi-ugholok-amalfitanskogho-pobieriezhia"
+      ],
+      "metrics": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
       ],
       "metrics": [
         "2",
@@ -431,24 +449,6 @@
         "2",
         "2"
       ]
-    },
-    {
-      "dimensions": [
-        "/blog/10-faktov-o-kampanii-ot-samogho-malienkogho-ghorodka-italii-do-posliedniegho-izvierzhieniia-viezuviia"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog/atrani-for-lovers-part-2"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "sources": [
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "110",
-        "103"
+        "124",
+        "110"
       ]
     },
     {
@@ -466,7 +466,7 @@
         "google"
       ],
       "metrics": [
-        "5",
+        "6",
         "4"
       ]
     },
@@ -475,8 +475,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "2",
-        "2"
+        "3",
+        "3"
       ]
     },
     {
@@ -504,8 +504,8 @@
         "Russia"
       ],
       "metrics": [
-        "63",
-        "62"
+        "69",
+        "68"
       ]
     },
     {
@@ -513,7 +513,7 @@
         "Italy"
       ],
       "metrics": [
-        "12",
+        "20",
         "6"
       ]
     },
@@ -564,7 +564,7 @@
     },
     {
       "dimensions": [
-        "France"
+        "Canada"
       ],
       "metrics": [
         "2",
@@ -573,7 +573,7 @@
     },
     {
       "dimensions": [
-        "Singapore"
+        "China"
       ],
       "metrics": [
         "2",
@@ -582,26 +582,26 @@
     },
     {
       "dimensions": [
-        ""
+        "India"
       ],
       "metrics": [
-        "1",
-        "1"
+        "2",
+        "2"
       ]
     }
   ],
   "summary7d": {
-    "sessions": 119,
-    "users": 111,
-    "pageViews": 157,
-    "avgSessionDuration": 78,
+    "sessions": 135,
+    "users": 119,
+    "pageViews": 342,
+    "avgSessionDuration": 209,
     "bounceRate": 0.8
   },
   "summary30d": {
-    "sessions": 378,
-    "users": 348,
-    "pageViews": 479,
-    "avgSessionDuration": 73,
+    "sessions": 394,
+    "users": 355,
+    "pageViews": 664,
+    "avgSessionDuration": 116,
     "bounceRate": 0.8
   }
 }
