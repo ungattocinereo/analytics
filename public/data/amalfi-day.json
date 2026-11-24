@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-11-23T15:47:01.807Z",
+  "updatedAt": "2026-11-24T15:38:41.686Z",
   "trend": [
     {
       "dimensions": [
@@ -85,6 +85,16 @@
     },
     {
       "dimensions": [
+        "20261123"
+      ],
+      "metrics": [
+        "6",
+        "4",
+        "7"
+      ]
+    },
+    {
+      "dimensions": [
         "20261027"
       ],
       "metrics": [
@@ -125,16 +135,6 @@
     },
     {
       "dimensions": [
-        "20261123"
-      ],
-      "metrics": [
-        "5",
-        "4",
-        "6"
-      ]
-    },
-    {
-      "dimensions": [
         "20261108"
       ],
       "metrics": [
@@ -159,16 +159,6 @@
       ],
       "metrics": [
         "4",
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "20261024"
-      ],
-      "metrics": [
-        "3",
         "3",
         "3"
       ]
@@ -216,6 +206,16 @@
     {
       "dimensions": [
         "20261120"
+      ],
+      "metrics": [
+        "3",
+        "3",
+        "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "20261124"
       ],
       "metrics": [
         "3",
@@ -319,8 +319,8 @@
         "/contact/"
       ],
       "metrics": [
-        "24",
-        "6"
+        "25",
+        "7"
       ]
     },
     {
@@ -328,8 +328,8 @@
         "/apartments/"
       ],
       "metrics": [
-        "23",
-        "6"
+        "24",
+        "7"
       ]
     },
     {
@@ -337,8 +337,8 @@
         "/photoshootings/"
       ],
       "metrics": [
-        "11",
-        "8"
+        "13",
+        "9"
       ]
     },
     {
@@ -346,8 +346,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "11",
-        "10"
+        "12",
+        "9"
       ]
     },
     {
@@ -447,8 +447,8 @@
         "(direct)"
       ],
       "metrics": [
-        "24",
-        "8"
+        "26",
+        "9"
       ]
     },
     {
@@ -456,7 +456,7 @@
         "google"
       ],
       "metrics": [
-        "14",
+        "15",
         "13"
       ]
     },
@@ -471,25 +471,7 @@
     },
     {
       "dimensions": [
-        "yahoo"
-      ],
-      "metrics": [
-        "2",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "bing"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "duckduckgo"
       ],
       "metrics": [
         "1",
@@ -530,22 +512,13 @@
         "India"
       ],
       "metrics": [
-        "3",
-        "2"
+        "4",
+        "3"
       ]
     },
     {
       "dimensions": [
         "Spain"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "United Kingdom"
       ],
       "metrics": [
         "2",
@@ -596,20 +569,29 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "Taiwan"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "summary7d": {
     "sessions": 51,
-    "users": 31,
-    "pageViews": 210,
-    "avgSessionDuration": 1987,
-    "bounceRate": 0.3
+    "users": 30,
+    "pageViews": 216,
+    "avgSessionDuration": 2005,
+    "bounceRate": 0.2
   },
   "summary30d": {
-    "sessions": 152,
-    "users": 103,
-    "pageViews": 343,
-    "avgSessionDuration": 748,
-    "bounceRate": 0.3
+    "sessions": 153,
+    "users": 102,
+    "pageViews": 349,
+    "avgSessionDuration": 750,
+    "bounceRate": 0.4
   }
 }

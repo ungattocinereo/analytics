@@ -1,7 +1,7 @@
 {
   "name": "find.amalfi.day",
   "propertyId": "properties/531159837",
-  "updatedAt": "2026-11-23T15:47:02.941Z",
+  "updatedAt": "2026-11-24T15:38:43.465Z",
   "trend": [
     {
       "dimensions": [
@@ -21,16 +21,6 @@
         "3",
         "1",
         "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "20261024"
-      ],
-      "metrics": [
-        "2",
-        "1",
-        "4"
       ]
     },
     {
@@ -152,6 +142,16 @@
         "1",
         "0"
       ]
+    },
+    {
+      "dimensions": [
+        "20261123"
+      ],
+      "metrics": [
+        "1",
+        "0",
+        "1"
+      ]
     }
   ],
   "topPages": [
@@ -160,8 +160,8 @@
         "/"
       ],
       "metrics": [
-        "1",
-        "1"
+        "2",
+        "2"
       ]
     },
     {
@@ -180,7 +180,7 @@
         "(direct)"
       ],
       "metrics": [
-        "1",
+        "2",
         "0"
       ]
     },
@@ -197,35 +197,35 @@
   "countries": [
     {
       "dimensions": [
+        "United States"
+      ],
+      "metrics": [
+        "2",
+        "0"
+      ]
+    },
+    {
+      "dimensions": [
         "Germany"
       ],
       "metrics": [
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "1",
-        "0"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 2,
+    "sessions": 3,
     "users": 1,
-    "pageViews": 1,
+    "pageViews": 2,
     "avgSessionDuration": 0,
     "bounceRate": 1
   },
   "summary30d": {
-    "sessions": 23,
-    "users": 15,
-    "pageViews": 21,
-    "avgSessionDuration": 18,
-    "bounceRate": 0.9
+    "sessions": 22,
+    "users": 14,
+    "pageViews": 18,
+    "avgSessionDuration": 2,
+    "bounceRate": 1
   }
 }
