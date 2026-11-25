@@ -1,7 +1,7 @@
 {
   "name": "amalfi.day",
   "propertyId": "properties/306713351",
-  "updatedAt": "2026-11-24T15:38:41.686Z",
+  "updatedAt": "2026-11-25T15:23:08.188Z",
   "trend": [
     {
       "dimensions": [
@@ -61,6 +61,16 @@
         "8",
         "6",
         "8"
+      ]
+    },
+    {
+      "dimensions": [
+        "20261124"
+      ],
+      "metrics": [
+        "8",
+        "7",
+        "18"
       ]
     },
     {
@@ -135,6 +145,16 @@
     },
     {
       "dimensions": [
+        "20261125"
+      ],
+      "metrics": [
+        "5",
+        "3",
+        "11"
+      ]
+    },
+    {
+      "dimensions": [
         "20261108"
       ],
       "metrics": [
@@ -159,16 +179,6 @@
       ],
       "metrics": [
         "4",
-        "3",
-        "3"
-      ]
-    },
-    {
-      "dimensions": [
-        "20261025"
-      ],
-      "metrics": [
-        "3",
         "3",
         "3"
       ]
@@ -206,16 +216,6 @@
     {
       "dimensions": [
         "20261120"
-      ],
-      "metrics": [
-        "3",
-        "3",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "20261124"
       ],
       "metrics": [
         "3",
@@ -310,35 +310,8 @@
         "/"
       ],
       "metrics": [
-        "90",
-        "19"
-      ]
-    },
-    {
-      "dimensions": [
-        "/contact/"
-      ],
-      "metrics": [
-        "25",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "/apartments/"
-      ],
-      "metrics": [
-        "24",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photoshootings/"
-      ],
-      "metrics": [
-        "13",
-        "9"
+        "18",
+        "16"
       ]
     },
     {
@@ -346,8 +319,8 @@
         "/timetables/"
       ],
       "metrics": [
-        "12",
-        "9"
+        "13",
+        "8"
       ]
     },
     {
@@ -361,11 +334,11 @@
     },
     {
       "dimensions": [
-        "/nav-preview/"
+        "/contact/"
       ],
       "metrics": [
-        "6",
-        "4"
+        "7",
+        "6"
       ]
     },
     {
@@ -373,7 +346,52 @@
         "/photoshootings/couple-photoshoot/"
       ],
       "metrics": [
+        "7",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/parking/"
+      ],
+      "metrics": [
+        "6",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/photoshootings/"
+      ],
+      "metrics": [
         "5",
+        "4"
+      ]
+    },
+    {
+      "dimensions": [
+        "/apartments/"
+      ],
+      "metrics": [
+        "4",
+        "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/christmas-and-new-year-on-the-amalfi-coast-2026-27-amalfis-full-programme-and-events-in-the-villages-nearby/"
+      ],
+      "metrics": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/nav-preview/"
+      ],
+      "metrics": [
+        "2",
         "2"
       ]
     },
@@ -382,34 +400,7 @@
         "/blog/"
       ],
       "metrics": [
-        "3",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/book/orange/"
-      ],
-      "metrics": [
-        "3",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photoshootings/ashley-positano/"
-      ],
-      "metrics": [
-        "3",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "/photoshootings/tom-sam-atrani/"
-      ],
-      "metrics": [
-        "3",
+        "1",
         "2"
       ]
     },
@@ -418,8 +409,17 @@
         "/book/awesome/"
       ],
       "metrics": [
-        "2",
-        "2"
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/book/vintage/"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     },
     {
@@ -427,16 +427,16 @@
         "/experience/car-tours/"
       ],
       "metrics": [
-        "2",
-        "2"
+        "1",
+        "1"
       ]
     },
     {
       "dimensions": [
-        "/hero-bg-concepts/"
+        "/photoshootings/esmeralda-cortez-amalfi/"
       ],
       "metrics": [
-        "2",
+        "1",
         "1"
       ]
     }
@@ -447,8 +447,8 @@
         "(direct)"
       ],
       "metrics": [
-        "26",
-        "9"
+        "25",
+        "10"
       ]
     },
     {
@@ -465,8 +465,8 @@
         "chatgpt.com"
       ],
       "metrics": [
-        "8",
-        "6"
+        "5",
+        "4"
       ]
     },
     {
@@ -494,7 +494,7 @@
         "Italy"
       ],
       "metrics": [
-        "29",
+        "26",
         "11"
       ]
     },
@@ -503,8 +503,8 @@
         "United States"
       ],
       "metrics": [
-        "7",
-        "6"
+        "6",
+        "5"
       ]
     },
     {
@@ -512,13 +512,31 @@
         "India"
       ],
       "metrics": [
-        "4",
-        "3"
+        "3",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Netherlands"
+      ],
+      "metrics": [
+        "2",
+        "2"
       ]
     },
     {
       "dimensions": [
         "Spain"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "Taiwan"
       ],
       "metrics": [
         "2",
@@ -560,38 +578,20 @@
         "1",
         "1"
       ]
-    },
-    {
-      "dimensions": [
-        "Netherlands"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
-        "Taiwan"
-      ],
-      "metrics": [
-        "1",
-        "1"
-      ]
     }
   ],
   "summary7d": {
-    "sessions": 51,
-    "users": 30,
-    "pageViews": 216,
-    "avgSessionDuration": 2005,
+    "sessions": 47,
+    "users": 29,
+    "pageViews": 85,
+    "avgSessionDuration": 1867,
     "bounceRate": 0.2
   },
   "summary30d": {
-    "sessions": 153,
-    "users": 102,
-    "pageViews": 349,
-    "avgSessionDuration": 750,
+    "sessions": 160,
+    "users": 103,
+    "pageViews": 367,
+    "avgSessionDuration": 739,
     "bounceRate": 0.4
   }
 }

@@ -1,8 +1,18 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-11-24T15:38:40.419Z",
+  "updatedAt": "2026-11-25T15:23:06.286Z",
   "trend": [
+    {
+      "dimensions": [
+        "20261124"
+      ],
+      "metrics": [
+        "32",
+        "26",
+        "73"
+      ]
+    },
     {
       "dimensions": [
         "20261119"
@@ -225,26 +235,6 @@
     },
     {
       "dimensions": [
-        "20261124"
-      ],
-      "metrics": [
-        "10",
-        "10",
-        "11"
-      ]
-    },
-    {
-      "dimensions": [
-        "20261025"
-      ],
-      "metrics": [
-        "9",
-        "9",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
         "20261031"
       ],
       "metrics": [
@@ -312,6 +302,16 @@
         "6",
         "7"
       ]
+    },
+    {
+      "dimensions": [
+        "20261125"
+      ],
+      "metrics": [
+        "5",
+        "2",
+        "7"
+      ]
     }
   ],
   "topPages": [
@@ -329,8 +329,8 @@
         "/"
       ],
       "metrics": [
-        "111",
-        "87"
+        "147",
+        "97"
       ]
     },
     {
@@ -338,26 +338,8 @@
         "/experience"
       ],
       "metrics": [
-        "9",
-        "9"
-      ]
-    },
-    {
-      "dimensions": [
-        "/blog"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
-        "/2021/09/positano-steibek"
-      ],
-      "metrics": [
-        "3",
-        "3"
+        "16",
+        "13"
       ]
     },
     {
@@ -365,17 +347,26 @@
         "/apartments"
       ],
       "metrics": [
-        "3",
-        "3"
+        "14",
+        "12"
       ]
     },
     {
       "dimensions": [
-        "/blog/atrani-na-dva-dnia-stal-ghorodom-knigh-i-skulptur-u-moria"
+        "/blog"
       ],
       "metrics": [
-        "3",
-        "3"
+        "5",
+        "5"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
+      ],
+      "metrics": [
+        "4",
+        "5"
       ]
     },
     {
@@ -389,20 +380,20 @@
     },
     {
       "dimensions": [
-        "/blog/pliazhi-amalfitanskogho-pobieriezhia-biesplatnyie-siemieinyie-i-samyie-krasivyie"
+        "/2021/09/positano-steibek"
       ],
       "metrics": [
-        "3",
-        "3"
+        "2",
+        "2"
       ]
     },
     {
       "dimensions": [
-        "/blog/atrani-history"
+        "/blog/atrani-na-dva-dnia-stal-ghorodom-knigh-i-skulptur-u-moria"
       ],
       "metrics": [
         "2",
-        "1"
+        "2"
       ]
     },
     {
@@ -425,15 +416,6 @@
     },
     {
       "dimensions": [
-        "/timetables"
-      ],
-      "metrics": [
-        "2",
-        "2"
-      ]
-    },
-    {
-      "dimensions": [
         "/tours-car"
       ],
       "metrics": [
@@ -443,11 +425,29 @@
     },
     {
       "dimensions": [
-        "/tours-vespa"
+        "/transport"
       ],
       "metrics": [
         "2",
         "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/10-faktov-o-kampanii-ot-samogho-malienkogho-ghorodka-italii-do-posliedniegho-izvierzhieniia-viezuviia"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "dimensions": [
+        "/blog/atrani-for-lovers-part-2"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     }
   ],
@@ -457,7 +457,7 @@
         "(direct)"
       ],
       "metrics": [
-        "123",
+        "132",
         "104"
       ]
     },
@@ -466,7 +466,7 @@
         "google"
       ],
       "metrics": [
-        "8",
+        "9",
         "6"
       ]
     },
@@ -477,6 +477,15 @@
       "metrics": [
         "3",
         "3"
+      ]
+    },
+    {
+      "dimensions": [
+        "(not set)"
+      ],
+      "metrics": [
+        "1",
+        "1"
       ]
     },
     {
@@ -513,8 +522,8 @@
         "Russia"
       ],
       "metrics": [
-        "61",
-        "60"
+        "57",
+        "55"
       ]
     },
     {
@@ -522,22 +531,22 @@
         "Italy"
       ],
       "metrics": [
-        "27",
-        "8"
-      ]
-    },
-    {
-      "dimensions": [
-        "United States"
-      ],
-      "metrics": [
-        "10",
-        "10"
+        "48",
+        "19"
       ]
     },
     {
       "dimensions": [
         "(not set)"
+      ],
+      "metrics": [
+        "9",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
+        "United States"
       ],
       "metrics": [
         "8",
@@ -549,17 +558,8 @@
         "Finland"
       ],
       "metrics": [
-        "7",
-        "7"
-      ]
-    },
-    {
-      "dimensions": [
-        "Poland"
-      ],
-      "metrics": [
-        "3",
-        "3"
+        "5",
+        "5"
       ]
     },
     {
@@ -569,15 +569,6 @@
       "metrics": [
         "3",
         "3"
-      ]
-    },
-    {
-      "dimensions": [
-        ""
-      ],
-      "metrics": [
-        "2",
-        "2"
       ]
     },
     {
@@ -597,20 +588,38 @@
         "2",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "China"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
+    },
+    {
+      "dimensions": [
+        "India"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 137,
+    "sessions": 148,
     "users": 116,
-    "pageViews": 406,
-    "avgSessionDuration": 303,
-    "bounceRate": 0.8
+    "pageViews": 456,
+    "avgSessionDuration": 376,
+    "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 401,
-    "users": 356,
-    "pageViews": 734,
-    "avgSessionDuration": 147,
+    "sessions": 419,
+    "users": 363,
+    "pageViews": 794,
+    "avgSessionDuration": 172,
     "bounceRate": 0.7
   }
 }

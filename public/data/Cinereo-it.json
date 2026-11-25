@@ -1,7 +1,7 @@
 {
   "name": "Cinereo.it",
   "propertyId": "properties/362803366",
-  "updatedAt": "2026-11-24T15:38:41.036Z",
+  "updatedAt": "2026-11-25T15:23:07.298Z",
   "trend": [
     {
       "dimensions": [
@@ -95,16 +95,6 @@
     },
     {
       "dimensions": [
-        "20261025"
-      ],
-      "metrics": [
-        "1",
-        "0",
-        "1"
-      ]
-    },
-    {
-      "dimensions": [
         "20261101"
       ],
       "metrics": [
@@ -142,6 +132,16 @@
         "1",
         "1"
       ]
+    },
+    {
+      "dimensions": [
+        "20261125"
+      ],
+      "metrics": [
+        "1",
+        "1",
+        "1"
+      ]
     }
   ],
   "topPages": [
@@ -153,6 +153,15 @@
         "4",
         "4"
       ]
+    },
+    {
+      "dimensions": [
+        "/projects/amalfi-guide/"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "sources": [
@@ -161,8 +170,8 @@
         "(direct)"
       ],
       "metrics": [
-        "4",
-        "0"
+        "5",
+        "1"
       ]
     }
   ],
@@ -175,18 +184,27 @@
         "4",
         "0"
       ]
+    },
+    {
+      "dimensions": [
+        "Canada"
+      ],
+      "metrics": [
+        "1",
+        "1"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 4,
-    "users": 0,
-    "pageViews": 4,
+    "sessions": 5,
+    "users": 1,
+    "pageViews": 5,
     "avgSessionDuration": 0,
     "bounceRate": 1
   },
   "summary30d": {
     "sessions": 35,
-    "users": 6,
+    "users": 7,
     "pageViews": 59,
     "avgSessionDuration": 81,
     "bounceRate": 0.8
