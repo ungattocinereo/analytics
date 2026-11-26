@@ -1,7 +1,7 @@
 {
   "name": "Atrani.ru",
   "propertyId": "properties/353046676",
-  "updatedAt": "2026-11-25T15:23:06.286Z",
+  "updatedAt": "2026-11-26T14:52:12.954Z",
   "trend": [
     {
       "dimensions": [
@@ -61,16 +61,6 @@
         "17",
         "16",
         "16"
-      ]
-    },
-    {
-      "dimensions": [
-        "20261026"
-      ],
-      "metrics": [
-        "16",
-        "15",
-        "18"
       ]
     },
     {
@@ -285,6 +275,16 @@
     },
     {
       "dimensions": [
+        "20261125"
+      ],
+      "metrics": [
+        "7",
+        "3",
+        "9"
+      ]
+    },
+    {
+      "dimensions": [
         "20261105"
       ],
       "metrics": [
@@ -305,12 +305,12 @@
     },
     {
       "dimensions": [
-        "20261125"
+        "20261126"
       ],
       "metrics": [
-        "5",
-        "2",
-        "7"
+        "1",
+        "1",
+        "1"
       ]
     }
   ],
@@ -329,8 +329,8 @@
         "/"
       ],
       "metrics": [
-        "147",
-        "97"
+        "135",
+        "85"
       ]
     },
     {
@@ -338,8 +338,8 @@
         "/experience"
       ],
       "metrics": [
-        "16",
-        "13"
+        "15",
+        "12"
       ]
     },
     {
@@ -443,7 +443,7 @@
     },
     {
       "dimensions": [
-        "/blog/atrani-for-lovers-part-2"
+        "/blog/2019-2-20-old-photos-of-amalfi"
       ],
       "metrics": [
         "1",
@@ -457,8 +457,8 @@
         "(direct)"
       ],
       "metrics": [
-        "132",
-        "104"
+        "118",
+        "89"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "google"
       ],
       "metrics": [
-        "9",
-        "6"
+        "10",
+        "7"
       ]
     },
     {
@@ -475,8 +475,8 @@
         "yandex.ru"
       ],
       "metrics": [
-        "3",
-        "3"
+        "2",
+        "2"
       ]
     },
     {
@@ -519,20 +519,20 @@
   "countries": [
     {
       "dimensions": [
-        "Russia"
+        "Italy"
       ],
       "metrics": [
-        "57",
-        "55"
+        "51",
+        "21"
       ]
     },
     {
       "dimensions": [
-        "Italy"
+        "Russia"
       ],
       "metrics": [
-        "48",
-        "19"
+        "44",
+        "42"
       ]
     },
     {
@@ -540,8 +540,8 @@
         "(not set)"
       ],
       "metrics": [
-        "9",
-        "9"
+        "8",
+        "8"
       ]
     },
     {
@@ -549,8 +549,8 @@
         "United States"
       ],
       "metrics": [
-        "8",
-        "8"
+        "6",
+        "6"
       ]
     },
     {
@@ -560,15 +560,6 @@
       "metrics": [
         "5",
         "5"
-      ]
-    },
-    {
-      "dimensions": [
-        "Singapore"
-      ],
-      "metrics": [
-        "3",
-        "3"
       ]
     },
     {
@@ -606,20 +597,29 @@
         "2",
         "2"
       ]
+    },
+    {
+      "dimensions": [
+        "Poland"
+      ],
+      "metrics": [
+        "2",
+        "2"
+      ]
     }
   ],
   "summary7d": {
-    "sessions": 148,
-    "users": 116,
-    "pageViews": 456,
-    "avgSessionDuration": 376,
+    "sessions": 134,
+    "users": 101,
+    "pageViews": 442,
+    "avgSessionDuration": 415,
     "bounceRate": 0.7
   },
   "summary30d": {
-    "sessions": 419,
-    "users": 363,
-    "pageViews": 794,
-    "avgSessionDuration": 172,
+    "sessions": 406,
+    "users": 351,
+    "pageViews": 779,
+    "avgSessionDuration": 169,
     "bounceRate": 0.7
   }
 }

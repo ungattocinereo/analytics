@@ -1,7 +1,7 @@
 {
   "name": "find.amalfi.day",
   "propertyId": "properties/531159837",
-  "updatedAt": "2026-11-25T15:23:09.228Z",
+  "updatedAt": "2026-11-26T14:52:15.713Z",
   "trend": [
     {
       "dimensions": [
@@ -41,16 +41,6 @@
         "2",
         "2",
         "2"
-      ]
-    },
-    {
-      "dimensions": [
-        "20261026"
-      ],
-      "metrics": [
-        "1",
-        "1",
-        "1"
       ]
     },
     {
@@ -170,8 +160,8 @@
         "/"
       ],
       "metrics": [
-        "3",
-        "3"
+        "2",
+        "2"
       ]
     },
     {
@@ -190,7 +180,7 @@
         "(direct)"
       ],
       "metrics": [
-        "3",
+        "2",
         "1"
       ]
     },
@@ -210,7 +200,7 @@
         "United States"
       ],
       "metrics": [
-        "3",
+        "2",
         "1"
       ]
     },
@@ -225,16 +215,16 @@
     }
   ],
   "summary7d": {
-    "sessions": 4,
+    "sessions": 3,
     "users": 2,
-    "pageViews": 3,
+    "pageViews": 2,
     "avgSessionDuration": 0,
     "bounceRate": 1
   },
   "summary30d": {
-    "sessions": 23,
-    "users": 15,
-    "pageViews": 19,
+    "sessions": 22,
+    "users": 14,
+    "pageViews": 18,
     "avgSessionDuration": 2,
     "bounceRate": 1
   }
