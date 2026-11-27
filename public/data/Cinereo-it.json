@@ -1,7 +1,7 @@
 {
   "name": "Cinereo.it",
   "propertyId": "properties/362803366",
-  "updatedAt": "2026-11-26T14:52:14.065Z",
+  "updatedAt": "2026-11-27T14:50:34.696Z",
   "trend": [
     {
       "dimensions": [
@@ -137,15 +137,6 @@
   "topPages": [
     {
       "dimensions": [
-        "/"
-      ],
-      "metrics": [
-        "4",
-        "4"
-      ]
-    },
-    {
-      "dimensions": [
         "/projects/amalfi-guide/"
       ],
       "metrics": [
@@ -160,21 +151,12 @@
         "(direct)"
       ],
       "metrics": [
-        "5",
+        "1",
         "1"
       ]
     }
   ],
   "countries": [
-    {
-      "dimensions": [
-        "Italy"
-      ],
-      "metrics": [
-        "4",
-        "0"
-      ]
-    },
     {
       "dimensions": [
         "Canada"
@@ -186,9 +168,9 @@
     }
   ],
   "summary7d": {
-    "sessions": 5,
+    "sessions": 1,
     "users": 1,
-    "pageViews": 5,
+    "pageViews": 1,
     "avgSessionDuration": 0,
     "bounceRate": 1
   },
